@@ -1,4 +1,4 @@
-Run started (UTC): 2026-05-20T13:17:45
+Run started (UTC): 2026-05-21T20:52:54
 Optimization & Backtesting pipeline
 
 ------------------------------------------------------------
@@ -19,7 +19,7 @@ Parameters (from config.py)
 ------------------------------------------------------------
 Holdings CSV + ticker verification
 ------------------------------------------------------------
-  CSV: C:\Program Files\SusFin-main\Optimization_module\sample_holdings_20.csv
+  CSV: /Users/TorkelMellinO/Desktop/ESADE/Sustainable Finance/esade-sf-main 2/Optimization_module/sample_holdings_20.csv
   Rows: 20  Columns: ['ticker', 'company_name', 'sector', 'esg_score', 'carbon_intensity']
   Ticker verify: 20/20 OK
   Benchmark ^STOXX: OK
@@ -27,31 +27,31 @@ Holdings CSV + ticker verification
 ------------------------------------------------------------
 Price download
 ------------------------------------------------------------
-  Fetched at (UTC ISO): 2026-05-20T12:32:23
-  Panel: 2067 rows x 20 tickers
-  Range: 2018-05-14 -> 2026-05-19
-  Benchmark series length: 2067
+  Fetched at (UTC ISO): 2026-05-21T20:53:02
+  Panel: 2059 rows x 20 tickers
+  Range: 2018-05-14 -> 2026-05-20
+  Benchmark series length: 2059
 
 ------------------------------------------------------------
 Final-snapshot optimization (most recent estimation window)
 ------------------------------------------------------------
-  Window: 2023-06-06 -> 2026-05-19 (756 rows)
-  equal_weight      : sum=1.0000 max_name=5.000% top3=VZN.SW=5.00%, UCB.BR=5.00%, ZURN.SW=5.00%
-  max_sharpe        : INFEASIBLE
-  min_volatility    : INFEASIBLE
-  hrp               : sum=1.0000 max_name=9.952% top3=ENX.PA=9.95%, ALFA.ST=8.13%, VZN.SW=7.36%
-  black_litterman   : INFEASIBLE
-  score_tilted      : sum=1.0000 max_name=5.627% top3=ALFA.ST=5.63%, NHY.OL=5.60%, A5G.IR=5.53%
+  Window: 2023-06-07 -> 2026-05-20 (756 rows)
+  equal_weight      : sum=1.0000 max_name=5.000% top3=ZURN.SW=5.00%, SBMO.AS=5.00%, SPSN.SW=5.00%
+  max_sharpe        : sum=1.0000 max_name=10.000% top3=SBMO.AS=10.00%, SPSN.SW=10.00%, ABBN.SW=10.00%
+  min_volatility    : sum=1.0000 max_name=10.000% top3=ZURN.SW=10.00%, SPSN.SW=10.00%, GALE.SW=10.00%
+  hrp               : sum=1.0000 max_name=10.000% top3=SPSN.SW=10.00%, GALE.SW=10.00%, ZURN.SW=7.58%
+  black_litterman   : sum=1.0000 max_name=10.000% top3=SPSN.SW=10.00%, ALFA.ST=10.00%, SBMO.AS=8.93%
+  score_tilted      : sum=1.0000 max_name=6.042% top3=ALFA.ST=6.04%, NHY.OL=6.02%, AGN.AS=5.97%
 
 ------------------------------------------------------------
 Walk-forward backtest (out-of-sample)
 ------------------------------------------------------------
-  equal_weight      :  1304 OOS days, 6 rebalances, 0 failed
-  max_sharpe        :     0 OOS days, 0 rebalances, 6 failed
-  min_volatility    :     0 OOS days, 0 rebalances, 6 failed
-  hrp               :  1304 OOS days, 6 rebalances, 0 failed
-  black_litterman   :     0 OOS days, 0 rebalances, 6 failed
-  score_tilted      :  1304 OOS days, 6 rebalances, 0 failed
+  equal_weight      :  1296 OOS days, 6 rebalances, 0 failed
+  max_sharpe        :  1296 OOS days, 6 rebalances, 0 failed
+  min_volatility    :  1296 OOS days, 6 rebalances, 0 failed
+  hrp               :  1296 OOS days, 6 rebalances, 0 failed
+  black_litterman   :  1296 OOS days, 6 rebalances, 0 failed
+  score_tilted      :  1296 OOS days, 6 rebalances, 0 failed
 
 ------------------------------------------------------------
 Metrics + composite ranking
@@ -59,18 +59,18 @@ Metrics + composite ranking
   WACI: names without carbon_intensity skipped = 0
 
 RECOMMENDATION - FOR HUMAN INVESTMENT COMMITTEE REVIEW
-  Recommended: equal_weight. Composite score 0.71 (rank 1 of 6). Drivers: Sharpe 1.45, max drawdown -16.24%, annual turnover 0.00%, tracking error 8.22% (outside the 2%-8% band - flag). This is a quantitative composite across Sharpe, max drawdown, turnover and tracking-error band; final selection rests with the Investment Committee.
+  Recommended: equal_weight. Composite score 0.75 (rank 1 of 6). Drivers: Sharpe 1.52, max drawdown -13.08%, annual turnover 0.00%, tracking error 7.06% (inside the 2%-8% band). This is a quantitative composite across Sharpe, max drawdown, turnover and tracking-error band; final selection rests with the Investment Committee.
 
 ------------------------------------------------------------
 Writing outputs
 ------------------------------------------------------------
-  C:\Program Files\SusFin-main\Optimization_module\outputs\optimization_weights.csv
-  C:\Program Files\SusFin-main\Optimization_module\outputs\backtest_results.csv
-  C:\Program Files\SusFin-main\Optimization_module\outputs\equity_curves.png
+  /Users/TorkelMellinO/Desktop/ESADE/Sustainable Finance/esade-sf-main 2/Optimization_module/outputs/optimization_weights.csv
+  /Users/TorkelMellinO/Desktop/ESADE/Sustainable Finance/esade-sf-main 2/Optimization_module/outputs/backtest_results.csv
+  /Users/TorkelMellinO/Desktop/ESADE/Sustainable Finance/esade-sf-main 2/Optimization_module/outputs/equity_curves.png
 
 ------------------------------------------------------------
 Look-ahead disclosure (verbatim, required by build spec)
 ------------------------------------------------------------
   This backtest compares weighting methods on a fixed, currently-selected universe. Because the holdings were chosen with present-day information, absolute historical performance is subject to look-ahead bias. The valid output is the RELATIVE comparison of weighting methods, not a claim of absolute historical alpha.
 
-Run finished (UTC): 2026-05-20T13:18:00 (elapsed 15.4s)
+Run finished (UTC): 2026-05-21T20:53:06 (elapsed 11.9s)

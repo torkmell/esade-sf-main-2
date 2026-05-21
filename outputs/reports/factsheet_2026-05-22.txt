@@ -1,28 +1,28 @@
 ======================================================================
    PORTFOLIO FACTSHEET — KEY METRICS
 ======================================================================
-  Date:                    2026-05-21
+  Date:                    2026-05-22
   Number of Holdings:      20
   Sectors Represented:     7  (minimum: 5)
-  Largest Sector Weight:   25.0%  (ceiling: 25%)
-  Max Single Weight:       5.0%  (ceiling: 10%)
-  Weighted ESG Score:      82.4 / 100
+  Largest Sector Weight:   23.7%  (ceiling: 25%)
+  Max Single Weight:       6.2%  (ceiling: 10%)
+  Weighted ESG Score:      83.1 / 100
   Stage 3 Universe ESG:    79.3 / 100  (capped-40 average)
-  ESG Uplift vs Universe:  +3.1 points
-  Weighted Sharpe Ratio:   0.621
-  WACI:                    163 tCO2e/$M revenue
+  ESG Uplift vs Universe:  +3.8 points
+  Weighted Sharpe Ratio:   0.625
+  WACI:                    156 tCO2e/$M revenue
   Greenwashing 8-Test:     20/20 PASS  (0 exclude, 0 watchlist)
 ======================================================================
    DATA QUALITY & DISCLOSURES   (factsheet body — not a footnote)
 ======================================================================
   WACI — data quality disclosure.
-  The portfolio WACI of approximately 163 tCO2e per $M revenue is computed
+  The portfolio WACI of approximately 156 tCO2e per $M revenue is computed
   from company-level Scope 1+2 carbon intensity values. 18 of 20 holdings
   (90%) use sector-median imputation as the underlying carbon
   intensity, with only UCB S.A., Subsea 7 S.A. contributing company-reported Bloomberg
   values. The single highest-intensity name (Norsk Hydro ASA at 2,150 tCO2e/$M,
-  weight 5.0%) accounts for approximately 66% of the portfolio
-  WACI; excluding Norsk Hydro ASA, portfolio WACI is approximately 58.
+  weight 4.5%) accounts for approximately 62% of the portfolio
+  WACI; excluding Norsk Hydro ASA, portfolio WACI is approximately 62.
 
   WACI for the 4 Financials holdings uses the sector-median value of
   0.72 tCO2e/$M and does NOT include PCAF-aligned Scope 3 financed
@@ -46,9 +46,9 @@
   Greenwashing.     8-Test (NB09) run on all 20/20 holdings: 20 PASS,
                     0 exclude, 0 watchlist. No holding scored HIGH on any
                     of the 8 dimensions. Weight-averaged 8-Test concern score
-                    7.8% (0=clean, 100=severe); highest-concern holding
+                    8.2% (0=clean, 100=severe); highest-concern holding
                     Subsea 7 S.A. at 37.5%. Every rating is backed by a
                     verbatim, page-cited quote in outputs/rag/greenwash_<TICKER>.json.
-  Watchlist.        8/20 holdings (40% of weight) watchlisted — all
+  Watchlist.        8/20 holdings (39% of weight) watchlisted — all
                     covered by the IC override decisions above.
 ======================================================================
