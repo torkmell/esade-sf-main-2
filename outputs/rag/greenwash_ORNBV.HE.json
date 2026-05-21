@@ -1,0 +1,64 @@
+{
+  "ticker": "ORNBV.HE",
+  "company_name": "Orion Oyj Class B",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"Orion has committed to reach net-zero emissions by 2050\" (orion-financial-statement-documents-2025-2.pdf, p63). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Source is the CSRD sustainability statement within Orion's financial-statement documents. SBTi-approved 70%-by-2030 target, explicit 2023 baseline, full scope coverage, limited assurance. One MED (assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

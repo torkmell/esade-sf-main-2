@@ -1,0 +1,64 @@
+{
+  "ticker": "MRL.MC",
+  "company_name": "MERLIN Properties SOCIMI, S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap\" (EINF-Version-Ingles-2025.pdf, p5.0). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Main claim: \"MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap\" (EINF-Version-Ingles-2025.pdf, p5). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. EINF non-financial...",
+  "dimensions": {
+    "specificity": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

@@ -1,0 +1,203 @@
+======================================================================
+ESADE SUSTAINABLE FINANCE — 8-TEST GREENWASHING ANALYSIS PROMPT
+======================================================================
+Company:              Swiss Prime Site AG
+Bloomberg Ticker:     SPSN
+Yahoo Finance Ticker: SPSN.SW
+Sector:               Real Estate
+Portfolio Weight:     TBD (run NB10 after ESG import)
+Analysis Date:        2026-05-19
+Company Folder:       data/rag/reports/SPSN_Swiss_Prime_Site_AG/
+
+
+======================================================================
+STEP 1 — UPLOAD TIER 1 SOURCES TO CLAUDE PROJECTS
+======================================================================
+Tier 1 = primary company disclosures. Upload these PDFs to a dedicated
+Claude Project for Swiss Prime Site AG before running the analysis prompt.
+
+  [No Tier 1 sources collected yet — download and save to this company folder]
+
+Document types to collect (most recent year available):
+  • Sustainability / ESG report
+  • Annual report (sustainability and climate sections)
+  • TCFD report or standalone climate disclosure
+  • CSRD / ESRS disclosure (if published)
+  • SBTi commitment letter or CDP submission
+
+MANDATORY naming convention — files MUST start with tier1_:
+    tier1_sustainability_report_YYYY.pdf
+    tier1_annual_report_YYYY.pdf
+    tier1_climate_report_YYYY.pdf
+  → Save to:  data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/
+  → Upload to the Claude Project for this company.
+
+======================================================================
+STEP 2 — COLLECT TIER 2 EXTERNAL SOURCES
+======================================================================
+Tier 2 = external verification. Use to challenge or corroborate Tier 1 claims.
+
+  [No Tier 2 sources collected yet — download and save to this company folder]
+
+Sources to collect:
+  • SBTi status:      data/rag/SBTi.xlsx (lookup Swiss Prime Site AG)
+  • TPI assessment:   data/rag/Latest_CP_Assessments.csv (lookup Swiss Prime Site AG)
+  • CDP score:        cdp.net
+  • NGO reports (ClientEarth, InfluenceMap, etc.)
+  • Credible news investigations (FT, Reuters, Bloomberg Green)
+
+MANDATORY naming convention — files MUST start with tier2_:
+    tier2_cdp_response_YYYY.pdf
+    tier2_ngo_report_YYYY.pdf
+  → Save to:  data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/
+  → Upload to the same Claude Project as the Tier 1 documents.
+
+======================================================================
+STEP 3 — TIER 3 QUANTITATIVE CONTEXT (from pipeline data)
+======================================================================
+TIER 3 — QUANTITATIVE CONTEXT FROM PIPELINE DATA
+(Cross-check consistency with company claims. Do not cite as primary evidence.)
+
+  ESG Score:          TO BE UPDATED — run NB05 Step 7 then NB10
+  E Score:            TO BE UPDATED
+  S Score:            TO BE UPDATED
+  G Score:            TO BE UPDATED
+  Truvalue Rating:    (see stage2_top40_capped_hybrid.csv)
+  Sustainalytics:     (see stage2_top40_capped_hybrid.csv)
+  Carbon Intensity:   TO BE UPDATED — run NB05
+  Sharpe Ratio:       TO BE UPDATED — run NB04
+  Annual Return:      TO BE UPDATED — run NB04
+  Annual Volatility:  TO BE UPDATED — run NB04
+
+======================================================================
+STEP 4 — ANTI-HALLUCINATION RULES  (read before starting)
+======================================================================
+1.  NEVER invent quotes, page numbers, or evidence.
+2.  NEVER fabricate source metadata or citations.
+3.  NEVER infer ESG claims not explicitly stated in the documents.
+4.  NEVER create synthetic citations or fake references.
+5.  Mark ALL missing evidence as:       MISSING
+6.  Mark ALL unverified information as: UNVERIFIED
+7.  If a source cannot be accessed, do NOT guess its contents.
+8.  Separate Tier 1 claims from Tier 2 verification explicitly.
+9.  If evidence is ambiguous, state the ambiguity — do not resolve it.
+10. Include direct verbatim quotes with page numbers wherever available.
+
+======================================================================
+STEP 5 — PASTE THIS PROMPT INTO CLAUDE PROJECTS
+======================================================================
+(Upload Tier 1 PDFs to the Claude Project first, then paste this prompt.)
+
+You are an ESG forensic analyst. Using ONLY the documents in this project,
+assess Swiss Prime Site AG (SPSN) across 8 greenwashing dimensions.
+Do not use prior knowledge not grounded in the uploaded documents.
+
+DOCUMENT HIERARCHY — read this before analysing any file:
+  tier1_*  =  Primary company disclosures. AUTHORITATIVE. Quote with page numbers.
+  tier2_*  =  External verification. Corroborate or challenge only. Never primary evidence.
+  No prefix = Treat as Tier 1 (conservative default).
+
+  Hierarchy rules:
+    1. tier1_* claim → cite directly.
+    2. tier2_* only → flag: "Tier 2 only — no Tier 1 corroboration found."
+    3. tier1_* vs tier2_* contradiction → flag explicitly, do not resolve.
+
+For each dimension provide:
+  (a) Direct verbatim quote from a tier1_* source, with page number
+  (b) Corroboration or contradiction from tier2_* sources (if available)
+  (c) Rating: PASS / PARTIAL / FAIL / MISSING
+  (d) Reasoning in 2-3 sentences
+
+Anti-hallucination rules:
+  - Never invent quotes, page numbers, or source references.
+  - Never infer claims not explicitly stated in the documents.
+  - Mark missing evidence as MISSING — never guess.
+  - State ambiguity explicitly; do not resolve it artificially.
+
+8-TEST FRAMEWORK:
+
+  DIMENSION 1 — SPECIFICITY
+  PASS: Named asset/product/division with exact verifiable claim.
+  PARTIAL: General direction with some constraint.
+  FAIL: Vague language only (e.g. 'committed to sustainability').
+  MISSING: No sustainability claim found.
+
+  DIMENSION 2 — METRIC
+  PASS: Specific number with unit and context.
+  PARTIAL: Direction stated but no quantity.
+  FAIL: Number present but misleading or restated after restructuring.
+  MISSING: No quantitative data found.
+
+  DIMENSION 3 — BASELINE
+  PASS: Explicit baseline year + value, stable methodology.
+  PARTIAL: Baseline year stated but no value; or methodology changed.
+  FAIL: Baseline cherry-picked or shifted post-acquisition/disposal.
+  MISSING: No baseline information found.
+
+  DIMENSION 4 — TARGET
+  PASS: SBTi-approved OR legally binding OR board-approved with governance.
+  PARTIAL: Company-stated target only, non-binding.
+  FAIL: No target; or target contradicts stated behaviour.
+  MISSING: No target information found.
+
+  DIMENSION 5 — TIME HORIZON
+  PASS: Near-term date ≤2030 with reported interim progress.
+  PARTIAL: Long-term date only (>2040); or near-term with no progress.
+  FAIL: No date given; or date with no evidence of progress.
+  MISSING: No time-related information found.
+
+  DIMENSION 6 — SCOPE
+  PASS: Named entities, Scopes 1/2/3, geographies all clearly defined.
+  PARTIAL: 'Most operations' without clear definition.
+  FAIL: Ambiguous scope likely excluding problem assets.
+  MISSING: No scope definition found.
+
+  DIMENSION 7 — VERIFICATION
+  PASS: Named verifier + standard (ISAE 3000/3410) + reasonable assurance.
+  PARTIAL: Limited assurance only; or subset verification only.
+  FAIL: Self-reported only; no external party.
+  MISSING: No assurance statement found.
+
+  DIMENSION 8 — CONSISTENCY
+  PASS: Capex aligned with claims; no contradictory lobbying; no controversy.
+  PARTIAL: Some capex misalignment; minor contradiction.
+  FAIL: Capex directly contradicts claim; active contradictory lobbying.
+  MISSING: Insufficient disclosure to assess.
+
+Output ONLY valid JSON in exactly this structure:
+
+{
+  "ticker": "SPSN",
+  "company_name": "Swiss Prime Site AG",
+  "extraction_date": "<YYYY-MM-DD>",
+  "analyst_note": "<overall assessment, 1-2 sentences>",
+  "dimensions": {
+    "specificity":  {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""},
+    "metric":       {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""},
+    "baseline":     {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""},
+    "target":       {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""},
+    "time_horizon": {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""},
+    "scope":        {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""},
+    "verification": {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""},
+    "consistency":  {"quote": null, "page": null, "value": null, "rating": "PASS|PARTIAL|FAIL|MISSING", "reasoning": ""}
+  }
+}
+
+======================================================================
+STEP 6 — FILL IN THE RAG WORKBOOK
+======================================================================
+After completing the Claude Projects analysis:
+
+  1. Open:  data/rag/RAG_Screening_Sheet_Workbook_v1.xlsx
+  2. Find the row for Bloomberg ticker: SPSN
+  3. Enter ratings in the 8-Test columns (PASS / PARTIAL / FAIL / MISSING)
+  4. Save the workbook.
+
+IMPORTANT: The workbook is the authoritative human-reviewed layer.
+
+======================================================================
+STEP 7 — SAVE JSON OUTPUT (optional but recommended)
+======================================================================
+Save the completed JSON to: outputs/rag/greenwash_SPSN.json
+Notebook 09 reads both the workbook and JSON files.
+The workbook takes priority if both exist for the same ticker.

@@ -1,0 +1,64 @@
+{
+  "ticker": "SOBI.ST",
+  "company_name": "Swedish Orphan Biovitrum AB",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "The 8-Test of Sobi's sustainability claims is clean \u2014 SBTi-validated targets, explicit 2023 baseline, near-term 2029 target, full scope coverage. NOTE: the IC PENDING_RAG flag concerns the Truvalue Laggard NEWS signal (a controversy screen), which is separate from the claim-quality assessed here; this 8-Test does not flag Sobi.",
+  "dimensions": {
+    "specificity": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54,
+      "value": "net zero by 2050",
+      "rating": "LOW",
+      "reasoning": "Net-zero commitment stated, backed by near-term targets."
+    },
+    "metric": {
+      "quote": "40 per cent by 2029 versus 2023",
+      "page": 9,
+      "value": "40% by 2029",
+      "rating": "LOW",
+      "reasoning": "Quantified near-term reduction target."
+    },
+    "baseline": {
+      "quote": "compared with the 2023 base year",
+      "page": 28,
+      "value": "2023",
+      "rating": "LOW",
+      "reasoning": "Explicit 2023 base year."
+    },
+    "target": {
+      "quote": "The SBTi validated Sobi's climate targets.",
+      "page": 25,
+      "value": "SBTi-validated",
+      "rating": "LOW",
+      "reasoning": "Climate targets validated by the Science Based Targets initiative."
+    },
+    "time_horizon": {
+      "quote": "40 per cent by 2029 versus 2023",
+      "page": 9,
+      "value": "2029 near-term + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2029 target present alongside the 2050 net-zero endpoint."
+    },
+    "scope": {
+      "quote": "Sobi's value chain emissions (scope 3) represent [a material share]",
+      "page": 28,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scope 1, 2 and value-chain Scope 3 covered, with a supplier-engagement target."
+    },
+    "verification": {
+      "quote": "Auditor's limited assurance report",
+      "page": 3,
+      "value": "limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally assured, but to a limited assurance level."
+    },
+    "consistency": {
+      "quote": "The transition plan is integrated into the financial [statements]",
+      "page": 56,
+      "value": "transition plan integrated",
+      "rating": "LOW",
+      "reasoning": "Transition plan integrated with the financials; EU Taxonomy capex disclosed; no contradiction surfaced."
+    }
+  }
+}

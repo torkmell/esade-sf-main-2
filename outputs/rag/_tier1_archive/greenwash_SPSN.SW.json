@@ -1,0 +1,64 @@
+{
+  "ticker": "SPSN.SW",
+  "company_name": "Swiss Prime Site AG",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "SOURCE LIMITATION: assessed from Swiss Prime's 16-page ESG summary booklet; the company's full disclosures are split across separate E/S/G reports. 'baseline' and 'consistency' are marked MISSING because they are absent from this summary booklet, not necessarily from the company's full reporting \u2014 recommend re-assessing against Report_2025_en.pdf.",
+  "dimensions": {
+    "specificity": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3,
+      "value": "net-zero operations by 2040",
+      "rating": "LOW",
+      "reasoning": "Specific net-zero-operations commitment for the property portfolio."
+    },
+    "metric": {
+      "quote": "a clear focus on decarbonisation, the circular [economy]",
+      "page": 7,
+      "value": "net-zero-2040 goal; interim % not in booklet",
+      "rating": "MED",
+      "reasoning": "A net-zero-2040 goal and a decarbonisation pathway are stated, but no quantified interim emissions-reduction percentage appears in this summary booklet."
+    },
+    "baseline": {
+      "quote": null,
+      "page": null,
+      "value": "no baseline stated in this document",
+      "rating": "MISSING",
+      "reasoning": "No emissions baseline year appears in the 16-page ESG booklet used as source; likely disclosed in the company's full sustainability report."
+    },
+    "target": {
+      "quote": "On the one hand, we are aiming for net-zero operations in our property portfolio by 2040",
+      "page": 3,
+      "value": "net-zero 2040 target; no SBTi validation shown",
+      "rating": "MED",
+      "reasoning": "A net-zero-2040 target is stated, but the booklet shows no external/SBTi validation."
+    },
+    "time_horizon": {
+      "quote": "Net zero in the property portfolio by 2040",
+      "page": 6,
+      "value": "2040 + 2030 milestone",
+      "rating": "LOW",
+      "reasoning": "2040 net-zero endpoint (not 2050+) with a 2030 circular-construction milestone."
+    },
+    "scope": {
+      "quote": "Scope 1: Owner-controlled energy supply ... Scope 2 ... Scope 3: Indirect emissions",
+      "page": 8,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "All three scopes explicitly defined."
+    },
+    "verification": {
+      "quote": "independent audits, we also ensure that our investments",
+      "page": 10,
+      "value": "no assurance statement in this booklet",
+      "rating": "MED",
+      "reasoning": "The summary booklet presents no external assurance statement on the sustainability data; assurance, if any, sits in the full report."
+    },
+    "consistency": {
+      "quote": null,
+      "page": null,
+      "value": "no capex/transition-plan content in this document",
+      "rating": "MISSING",
+      "reasoning": "The 16-page ESG booklet contains no capex or transition-plan detail to assess; likely in the company's full sustainability report."
+    }
+  }
+}

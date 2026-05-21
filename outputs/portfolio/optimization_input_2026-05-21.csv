@@ -1,0 +1,21 @@
+ticker,company_name,sector,esg_score,carbon_intensity
+ZURN.SW,Zurich Insurance Group Ltd,Financials,96.62,0.72
+SBMO.AS,SBM Offshore NV,Extractives & Minerals Processing,97.05,277.655
+SPSN.SW,Swiss Prime Site AG,Infrastructure,85.65,16.72
+ABBN.SW,ABB Ltd.,Resource Transformation,86.08,19.57
+LI.PA,Klepierre SA,Infrastructure,83.54,16.72
+MRL.MC,"MERLIN Properties SOCIMI, S.A.",Infrastructure,74.68,16.72
+GALE.SW,Galenica AG,Health Care,71.73,7.99
+EOAN.DE,E.ON SE,Infrastructure,73.0,629.82
+A5G.IR,AIB Group plc,Financials,97.89,0.72
+UCB.BR,UCB S.A.,Health Care,85.23,7.99
+AZN.L,AstraZeneca PLC,Health Care,75.95,7.99
+AGN.AS,Aegon Ltd.,Financials,98.31,0.72
+LLOY.L,Lloyds Banking Group plc,Financials,97.47,0.72
+ALFA.ST,Alfa Laval AB,Resource Transformation,99.58,19.57
+NHY.OL,Norsk Hydro ASA,Extractives & Minerals Processing,99.16,2149.74
+TEL2-B.ST,Tele2 AB Class B,Technology & Communications,64.98,16.72
+ITX.MC,"Industria de Diseno Textil, S.A.",Consumer Goods,70.04,0.0
+ORNBV.HE,Orion Oyj Class B,Health Care,69.62,7.99
+SOBI.ST,Swedish Orphan Biovitrum AB,Health Care,65.82,7.99
+SUBC.OL,Subsea 7 S.A.,Extractives & Minerals Processing,55.7,53.27

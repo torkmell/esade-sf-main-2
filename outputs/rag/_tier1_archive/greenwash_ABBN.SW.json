@@ -1,0 +1,64 @@
+{
+  "ticker": "ABBN.SW",
+  "company_name": "ABB Ltd.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "CSRD/ESRS Sustainability Statement. Strong throughout \u2014 SBTi-validated Net-Zero-Standard targets, explicit 2019/2022 baselines, KPMG limited assurance, disclosed climate capex. One MED (limited assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53,
+      "value": "net zero by 2050, SBTi Net-Zero Standard",
+      "rating": "LOW",
+      "reasoning": "Specific net-zero commitment aligned to the SBTi Corporate Net-Zero Standard."
+    },
+    "metric": {
+      "quote": "emissions by at least 80% by [2030] ... by 25% by 2030 and by 90% by [2050]",
+      "page": 50,
+      "value": "80% S1+2 by 2030",
+      "rating": "LOW",
+      "reasoning": "Quantified near- and long-term reduction percentages."
+    },
+    "baseline": {
+      "quote": "79 percent in our scope 1 and 2 GHG emissions compared to 2019",
+      "page": 6,
+      "value": "2019 (S1+2) / 2022 (S3)",
+      "rating": "LOW",
+      "reasoning": "Explicit base years \u2014 2019 for Scope 1+2, 2022 for Scope 3."
+    },
+    "target": {
+      "quote": "Our emissions reduction targets have been validated by the Science Based Targets initiative (SBTi)",
+      "page": 6,
+      "value": "SBTi-validated, Net-Zero Standard",
+      "rating": "LOW",
+      "reasoning": "Targets validated by the SBTi and confirmed against its Net-Zero Standard."
+    },
+    "time_horizon": {
+      "quote": "near-term (2030) and long-term (2050) targets",
+      "page": 42,
+      "value": "2030 + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2030 targets present alongside the 2050 endpoint."
+    },
+    "scope": {
+      "quote": "emissions from our own operations (scope 1 and 2) as well as indirect emissions from our value chain (scope 3)",
+      "page": 6,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scopes 1, 2 and 3 covered."
+    },
+    "verification": {
+      "quote": "limited assurance regarding the statutory sustainability statement",
+      "page": 15,
+      "value": "KPMG limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally assured by KPMG, but a limited assurance level."
+    },
+    "consistency": {
+      "quote": "In 2025, we allocated $11.8 million in capital expenditure (CapEx) to climate [action]",
+      "page": 57,
+      "value": "climate capex disclosed",
+      "rating": "LOW",
+      "reasoning": "Climate capex disclosed and a Climate Transition Plan documented; consistent with stated commitments."
+    }
+  }
+}

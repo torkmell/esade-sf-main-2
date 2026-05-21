@@ -1,0 +1,4 @@
+PRIMARY (used for 8-Test): annual-report.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - 2022 TCFD Report.pdf

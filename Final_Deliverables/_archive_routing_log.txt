@@ -1,0 +1,57 @@
+Routing 123 files...
+  [20/123] copied
+  [40/123] copied
+  [60/123] copied
+  [80/123] copied
+  [100/123] copied
+  [120/123] copied
+
+============================================================
+ROUTING COMPLETE
+============================================================
+  Copied:  123
+  Skipped: 0
+  Errors:  0
+  Elapsed: 6.0s
+
+Files placed per company folder:
+  A5G_AIB_Group_PLC                                   5 file(s)
+  ABBN_ABB_Ltd                                        7 file(s)
+  ADDT_B_Addtech_AB_Class_B                           1 file(s)
+  AGN_Aegon_Ltd                                       1 file(s)
+  AIXA_AIXTRON_SE                                     3 file(s)
+  ALFA_Alfa_Laval_AB                                  1 file(s)
+  ARCAD_Arcadis_NV                                    1 file(s)
+  ASME_ASML_Holding_NV                                2 file(s)
+  AZN_AstraZeneca_PLC                                 2 file(s)
+  BFT_Benefit_Systems_SA                              3 file(s)
+  EOAN_EON_SE                                         2 file(s)
+  GALE_Galenica_AG                                    1 file(s)
+  IHCB_SBM_Offshore_NV                                1 file(s)
+  IPN_Ipsen_SA                                        2 file(s)
+  ITX_Inditex_SA                                      2 file(s)
+  LI_Klepierre_SA                                     2 file(s)
+  LLOY_Lloyds_Banking_Group_PLC                       8 file(s)
+  LOGN_Logitech_International_SA                      6 file(s)
+  MONC_Moncler_SpA                                    3 file(s)
+  MRL_MERLIN_Properties_SOCIMI_SA                     8 file(s)
+  MTO_MITIE_Group_PLC                                 3 file(s)
+  NEX_Nexans_SA                                       2 file(s)
+  NOH1_Norsk_Hydro_ASA                                2 file(s)
+  NWG_NatWest_Group_PLC                               4 file(s)
+  NXT_Next_PLC                                        2 file(s)
+  ORNBV_Orion_Oyj_Class_B                             2 file(s)
+  OR_LOreal_SA                                        6 file(s)
+  PUB_Publicis_Groupe_SA                              2 file(s)
+  RBI_Raiffeisen_Bank_International_AG                4 file(s)
+  RTO_Rentokil_Initial_PLC                            4 file(s)
+  SOBI_Swedish_Orphan_Biovitrum_AB                    1 file(s)
+  SPSN_Swiss_Prime_Site_AG                            8 file(s)
+  SUBC_Subsea_7_SA                                    2 file(s)
+  SU_Schneider_Electric_SE                            6 file(s)
+  SWEC_B_Sweco_AB_Class_B                             1 file(s)
+  TEL2_B_Tele2_AB_Class_B                             2 file(s)
+  UCB_UCB_SA                                          2 file(s)
+  VK_Vallourec_SA                                     4 file(s)
+  WRT1V_Wartsila_Oyj_Abp                              2 file(s)
+  ZURN_Zurich_Insurance_Group_Ltd                     3 file(s)

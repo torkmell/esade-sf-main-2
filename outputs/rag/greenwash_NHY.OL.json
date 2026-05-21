@@ -1,0 +1,64 @@
+{
+  "ticker": "NHY.OL",
+  "company_name": "Norsk Hydro ASA",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"Hydro's target is to be a net-zero company by 2050 or [earlier]\" (integrated-annual-report-2025.pdf, p22). SBTi: no validated target in the SBTi database. TPI Carbon Performance: 1.5 Degrees-aligned. 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. High disclosure quality \u2014 quantified near-term targets, explicit 2018 baseline, full scope coverage. Two MED flags: the trajectory is not shown as SBTi-validated, and external assurance of the emissions data is not evidenced in this report.",
+  "dimensions": {
+    "specificity": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

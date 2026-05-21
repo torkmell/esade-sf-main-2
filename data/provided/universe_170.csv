@@ -1,0 +1,171 @@
+rank,company,return_5y_pct,return_10y_pct,bb_ticker,yf_ticker,idBbCompany,matched_csv_name
+1,argenx SE,226.0,6000.5,ARGX BB,ARGX.BR,17085420.0,Argenx SE
+2,Games Workshop Group PLC,101.4,4156.2,GAW LN,GAW.L,154898.0,Games Workshop Group PLC
+3,ASM International N.V.,266.2,2693.5,ASM NA,ASM.AS,102226.0,ASM International NV
+4,BE Semiconductor Industries N.V.,336.0,2220.7,BESI NA,BESI.AS,180021.0,BE Semiconductor Industries NV
+5,Swissquote Group Holding Ltd.,278.5,1985.9,SQN SW,SQN.SW,1197447.0,Swissquote Group Holding SA
+6,ASML Holding NV,159.5,1550.8,ASML NA,ASML.AS,163205.0,ASML Holding NV
+7,Zegona Communications Plc,1409.5,1353.7,ZEG LN,ZEG.L,44766439.0,Zegona Communications plc
+8,VAT Group AG,198.4,1353.3,VACN SW,VACN.SW,49328078.0,VAT Group AG
+9,AIXTRON SE,208.2,1077.1,AIXA GR,AIXA.DE,307335.0,AIXTRON SE
+10,Sectra AB Class B,126.5,1024.7,SECTB SS,SECT-B.ST,815168.0,Sectra AB
+11,STMicroelectronics NV,75.8,995.1,STM IM,STM,153916.0,STMicroelectronics NV
+12,CD Projekt S.A.,85.0,991.3,CDR PW,CDR.WA,7636593.0,CD Projekt SA
+13,Addtech AB Class B,113.2,956.4,ADDTB SS,ADDT-B.ST,7326223.0,AddTech AB
+14,Abivax SA,385.5,903.8,ABVX FP,ABVX.PA,45848440.0,Abivax SA
+15,Pan African Resources PLC,742.5,887.2,PAF LN,PAF.L,1416781.0,Pan African Resources PLC
+16,Antofagasta plc,125.2,840.4,ANTO LN,ANTO.L,111100.0,Antofagasta PLC
+17,Mycronic AB,119.1,817.4,MYCR SS,MYCR.ST,330423.0,Mycronic AB
+18,Diploma PLC,157.2,764.1,DPLM LN,DPLM.L,111477.0,Diploma PLC
+19,Lagercrantz Group AB Class B,167.5,734.3,LAGRB SS,LAGR-B.ST,7326215.0,Lagercrantz Group AB
+20,Benefit Systems S.A.,402.8,704.0,BFT PW,BFT.WA,24908457.0,Benefit Systems SA
+21,Gaztransport & Technigaz SA,226.1,694.2,GTT FP,GTT.PA,22247008.0,Gaztransport Et Technigaz SA
+22,Ferrari NV,78.8,674.8,RACE IM,RACE.MI,41906998.0,Ferrari NV
+23,Prysmian S.p.A.,500.6,666.1,PRY IM,PRY.MI,11796370.0,Prysmian SpA
+24,Huber + Suhner AG,398.5,656.6,HUBN SW,HUBN.SW,118592.0,Huber + Suhner AG
+25,BELIMO Holding AG,163.6,649.7,BEAN SW,BEAN.SW,176984.0,Belimo Holding AG
+26,Lion Finance Group PLC,959.8,638.6,BGEO LN,BGEO.L,60238741.0,[manual override]
+27,UNIPOL ASSICURAZIONI SPA,404.8,638.4,UNI IM,UNI.MI,128173.0,[manual override]
+28,Camurus AB,141.1,583.2,CAMX SS,CAMX.ST,14701634.0,Camurus AB
+29,NKT A/S,310.7,581.3,NKT DC,NKT.CO,117816.0,NKT A/S
+30,D'Ieteren Group SA/NV,178.4,563.4,DIE BB,DIE.BR,118920.0,D'ieteren Group
+31,Sparebanken Norge,151.6,532.8,SBNOR NO,SBNOR.OL,130420.0,Sparebanken More
+32,Lotus Bakeries NV,130.7,524.8,LOTB BB,LOTB.BR,118862.0,Lotus Bakeries NV
+33,Aker BP ASA,76.0,504.2,AKRBP NO,AKRBP.OL,11379990.0,Aker BP ASA
+34,Frontline Plc,505.3,500.3,FRO NO,FRO.OL,111886.0,Frontline PLC
+35,RWE AG,107.4,491.8,RWE GR,RWE.DE,115675.0,RWE AG
+36,Ringkjobing Landbobank A/S,159.9,485.3,RILBA DC,RILBA.CO,120259.0,Ringkjoebing Landbobank A/S
+37,KGHM Polska Miedz S.A.,73.0,474.2,KGH PW,KGH.WA,233435.0,KGHM Polska Miedz SA
+38,Hochschild Mining plc,289.6,469.4,HOC LN,HOC.L,11131610.0,Hochschild Mining PLC
+39,ABB Ltd.,262.2,464.9,ABBN SW,ABBN.SW,825197.0,ABB Ltd
+40,UniCredit S.p.A.,697.2,458.9,UCG IM,UCG.MI,115657.0,UniCredit SpA
+41,3i Group plc,126.2,448.2,III LN,III.L,154228.0,3i Group PLC
+42,Holcim Ltd,278.7,446.4,HOLN SW,HOLN.SW,115725.0,Holcim AG
+43,Swiss Life Holding AG,168.4,444.5,SLHN SW,SLHN.SW,116655.0,Swiss Life Holding AG
+44,SPAREBANK 1 SOR-NORGE ASA,92.6,443.4,SB1NO NO,SB1NO.OL,151703.0,SpareBank 1 Sorost-Norge
+45,Schneider Electric SE,122.9,439.7,SU FP,SU.PA,115518.0,Schneider Electric SE
+46,Storebrand ASA,135.5,439.6,STB NO,STB.OL,115771.0,Storebrand ASA
+47,SSAB AB Class B,145.5,430.6,SSABB SS,SSAB-B.ST,118008.0,SSAB AB
+48,"ACS, Actividades de Construccion y Servicios SA",411.0,428.7,ACS SM,ACS.MC,117825.0,ACS Actividades de Construccion y Servicios SA
+49,Infineon Technologies AG,97.8,427.3,IFX GR,IFX.DE,835530.0,Infineon Technologies AG
+50,Commerzbank AG,539.5,426.0,CBK GR,CBK.DE,115684.0,Commerzbank AG
+51,CaixaBank SA,339.5,422.4,CABK SM,CABK.MC,13281086.0,CaixaBank SA
+52,BKW AG,102.0,415.2,BKW SW,BKW.SW,27636787.0,BKW AG
+53,Investor AB Class B,105.2,408.6,INVEB SS,INVE-B.ST,115829.0,Investor AB
+54,Metso Corporation,75.4,400.6,METSO FH,METSO.HE,8515484.0,[manual override]
+55,Banco BPM SpA,527.6,395.9,BAMI IM,BAMI.MI,52113849.0,Banco BPM SpA
+56,HOCHTIEF Aktiengesellschaft,666.5,394.6,HOT GR,HOT.DE,116667.0,HOCHTIEF AG
+57,Brunello Cucinelli S.p.A.,100.1,386.8,BC IM,BC.MI,17687148.0,Brunello Cucinelli SpA
+58,Safran SA,133.5,386.1,SAF FP,SAF.PA,115519.0,Safran SA
+59,PKO Bank Polski SA,231.0,383.5,PKO PW,PKO.WA,201728.0,[manual override]
+60,Erste Group Bank AG,244.9,382.1,EBS AV,EBS.VI,118738.0,Erste Group Bank AG
+61,Glencore plc,105.0,378.3,GLEN LN,GLEN.L,199455.0,Glencore PLC
+62,Halma plc,87.0,373.5,HLMA LN,HLMA.L,111687.0,Halma PLC
+63,BPER Banca S.p.A.,578.0,367.3,BPE IM,BPE.MI,128038.0,BPER Banca
+64,Euronext NV,78.5,361.3,ENX FP,ENX.PA,1422780.0,Euronext NV
+65,Konecranes Oyj,137.7,359.7,KCR FH,KCR.HE,180605.0,Konecranes Oyj
+66,Sandvik AB,67.0,357.3,SAND SS,SAND.ST,115751.0,Sandvik AB
+67,Poste Italiane SpA,151.1,356.2,PST IM,PST.MI,328411.0,Poste Italiane SpA
+68,LPP S.A.,118.6,353.6,LPP PW,LPP.WA,7043031.0,LPP SA
+69,Raiffeisen Bank International AG,174.9,347.5,RBI AV,RBI.VI,9579320.0,Raiffeisen Bank International AG
+70,Aurubis AG,161.8,344.2,NDA GR,NDA.DE,180732.0,Aurubis AG
+71,Talanx AG,237.9,338.7,TLX GR,TLX.DE,1416646.0,Talanx AG
+72,ING Bank Slaski S.A.,198.3,333.4,ING PW,ING.WA,153122.0,ING Bank Slaski SA
+73,Zurich Insurance Group Ltd,111.8,326.6,ZURN SW,ZURN.SW,961642.0,Zurich Insurance Group AG
+74,ArcelorMittal SA,103.6,319.7,MT NA,MT.AS,225547.0,ArcelorMittal SA
+75,ALK-abello A/S Class B,90.2,318.8,ALKB DC,ALK-B.CO,9830847.0,ALK-Abello A/S
+76,Asseco Poland S.A.,218.4,315.8,ACP PW,ACP.WA,310362.0,Asseco Poland SA
+77,Acciona SA,106.7,315.1,ANA SM,ANA.MC,117406.0,Acciona SA
+78,Volvo AB Class B,75.9,304.2,VOLVB SS,VOLV-B.ST,115650.0,Volvo AB
+79,Alfa Laval AB,81.0,304.0,ALFA SS,ALFA.ST,215856.0,Alfa Laval AB
+80,Subsea 7 S.A.,283.4,302.6,SUBC NO,SUBC.OL,119151.0,Subsea 7 SA
+81,mBank SA,366.1,300.2,MBK PW,MBK.WA,153115.0,mBank SA
+82,Nexans SA,145.6,298.9,NEX FP,NEX.PA,1729045.0,Nexans SA
+83,"Banco Bilbao Vizcaya Argentaria, S.A.",327.5,296.4,BBVA SM,BBVA.MC,100155.0,Banco Bilbao Vizcaya Argentaria SA
+84,FinecoBank SpA,75.5,296.3,FBK IM,FBK.MI,9475473.0,[manual override]
+85,Sulzer AG,179.1,292.2,SUN SW,SUN.SW,116648.0,Sulzer AG
+86,SBM Offshore NV,172.8,284.5,SBMO NA,SBMO.AS,116096.0,SBM Offshore NV
+87,AL Sydbank A/S,245.1,281.9,SYDB DC,SYDB.CO,120301.0,[manual override]
+88,Iberdrola SA,92.7,279.5,IBE SM,IBE.MC,115724.0,Iberdrola SA
+89,Jyske Bank A/S,211.7,279.3,JYSK DC,JYSK.CO,120198.0,Jyske Bank A/S
+90,Beazley Plc,321.0,278.9,BEZ LN,BEZ.L,49030384.0,Beazley PLC
+91,Munchener Ruckversicherungs-Gesellschaft AG,129.9,277.8,MUV2 GR,MUV2.DE,117803.0,[manual override]
+92,TAURON Polska Energia S.A.,207.0,276.3,TPE PW,TPE.WA,12460138.0,Tauron Polska Energia SA
+93,Financiere de Tubize S.A.,171.1,275.3,TUB BB,TUB.BR,118874.0,Financiere de Tubize SA
+94,UCB S.A.,220.9,274.8,UCB BB,UCB.BR,118116.0,UCB SA
+95,InterContinental Hotels Group PLC,138.1,274.2,IHG LN,IHG.L,965798.0,InterContinental Hotels Group PLC
+96,Assicurazioni Generali S.p.A.,160.8,273.0,G IM,G.MI,115702.0,[manual override]
+97,Deutsche Boerse AG,93.5,266.2,DB1 GR,DB1.DE,304968.0,Deutsche Boerse AG
+98,AstraZeneca PLC,91.1,266.1,AZN LN,AZN.L,111093.0,AstraZeneca PLC
+99,Standard Chartered PLC,279.6,263.9,STAN LN,STAN.L,112319.0,Standard Chartered PLC
+100,Siemens Aktiengesellschaft,107.7,262.1,SIE GR,SIE.DE,115746.0,[manual override]
+101,Swedish Orphan Biovitrum AB,202.1,262.1,SOBI SS,SOBI.ST,7133235.0,Swedish Orphan Biovitrum AB
+102,Banca Mediolanum SpA,200.9,261.6,BMED IM,BMED.MI,905075.0,Banca Mediolanum SpA
+103,HSBC Holdings Plc,244.8,255.8,HSBA LN,HSBA.L,111759.0,HSBC Holdings PLC
+104,Ferrovial N.V.,152.2,255.8,FER NA,FER.AS,7423829.0,Ferrovial SA
+105,Norsk Hydro ASA,108.3,254.9,NHY NO,NHY.OL,101079.0,Norsk Hydro ASA
+106,OMV AG,84.7,253.7,OMV AV,OMV.VI,115822.0,OMV AG
+107,Bankinter SA,227.0,253.6,BKT SM,BKT.MC,127039.0,Bankinter SA
+108,Rexel SA,158.6,252.6,RXL FP,RXL.PA,11583006.0,Rexel SA
+109,Elia Group SA/NV,70.7,248.9,ELI BB,ELI.BR,7559480.0,Elia Group SA/NV
+110,Balfour Beatty plc,187.1,248.2,BBY LN,BBY.L,111200.0,Balfour Beatty PLC
+111,VZ Holding AG,144.2,248.2,VZN SW,VZN.SW,11599516.0,VZ Holding AG
+112,Compagnie Financiere Richemont SA,117.4,247.0,CFR SW,CFR.SW,117896.0,[manual override]
+113,Legrand SA,95.0,247.0,LR FP,LR.PA,10575328.0,Legrand SA
+114,Allianz SE,107.6,245.6,ALV GR,ALV.DE,115649.0,Allianz SE
+115,Intesa Sanpaolo S.p.A.,196.5,243.6,ISP IM,ISP.MI,128042.0,Intesa Sanpaolo SpA
+116,Sacyr SA,126.7,243.1,SCYR SM,SCYR.MC,115759.0,Sacyr SA
+117,Fresnillo PLC,327.1,241.5,FRES LN,FRES.L,14453817.0,Fresnillo PLC
+118,DNB Bank ASA,87.2,241.1,DNB NO,DNB.OL,135072.0,DNB Bank ASA
+119,KBC Ancora SCA,145.8,236.5,KBCA BB,KBCA.BR,7282482.0,[manual override]
+120,NN Group N.V.,111.6,232.6,NN NA,NN.AS,39780127.0,[manual override]
+121,Coca-Cola HBC AG,82.7,232.3,CCH LN,CCH.L,32947065.0,Coca-Cola HBC AG
+122,Hiab Oyj Class B,120.8,230.9,HIAB FH,HIAB.HE,,
+123,E.ON SE,100.3,229.0,EOAN GR,EOAN.DE,115761.0,E.ON SE
+124,SPIE SA,161.6,226.5,SPIE FP,SPIE.PA,358308.0,SPIE SA
+125,Bilfinger SE,354.5,225.7,GBF GR,GBF.DE,116668.0,Bilfinger SE
+126,UBS Group AG,233.7,225.0,UBSG SW,UBSG.SW,41234897.0,UBS Group AG
+127,Ipsen SA,112.9,222.0,IPN FP,IPN.PA,1711780.0,Ipsen SA
+128,Equinor ASA,145.3,221.6,EQNR NO,EQNR.OL,182074.0,Equinor ASA
+129,Wartsila Oyj Abp,254.4,218.6,WRT1V FH,WRT1V.HE,115782.0,Wartsila OYJ Abp
+130,Tele2 AB Class B,99.7,217.0,TEL2B SS,TEL2-B.ST,180718.0,Tele2 AB
+131,ING Groep N.V.,184.8,214.9,INGA NA,INGA.AS,115823.0,ING Groep NV
+132,Banca Generali S.p.A.,111.4,211.9,BGN IM,BGN.MI,1135757.0,[fix]
+133,Tesco PLC,129.3,211.6,TSCO LN,TSCO.L,112370.0,Tesco PLC
+134,KBC Group N.V.,100.5,210.6,KBC BB,KBC.BR,115719.0,KBC Group NV
+135,Hannover Rueck SE,85.1,209.4,HNR1 GR,HNR1.DE,153902.0,Hannover Rueck SE
+136,Erste Bank Polska S.A.,238.9,205.7,EBP PW,EBP.WA,,
+137,NatWest Group Plc,239.3,205.4,NWG LN,NWG.L,112194.0,NatWest Group PLC
+138,"Banco Santander, S.A.",237.0,201.9,SAN SM,SAN.MC,100158.0,Banco Santander SA
+139,Buzzi Spa,117.4,201.5,BZU IM,BZU.MI,866731.0,[manual override]
+140,Helvetia Baloise Holding AG,174.3,200.1,HBAN SW,HBAN.SW,191206.0,[manual override]
+141,Drax Group plc,144.2,193.7,DRX LN,DRX.L,9093820.0,Drax Group PLC
+142,Azimut Holding Spa,111.4,188.9,AZM IM,AZM.MI,970983.0,Azimut Holding SpA
+143,Novartis AG,110.1,187.1,NOVN SW,NOVN.SW,180580.0,Novartis AG
+144,IMI plc,76.9,186.5,IMI LN,IMI.L,111769.0,IMI PLC
+145,Skandinaviska Enskilda Banken AB Class A,99.1,186.4,SEBA SS,SEB-A.ST,116937.0,Skandinaviska Enskilda Banken AB
+146,Zealand Pharma A/S,80.2,182.4,ZEAL DC,ZEAL.CO,10128160.0,Zealand Pharma A/S
+147,ENGIE S.A.,180.9,181.8,ENGI FP,ENGI.PA,156070.0,Engie SA
+148,BNP Paribas S.A. Class A,102.9,180.7,BNP FP,BNP.PA,115245.0,BNP Paribas SA
+149,Banque Cantonale Vaudoise,84.1,179.2,BCVN SW,BCVN.SW,118520.0,Banque Cantonale Vaudoise
+150,ORLEN Spolka Akcyjna,147.2,175.1,PKN PW,PKN.WA,823804.0,[manual override]
+151,Powszechny Zaklad Ubezpieczen Spolka Akcyjna,143.2,173.9,PZU PW,PZU.WA,944127.0,Powszechny Zaklad Ubezpieczen SA
+152,Heidelberg Materials AG,170.2,172.3,HEI GR,HEI.DE,117596.0,[manual override]
+153,Serco Group plc,99.7,172.0,SRP LN,SRP.L,112244.0,Serco Group PLC
+154,Tenaris S.A.,204.3,171.6,TEN IM,TEN.MI,7912227.0,Tenaris SA
+155,Nokia Oyj,196.3,171.3,NOKIA FH,NOKIA.HE,115790.0,Nokia Oyj
+156,Orion Oyj Class B,109.4,170.2,ORNBV FH,ORNBV.HE,10159180.0,Orion Oyj
+157,Nordea Bank Abp,139.7,170.0,NDAFI FH,NDA-FI.HE,61564243.0,Nordea Bank Abp
+158,Credit Agricole SA,66.5,168.5,ACA FP,ACA.PA,7365323.0,Credit Agricole SA
+159,Julius Baer Gruppe AG,70.3,168.1,BAER SW,BAER.SW,17149777.0,[manual override]
+160,Ackermans & van Haaren NV,124.7,166.5,ACKB BB,ACKB.BR,117002.0,Ackermans & van Haaren NV
+161,Endesa S.A.,94.9,166.3,ELE SM,ELE.MC,100517.0,Endesa SA
+162,Man Group PLC,106.2,164.5,EMG LN,EMG.L,63087888.0,[manual override]
+163,Terna S.p.A.,89.1,162.4,TRN IM,TRN.MI,1422581.0,[manual override]
+164,AXA SA,116.7,161.8,CS FP,CS.PA,115239.0,AXA SA
+165,Barclays PLC,148.5,160.6,BARC LN,BARC.L,100169.0,Barclays PLC
+166,Repsol SA,140.7,158.2,REP SM,REP.MC,101254.0,Repsol SA
+167,Bank of Ireland Group Plc,264.0,157.3,BIRG ID,BIRG.IR,53427397.0,Bank of Ireland Group PLC
+168,A2A S.p.A.,68.7,153.7,A2A IM,A2A.MI,328069.0,A2A SpA
+169,Next plc,75.0,153.2,NXT LN,NXT.L,112011.0,Next PLC
+170,Trelleborg AB Class B,75.7,152.9,TRELB SS,TREL-B.ST,115783.0,Trelleborg AB

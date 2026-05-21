@@ -1,0 +1,64 @@
+{
+  "ticker": "SOBI.ST",
+  "company_name": "Swedish Orphan Biovitrum AB",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"Net zero 2050 (long-term)\" (202603260876-1.pdf, p54). SBTi: Targets set, 1.5\u00b0C near-term target (FY2029). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. The 8-Test of Sobi's sustainability claims is clean \u2014 SBTi-validated targets, explicit 2023 baseline, near-term 2029 target, full scope coverage. NOTE: the IC PENDING_RAG flag concerns the Truvalue Laggard NEWS signal (a controversy...",
+  "dimensions": {
+    "specificity": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "Net zero 2050 (long-term)",
+      "page": 54.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

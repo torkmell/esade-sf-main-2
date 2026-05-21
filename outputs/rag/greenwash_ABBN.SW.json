@@ -1,0 +1,64 @@
+{
+  "ticker": "ABBN.SW",
+  "company_name": "ABB Ltd.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]\" (ABB Sustainability Statement 2025.pdf, p53). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. CSRD/ESRS Sustainability Statement. Strong throughout \u2014 SBTi-validated Net-Zero-Standard targets, explicit 2019/2022 baselines, KPMG limited assurance, disclosed climate capex. One MED (limited assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "reaching net zero by 2050 ... aligned with the Corporate Net-Zero Standard of the Science Based [Targets initiative]",
+      "page": 53.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

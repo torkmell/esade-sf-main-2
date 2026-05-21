@@ -1,0 +1,64 @@
+{
+  "ticker": "AGN.AS",
+  "company_name": "Aegon Ltd.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"the carbon footprint by 30% by 2030 and achieving net-zero\" (aegon-Integrated-annual-report-2025.pdf, p33.0). SBTi: Commitment removed. 8-Test: 2 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Main claim: \"the carbon footprint by 30% by 2030 and achieving net-zero\" (aegon-Integrated-annual-report-2025.pdf, p33). SBTi: Commitment removed. 8-Test: 2 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Asset-owner climate disclosure (NZAOA...",
+  "dimensions": {
+    "specificity": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

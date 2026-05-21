@@ -1,0 +1,30 @@
+======================================================================
+MERGE MANIFEST — SUMMARY
+======================================================================
+Local files scanned:      428
+Download files scanned:   303
+Total manifest entries:   469
+
+Action breakdown:
+  ADD              41
+  REPLACE         232
+  IDENTICAL        30
+  LOCAL_ONLY      166
+
+Top-level folder changes (ADD + REPLACE only):
+  .gitignore                      add:    0   replace:    1
+  CHANGELOG.txt                   add:    0   replace:    1
+  CLAUDE.md                       add:    0   replace:    1
+  Optimization_module             add:   20   replace:    0
+  RAG_EVIDENCE_WORKFLOW_README.md  add:    0   replace:    1
+  app.py                          add:    0   replace:    1
+  build_universe.py               add:    0   replace:    1
+  data                            add:    1   replace:  186
+  external_evidence_search_plan.md  add:    0   replace:    1
+  notebooks                       add:    3   replace:   12
+  outputs                         add:   17   replace:   20
+  requirements.txt                add:    0   replace:    1
+  run_pipeline.py                 add:    0   replace:    1
+  scripts                         add:    0   replace:    5
+
+Full manifest: C:\Users\ionva\Desktop\Sustainable Finance Project\Final_Deliverables\_merge_manifest.csv

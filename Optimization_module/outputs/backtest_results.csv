@@ -1,0 +1,7 @@
+method,cumulative_return,cagr,ann_vol,sharpe,sortino,max_drawdown,annual_turnover,tracking_error,waci,n_oos_days,n_failed_rebal,n_waci_skipped,score_sharpe,score_max_drawdown,score_turnover,score_tracking_error,composite_score,rank
+equal_weight,2.232171,0.254471,0.150923,1.446033,1.794182,-0.162441,0.000000,0.082221,124.266250,1304,0,0,0.289151,1.000000,1.000000,0.962989,0.708258,1
+hrp,2.051120,0.240573,0.137671,1.490294,1.877531,-0.144360,0.080211,0.075857,127.139600,1304,0,0,1.000000,0.000000,0.000000,1.000000,0.600000,2
+score_tilted,2.218184,0.253420,0.152396,1.428029,1.773613,-0.161195,0.000000,0.082945,138.476054,1304,0,0,0.000000,0.931081,1.000000,0.950916,0.572953,3
+max_sharpe,,,,,,,,,,0,6,0,,,,0.000000,,4
+min_volatility,,,,,,,,,,0,6,0,,,,0.000000,,4
+black_litterman,,,,,,,,,,0,6,0,,,,0.000000,,4

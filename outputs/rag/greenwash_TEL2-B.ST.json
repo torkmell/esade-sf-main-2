@@ -1,0 +1,64 @@
+{
+  "ticker": "TEL2-B.ST",
+  "company_name": "Tele2 AB Class B",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035\" (tele2-annual-and-sustainability-report-2025.pdf, p68). SBTi: Targets set, 1.5\u00b0C near-term target (2029). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Telecom annual & sustainability report. Strong climate disclosure \u2014 science-based targets 1.5C-aligned, near-dated net-zero (2035) with 2027/2029 milestones, 2019 baseline, KPMG limited assurance. One MED (limited assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "aiming for net zero greenhouse gas [emissions] ... targeting net-zero by 2035",
+      "page": 68.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

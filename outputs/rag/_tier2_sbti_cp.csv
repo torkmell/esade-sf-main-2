@@ -1,0 +1,21 @@
+ticker,company_name,isin,sbti_matched,sbti_company,sbti_near_term_status,sbti_near_term_class,sbti_near_term_year,sbti_net_zero_status,tpi_cp
+ZURN.SW,Zurich Insurance Group Ltd,CH0011075394,ISIN,Zurich Insurance Group Ltd,Commitment removed,nan,nan,nan,not in TPI
+SBMO.AS,SBM Offshore NV,NL0000360618,NONE,--,--,--,--,--,not in TPI
+SPSN.SW,Swiss Prime Site AG,CH0010675863,NONE,--,--,--,--,--,not in TPI
+ABBN.SW,ABB Ltd.,CH0012221716,ISIN,ABB,Targets set,1.5°C,2030,Targets set,not in TPI
+LI.PA,Klepierre SA,FR0000121964,ISIN,Klépierre,Targets set,1.5°C,2030,nan,not in TPI
+MRL.MC,"MERLIN Properties SOCIMI, S.A.",ES0105025003,name,"MERLIN Properties SOCIMI, SA",Targets set,1.5°C,2030,Targets set,not in TPI
+GALE.SW,Galenica AG,CH0360674466,ISIN,Galenica,Committed,nan,nan,nan,not in TPI
+EOAN.DE,E.ON SE,DE000ENAG999,ISIN,E.ON SE,Targets set,1.5°C,2030,nan,nan
+A5G.IR,AIB Group plc,IE00BF0L3536,ISIN,AIB Group Plc,Targets set,1.5°C,2026,nan,not in TPI
+UCB.BR,UCB S.A.,BE0003739530,ISIN,UCB,Targets set,1.5°C,2030,Targets set,not in TPI
+AZN.L,AstraZeneca PLC,GB0009895292,ISIN,AstraZeneca,Targets set,1.5°C,FY2030,Targets set,not in TPI
+AGN.AS,Aegon Ltd.,NL0000303709,ISIN,Aegon Nederland N.V.,Commitment removed,nan,nan,Commitment removed,not in TPI
+LLOY.L,Lloyds Banking Group plc,GB0008706128,NONE,--,--,--,--,--,not in TPI
+ALFA.ST,Alfa Laval AB,SE0000695876,ISIN,Alfa Laval AB,Targets set,1.5°C,2030,Targets set,not in TPI
+NHY.OL,Norsk Hydro ASA,NO0005052605,NONE,--,--,--,--,--,1.5 Degrees
+TEL2-B.ST,Tele2 AB Class B,SE0005190238,ISIN,Tele2 AB,Targets set,1.5°C,2029,Targets set,not in TPI
+ITX.MC,"Industria de Diseno Textil, S.A.",ES0148396007,ISIN,Inditex,Targets set,1.5°C,FY2030,Targets set,not in TPI
+ORNBV.HE,Orion Oyj Class B,FI0009014377,name,Orion Corporation,Targets set,1.5°C,2030,nan,not in TPI
+SOBI.ST,Swedish Orphan Biovitrum AB,SE0000872095,ISIN,Sobi,Targets set,1.5°C,FY2029,nan,not in TPI
+SUBC.OL,Subsea 7 S.A.,LU0075646355,NONE,--,--,--,--,--,not in TPI

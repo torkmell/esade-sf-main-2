@@ -1,0 +1,21 @@
+ticker,company_name,sector,esg_score,carbon_intensity
+VZN.SW,VZ Holding AG,Financials,94.94,0.72
+UCB.BR,UCB SA,Health Care,85.23,7.99
+ZURN.SW,Zurich Insurance Group AG,Financials,96.62,0.72
+SBMO.AS,SBM Offshore NV,Extractives & Minerals Processing,97.05,277.655
+HSBA.L,HSBC Holdings PLC,Financials,93.25,0.72
+CS.PA,AXA SA,Financials,91.14,0.72
+SREN.SW,Swiss Re AG,Financials,95.36,0.72
+NHY.OL,Norsk Hydro ASA,Extractives & Minerals Processing,99.16,2149.74
+NWG.L,NatWest Group PLC,Financials,96.2,0.72
+ISP.MI,Intesa Sanpaolo SpA,Financials,86.92,0.72
+BFT.WA,Benefit Systems SA,Services,69.2,19.57
+A5G.IR,AIB Group PLC,Financials,97.89,0.72
+BIRG.IR,Bank of Ireland Group PLC,Financials,94.51,0.72
+BEZ.L,Beazley PLC,Financials,89.03,0.72
+ENX.PA,Euronext NV,Financials,79.32,0.72
+SLHN.SW,Swiss Life Holding AG,Financials,72.15,0.72
+AV.L,Aviva PLC,Financials,94.09,0.72
+ALFA.ST,Alfa Laval AB,Resource Transformation,99.58,19.57
+G.MI,Assicurazioni Generali SpA,Financials,63.71,0.72
+ALV.DE,Allianz SE,Financials,74.26,0.72

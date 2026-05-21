@@ -1,0 +1,64 @@
+{
+  "ticker": "ALFA.ST",
+  "company_name": "Alfa Laval AB",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027\" (annual-and-sustainability-report-2025.pdf, p18). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Strong climate disclosure \u2014 near-dated net-zero (Scope 1+2 by 2027), explicit 2020 baseline, SBTi-approved targets, full scope coverage. One MED: emissions-data assurance level not crisply evidenced in the extract.",
+  "dimensions": {
+    "specificity": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

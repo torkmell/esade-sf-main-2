@@ -1,0 +1,64 @@
+{
+  "ticker": "LI.PA",
+  "company_name": "Klepierre SA",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"the Group's 2030 net-zero commitment (scopes 1 and 2)\" (document-d-enregistrement-universel-2025-69cbd8e41b4ad.pdf, p55.0). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Main claim: \"the Group's 2030 net-zero commitment (scopes 1 and 2)\" (document-d-enregistrement-universel-2025-69cbd8e41b4ad.pdf, p55). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS....",
+  "dimensions": {
+    "specificity": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "the Group's 2030 net-zero commitment (scopes 1 and 2)",
+      "page": 55.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

@@ -1,0 +1,470 @@
+rel_path,action,size_local,size_dl,detail
+.gitignore,REPLACE,376,861,Sizes differ (376 vs 861).
+.python-version,IDENTICAL,5,5,Same size + content hash.
+.streamlit/config.toml,IDENTICAL,73,73,Same size + content hash.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/0845752e-5356-4301-afab-cb213a1d0d49.vsidx,LOCAL_ONLY,13768978,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/0e74e0a9-396b-4fa9-b52b-3ae83256b85f.vsidx,LOCAL_ONLY,5190227,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/3f5a6e55-acb8-460d-93af-f47c661989e5.vsidx,LOCAL_ONLY,4798254,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/48ff7bfb-b4c6-415c-a579-a527c17604cf.vsidx,LOCAL_ONLY,4439003,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/524f0bb0-236f-4a06-a5d8-27657ef466a9.vsidx,LOCAL_ONLY,4708294,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/57732a01-90ba-4c2e-97aa-b8de19b66436.vsidx,LOCAL_ONLY,4826102,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/79c62b8b-890a-4708-9594-740e1f790467.vsidx,LOCAL_ONLY,5080032,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/7b340674-aa11-4b55-888e-c67d32c35f61.vsidx,LOCAL_ONLY,4436611,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/b2190bd4-fd17-4d29-a4d3-08f3f816ab72.vsidx,LOCAL_ONLY,4485684,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/b2c4c0ca-df43-4ffd-af11-d0067f221b80.vsidx,LOCAL_ONLY,4823667,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/cb1273d1-bbcd-427b-9c23-a0d7b21d1f39.vsidx,LOCAL_ONLY,4518828,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/FileContentIndex/fc5ec4cd-0a6e-4bbd-ab8e-76eff31144d6.vsidx,LOCAL_ONLY,4614155,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/v18/.wsuo,LOCAL_ONLY,17920,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/v18/DocumentLayout.backup.json,LOCAL_ONLY,2693,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project.slnx/v18/DocumentLayout.json,LOCAL_ONLY,2657,,Exists only locally; will be left untouched.
+.vs/Sustainable Finance Project/v18/workspaceFileList.bin,LOCAL_ONLY,7751,,Exists only locally; will be left untouched.
+.vs/VSWorkspaceState.json,LOCAL_ONLY,78,,Exists only locally; will be left untouched.
+.vs/slnx.sqlite,LOCAL_ONLY,3334144,,Exists only locally; will be left untouched.
+.vscode/tasks.json,IDENTICAL,3185,3185,Same size + content hash.
+Assignment Guidance amp Datasets-20260508.zip,LOCAL_ONLY,24066763,,Exists only locally; will be left untouched.
+CHANGELOG.txt,REPLACE,7456,7273,Sizes differ (7456 vs 7273).
+CLAUDE.md,REPLACE,11072,10441,Sizes differ (11072 vs 10441).
+ESADE_Project_Plan_Role_Workflow.docx,IDENTICAL,48278,48278,Same size + content hash.
+Final Group Assignment_April May 26.pdf,LOCAL_ONLY,333020,,Exists only locally; will be left untouched.
+Final_Deliverables/Final_Report.docx,LOCAL_ONLY,239662,,Local session artefact.
+Final_Deliverables/Mandate_AI_Use_DataDictionary.docx,LOCAL_ONLY,49679,,Local session artefact.
+Final_Deliverables/Pipeline_Section3_Section4.docx,LOCAL_ONLY,49931,,Local session artefact.
+Final_Deliverables/_diff_manifest.py,LOCAL_ONLY,6061,,Local session artefact.
+Final_Deliverables/_extract_susfin.py,LOCAL_ONLY,2085,,Local session artefact.
+Final_Deliverables/build_final_report.py,LOCAL_ONLY,125098,,Local session artefact.
+Final_Deliverables/build_group_b.py,LOCAL_ONLY,36660,,Local session artefact.
+Final_Deliverables/build_mandate_ai_dictionary.py,LOCAL_ONLY,39225,,Local session artefact.
+Final_Deliverables/build_notebook_04b.py,LOCAL_ONLY,35504,,Local session artefact.
+Optimization_module/ANTICIPATED_QA.md,ADD,,15169,New file from download.
+Optimization_module/METHODOLOGY.md,ADD,,13800,New file from download.
+Optimization_module/PRESENTATION_NOTES.md,ADD,,6946,New file from download.
+Optimization_module/README.md,ADD,,8046,New file from download.
+Optimization_module/VERIFICATION.md,ADD,,4703,New file from download.
+Optimization_module/backtester.py,ADD,,14291,New file from download.
+Optimization_module/claude_code_prompt_optimization_backtest.md,ADD,,10363,New file from download.
+Optimization_module/config.py,ADD,,9043,New file from download.
+Optimization_module/data/prices.pkl,ADD,,398434,New file from download.
+Optimization_module/data/prices_meta.json,ADD,,510,New file from download.
+Optimization_module/data_loader.py,ADD,,16296,New file from download.
+Optimization_module/optimizers.py,ADD,,17561,New file from download.
+Optimization_module/outputs/backtest_results.csv,ADD,,821,New file from download.
+Optimization_module/outputs/equity_curves.png,ADD,,109560,New file from download.
+Optimization_module/outputs/optimization_weights.csv,ADD,,737,New file from download.
+Optimization_module/outputs/run_log.txt,ADD,,4138,New file from download.
+Optimization_module/requirements.txt,ADD,,267,New file from download.
+Optimization_module/run_pipeline.py,ADD,,13291,New file from download.
+Optimization_module/sample_holdings_20.csv,ADD,,1039,New file from download.
+Optimization_module/selector.py,ADD,,8951,New file from download.
+RAG_EVIDENCE_WORKFLOW_README.md,REPLACE,8517,8339,Sizes differ (8517 vs 8339).
+STOXX600_Outperformers_5Y_10Y_with_tickers.xlsx,IDENTICAL,51980,51980,Same size + content hash.
+app.py,REPLACE,34428,37769,Sizes differ (34428 vs 37769).
+build_universe.py,REPLACE,8117,7931,Sizes differ (8117 vs 7931).
+data/financial/FINANCIAL_AGENT_JSON_SCHEMA.json,REPLACE,3572,3477,Sizes differ (3572 vs 3477).
+data/financial/FINANCIAL_ANALYSIS_SUMMARY_TEMPLATE.md,REPLACE,5467,5315,Sizes differ (5467 vs 5315).
+data/financial/FINANCIAL_EVIDENCE_WORKFLOW_README.md,REPLACE,10683,10478,Sizes differ (10683 vs 10478).
+data/financial/financial_agent_outputs.csv,REPLACE,9090,9069,Sizes differ (9090 vs 9069).
+data/financial/financial_audit_log.csv,REPLACE,2587,2581,Sizes differ (2587 vs 2581).
+data/financial/financial_data_tracker.csv,REPLACE,7902,7881,Sizes differ (7902 vs 7881).
+data/financial/financial_metric_dictionary.csv,REPLACE,11074,11049,Sizes differ (11074 vs 11049).
+data/financial/source_notes/FINANCIAL_SOURCE_NOTE_TEMPLATE.md,REPLACE,1277,1260,Sizes differ (1277 vs 1260).
+data/market/fundamentals_cache/ACKB_BR__bs.parquet,LOCAL_ONLY,8353,,Local session artefact.
+data/market/fundamentals_cache/ACKB_BR__cf.parquet,LOCAL_ONLY,6943,,Local session artefact.
+data/market/fundamentals_cache/ACKB_BR__fin.parquet,LOCAL_ONLY,6695,,Local session artefact.
+data/market/fundamentals_cache/ARGX_BR__bs.parquet,LOCAL_ONLY,8154,,Local session artefact.
+data/market/fundamentals_cache/ARGX_BR__cf.parquet,LOCAL_ONLY,7037,,Local session artefact.
+data/market/fundamentals_cache/ARGX_BR__fin.parquet,LOCAL_ONLY,7006,,Local session artefact.
+data/market/fundamentals_cache/ASML_AS__bs.parquet,LOCAL_ONLY,8256,,Local session artefact.
+data/market/fundamentals_cache/ASML_AS__cf.parquet,LOCAL_ONLY,7095,,Local session artefact.
+data/market/fundamentals_cache/ASML_AS__fin.parquet,LOCAL_ONLY,6473,,Local session artefact.
+data/market/fundamentals_cache/ASM_AS__bs.parquet,LOCAL_ONLY,7780,,Local session artefact.
+data/market/fundamentals_cache/ASM_AS__cf.parquet,LOCAL_ONLY,6506,,Local session artefact.
+data/market/fundamentals_cache/ASM_AS__fin.parquet,LOCAL_ONLY,6575,,Local session artefact.
+data/market/fundamentals_cache/AZN_L__bs.parquet,LOCAL_ONLY,8606,,Local session artefact.
+data/market/fundamentals_cache/AZN_L__cf.parquet,LOCAL_ONLY,6985,,Local session artefact.
+data/market/fundamentals_cache/AZN_L__fin.parquet,LOCAL_ONLY,6946,,Local session artefact.
+data/market/fundamentals_cache/BAER_SW__bs.parquet,LOCAL_ONLY,6865,,Local session artefact.
+data/market/fundamentals_cache/BAER_SW__cf.parquet,LOCAL_ONLY,6488,,Local session artefact.
+data/market/fundamentals_cache/BAER_SW__fin.parquet,LOCAL_ONLY,5826,,Local session artefact.
+data/market/fundamentals_cache/BBY_L__bs.parquet,LOCAL_ONLY,8201,,Local session artefact.
+data/market/fundamentals_cache/BBY_L__cf.parquet,LOCAL_ONLY,6991,,Local session artefact.
+data/market/fundamentals_cache/BBY_L__fin.parquet,LOCAL_ONLY,6542,,Local session artefact.
+data/market/fundamentals_cache/BESI_AS__bs.parquet,LOCAL_ONLY,7883,,Local session artefact.
+data/market/fundamentals_cache/BESI_AS__cf.parquet,LOCAL_ONLY,6386,,Local session artefact.
+data/market/fundamentals_cache/BESI_AS__fin.parquet,LOCAL_ONLY,5755,,Local session artefact.
+data/market/fundamentals_cache/CS_PA__bs.parquet,LOCAL_ONLY,7213,,Local session artefact.
+data/market/fundamentals_cache/CS_PA__cf.parquet,LOCAL_ONLY,6968,,Local session artefact.
+data/market/fundamentals_cache/CS_PA__fin.parquet,LOCAL_ONLY,6414,,Local session artefact.
+data/market/fundamentals_cache/DPLM_L__bs.parquet,LOCAL_ONLY,7617,,Local session artefact.
+data/market/fundamentals_cache/DPLM_L__cf.parquet,LOCAL_ONLY,6672,,Local session artefact.
+data/market/fundamentals_cache/DPLM_L__fin.parquet,LOCAL_ONLY,6736,,Local session artefact.
+data/market/fundamentals_cache/DRX_L__bs.parquet,LOCAL_ONLY,7953,,Local session artefact.
+data/market/fundamentals_cache/DRX_L__cf.parquet,LOCAL_ONLY,6943,,Local session artefact.
+data/market/fundamentals_cache/DRX_L__fin.parquet,LOCAL_ONLY,6821,,Local session artefact.
+data/market/fundamentals_cache/EOAN_DE__bs.parquet,LOCAL_ONLY,7861,,Local session artefact.
+data/market/fundamentals_cache/EOAN_DE__cf.parquet,LOCAL_ONLY,6651,,Local session artefact.
+data/market/fundamentals_cache/EOAN_DE__fin.parquet,LOCAL_ONLY,5863,,Local session artefact.
+data/market/fundamentals_cache/GAW_L__bs.parquet,LOCAL_ONLY,7284,,Local session artefact.
+data/market/fundamentals_cache/GAW_L__cf.parquet,LOCAL_ONLY,5697,,Local session artefact.
+data/market/fundamentals_cache/GAW_L__fin.parquet,LOCAL_ONLY,5595,,Local session artefact.
+data/market/fundamentals_cache/GTT_PA__bs.parquet,LOCAL_ONLY,7609,,Local session artefact.
+data/market/fundamentals_cache/GTT_PA__cf.parquet,LOCAL_ONLY,5943,,Local session artefact.
+data/market/fundamentals_cache/GTT_PA__fin.parquet,LOCAL_ONLY,6588,,Local session artefact.
+data/market/fundamentals_cache/IFX_DE__bs.parquet,LOCAL_ONLY,8182,,Local session artefact.
+data/market/fundamentals_cache/IFX_DE__cf.parquet,LOCAL_ONLY,7028,,Local session artefact.
+data/market/fundamentals_cache/IFX_DE__fin.parquet,LOCAL_ONLY,6822,,Local session artefact.
+data/market/fundamentals_cache/IHG_L__bs.parquet,LOCAL_ONLY,8166,,Local session artefact.
+data/market/fundamentals_cache/IHG_L__cf.parquet,LOCAL_ONLY,6778,,Local session artefact.
+data/market/fundamentals_cache/IHG_L__fin.parquet,LOCAL_ONLY,6722,,Local session artefact.
+data/market/fundamentals_cache/III_L__bs.parquet,LOCAL_ONLY,5636,,Local session artefact.
+data/market/fundamentals_cache/III_L__cf.parquet,LOCAL_ONLY,5257,,Local session artefact.
+data/market/fundamentals_cache/III_L__fin.parquet,LOCAL_ONLY,5551,,Local session artefact.
+data/market/fundamentals_cache/LR_PA__bs.parquet,LOCAL_ONLY,8207,,Local session artefact.
+data/market/fundamentals_cache/LR_PA__cf.parquet,LOCAL_ONLY,6642,,Local session artefact.
+data/market/fundamentals_cache/LR_PA__fin.parquet,LOCAL_ONLY,5729,,Local session artefact.
+data/market/fundamentals_cache/MYCR_ST__bs.parquet,LOCAL_ONLY,7591,,Local session artefact.
+data/market/fundamentals_cache/MYCR_ST__cf.parquet,LOCAL_ONLY,6584,,Local session artefact.
+data/market/fundamentals_cache/MYCR_ST__fin.parquet,LOCAL_ONLY,6549,,Local session artefact.
+data/market/fundamentals_cache/NHY_OL__bs.parquet,LOCAL_ONLY,8207,,Local session artefact.
+data/market/fundamentals_cache/NHY_OL__cf.parquet,LOCAL_ONLY,6925,,Local session artefact.
+data/market/fundamentals_cache/NHY_OL__fin.parquet,LOCAL_ONLY,6684,,Local session artefact.
+data/market/fundamentals_cache/NN_AS__bs.parquet,LOCAL_ONLY,7444,,Local session artefact.
+data/market/fundamentals_cache/NN_AS__cf.parquet,LOCAL_ONLY,6608,,Local session artefact.
+data/market/fundamentals_cache/NN_AS__fin.parquet,LOCAL_ONLY,6650,,Local session artefact.
+data/market/fundamentals_cache/NOVN_SW__bs.parquet,LOCAL_ONLY,9227,,Local session artefact.
+data/market/fundamentals_cache/NOVN_SW__cf.parquet,LOCAL_ONLY,7822,,Local session artefact.
+data/market/fundamentals_cache/NOVN_SW__fin.parquet,LOCAL_ONLY,6716,,Local session artefact.
+data/market/fundamentals_cache/NWG_L__bs.parquet,LOCAL_ONLY,6823,,Local session artefact.
+data/market/fundamentals_cache/NWG_L__cf.parquet,LOCAL_ONLY,7003,,Local session artefact.
+data/market/fundamentals_cache/NWG_L__fin.parquet,LOCAL_ONLY,6533,,Local session artefact.
+data/market/fundamentals_cache/NXT_L__bs.parquet,LOCAL_ONLY,8089,,Local session artefact.
+data/market/fundamentals_cache/NXT_L__cf.parquet,LOCAL_ONLY,6909,,Local session artefact.
+data/market/fundamentals_cache/NXT_L__fin.parquet,LOCAL_ONLY,6672,,Local session artefact.
+data/market/fundamentals_cache/ORNBV_HE__bs.parquet,LOCAL_ONLY,8031,,Local session artefact.
+data/market/fundamentals_cache/ORNBV_HE__cf.parquet,LOCAL_ONLY,6718,,Local session artefact.
+data/market/fundamentals_cache/ORNBV_HE__fin.parquet,LOCAL_ONLY,6026,,Local session artefact.
+data/market/fundamentals_cache/PKN_WA__bs.parquet,LOCAL_ONLY,8907,,Local session artefact.
+data/market/fundamentals_cache/PKN_WA__cf.parquet,LOCAL_ONLY,6786,,Local session artefact.
+data/market/fundamentals_cache/PKN_WA__fin.parquet,LOCAL_ONLY,6912,,Local session artefact.
+data/market/fundamentals_cache/PKO_WA__bs.parquet,LOCAL_ONLY,6929,,Local session artefact.
+data/market/fundamentals_cache/PKO_WA__cf.parquet,LOCAL_ONLY,6497,,Local session artefact.
+data/market/fundamentals_cache/PKO_WA__fin.parquet,LOCAL_ONLY,6493,,Local session artefact.
+data/market/fundamentals_cache/RACE_MI__bs.parquet,LOCAL_ONLY,8354,,Local session artefact.
+data/market/fundamentals_cache/RACE_MI__cf.parquet,LOCAL_ONLY,7004,,Local session artefact.
+data/market/fundamentals_cache/RACE_MI__fin.parquet,LOCAL_ONLY,6859,,Local session artefact.
+data/market/fundamentals_cache/RILBA_CO__bs.parquet,LOCAL_ONLY,6778,,Local session artefact.
+data/market/fundamentals_cache/RILBA_CO__fin.parquet,LOCAL_ONLY,5565,,Local session artefact.
+data/market/fundamentals_cache/SBMO_AS__bs.parquet,LOCAL_ONLY,8013,,Local session artefact.
+data/market/fundamentals_cache/SBMO_AS__cf.parquet,LOCAL_ONLY,6654,,Local session artefact.
+data/market/fundamentals_cache/SBMO_AS__fin.parquet,LOCAL_ONLY,6863,,Local session artefact.
+data/market/fundamentals_cache/SQN_SW__bs.parquet,LOCAL_ONLY,6315,,Local session artefact.
+data/market/fundamentals_cache/SQN_SW__cf.parquet,LOCAL_ONLY,6053,,Local session artefact.
+data/market/fundamentals_cache/SQN_SW__fin.parquet,LOCAL_ONLY,5960,,Local session artefact.
+data/market/fundamentals_cache/SSAB-B_ST__bs.parquet,LOCAL_ONLY,8465,,Local session artefact.
+data/market/fundamentals_cache/SSAB-B_ST__cf.parquet,LOCAL_ONLY,6769,,Local session artefact.
+data/market/fundamentals_cache/SSAB-B_ST__fin.parquet,LOCAL_ONLY,6017,,Local session artefact.
+data/market/fundamentals_cache/STM__bs.parquet,LOCAL_ONLY,8774,,Local session artefact.
+data/market/fundamentals_cache/STM__cf.parquet,LOCAL_ONLY,6968,,Local session artefact.
+data/market/fundamentals_cache/STM__fin.parquet,LOCAL_ONLY,7020,,Local session artefact.
+data/market/fundamentals_cache/TEN_MI__bs.parquet,LOCAL_ONLY,9228,,Local session artefact.
+data/market/fundamentals_cache/TEN_MI__cf.parquet,LOCAL_ONLY,7048,,Local session artefact.
+data/market/fundamentals_cache/TEN_MI__fin.parquet,LOCAL_ONLY,7330,,Local session artefact.
+data/market/fundamentals_cache/TRN_MI__bs.parquet,LOCAL_ONLY,7782,,Local session artefact.
+data/market/fundamentals_cache/TRN_MI__cf.parquet,LOCAL_ONLY,5956,,Local session artefact.
+data/market/fundamentals_cache/TRN_MI__fin.parquet,LOCAL_ONLY,6996,,Local session artefact.
+data/market/fundamentals_cache/UCB_BR__bs.parquet,LOCAL_ONLY,8160,,Local session artefact.
+data/market/fundamentals_cache/UCB_BR__cf.parquet,LOCAL_ONLY,6884,,Local session artefact.
+data/market/fundamentals_cache/UCB_BR__fin.parquet,LOCAL_ONLY,6883,,Local session artefact.
+data/market/fundamentals_cache/UCG_MI__bs.parquet,LOCAL_ONLY,6992,,Local session artefact.
+data/market/fundamentals_cache/UCG_MI__cf.parquet,LOCAL_ONLY,6339,,Local session artefact.
+data/market/fundamentals_cache/UCG_MI__fin.parquet,LOCAL_ONLY,6825,,Local session artefact.
+data/market/fundamentals_cache/UNI_MI__bs.parquet,LOCAL_ONLY,7461,,Local session artefact.
+data/market/fundamentals_cache/UNI_MI__cf.parquet,LOCAL_ONLY,6300,,Local session artefact.
+data/market/fundamentals_cache/UNI_MI__fin.parquet,LOCAL_ONLY,6416,,Local session artefact.
+data/market/fundamentals_cache/VACN_SW__bs.parquet,LOCAL_ONLY,7537,,Local session artefact.
+data/market/fundamentals_cache/VACN_SW__cf.parquet,LOCAL_ONLY,6727,,Local session artefact.
+data/market/fundamentals_cache/VACN_SW__fin.parquet,LOCAL_ONLY,6849,,Local session artefact.
+data/market/fundamentals_cache/WRT1V_HE__bs.parquet,LOCAL_ONLY,8000,,Local session artefact.
+data/market/fundamentals_cache/WRT1V_HE__cf.parquet,LOCAL_ONLY,6608,,Local session artefact.
+data/market/fundamentals_cache/WRT1V_HE__fin.parquet,LOCAL_ONLY,6252,,Local session artefact.
+data/market/prices_2026-05-12.csv,LOCAL_ONLY,8524097,,Exists only locally; will be left untouched.
+data/market/prices_2026-05-13.csv,LOCAL_ONLY,8526116,,Exists only locally; will be left untouched.
+data/market/prices_2026-05-20.csv,ADD,,14252911,New file from download.
+data/provided/ESG Data_Factset Full ESG.xlsx,IDENTICAL,92936,92936,Same size + content hash.
+data/provided/Portfolio_Screening_Output.xlsx,IDENTICAL,72451,72451,Same size + content hash.
+data/provided/equityBicsV2.csv,IDENTICAL,53762678,53762678,Same size + content hash.
+data/provided/esgEnvironmentalSocialConsolidatedV4.csv,REPLACE,25496257,25468070,Sizes differ (25496257 vs 25468070).
+data/provided/esgGovernanceConsolidatedV4.csv,REPLACE,16196004,16167817,Sizes differ (16196004 vs 16167817).
+data/provided/legalEntityEuTaxonomy.csv,REPLACE,8144997,8096441,Sizes differ (8144997 vs 8096441).
+data/provided/stage2_top40_capped_hybrid.csv,REPLACE,7659,7618,Sizes differ (7659 vs 7618).
+data/provided/universe_170.csv,LOCAL_ONLY,12718,,Exists only locally; will be left untouched.
+data/provided/universe_289_filled.csv,IDENTICAL,13577,13577,Same size + content hash.
+data/rag/HOW_TO_USE.txt,REPLACE,8637,8441,Sizes differ (8637 vs 8441).
+data/rag/Latest_CP_Assessments.csv,REPLACE,603305,602676,Sizes differ (603305 vs 602676).
+data/rag/RAG_Screening_Sheet_Workbook_v1.xlsx,REPLACE,192464,386743,Sizes differ (192464 vs 386743).
+data/rag/SBTi.xlsx,IDENTICAL,2150589,2150589,Same size + content hash.
+data/rag/reports/19V_VAT_Group_AG/19V_8test_prompt.txt,REPLACE,12591,12334,Sizes differ (12591 vs 12334).
+data/rag/reports/19V_VAT_Group_AG/financial_data/financial_data_gap_log.md,REPLACE,6304,6196,Sizes differ (6304 vs 6196).
+data/rag/reports/19V_VAT_Group_AG/rag_outputs/evidence_gap_log.md,REPLACE,9788,9682,Sizes differ (9788 vs 9682).
+data/rag/reports/1AE_Argenx_SE/1AE_8test_prompt.txt,REPLACE,12565,12308,Sizes differ (12565 vs 12308).
+data/rag/reports/1AE_Argenx_SE/financial_data/financial_data_gap_log.md,REPLACE,6074,5967,Sizes differ (6074 vs 5967).
+data/rag/reports/1AE_Argenx_SE/rag_outputs/evidence_gap_log.md,REPLACE,6006,5921,Sizes differ (6006 vs 5921).
+data/rag/reports/1SQ_Swissquote_Group_Holding_SA/1SQ_8test_prompt.txt,REPLACE,12673,12416,Sizes differ (12673 vs 12416).
+data/rag/reports/1SQ_Swissquote_Group_Holding_SA/financial_data/financial_data_gap_log.md,REPLACE,6538,6429,Sizes differ (6538 vs 6429).
+data/rag/reports/1SQ_Swissquote_Group_Holding_SA/rag_outputs/evidence_gap_log.md,REPLACE,9492,9395,Sizes differ (9492 vs 9395).
+data/rag/reports/2FE_Ferrari_NV/2FE_8test_prompt.txt,REPLACE,12570,12313,Sizes differ (12570 vs 12313).
+data/rag/reports/2FE_Ferrari_NV/financial_data/financial_data_gap_log.md,REPLACE,6305,6197,Sizes differ (6305 vs 6197).
+data/rag/reports/2FE_Ferrari_NV/rag_outputs/evidence_gap_log.md,REPLACE,7136,7037,Sizes differ (7136 vs 7037).
+data/rag/reports/2NN_NN_Group_NV/2NN_8test_prompt.txt,REPLACE,12562,12305,Sizes differ (12562 vs 12305).
+data/rag/reports/2NN_NN_Group_NV/financial_data/financial_data_gap_log.md,REPLACE,5174,5075,Sizes differ (5174 vs 5075).
+data/rag/reports/2NN_NN_Group_NV/rag_outputs/evidence_gap_log.md,REPLACE,6539,6452,Sizes differ (6539 vs 6452).
+data/rag/reports/9TG_Gaztransport_Et_Technigaz_SA/9TG_8test_prompt.txt,REPLACE,12679,12422,Sizes differ (12679 vs 12422).
+data/rag/reports/9TG_Gaztransport_Et_Technigaz_SA/financial_data/financial_data_gap_log.md,REPLACE,6448,6340,Sizes differ (6448 vs 6340).
+data/rag/reports/9TG_Gaztransport_Et_Technigaz_SA/rag_outputs/evidence_gap_log.md,REPLACE,7277,7184,Sizes differ (7277 vs 7184).
+data/rag/reports/A5G_AIB_Group_PLC/A5G_8test_prompt.txt,REPLACE,9973,9770,Sizes differ (9973 vs 9770).
+data/rag/reports/A5G_AIB_Group_PLC/financial_data/financial_data_gap_log.md,REPLACE,1117,1088,Sizes differ (1117 vs 1088).
+data/rag/reports/A5G_AIB_Group_PLC/rag_outputs/evidence_gap_log.md,REPLACE,775,751,Sizes differ (775 vs 751).
+data/rag/reports/ABBN_ABB_Ltd/ABBN_8test_prompt.txt,REPLACE,9837,9634,Sizes differ (9837 vs 9634).
+data/rag/reports/ABBN_ABB_Ltd/financial_data/financial_data_gap_log.md,REPLACE,1109,1080,Sizes differ (1109 vs 1080).
+data/rag/reports/ABBN_ABB_Ltd/rag_outputs/evidence_gap_log.md,REPLACE,695,671,Sizes differ (695 vs 671).
+data/rag/reports/ADDT_B_Addtech_AB_Class_B/ADDT_B_8test_prompt.txt,REPLACE,9954,9751,Sizes differ (9954 vs 9751).
+data/rag/reports/ADDT_B_Addtech_AB_Class_B/financial_data/financial_data_gap_log.md,REPLACE,1137,1108,Sizes differ (1137 vs 1108).
+data/rag/reports/ADDT_B_Addtech_AB_Class_B/rag_outputs/evidence_gap_log.md,REPLACE,721,697,Sizes differ (721 vs 697).
+data/rag/reports/AGN_Aegon_Ltd/AGN_8test_prompt.txt,REPLACE,9845,9642,Sizes differ (9845 vs 9642).
+data/rag/reports/AGN_Aegon_Ltd/financial_data/financial_data_gap_log.md,REPLACE,1109,1080,Sizes differ (1109 vs 1080).
+data/rag/reports/AGN_Aegon_Ltd/rag_outputs/evidence_gap_log.md,REPLACE,696,672,Sizes differ (696 vs 672).
+data/rag/reports/AIXA_AIXTRON_SE/AIXA_8test_prompt.txt,REPLACE,9955,9752,Sizes differ (9955 vs 9752).
+data/rag/reports/AIXA_AIXTRON_SE/financial_data/financial_data_gap_log.md,REPLACE,1114,1085,Sizes differ (1114 vs 1085).
+data/rag/reports/AIXA_AIXTRON_SE/rag_outputs/evidence_gap_log.md,REPLACE,771,747,Sizes differ (771 vs 747).
+data/rag/reports/ALFA_Alfa_Laval_AB/ALFA_8test_prompt.txt,REPLACE,9891,9688,Sizes differ (9891 vs 9688).
+data/rag/reports/ALFA_Alfa_Laval_AB/financial_data/financial_data_gap_log.md,REPLACE,1121,1092,Sizes differ (1121 vs 1092).
+data/rag/reports/ALFA_Alfa_Laval_AB/rag_outputs/evidence_gap_log.md,REPLACE,707,683,Sizes differ (707 vs 683).
+data/rag/reports/ARCAD_Arcadis_NV/ARCAD_8test_prompt.txt,REPLACE,9873,9670,Sizes differ (9873 vs 9670).
+data/rag/reports/ARCAD_Arcadis_NV/financial_data/financial_data_gap_log.md,REPLACE,1118,1089,Sizes differ (1118 vs 1089).
+data/rag/reports/ARCAD_Arcadis_NV/rag_outputs/evidence_gap_log.md,REPLACE,703,679,Sizes differ (703 vs 679).
+data/rag/reports/ASME_ASML_Holding_NV/ASME_8test_prompt.txt,REPLACE,12609,12352,Sizes differ (12609 vs 12352).
+data/rag/reports/ASME_ASML_Holding_NV/financial_data/financial_data_gap_log.md,REPLACE,6418,6310,Sizes differ (6418 vs 6310).
+data/rag/reports/ASME_ASML_Holding_NV/rag_outputs/evidence_gap_log.md,REPLACE,9977,9864,Sizes differ (9977 vs 9864).
+data/rag/reports/AVS_ASM_International_NV/AVS_8test_prompt.txt,REPLACE,12633,12376,Sizes differ (12633 vs 12376).
+data/rag/reports/AVS_ASM_International_NV/financial_data/financial_data_gap_log.md,REPLACE,6388,6280,Sizes differ (6388 vs 6280).
+data/rag/reports/AVS_ASM_International_NV/rag_outputs/evidence_gap_log.md,REPLACE,10311,10191,Sizes differ (10311 vs 10191).
+data/rag/reports/AZN_AstraZeneca_PLC/AZN_8test_prompt.txt,REPLACE,9899,9696,Sizes differ (9899 vs 9696).
+data/rag/reports/AZN_AstraZeneca_PLC/financial_data/financial_data_gap_log.md,REPLACE,1121,1092,Sizes differ (1121 vs 1092).
+data/rag/reports/AZN_AstraZeneca_PLC/rag_outputs/evidence_gap_log.md,REPLACE,709,685,Sizes differ (709 vs 685).
+data/rag/reports/BFT_Benefit_Systems_SA/BFT_8test_prompt.txt,REPLACE,9938,9735,Sizes differ (9938 vs 9735).
+data/rag/reports/BFT_Benefit_Systems_SA/financial_data/financial_data_gap_log.md,REPLACE,1139,1110,Sizes differ (1139 vs 1110).
+data/rag/reports/BFT_Benefit_Systems_SA/rag_outputs/evidence_gap_log.md,REPLACE,726,702,Sizes differ (726 vs 702).
+data/rag/reports/BSI_BE_Semiconductor_Industries_NV/BSI_8test_prompt.txt,REPLACE,12692,12435,Sizes differ (12692 vs 12435).
+data/rag/reports/BSI_BE_Semiconductor_Industries_NV/financial_data/financial_data_gap_log.md,REPLACE,6475,6367,Sizes differ (6475 vs 6367).
+data/rag/reports/BSI_BE_Semiconductor_Industries_NV/rag_outputs/evidence_gap_log.md,REPLACE,8939,8843,Sizes differ (8939 vs 8843).
+data/rag/reports/CJ2_Ringkjoebing_Landbobank_AS/CJ2_8test_prompt.txt,REPLACE,12674,12417,Sizes differ (12674 vs 12417).
+data/rag/reports/CJ2_Ringkjoebing_Landbobank_AS/financial_data/financial_data_gap_log.md,REPLACE,5581,5481,Sizes differ (5581 vs 5481).
+data/rag/reports/CJ2_Ringkjoebing_Landbobank_AS/rag_outputs/evidence_gap_log.md,REPLACE,7194,7098,Sizes differ (7194 vs 7098).
+data/rag/reports/DP9_Diploma_PLC/DP9_8test_prompt.txt,REPLACE,12586,12329,Sizes differ (12586 vs 12329).
+data/rag/reports/DP9_Diploma_PLC/financial_data/financial_data_gap_log.md,REPLACE,6312,6204,Sizes differ (6312 vs 6204).
+data/rag/reports/DP9_Diploma_PLC/rag_outputs/evidence_gap_log.md,REPLACE,8442,8341,Sizes differ (8442 vs 8341).
+data/rag/reports/EOAN_EON_SE/EOAN_8test_prompt.txt,REPLACE,9826,9623,Sizes differ (9826 vs 9623).
+data/rag/reports/EOAN_EON_SE/financial_data/financial_data_gap_log.md,REPLACE,1105,1076,Sizes differ (1105 vs 1076).
+data/rag/reports/EOAN_EON_SE/rag_outputs/evidence_gap_log.md,REPLACE,691,667,Sizes differ (691 vs 667).
+data/rag/reports/G7W_Games_Workshop_Group_PLC/G7W_8test_prompt.txt,REPLACE,12668,12411,Sizes differ (12668 vs 12411).
+data/rag/reports/G7W_Games_Workshop_Group_PLC/financial_data/financial_data_gap_log.md,REPLACE,6394,6286,Sizes differ (6394 vs 6286).
+data/rag/reports/G7W_Games_Workshop_Group_PLC/rag_outputs/evidence_gap_log.md,REPLACE,7310,7219,Sizes differ (7310 vs 7219).
+data/rag/reports/GALE_Galenica_AG/GALE_8test_prompt.txt,REPLACE,9873,9670,Sizes differ (9873 vs 9670).
+data/rag/reports/GALE_Galenica_AG/financial_data/financial_data_gap_log.md,REPLACE,1117,1088,Sizes differ (1117 vs 1088).
+data/rag/reports/GALE_Galenica_AG/rag_outputs/evidence_gap_log.md,REPLACE,703,679,Sizes differ (703 vs 679).
+data/rag/reports/IFX_Infineon_Technologies_AG/IFX_8test_prompt.txt,REPLACE,12651,12394,Sizes differ (12651 vs 12394).
+data/rag/reports/IFX_Infineon_Technologies_AG/financial_data/financial_data_gap_log.md,REPLACE,6406,6298,Sizes differ (6406 vs 6298).
+data/rag/reports/IFX_Infineon_Technologies_AG/rag_outputs/evidence_gap_log.md,REPLACE,8598,8504,Sizes differ (8598 vs 8504).
+data/rag/reports/IGQ5_3i_Group_PLC/IGQ5_8test_prompt.txt,REPLACE,12589,12332,Sizes differ (12589 vs 12332).
+data/rag/reports/IGQ5_3i_Group_PLC/financial_data/financial_data_gap_log.md,REPLACE,5429,5329,Sizes differ (5429 vs 5329).
+data/rag/reports/IGQ5_3i_Group_PLC/rag_outputs/evidence_gap_log.md,REPLACE,8096,7998,Sizes differ (8096 vs 7998).
+data/rag/reports/IHCB_SBM_Offshore_NV/IHCB_8test_prompt.txt,REPLACE,12609,12352,Sizes differ (12609 vs 12352).
+data/rag/reports/IHCB_SBM_Offshore_NV/financial_data/financial_data_gap_log.md,REPLACE,6323,6215,Sizes differ (6323 vs 6215).
+data/rag/reports/IHCB_SBM_Offshore_NV/rag_outputs/evidence_gap_log.md,REPLACE,8216,8123,Sizes differ (8216 vs 8123).
+data/rag/reports/IPN_Ipsen_SA/IPN_8test_prompt.txt,REPLACE,9837,9634,Sizes differ (9837 vs 9634).
+data/rag/reports/IPN_Ipsen_SA/financial_data/financial_data_gap_log.md,REPLACE,1108,1079,Sizes differ (1108 vs 1079).
+data/rag/reports/IPN_Ipsen_SA/rag_outputs/evidence_gap_log.md,REPLACE,695,671,Sizes differ (695 vs 671).
+data/rag/reports/ITX_Inditex_SA/ITX_8test_prompt.txt,REPLACE,9958,9755,Sizes differ (9958 vs 9755).
+data/rag/reports/ITX_Inditex_SA/financial_data/financial_data_gap_log.md,REPLACE,1123,1094,Sizes differ (1123 vs 1094).
+data/rag/reports/ITX_Inditex_SA/rag_outputs/evidence_gap_log.md,REPLACE,781,757,Sizes differ (781 vs 757).
+data/rag/reports/LI_Klepierre_SA/LI_8test_prompt.txt,REPLACE,9864,9661,Sizes differ (9864 vs 9661).
+data/rag/reports/LI_Klepierre_SA/financial_data/financial_data_gap_log.md,REPLACE,1113,1084,Sizes differ (1113 vs 1084).
+data/rag/reports/LI_Klepierre_SA/rag_outputs/evidence_gap_log.md,REPLACE,701,677,Sizes differ (701 vs 677).
+data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/LLOY_8test_prompt.txt,REPLACE,9988,9785,Sizes differ (9988 vs 9785).
+data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/financial_data/financial_data_gap_log.md,REPLACE,1141,1112,Sizes differ (1141 vs 1112).
+data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/rag_outputs/evidence_gap_log.md,REPLACE,728,704,Sizes differ (728 vs 704).
+data/rag/reports/LOGN_Logitech_International_SA/LOGN_8test_prompt.txt,REPLACE,9998,9795,Sizes differ (9998 vs 9795).
+data/rag/reports/LOGN_Logitech_International_SA/financial_data/financial_data_gap_log.md,REPLACE,1144,1115,Sizes differ (1144 vs 1115).
+data/rag/reports/LOGN_Logitech_International_SA/rag_outputs/evidence_gap_log.md,REPLACE,730,706,Sizes differ (730 vs 706).
+data/rag/reports/MLT_Mycronic_AB/MLT_8test_prompt.txt,REPLACE,12580,12323,Sizes differ (12580 vs 12323).
+data/rag/reports/MLT_Mycronic_AB/financial_data/financial_data_gap_log.md,REPLACE,6127,6020,Sizes differ (6127 vs 6020).
+data/rag/reports/MLT_Mycronic_AB/rag_outputs/evidence_gap_log.md,REPLACE,6410,6319,Sizes differ (6410 vs 6319).
+data/rag/reports/MONC_Moncler_SpA/MONC_8test_prompt.txt,REPLACE,9884,9681,Sizes differ (9884 vs 9681).
+data/rag/reports/MONC_Moncler_SpA/financial_data/financial_data_gap_log.md,REPLACE,1128,1099,Sizes differ (1128 vs 1099).
+data/rag/reports/MONC_Moncler_SpA/rag_outputs/evidence_gap_log.md,REPLACE,714,690,Sizes differ (714 vs 690).
+data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/MRL_8test_prompt.txt,REPLACE,10008,9805,Sizes differ (10008 vs 9805).
+data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/financial_data/financial_data_gap_log.md,REPLACE,1146,1117,Sizes differ (1146 vs 1117).
+data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/rag_outputs/evidence_gap_log.md,REPLACE,733,709,Sizes differ (733 vs 709).
+data/rag/reports/MTO_MITIE_Group_PLC/MTO_8test_prompt.txt,REPLACE,9899,9696,Sizes differ (9899 vs 9696).
+data/rag/reports/MTO_MITIE_Group_PLC/financial_data/financial_data_gap_log.md,REPLACE,1121,1092,Sizes differ (1121 vs 1092).
+data/rag/reports/MTO_MITIE_Group_PLC/rag_outputs/evidence_gap_log.md,REPLACE,709,685,Sizes differ (709 vs 685).
+data/rag/reports/NEX_Nexans_SA/NEX_8test_prompt.txt,REPLACE,9846,9643,Sizes differ (9846 vs 9643).
+data/rag/reports/NEX_Nexans_SA/financial_data/financial_data_gap_log.md,REPLACE,1110,1081,Sizes differ (1110 vs 1081).
+data/rag/reports/NEX_Nexans_SA/rag_outputs/evidence_gap_log.md,REPLACE,697,673,Sizes differ (697 vs 673).
+data/rag/reports/NOH1_Norsk_Hydro_ASA/NOH1_8test_prompt.txt,REPLACE,12617,12360,Sizes differ (12617 vs 12360).
+data/rag/reports/NOH1_Norsk_Hydro_ASA/financial_data/financial_data_gap_log.md,REPLACE,6387,6279,Sizes differ (6387 vs 6279).
+data/rag/reports/NOH1_Norsk_Hydro_ASA/rag_outputs/evidence_gap_log.md,REPLACE,8031,7936,Sizes differ (8031 vs 7936).
+data/rag/reports/NWG_NatWest_Group_PLC/NWG_8test_prompt.txt,REPLACE,9916,9713,Sizes differ (9916 vs 9713).
+data/rag/reports/NWG_NatWest_Group_PLC/financial_data/financial_data_gap_log.md,REPLACE,1124,1095,Sizes differ (1124 vs 1095).
+data/rag/reports/NWG_NatWest_Group_PLC/rag_outputs/evidence_gap_log.md,REPLACE,712,688,Sizes differ (712 vs 688).
+data/rag/reports/NXT_Next_PLC/NXT_8test_prompt.txt,REPLACE,9847,9644,Sizes differ (9847 vs 9644).
+data/rag/reports/NXT_Next_PLC/financial_data/financial_data_gap_log.md,REPLACE,1118,1089,Sizes differ (1118 vs 1089).
+data/rag/reports/NXT_Next_PLC/rag_outputs/evidence_gap_log.md,REPLACE,706,682,Sizes differ (706 vs 682).
+data/rag/reports/ORNBV_Orion_Oyj_Class_B/ORNBV_8test_prompt.txt,REPLACE,9936,9733,Sizes differ (9936 vs 9733).
+data/rag/reports/ORNBV_Orion_Oyj_Class_B/financial_data/financial_data_gap_log.md,REPLACE,1132,1103,Sizes differ (1132 vs 1103).
+data/rag/reports/ORNBV_Orion_Oyj_Class_B/rag_outputs/evidence_gap_log.md,REPLACE,717,693,Sizes differ (717 vs 693).
+data/rag/reports/OR_LOreal_SA/OR_8test_prompt.txt,REPLACE,9842,9639,Sizes differ (9842 vs 9639).
+data/rag/reports/OR_LOreal_SA/financial_data/financial_data_gap_log.md,REPLACE,1112,1083,Sizes differ (1112 vs 1083).
+data/rag/reports/OR_LOreal_SA/rag_outputs/evidence_gap_log.md,REPLACE,700,676,Sizes differ (700 vs 676).
+data/rag/reports/PUB_Publicis_Groupe_SA/PUB_8test_prompt.txt,REPLACE,9938,9735,Sizes differ (9938 vs 9735).
+data/rag/reports/PUB_Publicis_Groupe_SA/financial_data/financial_data_gap_log.md,REPLACE,1139,1110,Sizes differ (1139 vs 1110).
+data/rag/reports/PUB_Publicis_Groupe_SA/rag_outputs/evidence_gap_log.md,REPLACE,726,702,Sizes differ (726 vs 702).
+data/rag/reports/RBI_Raiffeisen_Bank_International_AG/RBI_8test_prompt.txt,REPLACE,10052,9849,Sizes differ (10052 vs 9849).
+data/rag/reports/RBI_Raiffeisen_Bank_International_AG/financial_data/financial_data_gap_log.md,REPLACE,1155,1126,Sizes differ (1155 vs 1126).
+data/rag/reports/RBI_Raiffeisen_Bank_International_AG/rag_outputs/evidence_gap_log.md,REPLACE,742,718,Sizes differ (742 vs 718).
+data/rag/reports/RTO_Rentokil_Initial_PLC/RTO_8test_prompt.txt,REPLACE,9944,9741,Sizes differ (9944 vs 9741).
+data/rag/reports/RTO_Rentokil_Initial_PLC/financial_data/financial_data_gap_log.md,REPLACE,1131,1102,Sizes differ (1131 vs 1102).
+data/rag/reports/RTO_Rentokil_Initial_PLC/rag_outputs/evidence_gap_log.md,REPLACE,719,695,Sizes differ (719 vs 695).
+data/rag/reports/SGM_STMicroelectronics_NV/SGM_8test_prompt.txt,REPLACE,12634,12377,Sizes differ (12634 vs 12377).
+data/rag/reports/SGM_STMicroelectronics_NV/financial_data/financial_data_gap_log.md,REPLACE,6357,6249,Sizes differ (6357 vs 6249).
+data/rag/reports/SGM_STMicroelectronics_NV/rag_outputs/evidence_gap_log.md,REPLACE,8296,8204,Sizes differ (8296 vs 8204).
+data/rag/reports/SKWA_SSAB_AB/SKWA_8test_prompt.txt,REPLACE,12570,12313,Sizes differ (12570 vs 12313).
+data/rag/reports/SKWA_SSAB_AB/financial_data/financial_data_gap_log.md,REPLACE,6262,6154,Sizes differ (6262 vs 6154).
+data/rag/reports/SKWA_SSAB_AB/rag_outputs/evidence_gap_log.md,REPLACE,8076,7970,Sizes differ (8076 vs 7970).
+data/rag/reports/SOAN_UnipolSai_Assicurazioni_SpA/SOAN_8test_prompt.txt,REPLACE,12680,12423,Sizes differ (12680 vs 12423).
+data/rag/reports/SOAN_UnipolSai_Assicurazioni_SpA/financial_data/financial_data_gap_log.md,REPLACE,5527,5427,Sizes differ (5527 vs 5427).
+data/rag/reports/SOAN_UnipolSai_Assicurazioni_SpA/rag_outputs/evidence_gap_log.md,REPLACE,9908,9795,Sizes differ (9908 vs 9795).
+data/rag/reports/SOBI_Swedish_Orphan_Biovitrum_AB/SOBI_8test_prompt.txt,REPLACE,10109,9906,Sizes differ (10109 vs 9906).
+data/rag/reports/SOBI_Swedish_Orphan_Biovitrum_AB/financial_data/financial_data_gap_log.md,REPLACE,1149,1120,Sizes differ (1149 vs 1120).
+data/rag/reports/SOBI_Swedish_Orphan_Biovitrum_AB/rag_outputs/evidence_gap_log.md,REPLACE,806,782,Sizes differ (806 vs 782).
+data/rag/reports/SPSN_Swiss_Prime_Site_AG/SPSN_8test_prompt.txt,REPLACE,9945,9742,Sizes differ (9945 vs 9742).
+data/rag/reports/SPSN_Swiss_Prime_Site_AG/financial_data/financial_data_gap_log.md,REPLACE,1133,1104,Sizes differ (1133 vs 1104).
+data/rag/reports/SPSN_Swiss_Prime_Site_AG/rag_outputs/evidence_gap_log.md,REPLACE,719,695,Sizes differ (719 vs 695).
+data/rag/reports/SUBC_Subsea_7_SA/SUBC_8test_prompt.txt,REPLACE,9868,9665,Sizes differ (9868 vs 9665).
+data/rag/reports/SUBC_Subsea_7_SA/financial_data/financial_data_gap_log.md,REPLACE,1112,1083,Sizes differ (1112 vs 1083).
+data/rag/reports/SUBC_Subsea_7_SA/rag_outputs/evidence_gap_log.md,REPLACE,698,674,Sizes differ (698 vs 674).
+data/rag/reports/SU_Schneider_Electric_SE/SU_8test_prompt.txt,REPLACE,9945,9742,Sizes differ (9945 vs 9742).
+data/rag/reports/SU_Schneider_Electric_SE/financial_data/financial_data_gap_log.md,REPLACE,1131,1102,Sizes differ (1131 vs 1102).
+data/rag/reports/SU_Schneider_Electric_SE/rag_outputs/evidence_gap_log.md,REPLACE,719,695,Sizes differ (719 vs 695).
+data/rag/reports/SWEC_B_Sweco_AB_Class_B/SWEC_B_8test_prompt.txt,REPLACE,9936,9733,Sizes differ (9936 vs 9733).
+data/rag/reports/SWEC_B_Sweco_AB_Class_B/financial_data/financial_data_gap_log.md,REPLACE,1133,1104,Sizes differ (1133 vs 1104).
+data/rag/reports/SWEC_B_Sweco_AB_Class_B/rag_outputs/evidence_gap_log.md,REPLACE,717,693,Sizes differ (717 vs 693).
+data/rag/reports/TEL2_B_Tele2_AB_Class_B/TEL2_B_8test_prompt.txt,REPLACE,9947,9744,Sizes differ (9947 vs 9744).
+data/rag/reports/TEL2_B_Tele2_AB_Class_B/financial_data/financial_data_gap_log.md,REPLACE,1144,1115,Sizes differ (1144 vs 1115).
+data/rag/reports/TEL2_B_Tele2_AB_Class_B/rag_outputs/evidence_gap_log.md,REPLACE,728,704,Sizes differ (728 vs 704).
+data/rag/reports/UCB_UCB_SA/UCB_8test_prompt.txt,REPLACE,9819,9616,Sizes differ (9819 vs 9616).
+data/rag/reports/UCB_UCB_SA/financial_data/financial_data_gap_log.md,REPLACE,1104,1075,Sizes differ (1104 vs 1075).
+data/rag/reports/UCB_UCB_SA/rag_outputs/evidence_gap_log.md,REPLACE,691,667,Sizes differ (691 vs 667).
+data/rag/reports/VK_Vallourec_SA/VK_8test_prompt.txt,REPLACE,9864,9661,Sizes differ (9864 vs 9661).
+data/rag/reports/VK_Vallourec_SA/financial_data/financial_data_gap_log.md,REPLACE,1113,1084,Sizes differ (1113 vs 1084).
+data/rag/reports/VK_Vallourec_SA/rag_outputs/evidence_gap_log.md,REPLACE,701,677,Sizes differ (701 vs 677).
+data/rag/reports/WRT1V_Wartsila_Oyj_Abp/WRT1V_8test_prompt.txt,REPLACE,9927,9724,Sizes differ (9927 vs 9724).
+data/rag/reports/WRT1V_Wartsila_Oyj_Abp/financial_data/financial_data_gap_log.md,REPLACE,1130,1101,Sizes differ (1130 vs 1101).
+data/rag/reports/WRT1V_Wartsila_Oyj_Abp/rag_outputs/evidence_gap_log.md,REPLACE,715,691,Sizes differ (715 vs 691).
+data/rag/reports/ZURN_Zurich_Insurance_Group_Ltd/ZURN_8test_prompt.txt,REPLACE,10007,9804,Sizes differ (10007 vs 9804).
+data/rag/reports/ZURN_Zurich_Insurance_Group_Ltd/financial_data/financial_data_gap_log.md,REPLACE,1146,1117,Sizes differ (1146 vs 1117).
+data/rag/reports/ZURN_Zurich_Insurance_Group_Ltd/rag_outputs/evidence_gap_log.md,REPLACE,732,708,Sizes differ (732 vs 708).
+deliverables/Dashboard_Deployment_Guide.docx,IDENTICAL,39735,39735,Same size + content hash.
+deliverables/Section_Pipeline_Architecture.docx,IDENTICAL,41221,41221,Same size + content hash.
+docs/financial_filtering_framework/financial_filtering_agent copy.html,LOCAL_ONLY,75048,,Local session artefact.
+docs/financial_filtering_framework/financial_filtering_agent.html,LOCAL_ONLY,70993,,Local session artefact.
+docs/financial_filtering_framework/five-metric architecture.pdf,LOCAL_ONLY,75340,,Local session artefact.
+docs/financial_filtering_framework/version 2.pdf,LOCAL_ONLY,62182,,Local session artefact.
+exclusion of companies/Company Exclusions.docx,IDENTICAL,39105,39105,Same size + content hash.
+external_evidence_search_plan.md,REPLACE,24192,23749,Sizes differ (24192 vs 23749).
+generate_deployment_doc.py,IDENTICAL,12063,12063,Same size + content hash.
+generate_mandate_doc.py,IDENTICAL,82241,82241,Same size + content hash.
+generate_pipeline_diagram.py,IDENTICAL,15340,15340,Same size + content hash.
+generate_pipeline_report_section.py,IDENTICAL,18909,18909,Same size + content hash.
+launch_dashboard.bat,IDENTICAL,235,235,Same size + content hash.
+launch_jupyter.bat,IDENTICAL,97,97,Same size + content hash.
+notebooks/.ipynb_checkpoints/00_mandate-checkpoint.ipynb,LOCAL_ONLY,9463,,Exists only locally; will be left untouched.
+notebooks/.ipynb_checkpoints/01_data_ingestion-checkpoint.ipynb,LOCAL_ONLY,9972,,Exists only locally; will be left untouched.
+notebooks/.ipynb_checkpoints/07_biodiversity-checkpoint.ipynb,LOCAL_ONLY,15116,,Exists only locally; will be left untouched.
+notebooks/.ipynb_checkpoints/agent02_data_ingestion-checkpoint.ipynb,LOCAL_ONLY,38417,,Exists only locally; will be left untouched.
+notebooks/.ipynb_checkpoints/agent03_data_quality-checkpoint.ipynb,LOCAL_ONLY,30507,,Exists only locally; will be left untouched.
+notebooks/.ipynb_checkpoints/agent05_06_esg_climate-checkpoint.ipynb,LOCAL_ONLY,31254,,Exists only locally; will be left untouched.
+notebooks/.ipynb_checkpoints/agent09_greenwashing-checkpoint.ipynb,LOCAL_ONLY,23232,,Exists only locally; will be left untouched.
+notebooks/.ipynb_checkpoints/agent10_financial_analysis-checkpoint.ipynb,LOCAL_ONLY,93353,,Exists only locally; will be left untouched.
+notebooks/01_mandate.ipynb,REPLACE,13862,13862,Same size but content hash differs.
+notebooks/02_data_ingestion.ipynb,REPLACE,68209,48490,Sizes differ (68209 vs 48490).
+notebooks/03_data_quality.ipynb,REPLACE,30507,145823,Sizes differ (30507 vs 145823).
+notebooks/04_financial_analysis.ipynb,LOCAL_ONLY,135071,,Exists only locally; will be left untouched.
+notebooks/04b_fundamental_quality.ipynb,LOCAL_ONLY,82113,,Local session artefact.
+notebooks/05_esg_climate.ipynb,REPLACE,122178,163234,Sizes differ (122178 vs 163234).
+notebooks/05_esg_climate_backup.ipynb,REPLACE,111265,108946,Sizes differ (111265 vs 108946).
+notebooks/06_document_intelligence.ipynb,REPLACE,19796,19796,Same size but content hash differs.
+notebooks/07_biodiversity.ipynb,REPLACE,21001,21527,Sizes differ (21001 vs 21527).
+notebooks/08_eu_regulation.ipynb,REPLACE,30405,30923,Sizes differ (30405 vs 30923).
+notebooks/09_greenwashing.ipynb,REPLACE,27930,49777,Sizes differ (27930 vs 49777).
+notebooks/10_portfolio_construction.ipynb,REPLACE,69231,78750,Sizes differ (69231 vs 78750).
+notebooks/10_portfolio_construction.py,ADD,,20322,New file from download.
+notebooks/11_human_review.ipynb,REPLACE,25748,26929,Sizes differ (25748 vs 26929).
+notebooks/12_reporting.ipynb,REPLACE,160116,180370,Sizes differ (160116 vs 180370).
+notebooks/agent10_financial_analysis.ipynb,ADD,,240263,New file from download.
+notebooks/agent10_financial_analysis.py,ADD,,30056,New file from download.
+outputs/portfolio/exclusions.csv,REPLACE,1393,828,Sizes differ (1393 vs 828).
+outputs/portfolio/final_portfolio_2026-05-14.csv,REPLACE,6904,6883,Sizes differ (6904 vs 6883).
+outputs/portfolio/final_portfolio_2026-05-20.csv,ADD,,16891,New file from download.
+outputs/portfolio/financial_exclusions_2026-05-12.csv,REPLACE,745,721,Sizes differ (745 vs 721).
+outputs/portfolio/financial_exclusions_2026-05-20.csv,ADD,,6747,New file from download.
+outputs/portfolio/optimization_input_2026-05-20.csv,ADD,,1039,New file from download.
+outputs/portfolio/universe_scores_2026-05-14.csv,REPLACE,42247,42082,Sizes differ (42247 vs 42082).
+outputs/portfolio/universe_scores_2026-05-20.csv,ADD,,105578,New file from download.
+outputs/rag/doc_intel_EXAMPLE_TEMPLATE.json,REPLACE,3006,3006,Same size but content hash differs.
+outputs/rag/greenwash_EXAMPLE_TEMPLATE.json,REPLACE,2208,2232,Sizes differ (2208 vs 2232).
+outputs/rag/portfolio_change_log.csv,IDENTICAL,252,252,Same size + content hash.
+outputs/rag/rag_screening_summary.csv,IDENTICAL,1002,1002,Same size + content hash.
+outputs/rag/source_register.csv,IDENTICAL,6153,6153,Same size + content hash.
+outputs/reports/Investment_Mandate_and_Research.docx,IDENTICAL,70224,70224,Same size + content hash.
+outputs/reports/Pipeline_Architecture_Guide.docx,IDENTICAL,46649,46649,Same size + content hash.
+outputs/reports/ai_use_statement_2026-05-06.txt,REPLACE,2393,2346,Sizes differ (2393 vs 2346).
+outputs/reports/ai_use_statement_2026-05-20.txt,ADD,,2393,New file from download.
+outputs/reports/esg_comparison.png,REPLACE,36065,36414,Sizes differ (36065 vs 36414).
+outputs/reports/financial_screen_chart.png,ADD,,184815,New file from download.
+outputs/reports/pipeline_diagram.png,IDENTICAL,574217,574217,Same size + content hash.
+outputs/reports/portfolio_weights.png,REPLACE,68561,90897,Sizes differ (68561 vs 90897).
+outputs/reports/risk_return_chart.png,IDENTICAL,117978,117978,Same size + content hash.
+outputs/reports/sector_allocation.png,REPLACE,73931,76350,Sizes differ (73931 vs 76350).
+outputs/scores/biodiversity_scores_2026-05-14.csv,REPLACE,17457,17289,Sizes differ (17457 vs 17289).
+outputs/scores/biodiversity_scores_2026-05-20.csv,ADD,,28995,New file from download.
+outputs/scores/data_dictionary_2026-05-20.csv,ADD,,49250,New file from download.
+outputs/scores/esg_scores_2026-05-14.csv,REPLACE,21686,21518,Sizes differ (21686 vs 21518).
+outputs/scores/esg_scores_2026-05-20.csv,ADD,,43159,New file from download.
+outputs/scores/eu_regulation_2026-05-14.csv,REPLACE,9672,9504,Sizes differ (9672 vs 9504).
+outputs/scores/eu_regulation_2026-05-20.csv,ADD,,16044,New file from download.
+outputs/scores/financial_metrics_2026-05-12.csv,REPLACE,9940,9775,Sizes differ (9940 vs 9775).
+outputs/scores/financial_metrics_2026-05-20.csv,ADD,,65228,New file from download.
+outputs/scores/financial_screen_passed_2026-05-12.csv,REPLACE,8570,8428,Sizes differ (8570 vs 8428).
+outputs/scores/financial_screen_passed_2026-05-20.csv,ADD,,11451,New file from download.
+outputs/scores/fundamental_quality_2026-05-20.csv,LOCAL_ONLY,21183,,Local session artefact.
+outputs/scores/human_overrides_2026-05-20.csv,ADD,,1766,New file from download.
+outputs/scores/mandate.json,REPLACE,2027,2027,Same size but content hash differs.
+outputs/scores/master_dataset_2026-05-12.csv,REPLACE,367694,367526,Sizes differ (367694 vs 367526).
+outputs/scores/master_dataset_2026-05-13.csv,REPLACE,367741,367573,Sizes differ (367741 vs 367573).
+outputs/scores/master_dataset_2026-05-20.csv,ADD,,605780,New file from download.
+outputs/scores/outlier_flags_2026-05-20.csv,ADD,,65011,New file from download.
+outputs/scores/pai_indicators_2026-05-14.csv,REPLACE,1290,1275,Sizes differ (1290 vs 1275).
+outputs/scores/pai_indicators_2026-05-20.csv,ADD,,1290,New file from download.
+outputs/scores/sfdr_compliance_2026-05-14.csv,REPLACE,730,723,Sizes differ (730 vs 723).
+outputs/scores/sfdr_compliance_2026-05-20.csv,ADD,,730,New file from download.
+rag_workflow_status.csv,IDENTICAL,3574,3574,Same size + content hash.
+requirements.txt,REPLACE,94,339,Sizes differ (94 vs 339).
+run_pipeline.py,REPLACE,4428,5352,Sizes differ (4428 vs 5352).
+runtime.txt,IDENTICAL,12,12,Same size + content hash.
+scripts/financial/calculate_market_metrics_template.py,REPLACE,7459,8294,Sizes differ (7459 vs 8294).
+scripts/financial/extract_financials_from_reports_prompt.md,REPLACE,5533,5399,Sizes differ (5533 vs 5399).
+scripts/financial/fetch_price_data_template.py,REPLACE,4719,4599,Sizes differ (4719 vs 4599).
+scripts/financial/financial_scoring_template.py,REPLACE,10437,9009,Sizes differ (10437 vs 9009).
+scripts/prepare_rag_inputs.py,REPLACE,32348,31639,Sizes differ (32348 vs 31639).
+setup.bat,IDENTICAL,837,837,Same size + content hash.
+source_collection_tracker.csv,IDENTICAL,131320,131320,Same size + content hash.

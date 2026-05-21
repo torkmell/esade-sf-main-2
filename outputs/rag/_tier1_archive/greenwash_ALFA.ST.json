@@ -1,0 +1,64 @@
+{
+  "ticker": "ALFA.ST",
+  "company_name": "Alfa Laval AB",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Strong climate disclosure \u2014 near-dated net-zero (Scope 1+2 by 2027), explicit 2020 baseline, SBTi-approved targets, full scope coverage. One MED: emissions-data assurance level not crisply evidenced in the extract.",
+  "dimensions": {
+    "specificity": {
+      "quote": "The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027",
+      "page": 18,
+      "value": "net zero S1+2 by 2027",
+      "rating": "LOW",
+      "reasoning": "Specific, near-dated net-zero ambition with defined scope coverage."
+    },
+    "metric": {
+      "quote": "Reduction scope 1 & 2 (base year 2020) 95%",
+      "page": 18,
+      "value": "95% S1+2; 50% S3",
+      "rating": "LOW",
+      "reasoning": "Quantified reduction percentages for Scope 1+2 and Scope 3."
+    },
+    "baseline": {
+      "quote": "Reduction scope 1 & 2 (base year 2020)",
+      "page": 18,
+      "value": "2020",
+      "rating": "LOW",
+      "reasoning": "Explicit 2020 base year, used consistently."
+    },
+    "target": {
+      "quote": "approved by SBTi as compatible with limiting global warming",
+      "page": 33,
+      "value": "SBTi-approved, 1.5C",
+      "rating": "LOW",
+      "reasoning": "Targets approved by the SBTi as 1.5C-compatible."
+    },
+    "time_horizon": {
+      "quote": "net zero scope 1 and 2 GHG emissions by 2027 ... value chain by 2050",
+      "page": 18,
+      "value": "2027 + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-dated 2027 operations target alongside the 2050 value-chain endpoint."
+    },
+    "scope": {
+      "quote": "upstream and downstream scope 3 GHG emissions",
+      "page": 27,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scope 1, 2 and upstream/downstream Scope 3 covered."
+    },
+    "verification": {
+      "quote": "validated by an external body other than company auditors",
+      "page": 27,
+      "value": "external validation referenced",
+      "rating": "MED",
+      "reasoning": "External validation is referenced and a transition plan was prepared, but the assurance level of the emissions data is not crisply evidenced in the extract."
+    },
+    "consistency": {
+      "quote": "During 2025, Alfa Laval prepared a transition plan for climate",
+      "page": 30,
+      "value": "transition plan; lobbying disclosed",
+      "rating": "LOW",
+      "reasoning": "Documented transition plan; political-lobbying activity disclosed; no contradiction surfaced."
+    }
+  }
+}

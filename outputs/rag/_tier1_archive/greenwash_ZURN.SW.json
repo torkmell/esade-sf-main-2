@@ -1,0 +1,64 @@
+{
+  "ticker": "ZURN.SW",
+  "company_name": "Zurich Insurance Group Ltd",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Insurer climate disclosure \u2014 net-zero-business ambition with a launched transition plan, quantified targets on explicit 2019/2022 baselines, PCAF-based insurance-associated emissions, independent assurance report. One MED (assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6,
+      "value": "net-zero business by 2050",
+      "rating": "LOW",
+      "reasoning": "Net-zero-business ambition anchored to a launched climate transition plan."
+    },
+    "metric": {
+      "quote": "60 percent reduction by 2025",
+      "page": 3,
+      "value": "60% by 2025",
+      "rating": "LOW",
+      "reasoning": "Quantified reduction targets against stated baselines."
+    },
+    "baseline": {
+      "quote": "Compared with our 2019 baseline",
+      "page": 3,
+      "value": "2019 / 2022",
+      "rating": "LOW",
+      "reasoning": "Explicit 2019 (and 2022) baseline years."
+    },
+    "target": {
+      "quote": "credible science-based targets",
+      "page": 4,
+      "value": "science-based targets",
+      "rating": "LOW",
+      "reasoning": "Quantified, baseline-anchored science-based targets across operations and portfolio."
+    },
+    "time_horizon": {
+      "quote": "60 percent reduction by 2025 ... By 2030, we will engage",
+      "page": 3,
+      "value": "2025 / 2030 + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2025/2030 targets present."
+    },
+    "scope": {
+      "quote": "scope 1 and 2 for our customers' emissions using the ... PCAF ... methodology",
+      "page": 4,
+      "value": "S1+2 + PCAF insurance-associated",
+      "rating": "LOW",
+      "reasoning": "Operational Scope 1+2 and PCAF insurance-associated emissions covered."
+    },
+    "verification": {
+      "quote": "Independent assurance report",
+      "page": 219,
+      "value": "external assurance",
+      "rating": "MED",
+      "reasoning": "An independent assurance report is provided; the assurance level is not crisply stated in the extract."
+    },
+    "consistency": {
+      "quote": "progress in implementing our climate transition plan",
+      "page": 6,
+      "value": "transition plan; trade-association activity disclosed",
+      "rating": "LOW",
+      "reasoning": "Climate transition plan in implementation; trade-association participation disclosed; no contradiction surfaced."
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ticker": "SBMO.AS",
+  "company_name": "SBM Offshore NV",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions\" (SBM-Offshore-Annual-Report-2025.pdf, p12). SBTi: no validated target in the SBTi database. 8-Test: 4 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Offshore-energy contractor. Disclosure is structured (2016 base year, intermediary 2030 targets, ISAE limited assurance) but four MED flags reflect an offset-reliant near-term 'climate neutral' claim, SBTi-guideline-based (not...",
+  "dimensions": {
+    "specificity": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    }
+  }
+}

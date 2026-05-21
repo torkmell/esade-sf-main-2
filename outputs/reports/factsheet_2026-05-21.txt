@@ -1,0 +1,54 @@
+======================================================================
+   PORTFOLIO FACTSHEET — KEY METRICS
+======================================================================
+  Date:                    2026-05-21
+  Number of Holdings:      20
+  Sectors Represented:     7  (minimum: 5)
+  Largest Sector Weight:   23.7%  (ceiling: 25%)
+  Max Single Weight:       6.2%  (ceiling: 10%)
+  Weighted ESG Score:      83.1 / 100
+  Stage 3 Universe ESG:    79.3 / 100  (capped-40 average)
+  ESG Uplift vs Universe:  +3.8 points
+  Weighted Sharpe Ratio:   0.625
+  WACI:                    156 tCO2e/$M revenue
+  Greenwashing 8-Test:     20/20 PASS  (0 exclude, 0 watchlist)
+======================================================================
+   DATA QUALITY & DISCLOSURES   (factsheet body — not a footnote)
+======================================================================
+  WACI — data quality disclosure.
+  The portfolio WACI of approximately 156 tCO2e per $M revenue is computed
+  from company-level Scope 1+2 carbon intensity values. 18 of 20 holdings
+  (90%) use sector-median imputation as the underlying carbon
+  intensity, with only UCB S.A., Subsea 7 S.A. contributing company-reported Bloomberg
+  values. The single highest-intensity name (Norsk Hydro ASA at 2,150 tCO2e/$M,
+  weight 4.5%) accounts for approximately 62% of the portfolio
+  WACI; excluding Norsk Hydro ASA, portfolio WACI is approximately 62.
+
+  WACI for the 4 Financials holdings uses the sector-median value of
+  0.72 tCO2e/$M and does NOT include PCAF-aligned Scope 3 financed
+  emissions, which would substantially increase the reported figure (known
+  methodology limitation, disclosed in Section 11 of the report).
+
+  Treat the headline number as an aggregate sector-typical estimate, not a precise
+  measurement. Forward priorities: (a) PCAF Scope 3 financed-emissions integration
+  for the Financials sleeve, and (b) closing Bloomberg data gaps for Industrials,
+  Real Estate and Health Care holdings.
+
+  IC overrides.     9/20 holdings carry a documented IC override decision
+                    (4 KEEP_DOCUMENTED, 3 RESOLVED, 1 MONITOR, 1 PENDING_RAG). Rationale + third-party evidence in the IC
+                    Override Notes memo; per-holding metadata in final_portfolio.
+  Recovered data.   3 holding(s) RECOVERED_LIMITED — market metrics only:
+                    Klepierre SA, MERLIN Properties SOCIMI, S.A., Industria de Diseno Textil, S.A..
+  Review-flagged.   2 holding(s) REVIEW_REQUIRED — incomplete financial
+                    data, routed to IC review: AIB Group plc, Lloyds Banking Group plc.
+  EU Taxonomy.      5/20 holdings have eligibility data, 4/20 alignment —
+                    present as an OVERLAY, not a portfolio compliance claim.
+  Greenwashing.     8-Test (NB09) run on all 20/20 holdings: 20 PASS,
+                    0 exclude, 0 watchlist. No holding scored HIGH on any
+                    of the 8 dimensions. Weight-averaged 8-Test concern score
+                    8.2% (0=clean, 100=severe); highest-concern holding
+                    Subsea 7 S.A. at 37.5%. Every rating is backed by a
+                    verbatim, page-cited quote in outputs/rag/greenwash_<TICKER>.json.
+  Watchlist.        8/20 holdings (39% of weight) watchlisted — all
+                    covered by the IC override decisions above.
+======================================================================

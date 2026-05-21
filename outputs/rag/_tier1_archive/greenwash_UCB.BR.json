@@ -1,0 +1,64 @@
+{
+  "ticker": "UCB.BR",
+  "company_name": "UCB S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Pharma integrated annual report. Strong climate disclosure \u2014 SBTi-Net-Zero-standard-aligned targets, 90% absolute reduction vs an explicit 2019 base year, transition plan fully embedded in capital allocation, externally assured. One MED (assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28,
+      "value": "net zero, SBTi Net-Zero standard",
+      "rating": "LOW",
+      "reasoning": "Specific net-zero commitment aligned to the SBTi Net-Zero standard."
+    },
+    "metric": {
+      "quote": "Absolute CO2e reduction by 90% vs 2019 base year",
+      "page": 56,
+      "value": "90% absolute reduction",
+      "rating": "LOW",
+      "reasoning": "Quantified absolute reduction targets."
+    },
+    "baseline": {
+      "quote": "by 73% vs 2019 base year",
+      "page": 56,
+      "value": "2019",
+      "rating": "LOW",
+      "reasoning": "Explicit 2019 base year, used consistently."
+    },
+    "target": {
+      "quote": "with CO2e target aligned with SBTi",
+      "page": 17,
+      "value": "SBTi-aligned",
+      "rating": "LOW",
+      "reasoning": "Emissions targets aligned with the SBTi; transition plan validated by the Executive Committee."
+    },
+    "time_horizon": {
+      "quote": "across the 2030, 2040 and 2050 horizons ... emissions by 2045",
+      "page": 55,
+      "value": "2030 + 2045",
+      "rating": "LOW",
+      "reasoning": "Near-term 2030 milestones present alongside a ~2045 net-zero horizon."
+    },
+    "scope": {
+      "quote": "Absolute reduction in Scope 1, 2 and 3 (except scope 3 category 1)",
+      "page": 33,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scopes 1, 2 and 3 covered (Scope 3 category 1 exclusion disclosed)."
+    },
+    "verification": {
+      "quote": "Statement and Financials section, are assured by Forvis Mazars",
+      "page": 3,
+      "value": "externally assured (Forvis Mazars)",
+      "rating": "MED",
+      "reasoning": "Externally assured by Forvis Mazars; the assurance level is not crisply stated in the extract."
+    },
+    "consistency": {
+      "quote": "UCB's ten-year climate transition plan is fully embedded ... capital allocation",
+      "page": 55,
+      "value": "transition plan embedded in capital allocation",
+      "rating": "LOW",
+      "reasoning": "Transition plan fully embedded in capital allocation; capex assessed under climate scenarios; consistent."
+    }
+  }
+}

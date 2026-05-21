@@ -1,0 +1,64 @@
+{
+  "ticker": "SPSN.SW",
+  "company_name": "Swiss Prime Site AG",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"net-zero operations in our property portfolio by 2040\" (SPS_ESG-Booklet_EN.pdf, p3). SBTi: no validated target in the SBTi database. 8-Test: 3 PARTIAL, 0 FAIL, 2 MISSING -> PASS. SOURCE LIMITATION: assessed from Swiss Prime's 16-page ESG summary booklet; the company's full disclosures are split across separate E/S/G reports. 'baseline' and 'consistency' are marked MISSING because they are absent from this...",
+  "dimensions": {
+    "specificity": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "MISSING",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "net-zero operations in our property portfolio by 2040",
+      "page": 3.0,
+      "value": "",
+      "rating": "MISSING",
+      "reasoning": ""
+    }
+  }
+}

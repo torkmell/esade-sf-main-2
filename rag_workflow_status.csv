@@ -1,0 +1,21 @@
+company_name,company_folder,company_reports_audited,evidence_gap_log_created,external_evidence_collected,eight_test_completed,human_verification_required,human_verification_completed,status,notes
+VAT Group AG,data/rag/reports/19V_VAT_Group_AG,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Argenx SE,data/rag/reports/1AE_Argenx_SE,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Swissquote Group Holding SA,data/rag/reports/1SQ_Swissquote_Group_Holding_SA,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Ferrari NV,data/rag/reports/2FE_Ferrari_NV,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+NN Group NV,data/rag/reports/2NN_NN_Group_NV,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Gaztransport Et Technigaz SA,data/rag/reports/9TG_Gaztransport_Et_Technigaz_SA,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+ASML Holding NV,data/rag/reports/ASME_ASML_Holding_NV,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+ASM International NV,data/rag/reports/AVS_ASM_International_NV,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+BE Semiconductor Industries NV,data/rag/reports/BSI_BE_Semiconductor_Industries_NV,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Ringkjoebing Landbobank A/S,data/rag/reports/CJ2_Ringkjoebing_Landbobank_AS,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Diploma PLC,data/rag/reports/DP9_Diploma_PLC,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Games Workshop Group PLC,data/rag/reports/G7W_Games_Workshop_Group_PLC,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Infineon Technologies AG,data/rag/reports/IFX_Infineon_Technologies_AG,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+3i Group PLC,data/rag/reports/IGQ5_3i_Group_PLC,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+SBM Offshore NV,data/rag/reports/IHCB_SBM_Offshore_NV,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Mycronic AB,data/rag/reports/MLT_Mycronic_AB,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+Norsk Hydro ASA,data/rag/reports/NOH1_Norsk_Hydro_ASA,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+STMicroelectronics NV,data/rag/reports/SGM_STMicroelectronics_NV,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+SSAB AB,data/rag/reports/SKWA_SSAB_AB,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.
+UnipolSai Assicurazioni SpA,data/rag/reports/SOAN_UnipolSai_Assicurazioni_SpA,YES,YES,PARTIAL,NO,YES,NO,Evidence gaps identified,Gap log written 2026-05-16. External validation required.

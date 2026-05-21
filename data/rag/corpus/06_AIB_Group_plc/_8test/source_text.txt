@@ -1,0 +1,3019 @@
+# AIB Group plc (A5G.IR)
+# primary source: aib-climate-transition-plan-final.pdf  (38 pages)
+
+[page 1]
+For the life 
+you’re after
+AIB Group plc
+Climate Transition Plan
+
+[page 2]
+Welcome to our 
+Climate Transition Plan
+This Climate Transition Plan looks to bring 
+together all elements of our evidence-based 
+climate journey into a blueprint for action for 
+the coming years. It charts how we can achieve 
+our ambitions, based on our record, our resolve 
+and the systems we have in place.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan
+
+[page 3]
+Introduction to our transition planning 
+journey and this Climate Transition Plan 02
+Foreword from our Chief Executive Officer 03
+Our Climate Transition Plan at a glance 04
+Overview of climate transition planning 06
+Our transition planning journey so far 08
+Foundations of our Climate Transition Plan 10
+Strategic ambition 11
+Integration with the business model and value chain 12
+ESG risks associated with the transition 15
+Implementation and engagement strategy 17
+Overview of implementation and engagement strategy 18
+Levers and accompanying actions to achieve our 
+decarbonisation ambition 19
+Enablers in place to realise decarbonisation ambition 23
+Financial planning 25
+Metrics and targets 26
+Overview of metrics and targets 27
+Governance, business and operational metrics 
+and targets 27
+Financial metrics and targets 27
+GHG metrics and targets 28
+Additional metrics and targets under consideration 30
+Excluded activities 30
+Governance 31
+Overview of AIB’s sustainability governance structures 32
+Oversight, management and accountability for the 
+Climate Transition Plan 33
+Skills, competencies, training and culture 33
+Incentives and remuneration 33
+Next steps in transition planning 34
+Appendices 35
+Appendix 1 – Glossary 35
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 01
+
+[page 4]
+Introduction
+Our transition planning journey  
+and this Climate Transition Plan
+03 Foreword from our 
+Chief Executive Officer
+04 Our Climate Transition Plan 
+at a glance
+06 Overview of climate 
+transition planning
+08 Our transition planning 
+journey so far
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 02
+
+[page 5]
+Foreword from our Chief Executive Officer
+This first Climate Transition 
+Plan charts how we can 
+achieve our ambitions, 
+based on our research, our 
+record, our resolve and the 
+responsible systems we have 
+put in place”
+A blueprint for further action
+Greening our business is one of AIB’s three strategic priorities and sustainability is at the 
+heart of everything we do. This is AIB’s first stand-alone Climate Transition Plan, which brings 
+together all the elements of our evidence-based climate journey so far into one consolidated, 
+forward-looking blueprint for action for the coming years.
+Since 2016, when we started on our sustainability journey, we have 
+set out a bold ambition to decarbonise our operations and our 
+lending portfolio. We were the first bank in the world to put in place 
+validated and internationally recognised Science Based Targets 
+initiative (SBTi) maintenance targets for our electricity generation 
+portfolio and we also have put in place SBTi emissions reduction 
+targets for our other key loan portfolios. 
+This foundation gives us clarity on our future direction. Against current 
+uncertainties, AIB is fast-tracking our transition to decarbonisation. 
+As a more sustainable organisation we believe we will not only thrive 
+economically, we will also contribute positively to society and reduce 
+our impact on the environment, helping to ensure a better future 
+for everyone.
+Conversely, not acting on sustainability and climate – not having 
+a plan – makes acting on everything else that matters to us, like 
+health, housing, education or equality, much harder to achieve. 
+This Climate Transition Plan also comes at a critical juncture, half-way 
+through what the UN has called the ‘Decade of Action’ for sustainable 
+solutions to some of the world’s biggest challenges. The financial 
+sector has a pivotal role to play in enabling this transition, given the 
+scale of investment needed.
+We take this responsibility seriously at every level of the organisation. 
+Our governance framework provides watertight oversight and 
+ownership of the Group’s sustainability strategy and the management 
+of Impacts, Risks and Opportunities (IROs) at Board and 
+Executive levels. 
+Our ambition is that 70% of AIB’s lending will be green or transition 
+by 2030 and we are well over half-way to reaching our green and 
+transition lending target of €30bn. In addition, we have continued 
+to raise funds for the transition through green and social bonds, 
+giving us the proceeds to support even more sustainable and social 
+impact projects. 
+This first Climate Transition Plan charts how we can achieve our 
+ambitions, based on our research, our record, our resolve and the 
+responsible systems we have put in place. 
+It shows that sustainability isn’t a side project at AIB. It’s our strategy 
+for a better future.
+Colin Hunt
+Chief Executive Officer
+1. Decade of Action | United Nations Development Programme .
+Colin Hunt, Chief Executive Officer
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 03
+
+[page 6]
+Our Climate Transition Plan at a glance
+Ambition & 
+Commitments 
+AIB became the first Irish bank to make 
+decarbonisation commitments
+Commitment to decarbonise our own operations by 2030 and our customer 
+lending portfolio by 2050
+Set SBTi-approved financed emissions targets for 75% of our loan book
+Read more on p23
+Levers & Actions  
+to Achieve Ambitions 
+Providing green and 
+transition financing to 
+support climate action
+Read more on p19
+Offering green products 
+and propositions to meet 
+customers’ needs
+Read more on p20
+Read more on p21
+Enablers (supporting measures)
+Educating
+Educating our customers 
+and our colleagues on their 
+sustainability journeys
+Policies and frameworks 
+guiding our Climate 
+Transition Plan
+Read more on p23
+Read more on p24
+Collaboration
+Collaboration, partnership 
+and thought leadership to 
+support change
+Engaging with 
+our value chain
+Read more on p23
+Read more on p24
+Scope 1 and 2  
+GHG emissions 
+Reducing our direct emissions
+GHG Scope 3  
+financed emissions 
+Reducing the emissions of our  
+value chain
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 04
+
+[page 7]
+Our Climate Transition Plan at a glance continued
+Metrics and Targets
+Increase the annual sourcing 
+of renewable electricity to
+100%
+by 2030 from a 2019 baseline of 1%
+Read more on p28
+Target of 
+70%
+of new lending classified as 
+green and transition by 2030
+Read more on p27
+Read more on p27
+Target to deploy
+€30bn
+of green and transition lending by 2030
+Corporate  
+Portfolio Coverage
+Target to increase to 
+54% loan volumes covered 
+by emission targets
+by 2030 from  
+a 12% baseline
+Electricity 
+Generation
+Maintain target 
+of 21g CO 2/kWh 
+or below 21g CO2/kWh
+Residential 
+Mortgages
+Target of 58% 
+reduction in emissions 
+intensity required by 2030 
+Commercial 
+Real Estate
+Target of 67% 
+reduction in emissions 
+intensity required by 2030
+Read more on p29Read more on p29Read more on p29 Read more on p29
+Reduce absolute Scope 1 
+GHG emissions by
+34%
+by 2027
+Read more on p28
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 05
+
+[page 8]
+Overview of climate transition planning
+Over the past decade, governments around the world have committed to decarbonise 
+by reducing greenhouse gas (GHG) emissions to zero, or close to zero, by mid-century.
+High Ambitions. Global Challenges 
+& Uncertainty.
+The path to decarbonisation was never going to be linear. 
+However, challenges have arisen in recent years and progress 
+globally towards the Paris Agreement is lagging behind targets, 
+with consequences for society and for the environment. Our own 
+progress towards decarbonisation targets in our portfolios is 
+broadly on track and we are increasing the comprehensiveness 
+of our approach.
+Despite targets, global agreements and nationally declared 
+ambitions, the United Nations Environment Programme’s (UNEP) 
+2024 Emissions Gap Report indicates that GHG emissions have 
+reached unprecedented levels, with projections suggesting 
+a potential global temperature rise of 3.1°C by the end of the century 
+if current policies persist. This trajectory significantly exceeds the 
+1.5°C target set by the Paris Agreement, highlighting the need for 
+immediate and substantial actions to reduce emissions. 3 In Ireland, 
+a recent report by the Environmental Protection Agency (EPA) 
+indicates that Ireland is also significantly off track for its 2030 
+climate targets. 4
+Cleaner Energy. Smarter Lending. 
+Real Impact.
+While challenges exist, there is also a lot of progress happening 
+across the globe, particularly with regard to the increasing investment 
+and deployment of renewable energy, which can power a lower-
+carbon economic model.
+The financial sector has a pivotal role to play in enabling the 
+transition to a more sustainable economy, given the scale of 
+investment required. Governments cannot make the transition 
+alone and financial institutions can support the realisation of national 
+emission reduction targets in different ways: investing in renewable 
+energy projects; financing energy efficiency measures such as 
+retrofitting homes or commercial buildings; providing competitive 
+loans to enable businesses and households to make the switch to 
+a low-carbon economy; and supporting and advising customers 
+as sustainability leaders.
+The Irish Government’s Climate Action Plan (CAP) underscores 
+the importance of the financial sector’s positioning and has said 
+previously that there must be a “focus on steering investments 
+towards sustainable and green initiatives, away from those 
+inconsistent with Ireland’s emission ceilings”.5
+Focus on steering 
+investments towards 
+sustainable and green 
+initiatives, away from 
+those inconsistent with 
+Ireland’s emission ceilings”
+Ireland’s Climate Action and Low Carbon Development (Amendment) 
+Act 20212 set the country on a binding path to decarbonisation by 
+2050 and a 51% reduction in emissions by the end of this decade, 
+in line with EU commitments. The Act provided the framework for 
+annual Climate Action Plans, economy-wide carbon budgets, sectoral 
+emissions ceilings, and national strategies in areas from offshore 
+wind to biodiversity, to meet our commitments.
+The UK jurisdiction, within which AIB also operates, has a similar 
+strategy and targets in place. Collectively, these strategies outline 
+approaches to reduce emissions across the economy and provide 
+guidance on supporting the transition through innovation, green 
+investments and embedding sustainability ambitions.
+3.1°C
+projected global 
+temperature rise
+1.5°C
+target set by the 
+Paris Agreement
+2. Climate Action and Low Carbon Development (Amendment) Bill 2021.
+3. Climate Action Plan 2025.
+4. EPA Projections Show Ireland off Track for 2030 Climate Targets | Environmental Protection Agency.
+5. Climate Action Plan 2024.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 06
+
+[page 9]
+Overview of climate transition planning continued
+Measurement means management
+It is in this context that AIB embarked on our own transition planning 
+journey for climate mitigation. Our emissions targets span our most 
+material sectors, and we will continue to decarbonise across all 
+sectors on our loan book in line with the Government’s CAP. 
+However, to do this effectively and as quickly as possible, we need 
+a clear action plan.
+Our first stand-alone Climate Transition Plan will help our journey. 
+It brings all elements of our climate-focused transition planning 
+journey to date into one consolidated and forward-focused plan for 
+future action. This is based on a strong foundation of measurement, 
+evidence, transparency and disclosure, with a clear eye on what 
+must happen next.
+Over the coming pages, we outline our strategic ambitions; 
+environmental, social and governance (ESG) risks associated with 
+transitioning and how we will manage them; levers and enablers in 
+place to realise our decarbonisation ambitions; our metrics and 
+targets across governance, operations and finance; and how we will 
+ensure oversight, management and accountability for this Climate 
+Transition Plan.
+In this way, we aim to reach our important sustainability Key 
+Performance Indicators (KPIs) and maintain a leading sustainability 
+role, so we can support and empower more people to build a more 
+sustainable future.
+Governance is the driver
+Materiality assessment is central to all our plans. This means that 
+we assess what is most important to our sustainability strategy and 
+business to guide the transition for our five key sectors – Energy, 
+Transport, Housing, Food/Agri Manufacturing and Agriculture.
+Our governance framework provides oversight and ownership of the 
+Group’s sustainability strategy and the management of material IROs 
+at Board and Executive levels.
+In addition, management of Climate & Environmental (C&E) Risk 
+is embedded into our organisational structure and governance 
+processes. AIB uses thresholds to support management of material 
+C&E Risks, with a clear approach for credit management of risks that 
+are, or likely to become, material, including customer due diligence. 
+C&E Risk is embedded into broader risk management activities 
+including consideration of Operational Risk, Market Risk and 
+Reputational Risks. Capital adequacy for C&E Risks is considered as 
+part of our Internal Capital Adequacy Assessment Process (ICAAP).
+We are internationally recognised as a sustainability business 
+and banking leader, strengthened by our range of international 
+commitments, partnerships and ratings record from agencies 
+like Morningstar Sustainalytics, Carbon Disclosure Project (CDP) 
+or S&P.
+Empowering people to build a sustainable future
+AIB is playing a leading role in accelerating the transition to a lower carbon economy and society
+Rapidly reduce emissions
+Supporting businesses and 
+households to decarbonise
+Effective 
+climate 
+governance
+Decarbonising 
+our own 
+operations
+Mobilise and utilise capital for 
+green infrastructure
+Financing social infrastructure 
+and investing in innovation
+C&E risk 
+management
+In-house 
+research 
+and data 
+expertise
+Leave nobody behind
+Acting responsibly with 
+integrity and transparency
+Employee 
+engagement 
+and training
+Partnerships 
+and advocacy 
+for progress
+Transparency 
+and disclosures
+What needs to happen globally and locally
+How is AIB driving the transition
+Making it happen
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 07
+
+[page 10]
+Our transition planning journey so far
+Through our purpose of empowering people to build a sustainable future, we are committed 
+to building long-term resilience and sustainability for our business, economy and society. 
+We want to ensure that our stakeholders are aware of our decarbonisation ambition to 
+transition to a sustainable future and we will support them to join us on this journey.
+We’re aligned with global banking best practice and the Paris Agreement target to limit the global average temperature increase to 
+1.5°C above pre-industrial levels. In doing so, we have a number of validated targets in place for our key sectors through the SBTi.
+Decarbonisation 
+Journey
+€3.3bn
+in green and transition 
+lending in 2022
+€3.7bn
+in green and transition  
+lending in 2023
+€5.1bn
+in green and transition  
+lending in 2024
+€4.65bn
+Since 2020, AIB has issued six 
+Green Bonds, totalling €4.65bn
+Totalling
+€1.5bn
+Issued two Green Bonds
+Successful launch of the 
+Strategic Banking Corporation 
+of Ireland (SBCI) Energy Efficient 
+Loan Scheme
+Signed the Virtual Power 
+Purchase Agreement (VPPA) 
+to support our energy needs
+Covered
+75%
+of the lending portfolio as of 2021 
+SBTi-validated targets for Residential 
+Mortgages, Commercial Real Estate, 
+Electricity Generation and a Portfolio 
+Coverage Target
+Acquired Clearstream (a corporate 
+climate and sustainability services 
+provider) to enable us to further 
+support our customers in 
+their transition
+AIB Raised
+€750m
+during 2023 by issuing its fifth  
+Green Bond
+35% of new lending was classified 
+as green or transition
+€16.6bn of green and transition lending 
+has been deployed since 2019
+Began purchasing certified renewable 
+energy via two newly constructed solar 
+farms in Co. Wexford
+Launched a strategic investment 
+programme in our network, investing 
+in a range of upgrades to branches 
+and ATMs
+€2.67bn
+The Socially Responsible Investment 
+Bond Portfolio reached €2.67bn
+2022 2023 2024
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 08
+
+[page 11]
+Sustainability leader
+We began reducing our own operational emissions in 2016 and, 
+in 2020, AIB became the first Irish bank to make decarbonisation 
+commitments, including our commitment to decarbonise our 
+own operations by 2030 and our customer lending portfolios 
+by 2050.
+We launched our green mortgage product in 2019. We have set 
+SBTi-validated targets for 75% of our loan book and in April 2023 
+were the first bank in the world to receive SBTi-approved 
+maintenance targets for electricity generation. AIB was the first 
+Irish bank to enter the Green Bond market in 2019 and, in 2020, 
+we were the first Irish Bank to issue a Green Bond, for €1bn.
+Our transition planning journey so far continued
+Beyond environment and climate
+We know that sustainability extends beyond the environment – 
+it’s about social progression and resilient, transparent governance.
+We put people at the centre of everything we do by ensuring that 
+our colleagues feel supported and empowered at work, with strong 
+gender balance and universal inclusion. We promote financial 
+wellbeing by continually adapting our services and products to meet 
+the needs of all our customers throughout their life stages. We are 
+also supporting more people to have a home: 52% of our mortgages 
+in 2024 were green and €2.7bn in new lending in 2024 went to first 
+time buyers in Ireland.
+We support communities through our AIB Community €1 Million 
+Fund. Please read more about our impact in the community and 
+an overview of the initiatives we’re funding and supporting at  
+https://aib.ie/sustainability.
+Established AIB’s 
+Sustainability Academy, 
+a hub for ESG learning, 
+research and training 
+support for all colleagues
+Developed our ‘SME Steps 
+to Sustainability’, a go-to 
+resource for SME businesses, 
+designed to guide them to 
+take sustainable action
+AIB launched new shorter-
+term green mortgage 
+products with rates starting 
+from 3% for higher energy 
+efficient homes. The launch 
+of these new Green Fixed 
+Rates followed a number 
+of cuts to mortgage rates 
+by AIB Group throughout 
+the year
+Developed our new 
+Transition Finance 
+Guidance to enhance 
+our transition finance 
+proposition for our 
+corporate and 
+business customers
+Announced that we will 
+invest over €20m in 
+sustainability education 
+and research, with €10m 
+allocated to a new AIB 
+Trinity Climate Hub in 
+Trinity College Dublin 
+and a €10m commitment 
+as a founding partner of 
+Innovate for Ireland
+2024 2030
+Decarbonise our own 
+operations across 
+Scope 1 and 2 
+emissions by 2030
+SBTi-validated  
+target
+75%
+of lending  
+portfolio
+Ambition
+70%
+of new lending to be  
+green and transition  
+by 2030
+2050
+Decarbonise  
+our customer 
+lending portfolio
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 09
+
+[page 12]
+Foundations  
+of our Climate 
+Transition Plan
+11 Strategic ambition
+12 Integration with the business 
+model and value chain
+15 ESG risks associated 
+with the transition
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 10
+
+[page 13]
+Strategic ambition
+Overarching business strategy
+In recent years, our sustainability strategy has helped to guide the transition planning journey in AIB. 
+This sustainability strategy is integrated with our overall Group strategy. It aligns with AIB’s three strategic 
+areas of focus, which place an enhanced focus on serving our customers across the Group, greening our 
+business, and driving greater operational efficiency and resilience. It is also embedded within the financial 
+planning process (detailed further in the ‘Financial planning’ section).
+Customer First
+We will develop deeper, more 
+enduring relationships with our 
+customers by better serving their 
+financial needs through 
+integrated propositions.
+Greening our Business
+We will mobilise capital to 
+support climate action, be 
+a catalyst for positive change  
+and continue to build on our 
+sustainability leadership.
+Operational Efficiency  
+& Resilience
+We will ensure the appropriate 
+capability, capacity and resilient 
+platforms are in place to support 
+the Group’s strategic ambition.
+Three strategic areas of focus
+Strategic ambition of this 
+Climate Transition Plan
+Through our Climate Transition Plan, we aim to realise 
+our 2030 and 2050 sustainability ambitions, which will 
+further the transition towards a low-GHG emissions, 
+climate-resilient economy. 
+It details how we will pursue our objectives and priorities, 
+in a manner that tries to capture opportunities and aspires 
+to safeguard the natural environment. 
+This Climate Transition Plan forms part of our sustainability 
+reporting suite, which also includes our Annual Financial Report 
+(AFR) Sustainability Statement , our Sustainability Disclosures 
+Tables and our Pillar 3 reporting .
+As a financial institution, we also have a role to play in combatting 
+climate change through our lending and investment activities, 
+recognising that significant investments are required globally to 
+finance the green transition. The implementation of our strategy 
+is supported by our operating segments:
+We continue to support the low-carbon transition, empowering 
+people to build a sustainable future, and have made ambitious 
+commitments to play a central role in supporting our customers, 
+colleagues, and many other stakeholders on this journey. 
+Retail Banking
+AIB UK
+Capital Markets
+Climate Capital
+Key assumptions and external factors
+Many decarbonisation levers in our lending portfolio (such 
+as Government policy and the speed with which the electricity 
+grid transitions to renewables) are outside our direct control 
+and so we do not expect to make linear progress towards our 
+targets each year. 
+For example, when setting decarbonisation reference 
+scenarios and targets for our Commercial Real Estate and 
+Residential Mortgages portfolios, we have relied on the 
+projections set out in the Irish Government’s Climate Action 
+Plan regarding building stock shifts from C+ rated properties 
+to A- or B- rated properties through obsolescence, new 
+builds and retrofit. We have also considered the projected 
+decarbonisation of the Irish energy grid and the decrease 
+in building energy-related emissions. We also recognise the 
+challenges of implementing our strategy due to the evolving 
+policy landscape, stringent regulatory requirements, ESG data 
+limitations and the global struggle to stay on track for limiting 
+long-term global warming to 1.5°C.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 11
+
+[page 14]
+Integration with the business model and value chain
+1. While AIB supports all 17 United Nations Sustainable Development Goals (SDGs), we believe we can make the most sustained and scalable impact in those listed above.
+Our ambition is to be a catalyst for 
+positive change, building long-term value 
+for stakeholders while protecting our planet 
+and contributing to a better society. 
+In achieving this, our sustainability ambitions are to decarbonise our 
+own operations by 2030 and our customer lending portfolio by 2050.
+Elements of our business model and value chain interconnect with 
+our sustainability strategy. The nature of our business means that 
+we have a complex value chain: it encompasses a range of activities 
+and stakeholder relationships, which we rely on to provide banking 
+products and services, but extends beyond direct contractual 
+business relationships. For example, in our role as a lender we have 
+direct relationships with our personal and business customers. 
+Our Sustainability Strategy
+ESG strategic 
+pillars
+  Climate & 
+environmental 
+action
+  Societal &  
+workforce  
+progress
+  Governance &  
+responsible 
+business
+Our purpose
+Empowering people to build a sustainable future
+Guided by our  
+ESG principles
+by providing responsible 
+green finance, investments and 
+advice to drive structural change 
+and support the transition to 
+a low-carbon future
+by maximising positive outcomes 
+for customers and colleagues, 
+helping build a brighter and 
+a more prosperous future for all
+by acting responsibly, with 
+integrity and transparency, 
+while embedding sustainability 
+capabilities and measures
+Our material 
+sustainability 
+topics (as per 
+ESRS reporting)
+ Climate change   Financial  
+wellbeing
+ Housing
+  Own workforce 
+(Equal treatment & 
+opportunities for all)
+  Governance, ethics  
+& accountability
+ Culture & reputation
+  Cyber security & 
+data protection
+ESRS E1 – Climate change ESRS S4 –  Consumers &  
+end-users
+ESRS S3 –  Affected communities
+ESRS S1 – Own workforce 
+ESRS G1 – Business conduct
+Alignment with  
+UN SDGs1
+     
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 12
+
+[page 15]
+Our investors
+Suppliers of  
+our clients
+ 
+Clients of  
+our clients
+Our suppliers
+Regulators
+ 
+Our business 
+customers
+Our personal 
+customers
+Society and 
+community
+Our own operations  
+and own workforce
+Integration with the business model and value chain continued
+In addition to considering our sustainability strategy in the context 
+of our Group strategy, it is also worth noting elements of our 
+business model and value chain which are interconnected with 
+our sustainability strategy.
+AIB Group operates predominantly in Ireland and the United 
+Kingdom. Our shares are quoted on the Irish and London stock 
+exchanges, and we are a member of the FTSE4Good Index. Our four 
+core operating segments are Retail Banking, Capital Markets, Climate 
+Capital and AIB UK, while our brands encompass AIB, EBS, Haven, 
+Goodbody, Payzone, AIB Life and Nifti.
+Our value chain encompasses a range of activities and stakeholder 
+relationships, which we rely on to provide banking products and 
+services. We’ve identified our key stakeholder groups along the 
+upstream, own operations and downstream of our value chain.
+Our business customers have their own value chains, through 
+which we may be associated with impacts on wider society and the 
+environment. As an employer, we have a direct relationship with our 
+own workforce, who are part of our own operations; as a regulated 
+business, funded by debt and equity, and as a procurer of goods and 
+services, we are connected to stakeholders in our upstream value 
+chain, such as our regulators, investors and suppliers.
+Our value creation model depends on inputs across our three 
+strategic priorities, including key intangible resources such as brand 
+reputation, employee expertise, intellectual property, and technology 
+innovation. These key intangible resources drive strong relationships 
+with our customers and other stakeholders. By leveraging these 
+key intangible resources, we strive to empower people to build 
+a sustainable future, while driving our business growth and 
+competitive advantage.
+Value chain key:
+ Direct relationships
+ Indirect relationships
+ Direct and indirect relationships
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 13
+
+[page 16]
+With three strategic areas of focus
+Customer  
+first
+Greening our  
+business
+Operational efficiency  
+& resilience
+Inputs include the resources and relationships we rely on to operate our business and deliver value for our stakeholders 1
+€110bn
+Customer accounts
+236
+170 AIB branches and 66 EBS offices in ROI
+€30bn
+Green and transition lending by 2030
+100%
+Sourcing of renewable energy  
+for our own operations by 2030
+10,469
+Employees (actual full-time equivalent)
+€4.93bn
+Total operating income2
+Outcomes include the longer-lasting impacts and benefits for our stakeholders
+Developing deeper, more enduring 
+relationships with our customers by better 
+serving their financial needs through 
+integrated propositions. 
+ Know our customers
+ Respond to their needs
+ Deliver service excellence 
+ Invest for the future
+Mobilising capital to support climate 
+action, being a catalyst for positive 
+change and continuing to build on our 
+sustainability leadership.
+ Grow green 
+ Support transition
+  Enable sustainable practices
+ Educate and innovate
+Ensuring the appropriate capability, 
+capacity and resilient platform are 
+in place to support the Group’s 
+strategic ambition.
+ Resource efficiency 
+ Process efficiency
+ Measure and manage
+ Harness new technology
+Outputs include the results our business activities create for our stakeholders
+€14.5bn
+New lending
+2.27m
+Digitally active customers
+€16.6bn
+Cumulative green and transition lending by 
+end of FY2024
+84%
+of renewable energy achieved from VPPAs
+89%
+People satisfaction rate (H2 2024)
+10.33%
+Cyber security spending of overall IT spend
+Our business model includes the activities, products and services through which we deliver value for our stakeholders
+Our purpose 
+Empowering people 
+to build a sustainable 
+future
+Our Values
+• Put customers first
+• Be one team
+• Show respect
+• Own the outcome
+• Drive progress
+• Eliminate complexity
+Our operating 
+segments
+• Retail Banking
+• Capital Markets
+• Climate Capital
+• AIB UK
+Our material topics
+• Climate change
+• Own workforce (Equal 
+treatment & 
+opportunities for all)
+• Housing
+• Financial wellbeing 
+• Governance, ethics  
+& accountability
+• Culture & reputation
+• Cyber security &  
+data protection
+Supported by our 
+relationships with key 
+stakeholders across the 
+value chain
+• Our customers
+• Our colleagues
+• Our investors
+• Our suppliers
+• Regulators
+• Society and community
+Integration with the business model and value chain continued
+The diagram below includes a non-exhaustive list of the key inputs that we rely on to deliver value for our stakeholders, in the form of outputs 
+and outcomes.
+1. Figures included are for FY2024.
+2. The figure used for Total Operating income is sourced from the Financial Statements section of the AFR.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 14
+
+[page 17]
+Risks associated with the transition
+Through our purpose of empowering 
+people to build a sustainable future, we are 
+committed to building long-term resilience 
+and sustainability for our business, economy 
+and society. 
+This will enable us to realise our ambitions of decarbonising across 
+our Scope 1 and 2 emissions, meeting our target for 70% of new 
+lending to be green or transition by 2030, and our 2050 ambition 
+to decarbonise our customer lending portfolio.
+Before detailing the implementation roadmap for this Climate 
+Transition Plan, it is important to note elements relating to 
+risks that have the potential to impact the realisation of our 
+decarbonisation ambition.
+As part of the overarching risk management process described in 
+the Risk Management section of our Annual Report from page 179 , 
+AIB identifies top and emerging risks that have the potential to 
+increase in significance and could have a material impact on the 
+Group’s strategy, operations and customers over the short, medium 
+and long term. Climate & Environmental Risk is identified as a 
+Principal Risk for the Group through the risk management processes 
+such as the MRA, and climate change is also identified as a material 
+topic through our Double Materiality Assessment (DMA) process, 
+from both an impact and financial materiality perspective.
+Climate and Environmental Risk
+AIB has a robust approach to risk management and in FY2024 
+identified ten Principal Risks across our business, one of which 
+is Climate & Environmental (C&E) Risk.
+C&E Risk encompasses the financial and non-financial impacts on 
+the Group arising from climate change, environmental change and 
+the transition to a sustainable economy. These risks can affect the 
+Group directly through our operations, or indirectly through our 
+relationships with customers and third party suppliers.
+Articulation of the Group’s C&E Risk appetite and tolerance is 
+expressed through the qualitative statements about the nature and 
+type of risk that the Group is willing to accept, as well as quantitative 
+Risk Appetite Statement (RAS) metrics that define the range of 
+acceptable risk. Qualitative statements and quantitative metrics are 
+linked to material C&E Risk drivers as identified through the Group’s 
+materiality assessment. The 2024 materiality assessment showed 
+that the main impacts are expected to materialise in the areas of 
+Credit Risk and Operational Risk. This has been reflected in the 
+development of RAS metrics.
+C&E Risk RAS metrics for 2025 include three C&E qualitative 
+statements that help articulate appropriate areas of climate-related 
+risk appetite. In addition to this, for 2025 the Group approved six new 
+quantitative C&E RAS metrics, ensuring coverage across physical, 
+transition and environmental risks (bringing the total number of 
+C&E-related metrics to nine). We’ve cascaded RAS metrics to 
+segments and subsidiaries as appropriate.
+• Material Risk Assessment (MRA): an annual top-down process 
+to identify, assess, manage, monitor and report upon our material 
+risks in line with our Risk Management Framework. It forms a key 
+input into our risk management processes, including the RAS.
+• Risk and Control Assessment (RCA) process: a detailed bottom-up 
+risk assessment identifying the risks arising from the Group’s 
+processes and business activities.
+• Our other risk management processes include the Internal Capital 
+Adequacy Assessment Process (ICAAP) and the Internal Liquidity 
+Adequacy Assessment Process (ILAAP): both consider climate-
+related factors in assessing capital adequacy and liquidity adequacy.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 15
+
+[page 18]
+Managing C&E Risk 
+AIB conducts a number of exercises to analyse C&E Risk. These 
+include: Business Environment Scan, RCAs, C&E Risk Heatmaps, 
+Sector Deep Dives, Transmission Channel Analysis and Climate 
+Stress Tests as part of ICAAP.
+We also conduct scenario analysis relating to future possible climate 
+change outcomes, which includes quantitative forecasts for short- 
+and long-term transition and physical risk. 
+Transmission Channel Analysis is completed annually and is used 
+to analyse how different C&E Risk drivers transmit through micro 
+and macroeconomic factors and impact the Group’s material risks. 
+These are broken down into physical and transition risks categories, 
+as follows:
+• Climate (Physical Risk) – Includes flooding, rising sea levels 
+and heatwaves/droughts.
+• Environmental (Physical Risk) – Includes water availability, 
+biodiversity and raw material availability.
+• Climate (Transition Risk) – Includes consumer and investor 
+behaviour, regulatory requirements, litigation and 
+technological improvements.
+• Environmental (Transition Risk) – Includes enhanced regulations.
+The risk drivers are informed by the business environment scan.
+As an official supporter of the Task Force on Climate-Related 
+Financial Disclosures (TCFD), we provide details on Transition and 
+Physical Risk in our AFR (a key TCFD metric).
+• Physical risk: Flood risk is our most significant acute and chronic 
+physical risk, and we have developed initial metrics to better 
+understand this risk for our property-related exposure. These 
+metrics support the tracking of physical risk for our key property 
+portfolios. Our approach is subject to further evolution based on 
+industry developments and supervisory and regulatory expectations.
+• Transition risk: we require the completion of an ESG Questionnaire 
+for all new lending over €/£/$1m in high and moderate transition 
+risk sectors, and for all annual borrower reviews with an exposure 
+over €/£/$10m in high and moderate transition risk sectors. We 
+also require a completed ESG Questionnaire for material waiver 
+requests for borrowers with limits over €/£/$1m in high transition 
+risk sectors.
+Our risk management process outcomes are an important input 
+factor in our DMA process and inform the alignment and calibration 
+of results. We work continuously to integrate our DMA process, 
+including identifying risks and opportunities, in our overall planning, 
+risk management and internal controls.
+1. We manage these risks through our C&E Risk Framework as detailed in the AFR.
+Double Materiality Assessment
+The DMA process is the starting point for preparing our Sustainability 
+Statement, which is reported annually within our AFR. It is carried out 
+to identify and assess our material sustainability matters from an 
+impact and financial materiality perspective.
+• Impact materiality: we define impacts as the positive or negative 
+effects we have or could have on people and the environment, 
+connected with our own operations and our upstream and 
+downstream value chains across the short, medium or long term. 
+We’ve linked impacts to our products and services, as well as to 
+our direct and indirect business relationships, for example through 
+our clients’ value chains.
+• Financial materiality: we define risks and opportunities as the 
+financial effects that affect, or could reasonably be expected to 
+affect, our financial position, financial performance, cash flows, 
+access to finance or cost of capital over the short, medium and 
+long term.
+As a result of our DMA, we identified seven material topics and 
+corresponding impacts, risks and opportunities (IROs). Our material 
+topic climate change has two such risks. 
+• Physical climate-related risks can have a negative financial impact 
+on the Group. These risks can arise from extreme events such as 
+droughts, floods and storms, and from progressive shifts such as 
+increasing temperatures, sea level rises, water stress, biodiversity 
+loss, land use change, habitat destruction and resource scarcity. 
+This can directly result in negative outcomes, such as damage to 
+property or reduced productivity, or indirectly lead to outcomes 
+such as the disruption of the Group’s supply chains.1
+• Transition climate-related risks are also a threat. These risks can 
+arise from the process of transitioning to a lower-carbon and more 
+environmentally sustainable economy. They could be triggered by 
+technological progress, changes in laws or regulations, or changes 
+in customer demands and preferences. 1
+A full list of IROs can be found in our Annual Financial Report for 
+FY2024 from page 59.
+Risks associated with the transition continued
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 16
+
+[page 19]
+19
+Levers and accompanying 
+actions to achieve our 
+decarbonisation ambition
+18 Overview of implementation 
+and engagement strategy
+23 Enablers in place to realise 
+decarbonisation ambition
+25 Financial planning
+Implementation 
+and engagement 
+strategy
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 17
+
+[page 20]
+We have made good progress towards our decarbonisation ambition in recent years, driven by 
+a number of our decarbonisation levers and accompanying transition actions.
+Supporting measures (enablers) enable the implementation of our levers and actions, which together will continue to be the primary drivers 
+to help us meet our 2030 and 2050 ambitions, reduce our exposure to C&E Risk and support the transition to a more sustainable economy.
+Providing green and transition 
+financing to support climate action
+Educating our customers and our colleagues 
+on their sustainability journeys
+Offering green products and propositions 
+to meet customers’ needs
+Engaging with our value chain
+Reducing our direct emissions  
+(Scope 1 and 2 GHG emissions)
+Collaboration, partnership and thought leadership 
+to support change
+Reducing the emissions of our value chain  
+(GHG Scope 3 financed emissions)
+Policies and frameworks guiding our Climate 
+Transition Plan
+See page 19
+See page 23
+See page 20
+See page 23
+See page 21
+See page 24
+See page 21
+See page 24
+Levers
+Enablers
+Overview of implementation and engagement strategy
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 18
+
+[page 21]
+Levers and accompanying actions to 
+achieve our decarbonisation ambition 
+Action: Provide sustainability-related financing through green and transition lending
+Details Overview of what AIB has done so far Action priorities 
+Establish and 
+deploy green and 
+transition lending
+Our green and transition lending supports customers 
+to reduce emissions and help make a positive 
+environmental impact. We aim to lead by example and 
+to support customers along their transition pathways 
+by financing energy efficiency measures and providing 
+loans to businesses and individuals transitioning to 
+a low-carbon economy.
+Between 2019 and 2024, €16.6bn was deployed, of which 
+€5.1bn was drawn down in 2024*.
+Continued deployment in green and transition lending, 
+supported by our green products and propositions, will 
+keep AIB on track to meet our cumulative drawdown target 
+of €30bn by 2030.
+€30bn
+2030 target of a cumulative drawdown
+* See the ‘Metrics and targets’ section for further details regarding new green and transition lending.
+Action: Providing bond offerings that contribute towards financing
+Details Overview of what AIB has done so far Action priorities 
+Issue ESG Bonds In recent years, the Group’s ESG Bond issuance has 
+supported €6.4bn of green and social collateral. Of the 
+€6.4bn in ESG Bonds issued to date (to the end of FY2024), 
+€4.65bn of these were Green Bonds.
+Contribute proceeds to financing projects with clear 
+environmental and climate action benefits, while further 
+strengthening our capital position.
+Issue Socially 
+Responsible 
+Investment 
+(SRI) Bond
+Our SRI Bond portfolio funds domestic and international 
+projects aimed at global sustainability, carbon emissions 
+reduction and social improvement.
+AIB promotes and supports the transition to a more 
+sustainable global economy and contributes to positive 
+environmental and social change via investment in green, 
+social and sustainable bonds.
+The SRI Bond portfolio reached
+€2.67bn
+at year-end 2024
+Providing green and transition financing to support climate action
+Recognising the importance of climate finance in funding the 
+transition, we’ve rapidly grown our green lending portfolio and have 
+established a Climate Capital segment. Established in 2024, Climate 
+Capital enhances our capability, supports business growth, and 
+demonstrates our position as a driving force in the transition to 
+a sustainable future.
+Climate Capital is a fast-growing segment of our lending book. 
+With a strong focus on renewable energy assets that displace fossil 
+fuel-fired generating assets, it is helping to deploy our €30bn goal in 
+new green and transition lending and plays a key role in underpinning 
+our Green Bond offerings.
+We plan to provide green and transition financing to support climate 
+action through the following:
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 19
+
+[page 22]
+We want to encourage our customers on their transition journey. 
+We do this by providing a range of products and services that will 
+enable our customers to reduce their own carbon emissions and help 
+AIB deliver its purpose of empowering people to build a sustainable 
+Action: Products that enable greener homes
+Details Overview of what AIB has done so far Action priorities 
+Green mortgages, 
+with favourable 
+interest rates 
+available for 
+energy efficient 
+homes
+All three entities of AIB, EBS and Haven provide green 
+mortgages for homes with a Building Energy Rating (BER) 
+of between A1 and B3 to new, existing and switcher 
+mortgage customers.
+The majority (52%) of our new mortgage lending in Ireland 
+was to energy efficient homes in 2024, underpinned by the 
+launch of two new green fixed rate mortgage products and 
+a range of green mortgage rate reductions.
+We will continue to offer competitive green mortgages to 
+homes with an A1 and B3 BER.
+Participating in 
+the Home Energy 
+Upgrade Loan 
+Scheme (HEULS)
+In 2024, the Government, in partnership with the Strategic 
+Banking Corporation of Ireland (SBCI), launched the new 
+low-cost HEULS for homeowners.
+AIB is one of the finance providers approved to participate 
+in HEULS. Through this, customers can borrow between 
+€5,000 and €75,000 per property, for up to three 
+properties, up to a maximum of €225,000 in total. 
+Furthermore, up to 25% of the loan can be used for 
+non-energy upgrades.
+HEULS will be available up to 31 December 2026 or until 
+the scheme is fully subscribed.
+Action: Products that enable greener businesses
+Details Overview of what AIB has done so far Action priorities 
+Two loans 
+through the 
+Growth and 
+Sustainability 
+Loan Scheme
+Through work with the SBCI, we offer the Growth and 
+Sustainability Loan Scheme, which is a long-term, low-cost 
+loan scheme to support our customers in business and 
+agriculture. There are two loans offered under the scheme, 
+the Climate Action & Environmental Loan and the Growth 
+& Resilience Loan. 
+Both loans will continue to be offered in 2025.
+In addition, we support SMEs through our Steps to Sustainability 
+Programme, an accessible, online guide to help businesses develop 
+a tailored sustainability plan. We also provide specific help and 
+sustainability expertise through our advisers in communities around 
+the country, as well as a practical online course and sector specific 
+guides which delve deeper into the actions that businesses in 
+different sectors can take to green their business and save money.
+Access Steps to Sustainability Programme
+future. In this regard, AIB has a suite of green products and 
+propositions that support our customers in building a sustainable 
+future, including the following:
+Levers and accompanying actions to achieve our decarbonisation ambition 
+continued
+Offering green products and propositions to meet customers’ needs
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 20
+
+[page 23]
+In 2020, we announced an ambition to decarbonise our own 
+operations by 2030. This target is relative and measured as 
+a percentage reduction in emissions. We measure and report our 
+operational emissions according to the Greenhouse Gas Protocol, 
+where we cover Scope 1 and Scope 2 emissions (see the ‘Metrics 
+and targets’ section for further details regarding Scope 1 and Scope 2 
+progress). Our strategy to decarbonise our own operations by 2030 
+spans key implementation actions:
+Levers and accompanying actions to achieve our decarbonisation ambition 
+continued
+Action: Sourcing renewable energy
+Details Overview of what AIB has done so far Action priorities 
+VPPA with NTR 
+plc to create 
+solar farms in 
+Co. Wexford
+In 2022, we entered into a VPPA with NTR plc to create 
+two new solar farms in Co. Wexford to replace electricity 
+previously purchased on green tariffs. The agreement also 
+ensures that the Group has a sustainable and secure 
+energy supply at a fixed price for 15 years and will continue 
+to reduce our operational carbon emissions.
+In 2024, 84% of AIB’s own electrical energy needs was 
+produced from these solar farms.
+These two solar farms are delivering certified renewable 
+energy to the Group. This will be instrumental in meeting 
+our renewable electricity sourcing target of 100% by 2030.
+Action: Greener branches refurbishment programme
+Details Overview of what AIB has done so far Action priorities 
+Investment in our 
+branch network
+We are continuously upgrading our branch and office 
+buildings to improve their energy efficiency, for example 
+by investing in our branch network through the Greener 
+Branches Refurbishments Programme.
+Continue to invest in our Greener Branches 
+Refurbishments Programme in 2025.
+These actions have supported us in reducing our Scope 1 emissions and in greening our Scope 2 emissions.
+100%
+renewable electricity 
+sourcing target  
+by 2030
+Reducing our direct emissions (Scope 1 and 2 GHG emissions)
+In 2020, we set a financed emissions target to decarbonise our 
+customer lending portfolio (Scope 3 GHG emissions) by 2050. 
+For this, we have set financed emissions reduction targets, based 
+on a 2021 baseline for our three most material sectors – Residential 
+Mortgages, Commercial Real Estate (CRE) and Electricity Generation 
+– which are the loan portfolios with the highest transition risk. 
+In addition to the above financed emissions targets, we also have 
+a Corporate Portfolio Coverage target, an engagement target, which 
+aims to drive the adoption of science-based targets and emissions 
+reductions across all sectors. Further details of these are as follows 
+(also note the ‘Metrics and targets’ section beginning on page 26):
+Reducing the emissions of our value chain (GHG Scope 3 financed emissions)
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 21
+
+[page 24]
+Action: Reducing residential mortgage emissions intensity
+Details Overview of what AIB has done so far Action priorities 
+Reducing 
+residential 
+mortgage 
+emissions 
+intensity
+In 2021, we established a baseline physical emissions intensity 
+of 40 kgCO 2e/m² for our Residential Mortgages portfolio, using the 
+International Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario 
+to reduce our mortgage portfolio GHG emissions 58% per square 
+metre by 2030 from a 2021 base year.
+In 2024, the physical emissions intensity of our Residential Mortgages 
+portfolio decreased by approximately 5.6%, compared with our 2021 
+baseline. Total lending within our Residential Mortgages portfolio 
+was €36.3bn in 2024, representing 51% of the Group’s total lending.
+AIB remains committed to investing 
+in residential mortgage products and 
+propositions to support the achievement 
+of our targets.
+Action: Reducing CRE emissions intensity
+Details Overview of what AIB has done so far Action priorities 
+Reducing CRE 
+emissions 
+intensity
+In 2021, we established a baseline physical emissions intensity of 135 
+kgCO2e/m², using the IEA 2021 NZE2050 1.5°C SDA Scenario to reduce 
+GHG emissions from the CRE sector within our corporate loan portfolio 
+by 67% per square metre by 2030 from a 2021 base year.
+Throughout 2024, we undertook a process to enhance the quality 
+of our data, which resulted in revising our 2021 baseline from 
+135 kgCO 2e/m² to 116 kgCO2e/m², while maintaining our current IEA 
+pathway. In 2024, our CRE portfolio accounted for 8% of the Group’s 
+total lending, with total lending at €5.6bn. In 2024, the physical 
+emissions intensity of our CRE portfolio reduced by approximately 
+8% compared with our 2021 restated baseline.
+We will continue to invest in green products 
+and propositions which support the 
+achievement of our targets.
+Action: Maintain Electricity Generation emissions at or below 21 gCO²e/kWh
+Details Overview of what AIB has done so far Action priorities 
+Reduce Electricity 
+Generation 
+emissions
+In 2021, we established our baseline maintenance target to maintain 
+the emissions intensity of our electricity generation project finance 
+portfolio at or below 21 gCO ²e/kWh from 2021 through 2030 and 
+only finance 1.5°C aligned electricity generation projects.
+Since setting our maintenance target, waste to energy has been 
+excluded from the Electricity Generation target scope, following 
+bilateral guidance received from the SBTi. This is primarily due to the 
+fact that waste-to-energy facilities are not based on fossil fuels, and 
+electricity generation is not their main purpose or revenue source. 
+Consequently, the baseline emissions intensity decreased significantly 
+from 21g CO2e/kWh to 0.01 gCO2e/kWh. Note that, financed emissions 
+related to waste to energy will continue to be tracked against our 
+maintenance target internally. In 2024, the portfolio was 5% of total 
+lending €3.6bn with an emissions intensity of 0.97 gCO 2e/kWh.
+We are committed to maintaining 
+the emissions intensity level of the Electricity 
+Generation portfolio below 21 gCO 2e/kWh 
+through 2030 by keeping the portfolio focused 
+on renewable electricity generation projects.
+Action: Increasing Corporate Portfolio Coverage
+Details Overview of what AIB has done so far Action priorities 
+Increase 
+Corporate 
+Portfolio 
+Coverage
+Our Corporate Portfolio Coverage target considers large corporations 
+with >500 employees that have SBTi-validated targets. In 2021, 
+we established a target to increase our corporate portfolio loan 
+volumes covered by emission targets from 12% to 54% by 2030 
+from a 2021 baseline.
+In 2024, we increased our Corporate Portfolio Coverage to 27%.
+The percentage of customers with SBTi-
+validated targets set is expected to increase 
+in the coming years, as new regulations 
+around transition plan disclosures come into 
+force. Key sectors should decarbonise in line 
+with the Government’s Climate Action Plan 
+2024, and corporate customers with >500 
+employees are expected to set their own 
+emissions targets in the medium term.
+We expect these actions will help us to achieve our financed emission reduction targets, as well as reducing C&E Risk, and support the 
+transition to a more sustainable economy.
+Levers and accompanying actions to achieve our decarbonisation ambition 
+continued
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 22
+
+[page 25]
+Enablers in place to realise decarbonisation ambition
+Our ambition is to be a catalyst for positive change, building long-term value for stakeholders 
+while protecting our planet and contributing to a better society. To support the levers we have 
+in place, we also have a number of supporting measures or enablers as described below.
+Through our commitment to building long-term resilience and sustainability for our business, economy and society, we want to ensure that 
+our stakeholders are aware of our decarbonisation ambitions and join us on our journey.
+Engagement with all our stakeholders is a high priority. Stakeholder views, interests and expectations are integral to our strategy and business 
+model, and the Board considers them in all its deliberations. To understand our stakeholders’ views and best serve their interests, we engage 
+through regular engagement channels, including due diligence processes, as well as through industry representative groups. Throughout 
+2024, the Board engaged directly with key stakeholders, including our colleagues, customers, suppliers, investors, regulators and the wider 
+society and community, and the Board received management reports and updates on stakeholder matters.
+We believe that educating customers is central to supporting their 
+transition. We have dedicated educational resources on our website, 
+to support our customers in building a more sustainable future, 
+such as Sector Sustainability Guides  and the AIB Green Living Hub . 
+Additionally, we have developed an ‘SME Steps to Sustainability’ 
+resource for SME businesses, following conversations with SME 
+customers and in partnership with AIB colleagues and Goodbody 
+Clearstream supporting SMEs.
+For our colleagues, we offer Continuing Professional Development 
+(CPD) Certificates on ESG, accredited by the Institute of Bankers 
+(IOB), such as ‘Understanding ESG for Business Customers’, which 
+empowers our client-facing colleagues to act and builds their ESG 
+knowledge. Our colleagues have access to the AIB Sustainability 
+Academy, a hub for all ESG learning, signposting sustainability 
+resources and education opportunities. It aligns with our purpose 
+to empower colleagues to build a sustainable future, and equips them 
+to more effectively engage with and support customers and suppliers 
+as they navigate their sustainability journey.
+Educating our customers and our colleagues on their sustainability journeys
+Engaging with our value chain
+Supplier Relationship Management (SRM) standard:
+Our SRM standard encapsulates best practice SRM, which promotes 
+mutually beneficial relationships, coupled with effective risk 
+management, to deliver the following objectives:
+• Identifying where to focus SRM resources to maximise the benefit 
+for us.
+• Introducing a consistent and systematic approach to SRM across AIB.
+• Encouraging cross-functional communication and knowledge 
+sharing to drive productive supplier relationships.
+• Applying best practice SRM techniques through practical approaches 
+and relevant training for Accountable and Business Owners, such as 
+recent training on their obligations under changing regulations.
+In November 2024, we welcomed our top 100 suppliers to a 
+Supplier Summit in Molesworth Street. The purpose of the Summit was 
+to strengthen collaboration, align our suppliers with our purpose, and 
+reinforce their critical role in helping us achieve our strategic goals across 
+‘Customer first’, ‘Greening our business’ and ‘Operational efficiency’.
+Responsible Supplier Code:
+Our Responsible Supplier Code sets out our expectations of our suppliers 
+and the minimum standards they must meet regarding human rights, 
+health and safety, supply chains, inclusion and diversity, and responsible 
+and sustainable business. The Code uses the term ‘Supplier’ to refer 
+to the suppliers, vendors, contractors, consultants, agents and other 
+providers of goods and services who do business with us, or who seek 
+to do business with us as part of our upstream value chain. We will only 
+do business with suppliers that adhere to our Code. We require evidence 
+that they have an ESG plan or are working on putting one in place, and 
+require all successful suppliers to join a Supplier Financial Qualification 
+System, which provides a standardised process for collecting and 
+managing their compliance and assurance information. We also 
+encourage our suppliers to report their carbon emissions through the 
+CDP. In 2024, the number of suppliers who participated in reporting to 
+the CDP was 65, which represented 50% of the AIB suppliers invited.
+Supplier ESG Questionnaire:
+In this regard, ESG factors are increasingly important for our own 
+performance, and for our relationships with suppliers. The ESG 
+Questionnaire covers a broad range of ESG areas, and requires 
+responses and evidence from suppliers on their:
+• journey to establishing or achieving their decarbonisation targets;
+• annual sustainability reports;
+• Scope 1, 2 and 3 GHG emissions;
+• consideration of physical risks from climate change;
+• policies on discrimination, inclusion & diversity, health & safety, 
+modern slavery, vulnerable persons, greenwashing and speaking up;
+• Code of Conduct and their Responsible Supplier Code for their 
+own supply chain; and
+• commitment to ongoing ESG-related training in their organisation.
+By engaging with our suppliers through the ESG Questionnaire during 
+the selection process, we benefit in the following ways:
+1. Aligning our Values and expectations
+Asking suppliers to complete an ESG Questionnaire communicates 
+our ESG standards and expectations to them, and ensures that we 
+work with partners that share our Values. This can help to build trust 
+and reputation, and avoid potential conflicts or controversies.
+2. Identifying risks and opportunities
+The Questionnaire helps us to assess the ESG performance and risks 
+of our suppliers and their supply chains, such as their environmental 
+impact, social responsibility, human rights, labour practices, ethics and 
+governance. This helps us to identify and mitigate ESG risks, such as 
+regulatory fines, reputational damage, operational disruptions or legal 
+liabilities. It also helps us to identify and leverage ESG opportunities, such 
+as innovation, cost savings, customer loyalty or market differentiation.
+3. Providing a baseline and a roadmap
+The Questionnaire provides a baseline for measuring and monitoring 
+suppliers’ ESG performance and progress, as well as a roadmap for 
+improvement. By using a standardised ESG Questionnaire, we can 
+benchmark and compare our suppliers, and track their ESG 
+performance over time. It also allows us to provide feedback and 
+guidance to our suppliers and encourages them to adopt best 
+practices and achieve continuous improvement.
+Suppliers Portal:
+Our Suppliers Portal creates transparency by providing information 
+on how to become a supplier. It includes our policies, procedures and 
+our standard terms of purchase, which explains our payment terms 
+for suppliers.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 23
+
+[page 26]
+Enablers in place to realise decarbonisation ambition continued
+We publish reports on our website of research carried out, such 
+as the AIB Homes Retrofit Report, which highlights retrofit options, 
+generous grants and competitively priced loans available to 
+consumers wishing to improve their homes’ energy efficiency. 
+We also participate in and provide thought leadership and 
+knowledge-sharing sessions. We have an annual AIB Sustainability 
+Conference, which has been in operation since 2016 and which has 
+grown in scale year-on-year. AIB’s customer panel discussions also 
+provide an opportunity for our customers and other attendees to 
+understand how they can act, regardless of size or industry, and 
+be part of the solution.
+AIB will continue to support transition efforts that are aligned 
+with our strategy and decarbonisation ambitions and engage 
+with organisations to ensure that we can support positive change. 
+To help drive this agenda, we have joined a multitude of voluntary 
+organisations, including the CDP, SBTi, Net Zero Banking Alliance 
+(NZBA), UN Global Compact and World Business Council for 
+Sustainable Development (WBCSD).
+To support our decarbonisation transition, we have two primary 
+sustainable financing frameworks in place:
+• The Sustainable Lending Framework (SLF) provides transparency 
+on the criteria that we employ when classifying and reporting on 
+green, transition and social lending, to help us achieve our ambition 
+that 70% of new lending should be green or transition by 2030.
+• The Green Bond Framework (GBF) enables AIB to fund projects 
+that support climate change mitigation and the transition to 
+a circular economy.
+As well as the above, AIB has a number of supporting internal policies 
+to manage this transition:
+• Our Group Energy Policy outlines how we conduct our business 
+and operations as energy efficiently as possible, striving to achieve 
+continual improvement in our energy performance and Energy 
+Management System.
+• Our Group Environmental Policy aims to support us to meet 
+our current needs without compromising the ability of future 
+generations to meet their own needs. The policy also commits 
+us to supporting initiatives aimed at mitigating, adapting or 
+responding to climate change.
+These polices and frameworks help in ensuring that there is 
+appropriate accountability in place as we aim to meet our 
+decarbonisation ambition.
+The overarching policy that plays a significant role in the 
+management of C&E Risks in AIB is the C&E Risk Policy. This sets 
+out how AIB Group defines, manages, mitigates and measures C&E 
+Risk (physical and transition) and details the roles and responsibilities 
+for identifying, assessing, managing, monitoring, reporting and 
+overseeing C&E Risk. This policy is a component part of the C&E 
+Risk Framework and has been prepared in line with the Group’s 
+Risk Policy Governance Framework (PGF) requirements.
+Collaboration, partnership and thought leadership to support change
+Policies and frameworks guiding our Climate Transition Plan
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 24
+
+[page 27]
+Financial planning
+We consider the financial impact associated with our 
+decarbonisation strategy as part of our business and 
+financial planning, ensuring that our strategy and 
+business model are compatible with the transition to 
+a sustainable economy and are in line with the Paris 
+Agreement aim to limit global warming to 1.5°C.”
+In line with our Group strategic priorities, new green and transition lending in 2024 was 
+€5.1bn, bringing the total drawdown in green and transition lending to €16.6bn. 
+We achieved this through continued growth in green finance, 
+delivered by robust performance in mortgages to energy efficient 
+homes, green mortgage products and lending for green buildings, 
+and renewable energy projects. We plan to steadily increase new 
+green and transition lending to reach our target of 70% of all new 
+lending by 2030.
+We consider the financial impact associated with our decarbonisation 
+strategy as part of our business and financial planning, ensuring that 
+our strategy and business model are compatible with the transition 
+to a sustainable economy and are in line with the Paris Agreement 
+aim to limit global warming to 1.5°C. We require each AIB business 
+area to consider how meeting our targets will impact projected 
+revenues, costs and margins.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 25
+
+[page 28]
+Metrics 
+and targets
+27 Overview of metrics 
+and targets
+27
+Governance, business 
+and operational metrics 
+and targets
+27 Financial metrics  
+and targets
+30 Excluded activities
+28 GHG metrics and targets
+30 Additional metrics and 
+targets under consideration
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 26
+
+[page 29]
+Overview of metrics and targets
+Financial metrics and targets
+We are driving positive change through our 
+ambition to decarbonise our own operations 
+by 2030 and our customer lending portfolio  
+by 2050, while protecting our planet and 
+contributing to society. We are also aiming  
+for 70% of our new lending to be green or 
+transition by 2030. 
+Progress towards our targets will also help us mitigate C&E Risks and 
+reach our decarbonisation ambition, which is part of our overall 
+strategy and embedded in our financial planning process.
+To support our transition planning and help achieve our objectives, 
+we have established a range of metrics related to climate and 
+environmental action:
+• Governance, business and operational metrics and targets
+• Financial metrics and targets
+• GHG emissions metrics and targets
+• Own operations targets (including Scope 1 and 2 GHG 
+emissions)
+• Financed emissions targets (including Scope 3, Category 15 
+GHG emissions)
+• Additional metrics and targets
+We publish our progress against metrics and targets in our AFR 
+and integrate our performance measures into our Sustainability 
+Dashboard, Strategic Outcomes Report, Chief Financial Officer 
+(CFO) and Chief Risk Officer (CRO) reports and Group Sustainability 
+Committee (GSC) reporting.
+This ambition and the accompanying metrics and targets, as detailed 
+below, take into account the overall Group strategy and are 
+embedded in our financial planning process.
+Governance, business  
+and operational metrics 
+and targets
+Key Performance Indicators (KPIs) monitor the C&E Risk drivers 
+aligned to the C&E materiality assessment. The materiality 
+assessment focuses efforts on managing C&E Risks with particular 
+regard to Credit and Operational Risk. These are reported and 
+monitored via the Strategic Outcome Report, Sustainability 
+Dashboard and Executive Committee Scorecards. The KPIs are 
+cascaded to business lines and subsidiaries as appropriate. The KPIs 
+sit on the Sustainability Dashboard, roll up into the Strategic 
+Outcomes Report and cascade to the ELT Scorecards. The Group 
+actively monitors the progress of achieving the Board-approved 
+sustainability targets via the Sustainability Dashboard. The metrics 
+contained in the dashboard are reported in the CRO report, to the 
+GSC and the Sustainable Business Advisory Committee (SBAC).
+Additionally, further work is being undertaken regarding environmental, 
+social and governance (ESG) risk management across the Group. 
+This is a detailed process that will be documented within our internal 
+Prudential Transition Planning Document to be considered in 2025 
+in line with EBA Guidelines on the management of ESG risk.
+METRIC: Green and transition lending drawdown
+  Amount of new green and  
+transition lending 
+€16.6bn 
+Against the cumulative green and transition 
+lending target of €30bn by 2030
+We measure our total cumulative drawdown in green and transition 
+lending over the period of 2019-2030. Our definition of green and 
+transition lending adheres to criteria outlined in the Sustainable 
+Lending Framework.
+The target for this metric is a cumulative target of €30bn by 2030. 
+€16.6bn has been deployed between 2019 and 2024.
+METRIC: % of new lending classified as green and transition
+  % of new lending in 2024 that is  
+classified as green and transition
+35% 
+Target 70% by 2030
+Delivering for our customers whilst steering finance towards green 
+and transition activities is an important way in which we can support 
+the transition to a more sustainable future. Our validated SBTi targets 
+set a trajectory linked to our green lending ambition and science-
+based target requirements.
+Over time, we will steadily increase our new sustainable lending 
+activities to reach 70% green and transition lending by 2030. 35% 
+of new lending was classified as green and transition in 2024.
+To realise our green and transition customer lending ambition, we have the following metrics and targets:
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 27
+
+[page 30]
+GHG metrics and targets
+Our own operating emissions targets: 
+Scopes 1 and 2
+METRIC: Scope 1 emissions reduction
+Our SBTi-validated interim target is to reduce absolute Scope 1 GHG 
+emissions by 34% by 2027, using a 2019 baseline of 4,784 tCO 2e. 
+In 2024, our cumulative reduction in Scope 1 emissions was 40%.
+METRIC: Scope 2 emissions
+For Scope 2 emissions, due to the nature of our business, we have 
+set an SBTi-validated target to increase our annual sourcing of 
+renewable electricity needs. In this regard, our Scope 2 target is to 
+increase the annual sourcing of renewable electricity to 100% by 
+2030, from a 2019 baseline of 1%. We are enabling progress through 
+energy produced from the solar farms in Co. Wexford, starting in 
+February 2024 through our VPPA with NTR plc.
+Financed emissions targets
+Our GHG metrics and targets will help to drive the realisation 
+of our strategic and sustainability ambitions, with progress reported 
+in our AFR.
+To steer our business to more sustainable financing activities, 
+our SBTi-validated targets set a 1.5°C trajectory linked to our green 
+lending ambition and science-based target requirements. Across 
+our portfolio, our SBTi-validated targets use physical emissions 
+intensity and engagement metrics, in line with the SBTi’s Sectoral 
+Decarbonisation Approach (SDA) and Portfolio Coverage Approach 
+(PCA) best practice target-setting methodologies. We set SDA and 
+PCA targets aligned to the 1.5°C scenario for 75% of our loan book 
+in 2021. In 2023, our targets were validated by the SBTi. We were the 
+first bank globally to have an Electricity Generation maintenance 
+target validated by the SBTi. Across our portfolio, our SBTi-validated 
+targets use physical emissions intensity and engagement metrics, 
+in line with the SBTi’s SDA and PCA best practice target-setting 
+methodologies. In addition, we set our targets and baseline 
+emissions using the Partnership for Carbon Accounting Financials 
+(PCAF) GHG guidance. The metrics and targets that have been set 
+for our financed emissions portfolio are detailed further below.
+We do not expect progress against targets to be linear on a year-
+on-year basis, given the reliance on external factors such as policy, 
+regulation, market trends and consumer behaviours. We measure, 
+track and disclose progress as per our SBTi commitments.
+In 2024, working closely with key stakeholders from relevant 
+business areas across AIB through internal workshops and regular 
+communication, we reviewed our decarbonisation reference 
+scenarios to take account of external factors, the latest climate 
+science and internal data enhancements, and to incorporate recent 
+inorganic growth by AIB through the acquisitions of new loan books. 
+We have made significant progress in setting and reviewing our 
+decarbonisation reference scenarios and targets, and we are now 
+further maturing the operationalisation of the process across the 
+Group to support the climate transition.
+In accordance with the SBTi SDA target-setting methodology, we aim 
+to roughly halve absolute emissions by 2030 and reduce emissions 
+as far as possible by 2050. We are prioritising measuring and 
+reducing our emissions as far as possible, as per SBTi best practice. 
+Over time, we will develop a carbon removal strategy for remaining 
+unavoidable emissions to achieve our decarbonisation ambition.
+3 Financed 
+emissions progress
+Progress against our financed emissions reduction targets is tracking in the right direction versus the 2021 baseline: 
+Residential Mortgages: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 40 kgCO²e/m² for our Residential 
+Mortgages portfolio, utilising the International Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to 
+reduce our mortgage portfolio GHG emissions 58% per square meter by 2030 from a 2021 base year. 
+The scope of our target reflects the total lending within our Residential Mortgages portfolio, which was 
+€29.4bn in 2021, representing 50% of the Group’s total lending at that time. By 2024, our Residential 
+Mortgages portfolio had increased to 51% of the Group’s total lending, with a total of €36.3bn. 
+In 2024, the physical emissions intensity of our Residential Mortgages portfolio decreased by approximately 
+5.6%, compared to our 2021 baseline. As previously noted, progress against targets is not expected to be 
+linear on a year on-year basis given reliance on external factors such as policy, regulation, market trends 
+and consumer behaviours. AIB remains committed to investing in residential mortgage products and 
+propositions to support the achievement of our targets. 
+Commercial Real Estate: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 135 kgCO²e/m², utilising the International 
+Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to reduce GHG emissions from the CRE sector 
+within its corporate loan portfolio 67% per square meter by 2030 from a 2021 base year. The scope of our 
+target reflects the total lending within our CRE portfolio of €5.6bn in 2021, 10% of the Group’s total lending.
+Throughout 2024, we undertook a process to enhance the quality of our data alongside our 
+decarbonisation models and methodologies, reflecting our commitment to more accurately measure 
+emissions. As a result of this effort, we are revising our 2021 baseline from 135 kgCO²e/m² to 116 
+kgCO²e/m², while maintaining our current IEA pathway. This adjustment allows us to present a more 
+accurate representation of our progress to date, while retaining our emissions reduction target of 67% 
+by 2030. In 2024, our CRE portfolio accounted for 8% of the Group’s total lending, with total lending 
+at €5.6bn. In 2024, the physical emissions intensity of our CRE portfolio reduced by approximately 
+8% compared to our 2021 restated baseline.  
+We are competitive in the CRE sector in our home market, with our commitment to sustainability being a 
+key differentiator. CRE is also an important sector to us because of the social impact of our business. We 
+work with developers and housing schemes and, through the provision of finance, we have a positive social 
+impact by increasing the housing supply in Ireland.
+Electricity Generation: 
+Emissions intensity gCO2e/kWh
+AIB’s Electricity Generation portfolio has a significantly low emissions intensity relative to the global average 
+for electricity generation (458 gCO2e/kWh in 2024), given the high share of renewable energy assets such 
+as offshore wind energy. 
+In 2021, we established our baseline maintenance target to maintain the emissions intensity of our 
+electricity generation project finance portfolio at or below 21 gCO²e/kWh from 2021 through 2030 and only 
+finance 1.5°C aligned electricity generation projects. The scope of our baseline and target reflects the total 
+lending within our Electricity Generation portfolio of €1.6bn in 2021, comprising 3% of the Group’s total 
+lending. Since setting our maintenance target, waste to energy has been excluded from the Electricity 
+Generation target scope, following bilateral guidance received from the SBTi. This is primarily due to the fact 
+that waste-to-energy facilities are not based on fossil fuels, and electricity generation is not their main 
+purpose or revenue source. Consequently, the baseline emissions intensity decreased significantly from 21 
+gCO²e/kWh to 0.01 gCO2e/kWh. Note that, financed emissions related to waste to energy will continue to be 
+tracked against our maintenance target internally. In 2024, the portfolio was 5% of total lending €3.6bn with 
+an emissions intensity of  0.97gCO2e/kWh.  
+We are committed to maintaining the emissions intensity level of the Electricity Generation portfolio below 
+21 gCO²e/kWh through 2030 by keeping the portfolio focused on renewable electricity generation projects. 
+In addition, we intend to grow AIB’s business in renewable energy infrastructure to support the broader 
+transition to a sustainable future.
+Corporate Portfolio Coverage: 
+% of corporate portfolio aligning with SBTi
+Our Corporate Portfolio Coverage target considers large corporations with >500 employees that have SBTi 
+validated targets. In 2021, we established a target to increase our corporate portfolio loan volumes covered 
+by emission targets from 12% to 54% by 2030 from a 2021 baseline. In 2024, we increased our Corporate 
+Portfolio Coverage to 27%.  
+The percentage of customers with SBTi-validated targets set is expected to increase in the coming years, 
+as new regulations around transition plan disclosures come into force. Key sectors should decarbonise in 
+line with the Government’s Climate Action Plan 2024, and corporate customers with >500 employees are 
+expected to set their own emissions targets in the medium term. 
+Annual 
+Review
+Business 
+Review
+Sustainability 
+Reporting
+Governance 
+Report
+Risk 
+Management
+Financial 
+Statements
+General 
+Information
+AIB Group plc
+Annual Financial Report 2024 74
+Decarbonising our Loan Book continued
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+10
+20
+30
+40
+50
+2021 2025 2030 2035 2040 2045 2050
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+25
+50
+75
+100
+125
+150
+2021 2025 2030 2035 2040 2045 2050
+AIB Maintenance Target
+Actual
+Global – projected – IEA 2024 WEO (1.5°)
+0
+100
+200
+300
+400
+500
+2021 2025 2030
+Corporate Loan Portfolio – Projected
+Corporate Loan Portfolio – Actual
+0
+20
+40
+60
+80
+100
+2021 2025 2030
+3 Financed 
+emissions progress
+Progress against our financed emissions reduction targets is tracking in the right direction versus the 2021 baseline: 
+Residential Mortgages: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 40 kgCO²e/m² for our Residential 
+Mortgages portfolio, utilising the International Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to 
+reduce our mortgage portfolio GHG emissions 58% per square meter by 2030 from a 2021 base year. 
+The scope of our target reflects the total lending within our Residential Mortgages portfolio, which was 
+€29.4bn in 2021, representing 50% of the Group’s total lending at that time. By 2024, our Residential 
+Mortgages portfolio had increased to 51% of the Group’s total lending, with a total of €36.3bn. 
+In 2024, the physical emissions intensity of our Residential Mortgages portfolio decreased by approximately 
+5.6%, compared to our 2021 baseline. As previously noted, progress against targets is not expected to be 
+linear on a year on-year basis given reliance on external factors such as policy, regulation, market trends 
+and consumer behaviours. AIB remains committed to investing in residential mortgage products and 
+propositions to support the achievement of our targets. 
+Commercial Real Estate: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 135 kgCO²e/m², utilising the International 
+Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to reduce GHG emissions from the CRE sector 
+within its corporate loan portfolio 67% per square meter by 2030 from a 2021 base year. The scope of our 
+target reflects the total lending within our CRE portfolio of €5.6bn in 2021, 10% of the Group’s total lending.
+Throughout 2024, we undertook a process to enhance the quality of our data alongside our 
+decarbonisation models and methodologies, reflecting our commitment to more accurately measure 
+emissions. As a result of this effort, we are revising our 2021 baseline from 135 kgCO²e/m² to 116 
+kgCO²e/m², while maintaining our current IEA pathway. This adjustment allows us to present a more 
+accurate representation of our progress to date, while retaining our emissions reduction target of 67% 
+by 2030. In 2024, our CRE portfolio accounted for 8% of the Group’s total lending, with total lending 
+at €5.6bn. In 2024, the physical emissions intensity of our CRE portfolio reduced by approximately 
+8% compared to our 2021 restated baseline.  
+We are competitive in the CRE sector in our home market, with our commitment to sustainability being a 
+key differentiator. CRE is also an important sector to us because of the social impact of our business. We 
+work with developers and housing schemes and, through the provision of finance, we have a positive social 
+impact by increasing the housing supply in Ireland.
+Electricity Generation: 
+Emissions intensity gCO2e/kWh
+AIB’s Electricity Generation portfolio has a significantly low emissions intensity relative to the global average 
+for electricity generation (458 gCO2e/kWh in 2024), given the high share of renewable energy assets such 
+as offshore wind energy. 
+In 2021, we established our baseline maintenance target to maintain the emissions intensity of our 
+electricity generation project finance portfolio at or below 21 gCO²e/kWh from 2021 through 2030 and only 
+finance 1.5°C aligned electricity generation projects. The scope of our baseline and target reflects the total 
+lending within our Electricity Generation portfolio of €1.6bn in 2021, comprising 3% of the Group’s total 
+lending. Since setting our maintenance target, waste to energy has been excluded from the Electricity 
+Generation target scope, following bilateral guidance received from the SBTi. This is primarily due to the fact 
+that waste-to-energy facilities are not based on fossil fuels, and electricity generation is not their main 
+purpose or revenue source. Consequently, the baseline emissions intensity decreased significantly from 21 
+gCO²e/kWh to 0.01 gCO2e/kWh. Note that, financed emissions related to waste to energy will continue to be 
+tracked against our maintenance target internally. In 2024, the portfolio was 5% of total lending €3.6bn with 
+an emissions intensity of  0.97gCO2e/kWh.  
+We are committed to maintaining the emissions intensity level of the Electricity Generation portfolio below 
+21 gCO²e/kWh through 2030 by keeping the portfolio focused on renewable electricity generation projects. 
+In addition, we intend to grow AIB’s business in renewable energy infrastructure to support the broader 
+transition to a sustainable future.
+Corporate Portfolio Coverage: 
+% of corporate portfolio aligning with SBTi
+Our Corporate Portfolio Coverage target considers large corporations with >500 employees that have SBTi 
+validated targets. In 2021, we established a target to increase our corporate portfolio loan volumes covered 
+by emission targets from 12% to 54% by 2030 from a 2021 baseline. In 2024, we increased our Corporate 
+Portfolio Coverage to 27%.  
+The percentage of customers with SBTi-validated targets set is expected to increase in the coming years, 
+as new regulations around transition plan disclosures come into force. Key sectors should decarbonise in 
+line with the Government’s Climate Action Plan 2024, and corporate customers with >500 employees are 
+expected to set their own emissions targets in the medium term. 
+Annual 
+Review
+Business 
+Review
+Sustainability 
+Reporting
+Governance 
+Report
+Risk 
+Management
+Financial 
+Statements
+General 
+Information
+AIB Group plc
+Annual Financial Report 2024 74
+Decarbonising our Loan Book continued
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+10
+20
+30
+40
+50
+2021 2025 2030 2035 2040 2045 2050
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+25
+50
+75
+100
+125
+150
+2021 2025 2030 2035 2040 2045 2050
+AIB Maintenance T arget
+Actual
+Global – projected – IEA 2024 WEO (1.5°)
+0
+100
+200
+300
+400
+500
+2021 2025 2030
+Corporate Loan Portfolio – Projected
+Corporate Loan Portfolio – Actual
+0
+20
+40
+60
+80
+100
+2021 2025 2030
+In 2021, we established a baseline physical emissions intensity 
+of 40 kgCO 2e/m² for our Residential Mortgages portfolio, utilising 
+the International Energy Agency (IEA) 2021 NZE2050 1.5°C SDA 
+Scenario to reduce our mortgage portfolio GHG emissions 58% 
+per square metre by 2030 from a 2021 base year.
+The scope of our target reflects the total lending within our 
+Residential Mortgages portfolio, which was €29.4bn in 2021, 
+representing 50% of the Group’s total lending at that time.
+Metrics and targets for our financed emissions portfolio are 
+detailed below:
+Residential Mortgages:  Emissions Intensity kgCO 2e/m2
+Commercial Real Estate: Emissions Intensity kgCO 2e/m2
+In 2021, we established a baseline physical emissions intensity of 
+135 kgCO 2e/m², utilising the International Energy Agency (IEA) 2021 
+NZE2050 1.5°C SDA Scenario to reduce GHG emissions from the 
+CRE sector within our corporate loan portfolio 67% per square metre 
+by 2030, from a 2021 base year.
+The scope of our target reflects the total lending within our 
+CRE portfolio of €5.6bn in 2021, 10% of the Group’s total lending. 
+Throughout 2024, we undertook a process to enhance the quality of 
+our data alongside our decarbonisation models and methodologies, 
+reflecting our commitment to more accurately measure emissions. 
+As a result of this effort, we have revised our 2021 baseline from 
+135 kgCO 2e/m² to 116 kgCO2e/m², while maintaining our current 
+IEA pathway. This adjustment allows us to present a more accurate 
+representation of our progress to date, while retaining our emissions 
+reduction target of 67% by 2030.
+ 
+AIB – projected 
+– IEA 2021 
+NZE2050 (1.5°)
+ 
+Actual
+ 
+AIB – projected 
+– IEA 2021 
+NZE2050 (1.5°)
+ 
+Actual
+Financed emissions portfolio
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 28
+
+[page 31]
+GHG metrics and targets continued
+Calculations, judgements and estimates
+The following are noted as sources of estimation and 
+outcome uncertainty:
+1. Corporate Portfolio Coverage targets are calculated by 
+taking the sum of exposure of the Company, dividing it by 
+exposures of all companies in scope (i.e. companies with 
+>500 employees) and multiplying this by the SBTi indicator 
+(i.e. 1 = SBTi targets, 0 = does not have SBTi targets). The data 
+provided to AIB from external sources is confirmation of SBTi 
+committed (Y/N) & >500 employees (Y/N) and Exposure (€m).
+2. AIB Group Residential Mortgages financed emissions intensity 
+targets: Residential Mortgages Portfolio GHG emissions are 
+calculated by taking the sum of (Estimated CO 2 emissions 
+of property X (Current Loan Outstanding/Original Property 
+Value)) divided by the sum of (Floor Area of the Property X 
+(Current Loan Outstanding/Original Property Value)). The 
+estimations proxy information is: i) Property value: If the 
+property value given is less than €20,000, AIB assigns the 
+median value of all Residential Mortgages properties greater 
+than €20,000. ii) Floor area: When the property floor area is 
+unknown regarding the minimum threshold of 20 m 2 or above 
+the cap of 500 m2, apply the property area at the property 
+sub- type level, calculated from the data provided by the 
+Central Statistics Office (CSO). If the property sub-type level 
+is unknown, blank, or if property sub-type cannot be mapped 
+to CSO property categories, then apply the overall property 
+average size. iii) CO2 emissions (BER/EPC): When EPC is 
+not known, assign the median of kWh/m 2 and kgCO2/m2 of 
+properties by building type. When no other information is 
+available, the 75th percentile of kgCO 2/m2 is assigned to the 
+Residential Sustainable Energy Authority of Ireland (SEAI) 
+BER table. BER/EPC is assigned based on the kWh/m 2 ratio 
+vs notional building (methodology used by SEAI).
+3. AIB Group CRE Emission Intensity targets: CRE Portfolio GHG 
+Emissions are calculated by taking the sum of (Estimated CO 2 
+emissions of property X (Current Loan Outstanding/Original 
+Property Value)) divided by sum of (Floor Area of the Property 
+X (Current Loan Outstanding/Original Property Value)). 
+The following Estimations/Proxy Information is used: a) If the 
+property value is unknown, AIB assigns average property 
+value by property type and sub-type. b) Floor area: A cap of 
+88,156 m2 and a minimum threshold of 30 m2 are applied to 
+the property floor area, based on the maximum and minimum 
+property size registered in the SEAI database for non-
+residential buildings. Where CO 2 emissions (BER/EPC) are 
+not known, AIB assigns median of kWh/m 2 and kgCO2/m2 
+of properties by dwelling type. When this data is unknown, 
+AIB assigns the 75th percentile of kgCO 2/m2 from the 
+SEAI database.
+4. Electricity Generation Maintenance targets: electricity 
+production data is based on actuals where data is sourced 
+directly from counterparties to understand the emissions 
+intensity of our Electricity Generation portfolio. This has 
+a very low emissions intensity overall, given the high share 
+of renewables. Since the maintenance target was validated 
+by the SBTi, Waste to Energy counterparties have been 
+de-scoped as per SBTi guidance. The reason for this exclusion 
+is that Waste to Energy facilities are not based on fossil fuels.
+Electricity Generation:  Emissions Intensity gCO 2e/kWh
+Corporate Portfolio Coverage:  
+% of corporate portfolio aligning with SBTi
+Our Corporate Portfolio Coverage target considers large corporations 
+with more than 500 employees that have SBTi-validated targets. 
+In 2021, we established a target to increase our corporate portfolio 
+loan volumes covered by emission targets from 12% to 54% by 2030, 
+from a 2021 baseline.
+AIB’s Electricity Generation portfolio has a significantly low emissions 
+intensity relative to the global average for electricity generation 
+(458 gCO 2e/kWh in 2024), given the high share of renewable energy 
+assets such as offshore wind energy. In 2021, we established our 
+baseline maintenance target to maintain the emissions intensity of 
+our electricity generation project finance portfolio at or below 
+21 gCO 2e/kWh from 2021 through 2030 and only finance 1.5°C 
+aligned electricity generation projects. The scope of our baseline 
+and target reflects the total lending within our Electricity Generation 
+portfolio of €1.6bn in 2021, comprising 3% of the Group’s total 
+lending. Since setting our maintenance target, waste to energy has 
+been excluded from the Electricity Generation target scope, 
+following bilateral guidance received from the SBTi. This is primarily 
+due to the fact that waste-to-energy facilities are not based on fossil 
+fuels, and electricity generation is not their main purpose or revenue 
+source. Consequently, the baseline emissions intensity decreased 
+significantly from 21 gCO 2e/kWh to 0.01 gCO2e/kWh. Note that, 
+financed emissions related to waste to energy will continue to be 
+tracked against our maintenance target internally. We are committed 
+to maintaining the emissions intensity level of the Electricity 
+Generation portfolio below 21 gCO 2e/kWh through 2030 by keeping 
+the portfolio focused on renewable electricity generation projects.
+3 Financed 
+emissions progress
+Progress against our financed emissions reduction targets is tracking in the right direction versus the 2021 baseline: 
+Residential Mortgages: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 40 kgCO²e/m² for our Residential 
+Mortgages portfolio, utilising the International Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to 
+reduce our mortgage portfolio GHG emissions 58% per square meter by 2030 from a 2021 base year. 
+The scope of our target reflects the total lending within our Residential Mortgages portfolio, which was 
+€29.4bn in 2021, representing 50% of the Group’s total lending at that time. By 2024, our Residential 
+Mortgages portfolio had increased to 51% of the Group’s total lending, with a total of €36.3bn. 
+In 2024, the physical emissions intensity of our Residential Mortgages portfolio decreased by approximately 
+5.6%, compared to our 2021 baseline. As previously noted, progress against targets is not expected to be 
+linear on a year on-year basis given reliance on external factors such as policy, regulation, market trends 
+and consumer behaviours. AIB remains committed to investing in residential mortgage products and 
+propositions to support the achievement of our targets. 
+Commercial Real Estate: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 135 kgCO²e/m², utilising the International 
+Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to reduce GHG emissions from the CRE sector 
+within its corporate loan portfolio 67% per square meter by 2030 from a 2021 base year. The scope of our 
+target reflects the total lending within our CRE portfolio of €5.6bn in 2021, 10% of the Group’s total lending.
+Throughout 2024, we undertook a process to enhance the quality of our data alongside our 
+decarbonisation models and methodologies, reflecting our commitment to more accurately measure 
+emissions. As a result of this effort, we are revising our 2021 baseline from 135 kgCO²e/m² to 116 
+kgCO²e/m², while maintaining our current IEA pathway. This adjustment allows us to present a more 
+accurate representation of our progress to date, while retaining our emissions reduction target of 67% 
+by 2030. In 2024, our CRE portfolio accounted for 8% of the Group’s total lending, with total lending 
+at €5.6bn. In 2024, the physical emissions intensity of our CRE portfolio reduced by approximately 
+8% compared to our 2021 restated baseline.  
+We are competitive in the CRE sector in our home market, with our commitment to sustainability being a 
+key differentiator. CRE is also an important sector to us because of the social impact of our business. We 
+work with developers and housing schemes and, through the provision of finance, we have a positive social 
+impact by increasing the housing supply in Ireland.
+Electricity Generation: 
+Emissions intensity gCO2e/kWh
+AIB’s Electricity Generation portfolio has a significantly low emissions intensity relative to the global average 
+for electricity generation (458 gCO2e/kWh in 2024), given the high share of renewable energy assets such 
+as offshore wind energy. 
+In 2021, we established our baseline maintenance target to maintain the emissions intensity of our 
+electricity generation project finance portfolio at or below 21 gCO²e/kWh from 2021 through 2030 and only 
+finance 1.5°C aligned electricity generation projects. The scope of our baseline and target reflects the total 
+lending within our Electricity Generation portfolio of €1.6bn in 2021, comprising 3% of the Group’s total 
+lending. Since setting our maintenance target, waste to energy has been excluded from the Electricity 
+Generation target scope, following bilateral guidance received from the SBTi. This is primarily due to the fact 
+that waste-to-energy facilities are not based on fossil fuels, and electricity generation is not their main 
+purpose or revenue source. Consequently, the baseline emissions intensity decreased significantly from 21 
+gCO²e/kWh to 0.01 gCO2e/kWh. Note that, financed emissions related to waste to energy will continue to be 
+tracked against our maintenance target internally. In 2024, the portfolio was 5% of total lending €3.6bn with 
+an emissions intensity of  0.97gCO2e/kWh.  
+We are committed to maintaining the emissions intensity level of the Electricity Generation portfolio below 
+21 gCO²e/kWh through 2030 by keeping the portfolio focused on renewable electricity generation projects. 
+In addition, we intend to grow AIB’s business in renewable energy infrastructure to support the broader 
+transition to a sustainable future.
+Corporate Portfolio Coverage: 
+% of corporate portfolio aligning with SBTi
+Our Corporate Portfolio Coverage target considers large corporations with >500 employees that have SBTi 
+validated targets. In 2021, we established a target to increase our corporate portfolio loan volumes covered 
+by emission targets from 12% to 54% by 2030 from a 2021 baseline. In 2024, we increased our Corporate 
+Portfolio Coverage to 27%.  
+The percentage of customers with SBTi-validated targets set is expected to increase in the coming years, 
+as new regulations around transition plan disclosures come into force. Key sectors should decarbonise in 
+line with the Government’s Climate Action Plan 2024, and corporate customers with >500 employees are 
+expected to set their own emissions targets in the medium term. 
+Annual 
+Review
+Business 
+Review
+Sustainability 
+Reporting
+Governance 
+Report
+Risk 
+Management
+Financial 
+Statements
+General 
+Information
+AIB Group plc
+Annual Financial Report 2024 74
+Decarbonising our Loan Book continued
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+10
+20
+30
+40
+50
+2021 2025 2030 2035 2040 2045 2050
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+25
+50
+75
+100
+125
+150
+2021 2025 2030 2035 2040 2045 2050
+AIB Maintenance Target
+Actual
+Global – projected – IEA 2024 WEO (1.5°)
+0
+100
+200
+300
+400
+500
+2021 2025 2030
+Corporate Loan Portfolio – Projected
+Corporate Loan Portfolio – Actual
+0
+20
+40
+60
+80
+100
+2021 2025 2030
+3 Financed 
+emissions progress
+Progress against our financed emissions reduction targets is tracking in the right direction versus the 2021 baseline: 
+Residential Mortgages: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 40 kgCO²e/m² for our Residential 
+Mortgages portfolio, utilising the International Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to 
+reduce our mortgage portfolio GHG emissions 58% per square meter by 2030 from a 2021 base year. 
+The scope of our target reflects the total lending within our Residential Mortgages portfolio, which was 
+€29.4bn in 2021, representing 50% of the Group’s total lending at that time. By 2024, our Residential 
+Mortgages portfolio had increased to 51% of the Group’s total lending, with a total of €36.3bn. 
+In 2024, the physical emissions intensity of our Residential Mortgages portfolio decreased by approximately 
+5.6%, compared to our 2021 baseline. As previously noted, progress against targets is not expected to be 
+linear on a year on-year basis given reliance on external factors such as policy, regulation, market trends 
+and consumer behaviours. AIB remains committed to investing in residential mortgage products and 
+propositions to support the achievement of our targets. 
+Commercial Real Estate: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 135 kgCO²e/m², utilising the International 
+Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to reduce GHG emissions from the CRE sector 
+within its corporate loan portfolio 67% per square meter by 2030 from a 2021 base year. The scope of our 
+target reflects the total lending within our CRE portfolio of €5.6bn in 2021, 10% of the Group’s total lending.
+Throughout 2024, we undertook a process to enhance the quality of our data alongside our 
+decarbonisation models and methodologies, reflecting our commitment to more accurately measure 
+emissions. As a result of this effort, we are revising our 2021 baseline from 135 kgCO²e/m² to 116 
+kgCO²e/m², while maintaining our current IEA pathway. This adjustment allows us to present a more 
+accurate representation of our progress to date, while retaining our emissions reduction target of 67% 
+by 2030. In 2024, our CRE portfolio accounted for 8% of the Group’s total lending, with total lending 
+at €5.6bn. In 2024, the physical emissions intensity of our CRE portfolio reduced by approximately 
+8% compared to our 2021 restated baseline.  
+We are competitive in the CRE sector in our home market, with our commitment to sustainability being a 
+key differentiator. CRE is also an important sector to us because of the social impact of our business. We 
+work with developers and housing schemes and, through the provision of finance, we have a positive social 
+impact by increasing the housing supply in Ireland.
+Electricity Generation: 
+Emissions intensity gCO2e/kWh
+AIB’s Electricity Generation portfolio has a significantly low emissions intensity relative to the global average 
+for electricity generation (458 gCO2e/kWh in 2024), given the high share of renewable energy assets such 
+as offshore wind energy. 
+In 2021, we established our baseline maintenance target to maintain the emissions intensity of our 
+electricity generation project finance portfolio at or below 21 gCO²e/kWh from 2021 through 2030 and only 
+finance 1.5°C aligned electricity generation projects. The scope of our baseline and target reflects the total 
+lending within our Electricity Generation portfolio of €1.6bn in 2021, comprising 3% of the Group’s total 
+lending. Since setting our maintenance target, waste to energy has been excluded from the Electricity 
+Generation target scope, following bilateral guidance received from the SBTi. This is primarily due to the fact 
+that waste-to-energy facilities are not based on fossil fuels, and electricity generation is not their main 
+purpose or revenue source. Consequently, the baseline emissions intensity decreased significantly from 21 
+gCO²e/kWh to 0.01 gCO2e/kWh. Note that, financed emissions related to waste to energy will continue to be 
+tracked against our maintenance target internally. In 2024, the portfolio was 5% of total lending €3.6bn with 
+an emissions intensity of  0.97gCO2e/kWh.  
+We are committed to maintaining the emissions intensity level of the Electricity Generation portfolio below 
+21 gCO²e/kWh through 2030 by keeping the portfolio focused on renewable electricity generation projects. 
+In addition, we intend to grow AIB’s business in renewable energy infrastructure to support the broader 
+transition to a sustainable future.
+Corporate Portfolio Coverage: 
+% of corporate portfolio aligning with SBTi
+Our Corporate Portfolio Coverage target considers large corporations with >500 employees that have SBTi 
+validated targets. In 2021, we established a target to increase our corporate portfolio loan volumes covered 
+by emission targets from 12% to 54% by 2030 from a 2021 baseline. In 2024, we increased our Corporate 
+Portfolio Coverage to 27%.  
+The percentage of customers with SBTi-validated targets set is expected to increase in the coming years, 
+as new regulations around transition plan disclosures come into force. Key sectors should decarbonise in 
+line with the Government’s Climate Action Plan 2024, and corporate customers with >500 employees are 
+expected to set their own emissions targets in the medium term. 
+Annual 
+Review
+Business 
+Review
+Sustainability 
+Reporting
+Governance 
+Report
+Risk 
+Management
+Financial 
+Statements
+General 
+Information
+AIB Group plc
+Annual Financial Report 2024 74
+Decarbonising our Loan Book continued
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+10
+20
+30
+40
+50
+2021 2025 2030 2035 2040 2045 2050
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+25
+50
+75
+100
+125
+150
+2021 2025 2030 2035 2040 2045 2050
+AIB Maintenance Target
+Actual
+Global – projected – IEA 2024 WEO (1.5°)
+0
+100
+200
+300
+400
+500
+2021 2025 2030
+Corporate Loan Portfolio – Projected
+Corporate Loan Portfolio – Actual
+0
+20
+40
+60
+80
+100
+2021 2025 2030
+3 Financed 
+emissions progress
+Progress against our financed emissions reduction targets is tracking in the right direction versus the 2021 baseline: 
+Residential Mortgages: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 40 kgCO²e/m² for our Residential 
+Mortgages portfolio, utilising the International Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to 
+reduce our mortgage portfolio GHG emissions 58% per square meter by 2030 from a 2021 base year. 
+The scope of our target reflects the total lending within our Residential Mortgages portfolio, which was 
+€29.4bn in 2021, representing 50% of the Group’s total lending at that time. By 2024, our Residential 
+Mortgages portfolio had increased to 51% of the Group’s total lending, with a total of €36.3bn. 
+In 2024, the physical emissions intensity of our Residential Mortgages portfolio decreased by approximately 
+5.6%, compared to our 2021 baseline. As previously noted, progress against targets is not expected to be 
+linear on a year on-year basis given reliance on external factors such as policy, regulation, market trends 
+and consumer behaviours. AIB remains committed to investing in residential mortgage products and 
+propositions to support the achievement of our targets. 
+Commercial Real Estate: 
+Emissions intensity kgCO2e/m2
+In 2021, we established a baseline physical emissions intensity of 135 kgCO²e/m², utilising the International 
+Energy Agency (IEA) 2021 NZE2050 1.5°C SDA Scenario to reduce GHG emissions from the CRE sector 
+within its corporate loan portfolio 67% per square meter by 2030 from a 2021 base year. The scope of our 
+target reflects the total lending within our CRE portfolio of €5.6bn in 2021, 10% of the Group’s total lending.
+Throughout 2024, we undertook a process to enhance the quality of our data alongside our 
+decarbonisation models and methodologies, reflecting our commitment to more accurately measure 
+emissions. As a result of this effort, we are revising our 2021 baseline from 135 kgCO²e/m² to 116 
+kgCO²e/m², while maintaining our current IEA pathway. This adjustment allows us to present a more 
+accurate representation of our progress to date, while retaining our emissions reduction target of 67% 
+by 2030. In 2024, our CRE portfolio accounted for 8% of the Group’s total lending, with total lending 
+at €5.6bn. In 2024, the physical emissions intensity of our CRE portfolio reduced by approximately 
+8% compared to our 2021 restated baseline.  
+We are competitive in the CRE sector in our home market, with our commitment to sustainability being a 
+key differentiator. CRE is also an important sector to us because of the social impact of our business. We 
+work with developers and housing schemes and, through the provision of finance, we have a positive social 
+impact by increasing the housing supply in Ireland.
+Electricity Generation: 
+Emissions intensity gCO2e/kWh
+AIB’s Electricity Generation portfolio has a significantly low emissions intensity relative to the global average 
+for electricity generation (458 gCO2e/kWh in 2024), given the high share of renewable energy assets such 
+as offshore wind energy. 
+In 2021, we established our baseline maintenance target to maintain the emissions intensity of our 
+electricity generation project finance portfolio at or below 21 gCO²e/kWh from 2021 through 2030 and only 
+finance 1.5°C aligned electricity generation projects. The scope of our baseline and target reflects the total 
+lending within our Electricity Generation portfolio of €1.6bn in 2021, comprising 3% of the Group’s total 
+lending. Since setting our maintenance target, waste to energy has been excluded from the Electricity 
+Generation target scope, following bilateral guidance received from the SBTi. This is primarily due to the fact 
+that waste-to-energy facilities are not based on fossil fuels, and electricity generation is not their main 
+purpose or revenue source. Consequently, the baseline emissions intensity decreased significantly from 21 
+gCO²e/kWh to 0.01 gCO2e/kWh. Note that, financed emissions related to waste to energy will continue to be 
+tracked against our maintenance target internally. In 2024, the portfolio was 5% of total lending €3.6bn with 
+an emissions intensity of  0.97gCO2e/kWh.  
+We are committed to maintaining the emissions intensity level of the Electricity Generation portfolio below 
+21 gCO²e/kWh through 2030 by keeping the portfolio focused on renewable electricity generation projects. 
+In addition, we intend to grow AIB’s business in renewable energy infrastructure to support the broader 
+transition to a sustainable future.
+Corporate Portfolio Coverage: 
+% of corporate portfolio aligning with SBTi
+Our Corporate Portfolio Coverage target considers large corporations with >500 employees that have SBTi 
+validated targets. In 2021, we established a target to increase our corporate portfolio loan volumes covered 
+by emission targets from 12% to 54% by 2030 from a 2021 baseline. In 2024, we increased our Corporate 
+Portfolio Coverage to 27%.  
+The percentage of customers with SBTi-validated targets set is expected to increase in the coming years, 
+as new regulations around transition plan disclosures come into force. Key sectors should decarbonise in 
+line with the Government’s Climate Action Plan 2024, and corporate customers with >500 employees are 
+expected to set their own emissions targets in the medium term. 
+Annual 
+Review
+Business 
+Review
+Sustainability 
+Reporting
+Governance 
+Report
+Risk 
+Management
+Financial 
+Statements
+General 
+Information
+AIB Group plc
+Annual Financial Report 2024 74
+Decarbonising our Loan Book continued
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+10
+20
+30
+40
+50
+2021 2025 2030 2035 2040 2045 2050
+AIB – projected – IEA 2021 NZE2050 (1.5°)
+Actual
+0
+25
+50
+75
+100
+125
+150
+2021 2025 2030 2035 2040 2045 2050
+AIB Maintenance Target
+Actual
+Global – projected – IEA 2024 WEO (1.5°)
+0
+100
+200
+300
+400
+500
+2021 2025 2030
+Corporate Loan Portfolio – Projected
+Corporate Loan Portfolio – Actual
+0
+20
+40
+60
+80
+100
+2021 2025 2030
+ 
+Corporate 
+Loan Portfolio 
+– Projected
+ 
+Corporate 
+Loan Portfolio 
+– Actual
+ 
+AIB 
+Maintenance 
+Target°
+ 
+Actual
+ 
+Global 
+– projected 
+– IEA 2024 
+WEO (1.5°)
+Financed emissions portfolio
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 29
+
+[page 32]
+Additional metrics and targets under consideration
+Excluded activities
+Nature and biodiversity play a crucial role in the health of our planet. Nature provides raw 
+materials such as wood, minerals and food, as well as a range of services such as pollination, 
+water purification and climate regulation.
+Regarding exposure to coal, oil and gas-related activities, and in the context of our mitigation 
+efforts to achieve our SBTi-validated targets, we have had an excluded activities list in place 
+since 2020, and which sets out a range of business activities that do not align with our 
+Group strategy. 
+In recent years, we have further developed our approach to C&E 
+to more clearly articulate our nature strategy and to integrate nature 
+considerations into both our business strategy and risk management 
+approach. Nature considerations are location specific and often site 
+specific. AIB has carried out detailed mapping exercises to identify 
+any own premises located in areas of biodiversity sensitivity. 
+In addition, a business environment scan has been carried out to 
+understand risks to our business as well as areas where AIB and 
+our customers have the greatest potential impact on nature and 
+From a sustainability perspective, excluded activities include 
+the exploration, extraction and upgrading of oil sands projects, 
+nuclear power generation, nuclear waste transportation, and the 
+decommissioning and/or final disposal of high-level nuclear waste.
+dependencies on specific ecosystem services (e.g. fresh water, soil 
+quality). Understanding nature risks, impacts and dependencies is 
+complex. Best practice continues to evolve, as will AIB’s approach.
+With regard to the degradation of ecosystems and biodiversity loss, 
+and their potential reflective influence with climate-related risks, we 
+are also considering the development of metrics and targets that 
+could further assist our focus in protecting nature and biodiversity.
+Our rules prohibit us from providing customers with new money 
+when their activities are covered by this list. Lending linked to fossil 
+fuel-related activities (including coal, oil and gas-related activities) 
+represents <1% of our lending activities, and is therefore considered 
+immaterial for our business.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 30
+
+[page 33]
+32
+Overview of AIB’s 
+sustainability 
+governance structures
+33
+Oversight, management 
+and accountability for the 
+Climate Transition Plan
+33 Skills, competencies, 
+training and culture
+33 Incentives and  
+remuneration
+Governance
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 31
+
+[page 34]
+Climate CapitalCapital MarketsRetail Banking AIB UK
+Overview of AIB’s sustainability  
+governance structures
+We have strong governance structures, frameworks and policies to ensure proper oversight of 
+our sustainability activities, which are key to delivering our strategy and realising our ambitions. 
+We aim to set the tone from the top and enable a sound and consistent risk culture, and 
+mitigate and manage all ESG risks.
+The Board oversees and challenges AIB’s sustainability strategy 
+and performance. It is responsible for promoting our long-term 
+sustainable performance, ensuring a robust approach. As part of the 
+strategic and financial planning process, it approves Group strategy, 
+financial and investment plans (including sustainability factors), and 
+sustainability targets across our core operating segments.
+To ensure AIB has appropriate measures to promote knowledge of 
+ESG factors and ESG risks, as well as awareness of our ESG strategic 
+objectives and commitments, we have established committees to 
+safeguard a robust and transparent approach. These Board and 
+Advisory Committees support the Board and operate under Board-
+approved Terms of Reference.
+The Sustainable Business Advisory Committee (SBAC) is a dedicated 
+committee for sustainability. It assists the Board in overseeing 
+sustainability matters and supports the execution of our sustainable 
+business strategy, in accordance with our Strategic and Financial 
+Plan. The SBAC receives updates on sustainability matters, including 
+the sustainability strategy from management, following review and 
+recommendation from the GSC (see below).
+AIB Group governance structure
+Core operating segments
+Board Audit
+Committee
+Board Risk
+Committee
+Remuneration
+Committee
+Nomination  
+& Corporate 
+Governance
+Committee
+Sustainable
+Business Advisory
+Committee
+Technology &
+Data Advisory
+Committee
+Group Sustainability
+Committee
+Group Conduct
+Committee
+Group Risk
+Committee
+Group Disclosure
+Committee
+Data, Analytics and 
+Technology Committee
+AIB Group Board
+AIB Group Executive Committee
+The Group Sustainability Committee (GSC), chaired by our 
+Chief Strategy & Sustainability Officer:
+• oversees the effective fulfilment of strategic objectives and 
+regulatory obligations;
+• reviews and assesses current and emerging ESG risks, interacting 
+with the Group Risk Committee on relevant matters;
+• maintains relationships with key sustainability stakeholders and 
+ensures that our ESG product portfolio aligns to our sustainability 
+agenda and strategy; and
+• manages and oversees the DMA process, which takes place under 
+CSRD reporting. Our DMA results, and any subsequent updates, 
+are reported annually to both SBAC and BAC.
+Sustainability is also considered by other Executive Governance 
+Committees:
+• The Group Risk Committee is the senior management risk 
+committee and is accountable to the Executive Committee for 
+setting policy and monitoring all risk types, including all ESG and 
+Climate & Environmental (C&E) Risks.
+• The Group Disclosure Committee (GDC) oversees material Group 
+disclosures. The GDC reviews the key judgements and estimates 
+applied to sustainability disclosures, following their consideration 
+by the GSC, as well as the clarity and consistency of the GSC’s 
+recommended response to new legal and regulatory requirements 
+impacting Group ESG disclosures.
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 32
+
+[page 35]
+Incentives and remuneration
+Oversight, management and accountability 
+for the Climate Transition Plan
+Skills, competencies, training and culture
+As described above, the Board is responsible for promoting the Group’s long-term sustainable 
+performance. It approves the Group’s strategy and our financial and investment plans, which 
+includes considering sustainability factors. 
+AIB operates a short-term variable 
+remuneration scheme which focuses on 
+delivery against Group performance measures. 
+The scheme applies to all employees and has 
+a Group Profit underpin, which is a minimum 
+level of profit that must be achieved to trigger 
+an award under the scheme.
+A culture that prioritises sustainability can differentiate AIB, attract socially responsible 
+customers, and strengthen stakeholder relationships. 
+The Board is supported in discharging its duties by a number of 
+Board and Advisory Committees. Part of their role is to oversee and 
+challenge the Group’s sustainability strategy and performance, while 
+the Board retains ultimate responsibility, ensuring a robust approach.
+The Group Sustainability Committee (GSC) is chaired by our Chief 
+Sustainability Officer. Its remit includes the effective fulfilment of 
+strategic objectives and regulatory obligations, and our data strategy 
+as it relates to ESG disclosures. It reviews and assesses current and 
+emerging ESG risks, interacting with the Group Risk Committee on 
+relevant matters.
+Our Chief Strategy & Sustainability Officer is responsible for 
+developing, monitoring and updating our Climate Transition Plan. 
+The monitoring and implementation of this Climate Transition Plan is 
+embedded into our formal review and planning processes, including 
+the Annual Business Review, which forms part of our Strategic, 
+Financial and Investment Planning processes.
+The scheme comprises three financial measures, accounting for 
+60% of the award calculation, and three sustainability performance 
+measures accounting for the remaining 40%. The sustainability 
+performance measures relate to gender balance, customer 
+satisfaction and green finance, and underline the importance placed 
+on the ESG and customer agendas in line with the Group’s strategy. 
+Each sustainability performance measure has an equal weighting 
+of 13.33%. 
+Acquiring and maintaining knowledge on sustainability matters, 
+including business conduct, is crucial to enable us to deliver on our 
+sustainability commitments. 
+To ensure that the Board, its Committees and the Executive are 
+equipped with the necessary skills and diversity to effectively 
+guide the Group towards sustained success, we have a rigorous 
+Director recruitment process, managed by the Nomination & 
+Corporate Governance Committee. Similarly, the Group’s Senior 
+Selection Policy provides that all candidates for Executive Committee 
+positions are assessed against key role criteria and capabilities in the 
+job description. 
+From an oversight and governance perspective, our Climate 
+Transition Plan’s component parts are subject to review and approval 
+through the governance structure detailed on the previous page . 
+We will regularly update our Climate Transition Plan as necessary 
+to take account of new materiality assessments of ESG risks; 
+significant developments in portfolios or counterparties’ activities; 
+new scenarios; additional benchmarks or sectoral pathways; as well 
+as impacts of new or upcoming regulation.
+We will provide an annual update on progress in implementing 
+our Climate Transition Plan in our Sustainability Statement in our 
+AFR, in addition to regular updates to the GSC, SBAC and Board 
+throughout the year. Our governance approach to sustainability 
+reporting is aligned with financial reporting and is integrated within 
+our internal control system.
+We will continue our stakeholder engagement process in 
+a responsible manner to build strong relationships and continuously 
+inform our strategy, while delivering long-standing outcomes.
+Our Board and Executive Committee have members with specialised 
+knowledge and expertise in sustainability. The skills and expertise of 
+each Board member are evaluated in relation to core skills, including 
+Climate & Environmental (Sustainability) and Customer & Conduct, 
+which covers business conduct. The Board is supported by SBAC, 
+which includes members of the Executive Committee, including our 
+Chief Sustainability Officer, and Head of Climate Capital.
+Throughout 2024, several ESG-related training events took place to 
+advance the Board’s collective knowledge and skills. The training 
+sessions were delivered by internal and external subject matter 
+experts on topics including industry perspectives, emerging practices, 
+challenges with data quality for climate-related disclosures and CSRD.
+40% 
+non-financial measures
+60%
+financial measures
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 33
+
+[page 36]
+Mary Whitelaw
+Chief Strategy and Sustainability Officer
+Next steps  
+in transition planning
+This first stand-alone Climate Transition Plan 
+outlines what we have done at AIB to date to 
+embed sustainability into everything we do. 
+Our approach centres on supporting businesses and households to 
+decarbonise, financing social infrastructure, investing in innovation, 
+and operating with integrity and transparency throughout  
+our organisation.
+We are making this happen through key action areas including: 
+effective climate governance; C&E risk management; employee 
+engagement and training; decarbonising our own operations; 
+developing our in-house research and data expertise; developing 
+strategic partnerships; and by supporting greater harmonisation 
+and transparency through disclosures.
+While progress towards our decarbonisation ambition is being made, 
+we also acknowledge that more can be done to further enhance our 
+climate transition planning journey and to further embed sustainable 
+practices across our business. 
+We will continue to monitor our actions, targets and metrics to ensure 
+effective implementation and alignment – not only with our transition 
+plan, but also with our overarching strategy and validated financed 
+emissions reduction targets.
+This plan marks a milestone in our journey, but it is also just a starting 
+point for deeper, more ambitious action and evidence-based progress 
+to sustain our journey to being a climate leading financial institution 
+for change.
+Closing 
+Statement
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 34
+
+[page 37]
+Appendices
+Abbreviation Reference
+AFR Annual Financial Report
+BER Building Energy Rating
+C&E Climate & Environmental
+CAP Climate Action Plan
+CDP Carbon Disclosure Project
+CEO Chief Executive Officer
+CFO Chief Financial Officer
+CPD Continuous Professional Development
+CRE Commercial Real Estate
+CRO Chief Risk Officer
+CSO Central Statistics Office
+DMA Double Materiality Assessment
+EPA Environmental Protection Agency
+ESG Environmental, Social, Governance
+GBF Green Bond Framework
+GDC Group Disclosure Committee
+GHG Greenhouse Gas
+GSC Group Sustainability Committee
+HEULS Home Energy Upgrade Loan Scheme
+ICAAP Internal Capital Adequacy Assessment
+IEA International Energy Agency
+ILAAP Internal Liquidity Adequacy Assessment
+IOB Institute of Banking
+IROs Impacts, risks and opportunities
+KPIs Key Performance Indicators
+MRA Material Risk Assessment
+NZBA Net Zero Banking Alliance
+PCA Portfolio Coverage Approach
+PCAF Partnership for Carbon Accounting Financials
+PGF Policy Governance Framework 
+RCA Risk and Control Assessment
+SBAC Sustainable Business Advisory Committee
+Abbreviation Reference
+SBCI Strategic Banking Corporation of Ireland
+SBTi Science Based Targets initiative
+SDA Sector Decarbonisation Approach
+SLF Sustainable Lending Framework
+SRI Socially Responsible Investment
+SRM Supplier Relationship Management
+TCFD Task Force on Climate-Related Financial 
+Disclosures
+UNEP United Nations Environmental Programme 
+WBCSD World Business Council for Sustainable 
+Development
+Appendix 1 – Glossary
+Introduction
+Foundations of our 
+Climate Transition Plan
+Implementation and 
+engagement strategy Metrics and targets Governance
+Next steps in 
+transition planning Appendices
+AIB Group plc
+Climate Transition Plan 35
+
+[page 38]
+AIB Group plc
+10 Molesworth Street, Dublin 2, D02 R126 
++353 (1) 660 0311 
+www.aib.ie/investorrelations

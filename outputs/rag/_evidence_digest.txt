@@ -1,0 +1,791 @@
+
+==============================================================================
+# Alfa Laval AB (ALFA.ST)   |   # primary source: annual-and-sustainability-report-2025.pdf  (156 pages)
+==============================================================================
+
+## specificity
+  [p7] 2050 net-zero scenarios, with regional disparities widening.
+  [p18] Alfa Laval aims to achieve net zero greenhouse gas (GHG)
+  [p18] * The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027
+  [p20] but also considered the IEA Net Zero 2050 scenario, which is
+  [p20] aligned with Alfa Laval’s own net zero target.
+  [p29] impacts that will continue until Alfa Laval reaches net zero value
+
+## metric
+  [p11] Adjusted EBITA margin 3)4) 17.7% 16.6%
+  [p11] Return on capital employed 3) 23.9% 23.2%
+  [p11] Return on equity 3) 19.6% 18.8%
+  [p11] Equity/ assets ratio3) 44.6% 47.6 %
+  [p11] Adjusted EBITA margin 4) 17.0% 19.3%
+  [p11] Adjusted EBITA margin 4) 15.1% 14.8%
+
+## baseline
+  [p18] Reduction scope 1 & 2 (base year 2020)* 95%
+  [p18] Reduction scope 3 (base year 2020) 50%
+  [p20] In the assessment, baseline exposure was considered as well as
+  [p28] scope 3 GHG emissions, which led to increased baseline (2020)
+  [p29] lower than the baseline year 2020.
+  [p31] base year 2020, scope 1 GHG emissions have decreased by
+
+## target
+  [p27] validated by an external body other than company auditors,
+  [p29] SSP1 – RCP2.6 scenario, which is associated with a ~ 1.5°C
+  [p30] temperature rise to 1.5 °C. Such a scenario means deploying a
+  [p30] Based Targets initiative (SBTi) as compatible with the limiting
+  [p30] of global warming to 1.5°C in line with the Paris Agreement. Alfa
+  [p33] approved by SBTi as compatible with limiting global warming
+
+## time_horizon
+  [p7] 2050 net-zero scenarios, with regional disparities widening.
+  [p17] The Alfa Laval 2030 Strategic Direction is about growing as
+  [p18] focus on until 2030. Each area includes a vision that sets out
+  [p18] emissions in its own operations by 2027 and throughout the
+  [p18] value chain by 2050. Actions to deliver on these targets are set
+  [p18] * The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027
+
+## scope
+  [p18] Reduction scope 1 & 2 (base year 2020)* 95%
+  [p18] Reduction scope 3 (base year 2020) 50%
+  [p18] * The ambition is to achieve net zero scope 1 and 2 GHG emissions by 2027
+  [p22] Increasing costs to reduce Scope 3 emissions.
+  [p27] upstream and downstream scope 3 GHG emissions. All scope
+  [p27] scope 3 GHG emissions calculations, for instance by requesting
+
+## verification
+  [p14] • Third line: Group Internal Audit provides independent assur -
+  [p15] Risk for claims Costs from product faults, recalls or penalties. ISO-certified quality assurance, extensive product testing
+  [p15] Risk for technically related damages Product failures causing damage to life/property. Product liability insurance, quality assurance and extensive
+  [p20] was carried out using a third-party tool including all operational
+  [p20] using recognized third-party tools, such as the ENCORE data -
+  [p25] through automated data verification in the reporting software
+
+## consistency
+  [p8] portfolio development and capital allocation.
+  [p20] ceptions Index. The extent of political lobbying activities was
+  [p29] align with the capital allocation plans and expected useful lives
+  [p30] actions in accordance with the transition plan are disclosed in
+  [p30] During 2025, Alfa Laval prepared a transition plan for climate
+  [p30] The transition plan has been developed mainly through a bot -
+
+==============================================================================
+# Aegon Ltd. (AGN.AS)   |   # primary source: aegon-Integrated-annual-report-2025.pdf  (387 pages)
+==============================================================================
+
+## specificity
+  [p18] investing, our net-zero ambitions, and our focus on fostering
+  [p23] Investment (PRI), and the Net-Zero Asset Owner Alliance
+  [p23] to net-zero greenhouse gas emissions by 2050, supporting
+  [p32] collaboration is essential to achieving our net-zero
+  [p33] a growing suite of net-zero-aligned investment solutions.
+  [p33] the carbon footprint by 30% by 2030 and achieving net-zero
+
+## metric
+  [p7] Aegon owning a 51% stake in the joint venture. Aegon’s own
+  [p7] In China, Aegon owns a 50% stake in Aegon THTF Life
+  [p7] In Brazil, Aegon has a 59.2% economic interest and 50%
+  [p7] (where Aegon owns a 49% stake) and La Banque Postale
+  [p7] its shareholding in a.s.r. from approximately 30% to
+  [p11] 70% of our operations and offers the strongest growth
+
+## baseline
+  [p12] compared with 2024 to EUR 1.7 billion, supported by
+  [p19] the next two years from a 2025 run-rate of USD 1.4–1.6
+  [p23] assets by 50% against a 2019 baseline;
+  [p23] activities by 75% by 2030 compared to a 2019 baseline.
+  [p34] colleagues. This is a 12% increase compared with 2024.
+  [p36] sales compared with 2024. Assets under administration at
+
+## target
+  [p294] Our KPIs and other metrics have not been validated by an external body other than our assurance provider.1
+  [p303] validated by internal subject matter experts and material
+  [p305] the increase in the global average temperature to 1.5 °C
+  [p308] with 1.5 °C for its general account assets. The NZAOA
+  [p308] in average global temperature to 1.5°C above pre-industrial
+  [p310] science-based targets aligned with the Paris Agreement.
+
+## time_horizon
+  [p19] around 110,000 agents by 2027, and expand relationships
+  [p23] ambitions for 2030 that build on this foundation. At the same
+  [p23] to net-zero greenhouse gas emissions by 2050, supporting
+  [p23] the global transition to a low-carbon economy. By 2030,
+  [p23] activities by 75% by 2030 compared to a 2019 baseline.
+  [p24] its 2030 sustainability targets, further embed financial
+
+## scope
+  [p23] Reduce the scope 1 and 2 carbon intensity of our directly
+  [p23] the carbon footprint of our operational scope 1 and 2
+  [p32] of its carbon footprint relates to scope 3 greenhouse gas
+  [p296] Investment footprint scope 3 “Corporate Fixed Income
+  [p296] Investment footprint scope 3 “Sovereign Fixed Income"
+  [p296] estimated country-level scope 1 emissions data,
+
+## verification
+  [p3] The report of the independent auditor is issued with the ESEF reporting package. In the event of any discrepancies between this PDF/printed version and
+  [p12] are sharpening the focus of Aegon AM by growing third-party
+  [p18] investment returns for their third-party customers and
+  [p19] with third-party providers. The business plans to modernize
+  [p19] WFG and third-party channels. At Aegon’s 2025 CMD,
+  [p20] Aegon Asset Management: grow third-party
+
+## consistency
+  [p33] These actions reflect Aegon’s disciplined capital allocation
+  [p88] of Aegon's overall financial planning and capital allocation
+  [p231] Material decisions on capital management, material reinsurance, and capital allocation/distribution, in each case to the
+  [p307] aligned transition plans may reduce climate change impacts
+  [p309] a climate transition plan but is taking steps to disclose one
+  [p310] portfolio by exercising capital allocation strategies across
+
+==============================================================================
+# Lloyds Banking Group plc (LLOY.L)   |   # primary source: 2025-lbg-sustainability-report.pdf  (145 pages)
+==============================================================================
+
+## specificity
+  [p16] the UK’s broader net zero ambitions. This year we have
+  [p16] to accelerate the decarbonisation of social housing.
+  [p21] transition of UK housing to net zero, but supporting energy
+  [p21] to drive the housing sector’s net zero transition.
+  [p21] a real-economy transition to net zero.
+  [p21] Bellway’s journey to net zero is anchored
+
+## metric
+  [p8] per share for 2025, up 15%
+  [p10] more than 80% of supply chain
+  [p15] by up to 22%, improving their access to the housing market.
+  [p15] offering products for those with a deposit of 5% to 10%
+  [p15] a family member to put down 10% of the purchase price of
+  [p15] a share when it suits them – starting with as little as 20%
+
+## baseline
+  [p30] delivering the baseline report for the Disability Finance
+  [p63] 1 Absolute emissions from a 2018/2019 baseline include scope 1, 2 and 3
+  [p63] 2 Absolute emissions from a 2021/22 baseline includes scope 1, 2 and 3 categories.
+  [p63] 3 Absolute emissions from a 2018 baseline covering scope 1 and 2 financed
+  [p63] 4 Relative carbon intensity from a 2019 baseline covering scope 1 and 2
+  [p65] 2 Baseline year determined by ambition (2018 for Bank, 2019 for Scottish Widows,
+
+## target
+  [p65] increase in the global average temperature to well below 2°C
+  [p65] temperature increase to 1.5°C above pre-industrial levels,
+  [p68] from the Science Based Targets initiative (SBTi) and the
+  [p68] reduction, exceeding minimum requirements for a 1.5°C
+  [p68] pathway as defined by SBTi and IPCC. These pledges were
+  [p68] benchmarking against SBTi criteria.
+
+## time_horizon
+  [p5] we have continued to advance our 2030 inclusion ambitions,
+  [p15] By 2030, ensure access for all to adequate, safe and
+  [p16] By 2030, double the global rate of
+  [p16] By 2030, ensure access for all to
+  [p18] By 2030, empower and promote
+  [p21] scopes by 2045. The company is aligning
+
+## scope
+  [p22] key performance indicators (KPIs) relating to scopes 1-3,
+  [p63] 1 Absolute emissions from a 2018/2019 baseline include scope 1, 2 and 3
+  [p63] 2 Absolute emissions from a 2021/22 baseline includes scope 1, 2 and 3 categories.
+  [p63] 3 Absolute emissions from a 2018 baseline covering scope 1 and 2 financed
+  [p63] 4 Relative carbon intensity from a 2019 baseline covering scope 1 and 2
+  [p65] scope 1 and 2 emissions only. 2024/25 period end data for supply chain emissions
+
+## verification
+  [p3] Statement on assurance provider
+  [p3] independent limited assurance over certain
+  [p3] data points indicated with a . The assurance
+  [p3] on Assurance Engagements 3000 (Revised),
+  [p3] Assurance Engagements Other Than Audits or
+  [p3] Reviews of Historical Financial Information (ISAE
+
+## consistency
+  [p21] on aligning ESG reporting with transition planning.
+  [p21] Transition Plan (CTP) team and
+  [p21] 1 For more information on our Client Transition Plan process see page 82.
+  [p61] transition plan sets out how we are positioning
+  [p61] Transition plan by system 84
+  [p61] strategy, governance and capital allocation, we aim
+
+==============================================================================
+# SBM Offshore NV (SBMO.AS)   |   # primary source: SBM-Offshore-Annual-Report-2025.pdf  (318 pages)
+==============================================================================
+
+## specificity
+  [p7] market towards its net-zero ambitions. This year, we
+  [p11] Climate Neutral by 2025 for Scope 1 and
+  [p15] milestone towards SBM Offshore’s net-zero ambition.
+  [p18] advance towards a net-zero future by working
+  [p18] while advancing towards a net-zero future. To support this,
+  [p21] net zero by 2050, with intermediary targets for 2030 to
+
+## metric
+  [p7] guidance for 2026 of around US$1.8 billion. A 57% increase
+  [p9] • Full Year 2024 Earnings: Directional Revenue was US$6.1 billion (+35%), in line with guidance. Directional EBITDA was
+  [p9] lion (+44%), in line with guidance. Backlog was US$35.1 billion. 30% increase in annual cash return to
+  [p9] track, c. 6.75% completed.
+  [p9] • First Quarter 2025 Trading Update: Y ear-to-date Directional revenue of US$1,103 million, up 27% versus 1Q 2024 and full
+  [p9] • Third Quarter Trading Update: Increase in year-to-date Directional revenue to US$3.6 billion, up 26% versus 3Q 2024. 2025
+
+## baseline
+  [p10] most notably from 2014 – using the Global Reporting
+  [p12] 3 The 2016 base year considers the emissions performance of 202 kg CO 2e/tonnes of HC.
+  [p48] FPSO Product Line and, from 2021, as
+  [p51] Environment for Shell (2009-2013). From 2014 until
+  [p65] * Compared to 2024 the reference group has changed. Due to changes such as restructuring and delisting John Wood Group Plc and
+  [p66] The 2025 and 2024 base salary levels of t
+
+## target
+  [p93] outcomes of the materiality assessment are validated by
+  [p93] The DMA process was validated by independent external
+  [p95] energy sector aligned with a 1.5°C global temperature
+  [p98] well below 2°C. This scenario assumes strong international
+  [p100] However, the journey to limit global warming to 1.5ºC has
+  [p101] targets based on guidelines of the Science Based Targets
+
+## time_horizon
+  [p11] Climate Neutral by 2025 for Scope 1 and
+  [p11] Source 100% renewable energy by 2030
+  [p12] 5 Target units in 2025 are the offshore production facilities with cessation of production expected by 2029: FPSOs N'Goma and Espirito Santo.
+  [p13] grow. By 2035, total energy consumption is expected to
+  [p21] net zero by 2050, with intermediary targets for 2030 to
+  [p38] 2050. The FPSO design incorporates GHG emission-
+
+## scope
+  [p11] Climate Neutral by 2025 for Scope 1 and
+  [p11] Scope 1 and 2 GHG emissions
+  [p11] Scope 1 and 2 energy consumption
+  [p11] intensity for Scope 3 – Downstr
+  [p12] 2 Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions.
+  [p21] reach carbon neutrality in scope 1 and 2 emissions and
+
+## verification
+  [p2] statements and the independent auditor’s
+  [p2] copy of the independent auditor’s report. Our
+  [p2] independent auditor did not determine (nor do
+  [p2] on third party data providers whose data quality,
+  [p3] 4.6 Independent auditor’s report 294
+  [p3] 5.2 Limited Assurance Report of the Independent
+
+## consistency
+  [p13] Capital allocation in new energy solutions is becoming
+  [p74] DIVIDEND POLICY AND CAPITAL ALLOCATION
+  [p98] transition plan, accelerate portfolio diversification toward
+  [p101] Transition Plan and Target
+  [p104] The CAPEX related to oil-related activities in 2025 is
+  [p104] leases according to IFRS are not included in CAPEX.
+
+==============================================================================
+# Zurich Insurance Group Ltd (ZURN.SW)   |   # primary source: sustainability-report-2025.pdf  (98 pages)
+==============================================================================
+
+## specificity
+  [p6] important progress in implementing our climate transition plan1 towards our ambition to become a net-zero business by
+  [p8] suppliers with net-zero targets by
+  [p11] – Meetings with key suppliers to emphasize our net-zero ambitions and how they can play their part by
+  [p11] engaging in their own net-zero aligned climate action.
+  [p11] 3 Principle for Responsible Investor (PRI), Net-Zero Asset Owners Alliance (NZAOA), International Capital Market Association (ICMA), and Operating Principles for Impact
+  [p12] science-based and net-zero targets.2
+
+## metric
+  [p4] Absolute reduction in all
+  [p22] B Premium & reserve risk 27%
+  [p22] D Natural catastrophe risk3 6%
+  [p22] A Caribbean, Mexico and U.S. hurricane 25%
+  [p22] D Other climate-related 3%
+  [p22] E Non-climate-related 56%
+
+## baseline
+  [p3] offerings. Compared with our 2019 baseline,
+  [p4] invested, compared with 2019 baseline year.
+  [p4] compared with 2019 baseline year.
+  [p4] compared with 2022 baseline year.
+  [p4] 5 2024 represents the latest year with final data. The 2025 dataset relies on a developing estimation methodology and is therefore not yet compared with the 2019 baseline.
+  [p4] since they were not reflected in the CO2e emissions baseline in 2019. Zurich Cover-More is the global corporate brand created in 2024 that combines AIG’s global personal travel insurance and assistanc
+
+## target
+  [p4] credible science-based targets, focusing on those
+  [p4] to suppliers with science-based targets
+  [p4] 2 We consider a supplier to have science-based targets when their emission reduction targets are approved by a scientifically accredited body or otherwise require a reduction of at least 42 percent in
+  [p8] 4 We consider a supplier to have science-based targets when their emission reduction targets are approved by a scientifically accredited body or otherwise require a reduction of at
+  [p12] result, the reported MPS values now reflect the period from October 2024 through September 2025. We consider a supplier to have science-based targets when their emission
+  [p18] 5 We consider a supplier to have science-based targets when their emission reduction targets are approved by a scientifically accredited body or otherwise require a reduction of at
+
+## time_horizon
+  [p3] 60 percent reduction by 2025.
+  [p4] Target: Until 2030, we will engage with 20 high-
+  [p4] Target: By 2030, we will engage with 450 of our large
+  [p4] Target: By 2025, we will allocate 75 percent of our
+  [p4] FY 2024 FY 2025 2030 Target
+  [p4] FY 2024 FY 2025 By 2025 Target
+
+## scope
+  [p4] 1 Determined by scope 1 and 2 for our customers’ emissions using the Partnership for Carbon Accounting Financials (PCAF) insurance-associated emissions methodology for commercial lines, covering custo
+  [p4] 2 We consider a supplier to have science-based targets when their emission reduction targets are approved by a scientifically accredited body or otherwise require a reduction of at least 42 percent in
+  [p4] 3 Reduction of emissions intensity (scope 1 and scope 2). Emissions intensity is defined as metric tons CO2 equivalent per USD million invested.
+  [p4] 4 Reduction of emissions intensity (scope 1 and scope 2). Emissions intensity is defined as kilograms CO2 equivalent per square meter.
+  [p6] 3 3Determined by scope 1 and 2 for our customers’ emissions using the PCAF insurance-associated emissions methodology for commercial lines, covering customers with revenues
+  [p8] least 42 percent in scope 1 and 2 emissions by 2030.
+
+## verification
+  [p5] 6.8 Assurance scope visualization 217
+  [p5] 7 Independent assurance report 219
+  [p14] priorities to assure a consistent approach and to facilitate oversight. The Group CSO is also responsible for monitoring
+  [p20] Third-party models provide a baseline but are refined by expert teams to reflect our proprietary ‘Zurich View’ – a
+  [p40] assurance process to enhance the quality of external data feeding into both the baseline and subsequent annual
+  [p49] 2 High-quality offsets and removals are independently verified avoided emissions, emission-reduction, or removal credits recognized by credible registry standards (e.g., VCS,
+
+## consistency
+  [p3] against our climate transition plan. From
+  [p6] important progress in implementing our climate transition plan1 towards our ambition to become a net-zero business by
+  [p6] we have come in one year since the launch of our climate transition plan, while keeping a clear line of sight on the work
+  [p8] customers’ resilience and supporting their transition journey, as outlined in our climate transition plan. As a risk manager,
+  [p11] – Participation in industry dialogues through trade associations.
+  [p14] objectives, reviews the climate transition plan and exercises oversight on sustainability-related matters.
+
+==============================================================================
+# ABB Ltd. (ABBN.SW)   |   # primary source: ABB Sustainability Statement 2025.pdf  (172 pages)
+==============================================================================
+
+## specificity
+  [p6] reaching net zero by 2050, which involves reducing emissions in our own
+  [p6] Mission to Zero™. All our sites are encouraged to pursue net zero emissions and
+  [p6] Based Targets initiative (SBTi), confirming alignment with their Net Zero Standard.
+  [p42] IROs. To reach our overarching target of net-zero emissions by 2050, we have set
+  [p53] [E1-1 14 | E1-1 16 (a)] To achieve net zero, ABB has set near-term and long-term
+  [p53] targets aligned with the Corporate Net-Zero Standard of the Science Based
+
+## metric
+  [p50] emissions by at least 80% by
+  [p50] by 25% by 2030 and by 90% by
+  [p50] Achieve 80% alignment score
+  [p50] 5.8% of total waste n.a. n.a.
+  [p50] % 2019 11.7% 22.6% 21.3% n.a. n.a.
+  [p50] At least 80% of supply spending
+
+## baseline
+  [p6] 79 percent in our scope 1 and 2 GHG emissions compared to 2019. Scope 3
+  [p6] decreased by 1 percent compared to the baseline year of 2022. The products we
+  [p6] emissions from 2022 to 2030, based on all the products we expect to sell over that
+  [p21] [G1 MDR-T 80 (d)] The base year for measuring performance against our
+  [p21] [G1 MDR-T 80 (e)] Under the AIP, in our base year 2019, all EC members had an
+  [p22] The LTIP, in our base year 2019, comprised of two equally weighted financial
+
+## target
+  [p6] roadmaps. Our emissions reduction targets have been validated by the Science
+  [p6] Based Targets initiative (SBTi), confirming alignment with their Net Zero Standard.
+  [p15] [ESRS 2 MDR-M 77 (b)] None of the metrics have been validated by an external body
+  [p27] Science Based Targets initiative (SBTi), the International Code of Conduct
+  [p33] Sustainability Statement. All IROs were validated by internal experts.
+  [p51] close cooperation. Examples are the Science Based Targets initiative (SBTi) for our
+
+## time_horizon
+  [p6] reaching net zero by 2050, which involves reducing emissions in our own
+  [p6] emissions from 2022 to 2030, based on all the products we expect to sell over that
+  [p20] status of the voluntary 2030 sustainability commitments on a quarterly basis.
+  [p21] support our 2030 Sustainability Agenda. The assignment of the sustainability
+  [p42] IROs. To reach our overarching target of net-zero emissions by 2050, we have set
+  [p42] near-term (2030) and long-term (2050) targets. The Climate Procedure details the
+
+## scope
+  [p6] They cover greenhouse gas (GHG) emissions from our own operations (scope 1
+  [p6] and 2) as well as indirect emissions from our value chain (scope 3). The latter
+  [p6] 79 percent in our scope 1 and 2 GHG emissions compared to 2019. Scope 3
+  [p14] the rates of recyclable content of our products or to calculate scope 3 GHG and
+  [p14] uncertainty in this Sustainability Statement in the areas of scope 3 GHG emissions,
+  [p20] including opportunities for acceleration of ABB scope 1 and 2 emissions reductions
+
+## verification
+  [p15] assurance by KPMG AB (KPMG). The assurance engagement was conducted in
+  [p15] limited assurance regarding the statutory sustainability statement’. KPMG’s full
+  [p15] Assurance Statement, including opinion and basis of opinion, is available in the
+  [p15] “Assurance Opinion” section in this Statement. The assurance conclusion does not
+  [p15] THIRD-PARTY METRICS VALIDATION
+  [p15] other than the assurance provider.
+
+## consistency
+  [p6] services. In our Climate Transition Plan, including near-term and long-term targets,
+  [p20] world cleaner). Additionally, it covered our updated Climate Transition Plan,
+  [p53] [E1-1] TRANSITION PLAN FOR CLIMATE CHANGE MITIGATION
+  [p53] Targets initiative (SBTi), which guide our Climate Transition Plan. Both sets of
+  [p57] [E1-1 16 (c), 16 (e), E1 MDR-A 69 (a), 69 (b)] Our Climate Transition Plan outlines a
+  [p57] In 2025, we allocated $11.8 million in capital expenditure (CapEx) to climate
+
+==============================================================================
+# Swiss Prime Site AG (SPSN.SW)   |   # primary source: SPS_ESG-Booklet_EN.pdf  (16 pages)
+==============================================================================
+
+## specificity
+  [p2] Target of climate-neutral
+  [p3] On the one hand, we are aiming for net-zero operations in our property portfolio by 2040.
+  [p6] Net zero in the property portfolio by 2040
+  [p7] a clear focus on decarbonisation, the circular
+  [p8] safety. We are following a clear decarbonisation pathway
+  [p8] climate neutral in operations by 2040. In addition, we
+
+## metric
+  [p9] ings accounts for around 50% of raw material consump -
+  [p9] tion, one-third of CO₂ emissions, and over 80% of waste
+  [p10] non-renewable raw materials by 50%, record and reduce
+  [p11] covers 88% of its own electricity require -
+  [p13] Overall, 87% of employees agreed with the following
+  [p13] workplace.» With a response rate of 88%, we take this
+
+## baseline
+  (no keyword hits — likely MISSING)
+
+## target
+  (no keyword hits — likely MISSING)
+
+## time_horizon
+  [p3] On the one hand, we are aiming for net-zero operations in our property portfolio by 2040.
+  [p6] Net zero in the property portfolio by 2040
+  [p8] climate neutral in operations by 2040. In addition, we
+  [p8] on climate neutrality by 2040 and
+  [p10] come a model for circular construction by 2030. In line
+
+## scope
+  [p8] Scope 1: Owner-controlled energy supply (fossil fuels)
+  [p8] Scope 2: Owner-controlled energy supply (electricity consumption and
+  [p8] Scope 3: Indirect emissions from the supply of energy (Category 3.3.) and from
+
+## verification
+  [p10] independent audits, we also ensure that our investments
+
+## consistency
+  (no keyword hits — likely MISSING)
+
+==============================================================================
+# UCB S.A. (UCB.BR)   |   # primary source: iar_2025-web.pdf  (292 pages)
+==============================================================================
+
+## specificity
+  [p7] made progress toward our net-zero climate targets and our
+  [p17] value chain. We continue to advance toward our net-zero
+  [p28] UCB is committed to net zero and
+  [p54] Failing to meet UCB’s publicly stated net-zero commitments poses a reputational risk, especially as scrutiny
+  [p54] Contributions and Net Zero 2050). These scenarios span a
+  [p55] initiative (SBTi) Net-Zero standard, and tools such as the
+
+## metric
+  [p6] Our +26% (+29% CER7) revenue growth and adjusted EBITDA
+  [p6] margin of 34% of revenue in 2025 (31.4% excluding other
+  [p12] 9. Retention rate is calculated as 100% minus the percentage of permanent employees terminated for voluntary reasons out of the average headcount of permanent employees during the reporting period (be
+  [p16] Nearly 80% of people with epilepsy live in low- and
+  [p16] exceed 75% due to limited healthcare infrastructure,
+  [p21] osteoporosis), but up to 80% are not diagnosed or treated2.
+
+## baseline
+  [p12] 12. This excludes emissions from Scope 3 Category 1, compared to our 2019 baseline in absolute numbers.
+  [p38] Bruxelles from 2016 to 2023.
+  [p56] by 73% vs 2019 base year.
+  [p56] vs 2019 base year. 80% of suppliers
+  [p56] Absolute CO2e reduction by 90% vs 2019 base year.
+  [p58] 1, 2 and 3 (except 3.1) emissions compared to 2025 and for
+
+## target
+  [p12] 13. Science Based Targets initiative or similar initiatives.
+  [p17] with CO2e target aligned with SBTi1
+  [p17] 1. Science Based Targets initiative or similar initiatives.
+  [p33] % of suppliers (by CO₂e emissions) committed to science based targets 67.8% 77.6%
+  [p51] presented to and validated by the Executive Committee and
+  [p53] Aligned with the Paris Agreement and Science-Based Targets initiative (SBTi). The policy is also
+
+## time_horizon
+  [p54] (2030), medium term (2050) and long term (2075+),
+  [p54] Contributions and Net Zero 2050). These scenarios span a
+  [p55] scenarios and across the 2030, 2040 and 2050 horizons
+  [p55] emissions by 2045. Our science-based target encompasses:
+  [p55] has a dedicated engagement target by 2028.
+  [p57] 2030. To reach this goal, we are developing a country-level
+
+## scope
+  [p12] 12. This excludes emissions from Scope 3 Category 1, compared to our 2019 baseline in absolute numbers.
+  [p33] Absolute reduction in Scope 1, 2 and 3 (except scope 3 category 1)
+  [p54] Release of GHG emissions (Scope 1 and 2) of UCB's own operations (fossil fuel for energy or company cars,
+  [p54] Release of GHG emissions (Scope 3) from upstream and downstream activities.
+  [p55] • Scope 1 emissions, caused by energy combustion (gas,
+  [p55] • Scope 2 emissions, caused by electricity consumed as an
+
+## verification
+  [p3] Statement and Financials section, are assured by Forvis Mazars and the assurance reports are
+  [p8] FINTEPLA®, RYSTIGGO® and ZILBRYSQ®) across all geographies by UCB and third-party
+  [p9] following employee groups: inactive employees, trainees, students and third-party apprentices.
+  [p9] 2. This includes the launch of UCB's core medicines (BIMZELX®, BRIVIACT®, EVENITY®, FINTEPLA®, RYSTIGGO® and ZILBRYSQ®) across all geographies by UCB and third-party distributors. If a medicine was la
+  [p12] 7. This includes the launch of UCB's core medicines (BIMZELX®, EVENITY®, FINTEPLA®, RYSTIGGO® and ZILBRYSQ®) across all geographies by UCB and third-party distributors in 2025. If a medicine was launc
+  [p35] commercialized by UCB or third-party distributors
+
+## consistency
+  [p46] guide capital allocation to support sustained growth.
+  [p55] UCB’s transition plan, aligned with the Science Based Targets
+  [p55] strategy development, capital allocation and financial
+  [p55] capital expenditure were assessed under the three climate
+  [p55] UCB’s ten-year climate transition plan is fully embedded
+  [p55] This transition plan, along with its budget, has been fully
+
+==============================================================================
+# AstraZeneca PLC (AZN.L)   |   # primary source: AstraZeneca_AR_2025.pdf  (232 pages)
+==============================================================================
+
+## specificity
+  [p7] the aim of achieving science-based net zero
+  [p9] We are pursuing ambitious science-based decarbonisation targets
+  [p9] to achieve net zero by 2045, see Climate change from page 42
+  [p23] decarbonisation levers, Scope
+  [p40] • Continued to decarbonise our value chain,
+  [p44] value-chain decarbonisation across Scopes
+
+## metric
+  [p3] Up 9% at actual rate of exchange to $58,739
+  [p3] million (up 8% at CER), comprising Product
+  [p3] Sales of $55,573 million (up 9%; 9% at CER),
+  [p3] Alliance Revenue of $3,067 million (up 39%;
+  [p3] 38% at CER) and Collaboration Revenue of
+  [p3] $99 million (down 89%; 89% at CER)
+
+## baseline
+  [p7] improvement from baseline in Myasthenia
+  [p8] is projected to increase at an annual rate of 7.1% from 2025 to 2029.
+  [p13] 2015 baseline), part of our Ambition Zero
+  [p26] endpoints, including change from baseline
+  [p35] waste against a 2015 baseline.
+  [p39] collaboration agreement from 2024,
+
+## target
+  [p44] We have a near-term target of 98% absolute
+  [p44] science-based targets (SBTs) to cover most
+  [p44] of our SBTi-verif ied Net-Zero Corporate
+  [p44] Standard targets in line with SBTi timelines,
+  [p44] with the limiting of global warming to 1.5°C,
+  [p44] Science Based Targets initiative (SBTi)
+
+## time_horizon
+  [p5] patients and drive our growth well beyond 2030.”
+  [p5] of up to $1 trillion by 2030.
+  [p6] against our ambition to deliver 20 by 2030.
+  [p6] of our Total Revenue by 2030. During 2025,
+  [p7] ambitions for 2030, and we are investing
+  [p7] by 2045. On health equity, we have a 2030
+
+## scope
+  [p7] in Scope 1 and 2 greenhouse gas emissions
+  [p7] focused on cutting Scope 3 emissions with
+  [p13] Reduction in Scope 1 and 2
+  [p13] Our Sustainability KPI is our reduction in Scope 1
+  [p23] pMDI inhalers, Scope 1 and 2
+  [p35] an 89% reduction in its Scope 1 and 2
+
+## verification
+  [p3] Independent Auditors’ Report 116
+  [p3] Independent Sustainability Assurance Report 220
+  [p36] certain cases, a third party may be retained
+  [p36] third-party non-compliance with our Code
+  [p36] and corruption is a focus of our third-party
+  [p37] an animal welfare assurance programme
+
+## consistency
+  [p12] Our capital allocation priorities include:
+  [p44] transition plan. Regular governance updates
+  [p44] Transition plan for climate change
+  [p48] capital expenditure and take other cash
+  [p52] capital allocation decisions across R&D,
+  [p52] business development and Capex projects,
+
+==============================================================================
+# E.ON SE (EOAN.DE)   |   # primary source: GB25-gesamt-EN_final.pdf  (273 pages)
+==============================================================================
+
+## specificity
+  [p5] A successful transition to climate neutrality will require
+  [p6] Path to Climate Neutrality
+  [p6] reduce our own carbon emissions and aim to achieve climate neutrality by 2040.
+  [p26] climate-neutral but also permanently economical. E.ON lives up to this responsibility and to its
+  [p32] commits Germany to the goal of achieving climate neutrality by 2045 and further expanding
+  [p43] use of local, climate-neutral technologies will enable the project to prevent up to 50,000 metric
+
+## metric
+  [p99] reduction of 9 percent year on year, mainly because of the power and gas E.ON sells to end-
+  [p142] Scope 1 total 1.86 1.98 -6% 3.98 - 3 - 4 - 4 - - 3
+  [p142] Share from regulated emissions trading systems (in %) 81 84 8 -4% - - - - - -
+  [p142] Scope 2 total (location-based) 3.35 3.66 -9% 4.82 - 3 - 4 - 4 - - 3
+  [p142] Scope 2 total (market-based) 6.54 6.41 2% 5.73 - 3 - 4, 5 - 4, 5 - - 3
+  [p142] Scope 1 + 2 total (location-based) 5.21 5.64 -8% 8.80 - 3 3.45 6 <0.69 6 - 3
+
+## baseline
+  [p25] around €48 billion from 2026 to 2030— which will primarily go toward expanding our network
+  [p33] from 2028 onward, power from 2029 onward) for distribution system operators (“DSOs”) and
+  [p33] provisions actually created) but only from 2028 onward with a corresponding time lag.
+  [p58] smaller euro-denominated issues, private placements, and/or Schuldscheine. From 2019 onward
+  [p69] the appropriation of €1,100 in earnings from 2025 and the sale of treasury shares under the
+  [p74] framework for Germany’s fifth regulatory period for electricity (from 2029 onward) and to the
+
+## target
+  [p93] limits warming to 1.5°C. In addition, we identified and assessed relevant business units using key
+  [p97] In 2022 the Science Based Target initiative (“SBTi”) validated that E.ON’s current near-term 2030
+  [p97] climate targets are consistent with the Paris Agreement’s 1.5°C target. This means that E.ON’s
+  [p97] that limits global warming to 1.5°C relative to preindustrial levels. The climate scenarios used for
+  [p97] warming of 1.5°C, 2018). We plan to reduce our Scope 1 and 2 as well as our Scope 3 emissions
+  [p97] 14 E.ON bases its definition and evaluation of its own climate targets on current scientific findings regarding climate change s cenarios and their methodological classification by recognized organiza
+
+## time_horizon
+  [p6] reduce our own carbon emissions and aim to achieve climate neutrality by 2040.
+  [p13] investments in the energy transition. For the years 2026 to 2030, we plan to invest a total
+  [p13] large-scale battery storage capacity by 2045. There are also numerous connection requests from
+  [p16] the E.ON Group’s medium-term plan for 2026 to 2030 and approved the budget for 2026.
+  [p25] around €48 billion from 2026 to 2030— which will primarily go toward expanding our network
+  [p25] infrastructure. Our targets for 2030 are adjusted EBITDA of around €13 billion and earnings per
+
+## scope
+  [p86] • reduce carbon emissions (Scope 1 and 2) toward the Group’s target for 2030
+  [p92] E.ON aims for its Scope 1 and Scope 2 emissions to be climate-neutral by 2040 and its Scope 3
+  [p92] Scope 1, 2, and 3 emissions relative to a 2019 baseline.
+  [p92] its Group-wide climate targets by business unit and covers Scope 1, 2, and 3. E.ON’s climate
+  [p93] beginning of the reporting year which call for a complete decarbonization of our Scope 1 to 3
+  [p95] climate targets. The plan describes the main levers for our Scope 1, Scope 2, and Scope 3
+
+## verification
+  [p2] Reproduction of the Independent Auditor's Report 256
+  [p2] Assurance Report in Relation to the
+  [p16] Board’s activities on an ongoing basis, assuring itself that the Management Board’s management
+  [p18] The committee discussed the recommendation for selecting an independent auditor for fiscal year
+  [p18] 2025 as well as the interim financial reports and assigned the tasks for the independent auditor’s
+  [p18] auditing services, established the audit priorities, determined the independent auditor’s
+
+## consistency
+  [p25] growth. We plan to make substantial capital expenditures to implement this strategy— a total of
+  [p89] findings from projects, cooperation with trade associations, regional requirements, and their own
+  [p90] public lobbying. The information is shared in-house, for example with the Sustainability Council,
+  [p95] another significant portion of our Scope 1 emissions. The transition plan foresees gradually
+  [p96] example, during the production of goods procured by E.ON. Our transition plan foresees achieving
+  [p107] CapEx 9,308 79 7,292 78 78 - - - - - - - 7 6,583 80
+
+==============================================================================
+# Tele2 AB Class B (TEL2-B.ST)   |   # primary source: tele2-annual-and-sustainability-report-2025.pdf  (178 pages)
+==============================================================================
+
+## specificity
+  [p15] since 2019 and are targeting net-zero by 2035. Beyond cli-
+  [p48] • Overseeing net-zero strategy
+  [p52] renewable-energy providers to support decarbonisation goals. Supply-chain risks
+  [p52] expanding take-back and recycling programmes as well as achieve net-zero emis-
+  [p68] Tele2 is dedicated to leading in climate action, aiming for net zero greenhouse gas
+  [p68] • The long-term target is to reach net zero GHG emissions within the value chain
+
+## metric
+  [p4] increased by 2% compared to full year 2024 on an
+  [p4] 2% compared to 2024 on an organic basis.
+  [p4] by 11% organically compared to 2024 driven by sharp
+  [p4] time, including a 15% reduction of our workforce.
+  [p5] has fully delivered on these commitments, achieving a 42%
+  [p5] General Meeting a dividend increase of 65% for the 2025
+
+## baseline
+  [p4] 2% compared to 2024 on an organic basis.
+  [p4] by 11% organically compared to 2024 driven by sharp
+  [p13] 4.6% compared to 2024. Part of this
+  [p13] Compared to 2019, Tele2’s Scope 1 and
+  [p22] End-user service revenue increased by 1% compared to 2024
+  [p64] Compared with 2024, no significant changes in material impacts, risks or opportuni-
+
+## target
+  [p13] with our science-based targets.
+  [p56] T ele2’s science-based targets. By encouraging suppliers to adopt low-
+  [p57] and science-based targets. Similarly, non-renewable energy use by cus-
+  [p66] ronmental Policy and Climate Transition Plan that align with the 1.5°C ambition set
+  [p68] 1.5°C and is set to be achieved through the climate transition plan.
+  [p68] the Science Based Targets initiative and includes:
+
+## time_horizon
+  [p12] By 2027 , Tele2 will capture new
+  [p12] By 2027 , Tele2’s leadership in
+  [p12] By 2027 , Tele2 will reduce the
+  [p13] target of 30% take-back by 2030. The
+  [p13] sions in Scope 1 and 2 by 2029, in line
+  [p14] 2030. With an ambition to be a challenger in sustainabil-
+
+## scope
+  [p4] Scope 1 & 2 reduction since 2019
+  [p13] Reduction of Scope 1 and 2
+  [p13] Compared to 2019, Tele2’s Scope 1 and
+  [p13] sions in Scope 1 and 2 by 2029, in line
+  [p46] data (Scopes 1–3) is reported in line with the Greenhouse Gas Protocol.
+  [p46] (Scope 1), energy-related indirect emissions (Scope 2), and other indirect emissions
+
+## verification
+  [p11] Tele2’s auditor KPMG has conducted a limited assurance
+  [p11] information, please see the auditor’s limited assurance
+  [p31] regulation, procurement, and third-party management. Unethical practices
+  [p36] During 2025, KPMG performed a sustainability assurance
+  [p37] ing aims to provide reasonable assurance of the reliability of
+  [p38] manual activities. For instance, our revenue assurance process
+
+## consistency
+  [p16] Capital expenditures excluding spectrum and leases amounted
+  [p16] to SEK 3,240 (4,073) million. Capex mainly consisted of 5G
+  [p16] Spectrum capex amounted to SEK 227 (0) million, reflecting
+  [p17] pany reduced its guidance on capex to sales (excluding spec-
+  [p17] underlying EBITDAaL, and 10-11% capex to sales (excluding
+  [p18] CapEx excluding spectrum and leases 3,240 4,073 3,941 3,171 3,158
+
+==============================================================================
+# Subsea 7 S.A. (SUBC.OL)   |   # primary source: annual-report.pdf  (236 pages)
+==============================================================================
+
+## specificity
+  [p20] per year—a significant step in decarbonising hard-to-abate
+  [p77] to the offshore energy transition by helping to decarbonise
+  [p80] transition and decarbonisation
+  [p90] decarbonising its own fleet. Subsea7 plays a leading
+  [p90] 5 million tonnes per year, a significant step in decarbonising
+  [p90] of vessels, through its decarbonisation plan. As part of this
+
+## metric
+  [p6] revenue of $7.1 billion, up 4% year-on-year, and Adjusted
+  [p6] EBITDA of $1.5 billion, up 36%. The improvement in margin
+  [p6] to 21% from 16% in the prior year was driven by both excellent
+  [p6] Meeting in September 2025, with 99% of votes in favour.
+  [p7] deepwater pipelay vessel, Seven Vega, by over 10%, this
+  [p7] approximately 13% of the market capitalisation of Subsea7 as
+
+## baseline
+  [p6] €300 million from 2029, a more efficient capital
+  [p52] Transocean from 2005 to 2008.
+  [p54] Europe and, from 2012 to 2017,
+  [p55] Norway. From 2014 to 2018 he
+  [p55] From 2018 Stuart held executive
+  [p70] period from 2022 to 2025, 62.56% of the total share
+
+## target
+  [p6] validated by our shareholders, who voted emphatically
+  [p94] are not accepted as part of the Science Based Targets
+  [p94] initiative (SBTi). Subsea7 continues to monitor this position
+  [p95] In line with peers and the Science Based Targets initiative
+  [p95] (SBTi), Subsea7 has set a threshold for GHG emissions
+
+## time_horizon
+  [p15] wind installation capacity in 2029 and 2030.
+  [p19] in 2019, and by 2025 Seaway7 had completed the
+  [p19] installation at Inch Cape. By 2027, activity will shift
+  [p23] to come online between 2026 and 2030. This is
+  [p23] its peers expected in 2029 and 2030. With slow
+  [p83] Seaway Alfa Lift which were fully operational by 2024. In 2025 there was no new build investment.
+
+## scope
+  [p26] Scope 1 GHG tCO2-e/$ million
+  [p39] own targets to reduce Scope 1 and 2 emissions and
+  [p90] plan, Subsea7 aims to reduce Scope 1 and Scope 2 GHG
+  [p90] Net-Zero Scope 1 and 2 GHG emissions by 2050. While
+  [p92] operations (Scope 1 and 2)
+  [p92] upstream value chain (Scope 3)
+
+## verification
+  [p3] Limited Assurance Report on
+  [p11] provides client and investor assurance.
+  [p33] absolute assurance that material financial misstatement
+  [p33] performs independent reviews of key business financial
+  [p36] supplementing the fleet with the use of third-party
+  [p41] and procedures for managing third-party risks.
+
+## consistency
+  [p10] in 2025, which, after capital expenditure of $281 million,
+  [p11] approach to reinvestment, we plan capital expenditure
+  [p12] we help our clients optimise their capital expenditure and life-of-field
+  [p25] In 2025, capital expenditure in Renewables was $69 million,
+  [p33] capital expenditure and investment reviews
+  [p45] capital expenditure initiatives such as vessel

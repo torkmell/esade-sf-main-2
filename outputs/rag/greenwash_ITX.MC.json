@@ -1,0 +1,64 @@
+{
+  "ticker": "ITX.MC",
+  "company_name": "Industria de Diseno Textil, S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]\" (SustainabilityReport.pdf, p26.0). SBTi: Targets set, 1.5\u00b0C near-term target (FY2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Main claim: \"Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]\" (SustainabilityReport.pdf, p26). SBTi: Targets set, 1.5\u00b0C near-term target (FY2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Strong,...",
+  "dimensions": {
+    "specificity": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

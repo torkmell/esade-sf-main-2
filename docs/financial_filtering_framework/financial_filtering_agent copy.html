@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Financial Filtering Agent v2 — STOXX Europe 600 | Pension Fund Mandate</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=IBM+Plex+Sans:wght@300;400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1a1a18;--ink-mid:#3d3d38;--ink-muted:#6b6b62;--ink-faint:#9b9b90;--paper:#f9f7f2;--paper-warm:#f2efe8;--paper-card:#ffffff;--accent:#1a3a52;--accent-mid:#2d5f80;--accent-light:#d6e8f5;--accent-rule:#b8d4e8;--gold:#8a6a20;--gold-light:#f5ead0;--gold-rule:#d4b978;--danger:#7a1f1f;--danger-light:#f5e0e0;--success:#1a4a2e;--success-light:#dff0e6;--income:#2a5a40;--income-light:#d4ede3;--income-rule:#7bbfa0;--purple:#3a1a5a;--purple-light:#ede0f5;--border:#d8d4c8;--border-light:#ebe7dd;--mono:'IBM Plex Mono',monospace;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--paper);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;font-size:15px;line-height:1.8;font-weight:300;}
+.cover{background:var(--accent);color:#fff;padding:72px 80px 64px;position:relative;overflow:hidden;}
+.cover::before{content:'';position:absolute;top:0;right:0;width:320px;height:100%;background:repeating-linear-gradient(135deg,transparent,transparent 24px,rgba(255,255,255,.03) 24px,rgba(255,255,255,.03) 25px);}
+.cover-label{font-size:11px;font-weight:500;letter-spacing:3px;text-transform:uppercase;color:var(--accent-rule);margin-bottom:28px;}
+.cover h1{font-family:'Playfair Display',serif;font-size:38px;font-weight:500;line-height:1.2;max-width:680px;margin-bottom:18px;}
+.cover-sub{font-size:14px;color:rgba(255,255,255,.65);max-width:560px;line-height:1.7;margin-bottom:40px;}
+.cover-meta{display:flex;gap:48px;border-top:.5px solid rgba(255,255,255,.2);padding-top:28px;}
+.cmi{display:flex;flex-direction:column;gap:4px;}
+.cml{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,.45);}
+.cmv{font-size:13px;font-weight:500;color:rgba(255,255,255,.85);}
+.pillars-bar{background:var(--accent-mid);padding:0 80px;display:flex;}
+.pt{flex:1;padding:13px 0;text-align:center;font-size:9.5px;font-weight:500;letter-spacing:1.2px;text-transform:uppercase;color:rgba(255,255,255,.5);border-right:.5px solid rgba(255,255,255,.15);}
+.pt:last-child{border-right:none;}
+.pt.on{color:#fff;background:rgba(255,255,255,.08);}
+.summary{background:var(--paper-warm);border-bottom:1px solid var(--border);padding:52px 80px;}
+.summary h2{font-family:'Playfair Display',serif;font-size:22px;font-weight:400;color:var(--accent);margin-bottom:28px;}
+.wgrid{display:grid;grid-template-columns:repeat(6,1fr);gap:13px;margin-bottom:32px;}
+.wcard{background:var(--paper-card);border:.5px solid var(--border);border-radius:4px;padding:16px 13px 13px;display:flex;flex-direction:column;gap:6px;}
+.wnum{font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--ink-faint);}
+.wname{font-size:11.5px;font-weight:500;color:var(--ink);line-height:1.3;flex:1;}
+.wpillar{font-size:10px;color:var(--ink-muted);font-style:italic;}
+.wval{font-family:var(--mono);font-size:20px;font-weight:500;color:var(--accent);margin-top:3px;}
+.wbar{height:3px;background:var(--accent-light);border-radius:2px;overflow:hidden;}
+.wfill{height:100%;background:var(--accent);border-radius:2px;}
+.m06card .wval{color:var(--income);}.m06card .wfill{background:var(--income);}.m06card .wbar{background:var(--income-light);}
+.dnote{background:var(--gold-light);border-left:3px solid var(--gold-rule);border-radius:0 4px 4px 0;padding:16px 20px;font-size:13.5px;color:var(--gold);line-height:1.65;}
+.mc{padding:0 80px 80px;}
+.mb{margin-top:72px;border-top:2px solid var(--ink);padding-top:36px;}
+.mh{display:flex;align-items:flex-start;gap:28px;margin-bottom:36px;}
+.mnum{font-family:var(--mono);font-size:13px;font-weight:500;color:var(--ink-faint);padding-top:6px;flex-shrink:0;}
+.badge{display:inline-block;font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px;}
+.bc{background:var(--accent-light);color:var(--accent);}
+.bcash{background:var(--success-light);color:var(--success);}
+.bbal{background:var(--gold-light);color:var(--gold);}
+.bearn{background:var(--danger-light);color:var(--danger);}
+.bmargin{background:var(--purple-light);color:var(--purple);}
+.bincome{background:var(--income-light);color:var(--income);}
+.mtitle{font-family:'Playfair Display',serif;font-size:26px;font-weight:500;color:var(--ink);line-height:1.25;}
+.msub{font-size:13.5px;color:var(--ink-muted);margin-top:6px;font-style:italic;}
+.mbody{display:flex;flex-direction:column;gap:36px;}
+.sh{font-size:10px;font-weight:500;letter-spacing:3px;text-transform:uppercase;color:var(--ink-faint);margin-bottom:14px;padding-bottom:8px;border-bottom:.5px solid var(--border);}
+.sb{font-size:14.5px;color:var(--ink-mid);line-height:1.8;}
+.sb p{margin-bottom:12px;}
+.sb p:last-child{margin-bottom:0;}
+.sb strong{font-weight:500;color:var(--ink);}
+.plain-box{background:#fff;border:.5px solid var(--border);border-top:3px solid var(--accent-mid);border-radius:0 0 4px 4px;padding:20px 24px;margin:0 0 4px 0;}
+.plain-box.it{border-top-color:var(--income);}
+.plain-label{font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--accent-mid);margin-bottom:10px;}
+.plain-label.il{color:var(--income);}
+.plain-text{font-size:14px;color:var(--ink-mid);line-height:1.75;}
+.plain-text p{margin-bottom:10px;}
+.plain-text p:last-child{margin-bottom:0;}
+.fblock{background:var(--paper-warm);border:.5px solid var(--border);border-left:3px solid var(--accent);border-radius:0 4px 4px 0;padding:20px 24px;margin:16px 0;}
+.fblock.ia{border-left-color:var(--income-rule);}
+.flabel{font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--ink-faint);margin-bottom:12px;}
+pre.formula{font-family:var(--mono);font-size:12.5px;color:var(--ink);line-height:2.1;white-space:pre-wrap;background:none;border:none;margin:0;padding:0;}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:4px;}
+.icard{background:var(--paper-card);border:.5px solid var(--border);border-radius:4px;padding:18px 20px;}
+.ictitle{font-size:11px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--ink-faint);margin-bottom:10px;}
+.tr{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:.5px solid var(--border-light);font-size:13.5px;}
+.tr:last-child{border-bottom:none;}
+.tl{color:var(--ink-mid);}
+.tv{font-family:var(--mono);font-weight:500;font-size:13px;color:var(--accent);}
+.tv.h{color:var(--danger);}.tv.s{color:var(--gold);}.tv.ic{color:var(--income);}
+.wd{display:flex;align-items:center;gap:20px;background:var(--accent);color:#fff;border-radius:4px;padding:20px 24px;}
+.wd.ibg{background:var(--income);}
+.wbig{font-family:var(--mono);font-size:42px;font-weight:500;line-height:1;flex-shrink:0;}
+.wrat{font-size:13.5px;color:rgba(255,255,255,.78);line-height:1.65;}
+.exblock{background:var(--paper-card);border:.5px solid var(--border);border-radius:4px;overflow:hidden;}
+.excols{display:grid;grid-template-columns:1fr 1fr;}
+.excol{padding:20px 22px;}
+.excol:first-child{border-right:.5px solid var(--border);}
+.exch{display:flex;align-items:center;gap:8px;margin-bottom:14px;}
+.exicon{width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;flex-shrink:0;}
+.pi{background:var(--success-light);color:var(--success);}.fi{background:var(--danger-light);color:var(--danger);}
+.exct{font-size:12px;font-weight:500;color:var(--ink-mid);}
+.excs{font-size:11px;color:var(--ink-faint);margin-top:1px;}
+.em{display:flex;align-items:center;justify-content:space-between;padding:7px 0;border-bottom:.5px solid var(--border-light);font-size:12.5px;}
+.em:last-child{border-bottom:none;}
+.eml{color:var(--ink-muted);}
+.emv{font-family:var(--mono);font-size:12px;font-weight:500;}
+.emv.p{color:var(--success);}.emv.f{color:var(--danger);}.emv.n{color:var(--ink);}
+.vbar{padding:12px 22px;font-size:12px;font-weight:500;}
+.vpass{background:var(--success-light);color:var(--success);}
+.vfail{background:var(--danger-light);color:var(--danger);}
+.inote{background:var(--income-light);border-left:3px solid var(--income-rule);border-radius:0 4px 4px 0;padding:16px 20px;font-size:13.5px;color:var(--income);line-height:1.65;margin-top:20px;}
+.mfooter{margin-top:80px;border-top:1px solid var(--border);padding:48px 0 0;display:grid;grid-template-columns:1fr 1fr;gap:48px;}
+.ftitle{font-size:10px;font-weight:500;letter-spacing:2.5px;text-transform:uppercase;color:var(--ink-faint);margin-bottom:16px;}
+.fbody{font-size:13.5px;color:var(--ink-muted);line-height:1.75;}
+.fbody p{margin-bottom:10px;}
+.ctable{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:4px;}
+.ctable th{text-align:left;font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--ink-faint);padding:8px 12px;border-bottom:.5px solid var(--border);}
+.ctable td{padding:10px 12px;border-bottom:.5px solid var(--border-light);color:var(--ink-mid);vertical-align:top;}
+.ctable td:first-child{font-weight:500;color:var(--ink);}
+.ctable td.mn{font-family:var(--mono);font-size:13px;color:var(--accent);}
+.ctable td.mni{font-family:var(--mono);font-size:13px;color:var(--income);}
+.ctable tr.tr-total td{background:var(--paper-warm);font-weight:500;border-top:1px solid var(--border);border-bottom:none;}
+.ctable tr.tr-m06 td{background:rgba(212,237,227,.3);}
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<div class="cover">
+  <p class="cover-label">Sustainable Finance Project — Stage III</p>
+  <h1>Financial Filtering Agent<br>Architecture &amp; Methodology</h1>
+  <p class="cover-sub">Institutional-grade metric design for a conservative Pension Fund mandate. Post-ESG/legal screening universe: STOXX Europe 600 subset. Objective: capital preservation, stable long-term cash generation, structural resilience, and reliable income for liability funding across full economic cycles. Version 2.0 — updated to six metrics.</p>
+  <div class="cover-meta">
+    <div class="cmi"><span class="cml">Base Universe</span><span class="cmv">STOXX Europe 600</span></div>
+    <div class="cmi"><span class="cml">Mandate Type</span><span class="cmv">Long-Term / Conservative</span></div>
+    <div class="cmi"><span class="cml">Filtering Signals</span><span class="cmv">6 Metrics</span></div>
+    <div class="cmi"><span class="cml">Lookback Period</span><span class="cmv">5–10 Year Rolling</span></div>
+    <div class="cmi"><span class="cml">Version</span><span class="cmv">2.0 — Updated</span></div>
+  </div>
+</div>
+<div class="pillars-bar">
+  <div class="pt on">Capital Efficiency</div><div class="pt on">Cash Quality</div>
+  <div class="pt on">Balance Sheet</div><div class="pt on">Earnings Quality</div>
+  <div class="pt on">Margin Resilience</div><div class="pt on">Income Reliability</div>
+</div>
+<div class="summary">
+  <h2>Composite Score Architecture — 6-Metric Framework</h2>
+  <div class="wgrid">
+    <div class="wcard"><span class="wnum">M-01</span><span class="wname">ROIC–WACC Spread</span><span class="wpillar">Capital Efficiency</span><span class="wval">22%</span><div class="wbar"><div class="wfill" style="width:100%"></div></div></div>
+    <div class="wcard"><span class="wnum">M-02</span><span class="wname">FCF Conversion Rate</span><span class="wpillar">Cash Generation Quality</span><span class="wval">22%</span><div class="wbar"><div class="wfill" style="width:100%"></div></div></div>
+    <div class="wcard"><span class="wnum">M-03</span><span class="wname">Fixed Charge Coverage + Net Debt/EBITDA</span><span class="wpillar">Balance Sheet Stability</span><span class="wval">18%</span><div class="wbar"><div class="wfill" style="width:82%"></div></div></div>
+    <div class="wcard"><span class="wnum">M-04</span><span class="wname">Sloan Accruals Ratio</span><span class="wpillar">Earnings Quality</span><span class="wval">13%</span><div class="wbar"><div class="wfill" style="width:59%"></div></div></div>
+    <div class="wcard"><span class="wnum">M-05</span><span class="wname">EBITDA Margin Coeff. of Variation</span><span class="wpillar">Margin Resilience</span><span class="wval">13%</span><div class="wbar"><div class="wfill" style="width:59%"></div></div></div>
+    <div class="wcard m06card"><span class="wnum">M-06 ★ New</span><span class="wname">Dividend Sustainability Index</span><span class="wpillar">Income Reliability</span><span class="wval">12%</span><div class="wbar"><div class="wfill" style="width:55%"></div></div></div>
+  </div>
+  <div class="dnote"><strong>Composite Score Protocol:</strong> Each metric is scored 0–100 on a percentile rank within the post-ESG STOXX 600 universe. Hard-floor violations trigger automatic exclusion regardless of composite score. M-06 additionally applies a binary pre-screen before any composite scoring begins — companies that cut their ordinary dividend more than twice in the last ten years are hard-excluded irrespective of M-01–M-05 scores. The weighted composite ranks survivors; the top decile constitutes the eligible investment universe. Scores are recalculated quarterly. Total weights = 100%.</div>
+</div>
+<div class="mc">
+
+<!-- M-01 -->
+<div class="mb">
+<div class="mh"><span class="mnum">M-01</span><div>
+  <div class="badge bc">Capital Efficiency</div>
+  <h2 class="mtitle">ROIC – WACC Spread<br><span style="font-size:20px;color:#6b6b62;">(Economic Profit Spread)</span></h2>
+  <p class="msub">"Is management generating returns that genuinely exceed the true cost of the capital entrusted to them?"</p>
+</div></div>
+<div class="mbody">
+<div>
+  <p class="sh">Plain-Language Explanation</p>
+  <div class="plain-box">
+    <p class="plain-label">For the Project Team — What This Metric Is &amp; Why It Exists</p>
+    <div class="plain-text">
+      <p>Imagine you give a manager €100 to invest. That €100 came from somewhere — part from shareholders who expect a return on their risk, part from banks charging interest on loans. Together, the minimum return those investors expect is called the <strong>cost of capital (WACC)</strong>. If the manager generates only €6/year in profit but the cost of that capital was €8/year, they are quietly destroying €2 of your wealth every single year — even though the business looks "profitable" on paper.</p>
+      <p>The <strong>ROIC–WACC Spread</strong> captures this exactly. ROIC (Return on Invested Capital) is the rate the company earns on every euro deployed. WACC is the minimum it must earn to keep investors whole. When ROIC exceeds WACC, the company is creating real economic value. When it doesn't, it is destroying it — no matter how impressive its revenue growth looks on the surface.</p>
+      <p>For a pension fund, this is the most fundamental filter of all: we are not here to own companies that look good — we are here to own companies that are genuinely compounding wealth on our beneficiaries' behalf, year after year, decade after decade.</p>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">1 — Metric Name &amp; Technical Definition</p>
+  <div class="sb">
+    <p>The <strong>ROIC–WACC Spread</strong> measures the percentage-point differential between a company's return on invested capital and its blended cost of capital. A positive, widening spread is the most reliable indicator of durable economic value creation. A negative or narrowing spread signals capital destruction regardless of accounting profit figures.</p>
+    <div class="fblock">
+      <p class="flabel">Core Formulas</p>
+<pre class="formula">ROIC  =  NOPAT / Invested Capital
+
+NOPAT  =  EBIT × (1 – Effective Tax Rate)
+          [Use normalised EBIT: strip restructuring charges, disposal gains, one-offs]
+
+Invested Capital  =  Total Equity
+                   + Total Financial Debt (incl. IFRS 16 lease liabilities)
+                   - Cash and Cash Equivalents
+                   [Represents all capital providers' claims, net of excess cash]
+
+WACC  =  [Kd × (1 – t) × D/V]  +  [Ke × E/V]
+         Kd = pre-tax cost of debt (YTM on bonds or loan rate)
+         Ke = cost of equity: Rf + beta × ERP
+         Rf  = 10yr German Bund yield (European risk-free rate benchmark)
+         ERP = 5.0–5.5% for European developed markets
+         Beta = STOXX 600 sector beta, re-estimated annually (5yr monthly data)
+
+Economic Profit Spread  =  ROIC  −  WACC
+Implementation: use 5-year median ROIC to suppress cyclical noise</pre>
+    </div>
+    <p>For capital-heavy regulated sectors (Utilities, Telecom, Infrastructure), the filter applies a <strong>sector-relative ROIC floor</strong> benchmarked against the sector's own median WACC, rather than the universal 8% threshold, to avoid excluding regulated inflation-linked assets that suit the pension liability profile.</p>
+  </div>
+</div>
+<div>
+  <p class="sh">2 — Filtering Logic &amp; Application</p>
+  <div class="sb">
+    <p>Dual-gate structure: an absolute hard floor (economic principle) plus a relative percentile rank (competitive differentiation). Hard floor failures trigger automatic exclusion before the percentile score is computed.</p>
+    <div class="two-col">
+      <div class="icard"><p class="ictitle">Hard-Floor Gate (Absolute)</p>
+        <div class="tr"><span class="tl">5yr median ROIC–WACC spread</span><span class="tv h">&gt; 0%</span></div>
+        <div class="tr"><span class="tl">Minimum ROIC (sector-adjusted)</span><span class="tv h">&gt; 8%</span></div>
+        <div class="tr"><span class="tl">Negative spread years permitted</span><span class="tv h">≤ 1 of 5</span></div>
+      </div>
+      <div class="icard"><p class="ictitle">Relative Scoring (Percentile)</p>
+        <div class="tr"><span class="tl">Minimum percentile in universe</span><span class="tv s">≥ 40th</span></div>
+        <div class="tr"><span class="tl">Top-quartile spread (&gt;+5%) score</span><span class="tv">100 pts</span></div>
+        <div class="tr"><span class="tl">Spread 0% to +2% score</span><span class="tv">40–60 pts</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">3 — Weighting Recommendation</p>
+  <div class="wd"><span class="wbig">22%</span><span class="wrat">ROIC–WACC spread receives the joint-highest weight because it is the most comprehensive single-number summary of capital stewardship. Every other metric is ultimately a proxy for, or downstream consequence of, sustained positive economic profit. The 22% weight (down from 25% in the five-metric version) reflects redistribution toward M-06, which captures income reliability as a pension-specific dimension that ROIC alone cannot address. For a liability-matched mandate, owning companies that consistently earn above their cost of capital is the non-negotiable structural precondition for real return delivery over decades.</span></div>
+</div>
+<div>
+  <p class="sh">4 — Real-Market Context &amp; Sector Nuance Example</p>
+  <div class="exblock">
+    <div class="excols">
+      <div class="excol">
+        <div class="exch"><div class="exicon pi">✓</div><div><p class="exct">Mature Consumer Staples / FMCG</p><p class="excs">Large-cap European packaged goods group</p></div></div>
+        <div class="em"><span class="eml">5yr Median ROIC</span><span class="emv p">18–22%</span></div>
+        <div class="em"><span class="eml">Estimated WACC</span><span class="emv n">~7.5%</span></div>
+        <div class="em"><span class="eml">Economic Spread</span><span class="emv p">+10–14%</span></div>
+        <div class="em"><span class="eml">Negative spread years (5yr)</span><span class="emv p">0 of 5</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Dominant brand portfolios generate structural pricing power. Returns come from intangible brand equity and efficient supply chains — not cyclical asset accumulation. The spread holds firm even during demand compression, and surplus cash directly funds the reliable dividend tested in M-06.</p>
+      </div>
+      <div class="excol">
+        <div class="exch"><div class="exicon fi">✗</div><div><p class="exct">Capital-Intensive Growth Disruptor</p><p class="excs">Clean energy / EV infrastructure group</p></div></div>
+        <div class="em"><span class="eml">5yr Median ROIC</span><span class="emv f">3–6%</span></div>
+        <div class="em"><span class="eml">Estimated WACC</span><span class="emv n">~9.5–11%</span></div>
+        <div class="em"><span class="eml">Economic Spread</span><span class="emv f">−4 to −6%</span></div>
+        <div class="em"><span class="eml">Negative spread years (5yr)</span><span class="emv f">4 of 5</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Revenue growth looks impressive but each marginal euro requires enormous capital investment. The business systematically destroys shareholder value at its current stage — the defining characteristic of companies suited for a venture mandate, not a pension fund.</p>
+      </div>
+    </div>
+    <div class="vbar vpass">CONSUMER STAPLES — PASSES. Sustained positive spread, zero negative years, structurally defensible moat across the full cycle.</div>
+    <div class="vbar vfail">GROWTH-CAPEX — HARD EXCLUDED. Negative spread on 4 of 5 years. Automatic exclusion: violates hard floor gate.</div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- M-02 -->
+<div class="mb">
+<div class="mh"><span class="mnum">M-02</span><div>
+  <div class="badge bcash">Cash Generation Quality</div>
+  <h2 class="mtitle">Free Cash Flow Conversion Rate<br><span style="font-size:20px;color:#6b6b62;">(FCF/EBITDA paired with FCF/Net Income)</span></h2>
+  <p class="msub">"Does reported profit translate into actual cash — or does it disappear into working capital and accounting artifice?"</p>
+</div></div>
+<div class="mbody">
+<div>
+  <p class="sh">Plain-Language Explanation</p>
+  <div class="plain-box">
+    <p class="plain-label">For the Project Team — What This Metric Is &amp; Why It Exists</p>
+    <div class="plain-text">
+      <p>A company can report €500 million in profit and still have zero cash in its bank. This happens because accounting profits are recorded on an "accrual" basis — revenue is counted when a sale is agreed, not when the customer actually pays. A company can record today's revenue but not collect it for 180 days, while still paying its own suppliers and staff in cash today. This gap between paper profit and real cash is where aggressive or misleading accounting most often hides.</p>
+      <p><strong>Free Cash Flow (FCF)</strong> cuts through this entirely. It is simply: the cash physically entering the business from its operations, minus the cash spent maintaining its equipment and infrastructure. It cannot be faked — you either have the cash or you do not.</p>
+      <p>The <strong>FCF Conversion Rate</strong> asks two questions simultaneously: for every euro of EBITDA (operating profit), how many cents actually make it to the bank as FCF? And for every euro of reported net profit, how much is real cash versus accounting fiction? A company where both ratios are consistently high is generating real, bankable profits. A company where they diverge is living on paper wealth that may never materialise — and its dividend will eventually reflect that gap.</p>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">1 — Metric Name &amp; Technical Definition</p>
+  <div class="sb">
+    <p>The <strong>FCF Conversion Rate</strong> is a dual-ratio signal. FCF/EBITDA controls for capital intensity differences across sectors; FCF/Net Income flags the degree to which accounting earnings diverge from economic reality at the bottom line. Cash flow cannot be fabricated over multiple years in the way accrual earnings can.</p>
+    <div class="fblock">
+      <p class="flabel">Core Formulas — Paired Signal</p>
+<pre class="formula">FCF  =  Operating Cash Flow  −  Maintenance CapEx
+        Maintenance CapEx ≈ Depreciation and Amortisation for most mature sectors
+        Apply 5-year rolling average of CapEx to prevent capital-cycle timing distortions
+        Growth CapEx is stripped: we measure structural cash generation, not peak years
+
+Signal A:  FCF / EBITDA
+           Reveals working capital drag, lease-adjusted capex burden, tax cash efficiency
+           Benchmark: capital-light businesses 60–80%; industrials 35–55%
+
+Signal B:  FCF / Net Income
+           Reveals accrual manipulation and non-cash income inflation
+           Ratio below 75% signals net income is materially accrual-inflated
+           Ratio above 100% signals cash earnings exceed reported earnings (quality signal)
+
+Composite: 5-year median of both signals
+Sub-weighting: Signal A x 60%  +  Signal B x 40%</pre>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">2 — Filtering Logic &amp; Application</p>
+  <div class="sb">
+    <div class="two-col">
+      <div class="icard"><p class="ictitle">Hard-Floor Gate — Signal A (FCF/EBITDA)</p>
+        <div class="tr"><span class="tl">5yr median FCF/EBITDA</span><span class="tv h">≥ 45%</span></div>
+        <div class="tr"><span class="tl">Minimum annual FCF/EBITDA</span><span class="tv h">≥ 25%</span></div>
+        <div class="tr"><span class="tl">Years below 30% allowed</span><span class="tv h">≤ 1 of 5</span></div>
+      </div>
+      <div class="icard"><p class="ictitle">Hard-Floor Gate — Signal B (FCF/Net Income)</p>
+        <div class="tr"><span class="tl">5yr median FCF/Net Income</span><span class="tv h">≥ 80%</span></div>
+        <div class="tr"><span class="tl">Minimum single-year ratio</span><span class="tv h">≥ 50%</span></div>
+        <div class="tr"><span class="tl">Below 80%: accrual flag triggered</span><span class="tv h">→ M-04 cross-check</span></div>
+      </div>
+    </div>
+    <p style="margin-top:14px;">Both gates must be passed simultaneously. A high Signal A cannot compensate for a failing Signal B — an accrual flag from M-02 cross-referenced with M-04 (Sloan Ratio) triggers a mandatory analytical review and potential automatic exclusion.</p>
+  </div>
+</div>
+<div>
+  <p class="sh">3 — Weighting Recommendation</p>
+  <div class="wd"><span class="wbig">22%</span><span class="wrat">Equal weight to M-01 because cash generation quality is the lifeblood of a pension mandate. The fund's ability to meet scheduled benefit payments depends on investee companies generating actual cash — not accounting profit. The dual-signal architecture makes this metric uniquely resistant to earnings management since cash flow cannot be fabricated across multiple reporting periods. The 22% weight (from 25%) reflects redistribution toward M-06, but with a critical link: the FCF Dividend Cover sub-signal in M-06 uses the same FCF definition as M-02, meaning strong M-02 scores are a necessary — but not sufficient — condition for M-06 sustainability. The two metrics form a causal chain rather than duplicating the same signal.</span></div>
+</div>
+<div>
+  <p class="sh">4 — Real-Market Context &amp; Sector Nuance Example</p>
+  <div class="exblock">
+    <div class="excols">
+      <div class="excol">
+        <div class="exch"><div class="exicon pi">✓</div><div><p class="exct">Mature Consumer Staples Archetype</p><p class="excs">Capital-light, brand moat, stable demand</p></div></div>
+        <div class="em"><span class="eml">5yr median FCF/EBITDA</span><span class="emv p">68–75%</span></div>
+        <div class="em"><span class="eml">5yr median FCF/Net Income</span><span class="emv p">95–110%</span></div>
+        <div class="em"><span class="eml">Working capital trend</span><span class="emv p">Stable / cash source</span></div>
+        <div class="em"><span class="eml">Maintenance CapEx / Revenue</span><span class="emv p">2–4%</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">FCF/Net Income above 100% means cash earnings exceed reported earnings — the business is better than its accounting shows. Low maintenance CapEx means capital does not leak out before reaching FCF. This surplus cash is precisely what funds the reliable dividend captured in M-06.</p>
+      </div>
+      <div class="excol">
+        <div class="exch"><div class="exicon fi">✗</div><div><p class="exct">Capital-Intensive Growth Archetype</p><p class="excs">Semiconductor / Advanced Manufacturing</p></div></div>
+        <div class="em"><span class="eml">5yr median FCF/EBITDA</span><span class="emv f">18–28%</span></div>
+        <div class="em"><span class="eml">5yr median FCF/Net Income</span><span class="emv f">45–65%</span></div>
+        <div class="em"><span class="eml">Working capital trend</span><span class="emv f">Expanding (cash sink)</span></div>
+        <div class="em"><span class="eml">Maintenance CapEx / Revenue</span><span class="emv f">15–25%</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Nearly 75% of EBITDA is consumed before reaching FCF. FCF/Net Income below 65% confirms substantial accrual inflation through capitalised development costs and favourable depreciation schedules. This company lacks the cash engine required to sustain a reliable dividend.</p>
+      </div>
+    </div>
+    <div class="vbar vpass">STAPLES — PASSES. Both signals confirm structurally superior cash generation, directly enabling M-06 income reliability.</div>
+    <div class="vbar vfail">CAPEX-HEAVY — HARD EXCLUDED. FCF/EBITDA below 45% floor; FCF/Net Income below 80% minimum. Fails both gates.</div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- M-03 -->
+<div class="mb">
+<div class="mh"><span class="mnum">M-03</span><div>
+  <div class="badge bbal">Balance Sheet Structural Stability</div>
+  <h2 class="mtitle">Fixed Charge Coverage Ratio<br><span style="font-size:20px;color:#6b6b62;">(FCCR) with Net Debt/EBITDA Overlay</span></h2>
+  <p class="msub">"Can the company service all its fixed obligations — in cash — without distress, even in a simulated recession scenario?"</p>
+</div></div>
+<div class="mbody">
+<div>
+  <p class="sh">Plain-Language Explanation</p>
+  <div class="plain-box">
+    <p class="plain-label">For the Project Team — What This Metric Is &amp; Why It Exists</p>
+    <div class="plain-text">
+      <p>Every company has bills it must pay regardless of what happens to its revenues: interest on its loans, rent and lease payments on buildings and equipment, and scheduled repayments of debt principal when it matures. These are called <strong>fixed charges</strong> — they do not shrink when sales fall. A company that can pay these three to four times over from its operating cash earnings is structurally safe. A company that can only just cover them in a good year is one recession away from a crisis.</p>
+      <p>We use the <strong>Fixed Charge Coverage Ratio (FCCR)</strong> deliberately instead of the simpler "interest coverage" ratio most basic screens use. Interest coverage only counts interest payments — it completely ignores lease payments (which under post-2019 European accounting rules are legally equivalent to debt) and any principal repayments coming due. A company can look fine on interest coverage but be heading toward a liquidity cliff because €2 billion of its debt matures next year and it has no cash to repay it.</p>
+      <p>We also pair FCCR with <strong>Net Debt/EBITDA</strong> — how many years of operating profit it would take to pay off all debt. Together, FCCR checks if the company can afford its obligations today; Net Debt/EBITDA checks if the total debt mountain is sustainable long-term. We then <strong>stress-test both</strong> under a simulated −20% EBITDA scenario to see what happens in a recession — because that is the precise moment a pension fund most needs its holdings to remain solvent.</p>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">1 — Metric Name &amp; Technical Definition</p>
+  <div class="sb">
+    <p>The <strong>FCCR</strong> is the most complete solvency metric available because it captures all contractual cash obligations, not just interest. Following IFRS 16 adoption across European listed companies, lease liabilities have become a material balance sheet item — rendering simple interest coverage ratios structurally misleading for STOXX 600 screening.</p>
+    <div class="fblock">
+      <p class="flabel">Core Formulas — Dual-Dimension Solvency Signal</p>
+<pre class="formula">FCCR  =  (EBITDA − Maintenance CapEx − Cash Taxes)
+       /  (Interest Expense + Lease Payments + Scheduled Debt Principal Repayments)
+         Numerator: cash available after unavoidable operating outflows
+         Denominator: ALL contractual fixed charges due in the current year
+         Far more conservative than EBIT / Interest Expense (standard coverage)
+         Stress version: apply −20% to EBITDA numerator = mild recession simulation
+
+Net Debt / EBITDA  =  (Total Financial Debt − Cash &amp; Equivalents)  /  EBITDA
+         Include IFRS 16 right-of-use lease liabilities in Total Financial Debt
+         Normalise EBITDA for non-recurring items (trailing 12 months)
+         Sector-adjusted ceiling: Utilities / Regulated Infra max = 5.0x
+         General companies: max = 3.0x
+
+Composite Solvency Score  =  Percentile(FCCR) x 60%
+                           + Percentile(−Net Debt/EBITDA) x 40%
+Additional binary flag: if more than 30% of gross debt matures in 24 months
+→ Refinancing Risk Flag: −10 percentile points penalty applied to composite score</pre>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">2 — Filtering Logic &amp; Application</p>
+  <div class="sb">
+    <div class="two-col">
+      <div class="icard"><p class="ictitle">Hard-Floor Gate (FCCR)</p>
+        <div class="tr"><span class="tl">Trailing FCCR (base case)</span><span class="tv h">≥ 2.5×</span></div>
+        <div class="tr"><span class="tl">FCCR under −20% EBITDA stress</span><span class="tv h">≥ 1.5×</span></div>
+        <div class="tr"><span class="tl">Minimum annual FCCR (5yr)</span><span class="tv h">≥ 1.75×</span></div>
+      </div>
+      <div class="icard"><p class="ictitle">Hard-Floor Gate (Net Debt/EBITDA)</p>
+        <div class="tr"><span class="tl">Maximum leverage (general)</span><span class="tv h">≤ 3.0×</span></div>
+        <div class="tr"><span class="tl">Maximum leverage (Utilities/Infra)</span><span class="tv s">≤ 5.0×</span></div>
+        <div class="tr"><span class="tl">Debt maturity concentration</span><span class="tv h">&lt;30% in 24 months</span></div>
+      </div>
+    </div>
+    <p style="margin-top:14px;">The Utilities sector carve-out reflects contractual revenue frameworks with governmental counterparties — their cash flows are more predictable, justifying higher leverage tolerance. The FCCR floor of 2.5× is applied universally — no sector exemption. A key inter-metric link: a company breaching the FCCR floor will, within 12–24 months, almost certainly be forced to cut its dividend — M-03 therefore functions as a temporal early-warning signal that M-06 will confirm at the income-event stage.</p>
+  </div>
+</div>
+<div>
+  <p class="sh">3 — Weighting Recommendation</p>
+  <div class="wd"><span class="wbig">18%</span><span class="wrat">An 18% weight (from 20%) reflects the critical importance of solvency without over-penalising structurally leveraged but cash-safe businesses such as regulated utilities. The reduction acknowledges a deliberate architectural link to M-06: a company under meaningful balance sheet stress will almost certainly be forced to cut its dividend — meaning M-03 and M-06 together form a temporal solvency-to-income-event detection system. The overall solvency information content in the composite remains fully intact through this inter-metric reinforcement.</span></div>
+</div>
+<div>
+  <p class="sh">4 — Real-Market Context &amp; Sector Nuance Example</p>
+  <div class="exblock">
+    <div class="excols">
+      <div class="excol">
+        <div class="exch"><div class="exicon pi">✓</div><div><p class="exct">Mature Consumer Staples Archetype</p><p class="excs">Low-leverage, high-coverage profile</p></div></div>
+        <div class="em"><span class="eml">Trailing FCCR</span><span class="emv p">6–9×</span></div>
+        <div class="em"><span class="eml">Net Debt / EBITDA</span><span class="emv p">0.5–1.5×</span></div>
+        <div class="em"><span class="eml">Stressed FCCR (−20% EBITDA)</span><span class="emv p">4–7×</span></div>
+        <div class="em"><span class="eml">Near-term maturity &gt;30%?</span><span class="emv p">No</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Wide fixed-charge coverage means even a severe revenue shock leaves the company well above its obligations. This solvency confidence directly underwrites the dividend continuity tested in M-06 — these two metrics jointly confirm structural long-term safety for the pension mandate.</p>
+      </div>
+      <div class="excol">
+        <div class="exch"><div class="exicon fi">✗</div><div><p class="exct">PE-Backed Roll-Up / LBO Archetype</p><p class="excs">Post-leveraged-buyout capital structure</p></div></div>
+        <div class="em"><span class="eml">Trailing FCCR</span><span class="emv f">1.8–2.2×</span></div>
+        <div class="em"><span class="eml">Net Debt / EBITDA</span><span class="emv f">5.5–7.0×</span></div>
+        <div class="em"><span class="eml">Stressed FCCR (−20% EBITDA)</span><span class="emv f">1.1–1.3×</span></div>
+        <div class="em"><span class="eml">Near-term maturity &gt;30%?</span><span class="emv f">Yes — refinancing cliff</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Stressed FCCR of 1.1–1.3× places the company dangerously close to covenant breach under any earnings deterioration. This capital structure also makes dividends impossible to sustain — this company will have already failed M-06's binary Layer 1 pre-screen for the same underlying reason.</p>
+      </div>
+    </div>
+    <div class="vbar vpass">STAPLES — PASSES. Wide buffer in base and stress. Clean maturity profile. Solvency directly underpins M-06 income reliability.</div>
+    <div class="vbar vfail">LBO — HARD EXCLUDED. Stressed FCCR below 1.5×. Net Debt/EBITDA above 3.0×. Will also fail M-06 Layer 1 pre-screen.</div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- M-04 -->
+<div class="mb">
+<div class="mh"><span class="mnum">M-04</span><div>
+  <div class="badge bearn">Earnings Quality</div>
+  <h2 class="mtitle">Sloan Accruals Ratio<br><span style="font-size:20px;color:#6b6b62;">(Balance Sheet Method — 5-Year Normalised)</span></h2>
+  <p class="msub">"Are profits driven by real economic activity — or are they manufactured through the quiet expansion of accrual-based balance sheet items?"</p>
+</div></div>
+<div class="mbody">
+<div>
+  <p class="sh">Plain-Language Explanation</p>
+  <div class="plain-box">
+    <p class="plain-label">For the Project Team — What This Metric Is &amp; Why It Exists</p>
+    <div class="plain-text">
+      <p>This is the most forensic metric in the filter — the closest thing institutional investors have to an automated accounting quality detector, backed by decades of academic research proving it works. It was formalised by accounting professor Richard Sloan in 1996, and virtually every major asset manager's quantitative team now incorporates some version of it into their screening process.</p>
+      <p>The core intuition: <strong>accrual accounting lets companies decide when to record revenues and expenses</strong>. A company can record a sale before the customer pays. It can delay recognising an expense by calling it an "investment" and spreading it over many years. Every time it does this, the gap between reported profit and actual cash grows larger. That gap is the <strong>accrual component</strong> of earnings.</p>
+      <p>The <strong>Sloan Accruals Ratio</strong> measures how fast a company's operating balance sheet (its assets minus its operating liabilities) is growing relative to its size. When it grows quickly, the company is accumulating paper assets — inflated receivables, capitalised costs, growing inventory — that have been counted as profits but not yet converted into cash. Sloan's research showed these companies reliably disappoint investors in subsequent years when those paper profits fail to materialise. For a pension fund, this is a hidden time bomb: reported earnings look fine until they suddenly don't — and by then the dividend has already been cut.</p>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">1 — Metric Name &amp; Technical Definition</p>
+  <div class="sb">
+    <p>We implement the <strong>Balance Sheet Method</strong> with a 5-year normalisation to detect structural accrual accumulation rather than transient annual movements. Goodwill and acquisition-related intangibles are stripped to prevent M&amp;A-driven balance sheet expansion from distorting the organic accruals signal.</p>
+    <div class="fblock">
+      <p class="flabel">Core Formula — Sloan Balance Sheet Method (1996, Refined for IFRS)</p>
+<pre class="formula">Net Operating Assets (NOA)
+  =  (Total Assets − Cash &amp; Equivalents − Goodwill − Acquired Intangibles)
+   − (Total Liabilities − Short-term Financial Debt − Long-term Financial Debt)
+     Strips purely financial items to isolate the operating accruals component
+     Stripping goodwill prevents M&amp;A roll-ups from gaming the signal
+
+Accruals Ratio (year t)  =  (NOA_t − NOA_t-1)  /  ((NOA_t + NOA_t-1) / 2)
+     Average denominator scaling: prevents size-bias across the STOXX 600 universe
+     A €500m company and a €50bn company are directly comparable on this metric
+
+5-Year Structural Score  =  Average(Accruals Ratio, years t−4 to t)
+     A single-year spike may be a legitimate investment (e.g. inventory build).
+     Persistence over 5 years signals structural earnings inflation.
+     Quality double-flag: raised if 5yr average &gt; 8% AND most recent year &gt; 15%</pre>
+    </div>
+    <p>A high positive ratio means the operating balance sheet grows faster than cash generation — assets accumulating or liabilities deflating in ways that flatter reported profit. A consistently near-zero or negative ratio is the hallmark of a business generating earnings that are entirely real and cash-backed.</p>
+  </div>
+</div>
+<div>
+  <p class="sh">2 — Filtering Logic &amp; Application</p>
+  <div class="sb">
+    <div class="two-col">
+      <div class="icard"><p class="ictitle">Relative Scoring (Primary Method)</p>
+        <div class="tr"><span class="tl">Score = 100 pts: 5yr avg</span><span class="tv">&lt; −2%</span></div>
+        <div class="tr"><span class="tl">Score = 50 pts: 5yr avg</span><span class="tv">+2% to +5%</span></div>
+        <div class="tr"><span class="tl">Score = 0 pts: 5yr avg</span><span class="tv s">&gt; +8%</span></div>
+      </div>
+      <div class="icard"><p class="ictitle">Hard Exclusion Zone (Structural)</p>
+        <div class="tr"><span class="tl">Hard exclude: 5yr avg</span><span class="tv h">&gt; +12%</span></div>
+        <div class="tr"><span class="tl">Hard exclude: single-year spikes</span><span class="tv h">&gt;20% in 2 of 5 yrs</span></div>
+        <div class="tr"><span class="tl">Cross-check with M-02 Signal B</span><span class="tv">If both fail → review</span></div>
+      </div>
+    </div>
+    <p style="margin-top:14px;"><strong>Critical cross-signal rule:</strong> If a company shows a high Sloan Ratio (M-04 &gt; 8%) AND low FCF/Net Income (M-02 Signal B &lt; 80%), both metrics are flagging the same underlying problem from different angles — earnings are manufactured, not earned. This double-distress signal triggers mandatory analytical review and is grounds for exclusion even if neither metric individually breached its hard floor. Additionally, companies with persistently high accruals that are funding dividends from inflated earnings will eventually be exposed through M-06's FCF Dividend Cover test — M-04 detects the accounting inflation early; M-06 detects when it can no longer support income payments.</p>
+  </div>
+</div>
+<div>
+  <p class="sh">3 — Weighting Recommendation</p>
+  <div class="wd"><span class="wbig">13%</span><span class="wrat">A 13% weight (from 15%) reflects the Sloan Ratio's role as a precision forensic scalpel — its function is to catch the subset of companies that appear strong on M-01 and M-02 precisely because their earnings are partially fictitious. The weight reduction is calibrated around a key structural insight: M-04 and M-06 form a temporal arc — M-04 detects balance sheet earnings inflation in the present; M-06 detects when that inflation can no longer support income payments in the future. Together they contribute approximately 25% of composite information content, with M-04's earlier detection value reflected in its 13% individual weight.</span></div>
+</div>
+<div>
+  <p class="sh">4 — Real-Market Context &amp; Sector Nuance Example</p>
+  <div class="exblock">
+    <div class="excols">
+      <div class="excol">
+        <div class="exch"><div class="exicon pi">✓</div><div><p class="exct">Mature Consumer Staples Archetype</p><p class="excs">Stable working capital, negative NWC model</p></div></div>
+        <div class="em"><span class="eml">5yr avg Sloan Accruals Ratio</span><span class="emv p">−3% to +2%</span></div>
+        <div class="em"><span class="eml">NOA trend (organic)</span><span class="emv p">Flat to slightly declining</span></div>
+        <div class="em"><span class="eml">Receivables / Revenue trend</span><span class="emv p">Stable or declining</span></div>
+        <div class="em"><span class="eml">Double-flag with M-02?</span><span class="emv p">No flag</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Companies selling through large supermarket chains often collect cash from customers before paying their own suppliers — a negative working capital model. This structurally produces near-zero or negative accruals. Every euro of profit is grounded in genuine economic activity, confirming the quality of earnings that fund the M-06 dividend.</p>
+      </div>
+      <div class="excol">
+        <div class="exch"><div class="exicon fi">✗</div><div><p class="exct">Aggressive Growth Archetype</p><p class="excs">SaaS / subscription platform with capitalised dev costs</p></div></div>
+        <div class="em"><span class="eml">5yr avg Sloan Accruals Ratio</span><span class="emv f">+10% to +18%</span></div>
+        <div class="em"><span class="eml">NOA trend</span><span class="emv f">Rapidly expanding</span></div>
+        <div class="em"><span class="eml">Capitalised software / dev costs</span><span class="emv f">High and growing</span></div>
+        <div class="em"><span class="eml">Double-flag with M-02?</span><span class="emv f">Yes — flag raised</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Aggressive capitalisation of development costs expands NOA persistently. When growth slows, these costs must be amortised or written down — producing an earnings cliff. Dividends currently being paid are funded by inflated accounting profits, not real cash. M-06 will surface this problem from the income side.</p>
+      </div>
+    </div>
+    <div class="vbar vpass">STAPLES — HIGH SCORE. Near-zero accruals confirm pristine earnings quality. No cross-signal flag with M-02.</div>
+    <div class="vbar vfail">GROWTH — EXCLUDED. 5yr avg above +12% triggers hard exclusion. Double-flag with M-02 Signal B confirms structural earnings inflation.</div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- M-05 -->
+<div class="mb">
+<div class="mh"><span class="mnum">M-05</span><div>
+  <div class="badge bmargin">Margin Resilience</div>
+  <h2 class="mtitle">EBITDA Margin Coefficient of Variation<br><span style="font-size:20px;color:#6b6b62;">(CV) with Absolute Floor Anchor &amp; Trend Test</span></h2>
+  <p class="msub">"Across a full economic cycle, how stable are operating margins — and are they structurally expanding or being slowly eroded?"</p>
+</div></div>
+<div class="mbody">
+<div>
+  <p class="sh">Plain-Language Explanation</p>
+  <div class="plain-box">
+    <p class="plain-label">For the Project Team — What This Metric Is &amp; Why It Exists</p>
+    <div class="plain-text">
+      <p>Most financial screens look at a company's average profit margin and check if it's above a threshold. The problem: a company can have a perfectly adequate average margin while swinging violently between boom and bust years. A steel producer might average a 14% EBITDA margin over seven years — but if it earned 28% in peak years and 2% in trough years, its business is deeply cyclical and unreliable. A basic average margin screen would pass it; a pension fund absolutely should not hold it.</p>
+      <p>The <strong>Coefficient of Variation (CV)</strong> is a statistical measure that captures exactly this. It calculates how much annual margins fluctuate relative to their own average. A low CV means margins are stable — the company performs consistently regardless of economic conditions. A high CV means margins are volatile — the company's profitability is hostage to factors it cannot control, such as commodity prices, construction cycles, or consumer discretionary spending.</p>
+      <p>We also run a <strong>trend test</strong> using linear regression. A company might have a 7-year average margin of 18% that passes our floor — but if margins declined every year from 24% to 12%, the business is in structural decline. The average hides this. The trend line catches it. This is our forward-looking safeguard against locking the pension fund into a business that is slowly losing its competitive edge, even if it still looks adequate today. Companies with stable, high margins across cycles are demonstrating genuine <strong>pricing power</strong> — the ability to raise prices when costs rise — which is the closest thing equity investing has to inflation protection.</p>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">1 — Metric Name &amp; Technical Definition</p>
+  <div class="sb">
+    <p>The <strong>Coefficient of Variation of EBITDA Margin</strong> measures relative margin dispersion over a 7-year window covering at least one full European recession cycle. It is dimensionless and fully cross-sector comparable because it normalises dispersion against the mean. The 70/30 internal split deliberately prioritises stability over level.</p>
+    <div class="fblock">
+      <p class="flabel">Core Formula — Margin Stability and Trend Signal</p>
+<pre class="formula">EBITDA Margin (year t)  =  EBITDA_t / Revenue_t
+
+Coefficient of Variation  =  StdDev(Margin, 7yr)  /  Mean(Margin, 7yr)
+     Lower CV = higher structural margin stability = higher composite score
+     Dimensionless: allows direct cross-sector comparison (FMCG vs Industrials)
+
+Sector-Adjusted Absolute Margin Floors:
+     General (all sectors): 12%     Industrials: 10%
+     Consumer Staples: 15%          Healthcare / Pharma: 18%
+     Technology: 20%                Financials: sector-specific proxy
+     Benchmarked at the bottom quartile of each STOXX 600 GICS sector
+
+Margin Trend Test (OLS Linear Regression):
+     Fit: EBITDA Margin  =  intercept + slope x Year  (years t-6 to t)
+     Condition: slope must be greater than −0.5% per annum
+     A slope steeper than −0.5%/yr = structural compression flag
+     Applied even if the 7yr average passes the absolute floor
+
+Composite Signal  =  Percentile(−CV) x 70%   [stability dominates]
+                  +  Percentile(Mean Margin) x 30%   [level as secondary anchor]</pre>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">2 — Filtering Logic &amp; Application</p>
+  <div class="sb">
+    <div class="two-col">
+      <div class="icard"><p class="ictitle">Hard-Floor Gate (Absolute Margin)</p>
+        <div class="tr"><span class="tl">7yr average EBITDA margin</span><span class="tv h">≥ 12% general</span></div>
+        <div class="tr"><span class="tl">Minimum in any single year</span><span class="tv h">≥ 5%</span></div>
+        <div class="tr"><span class="tl">OLS slope threshold</span><span class="tv h">&gt; −0.5%/yr</span></div>
+      </div>
+      <div class="icard"><p class="ictitle">Relative Scoring Gate (CV)</p>
+        <div class="tr"><span class="tl">Score = 100 pts if CV</span><span class="tv">≤ 10%</span></div>
+        <div class="tr"><span class="tl">Score = 50 pts if CV</span><span class="tv s">10% – 20%</span></div>
+        <div class="tr"><span class="tl">Score = 0 pts if CV</span><span class="tv h">&gt; 30%</span></div>
+      </div>
+    </div>
+    <p style="margin-top:14px;">A CV above 30% indicates the business model is intrinsically cyclical — driven by commodity spreads, construction cycles, or discretionary consumer spending it cannot control. For a pension mandate, this margin instability is structural: it will manifest simultaneously as dividend cuts in trough years (M-06), leveraged balance sheets when revenues fall (M-03), and collapsed ROIC below WACC during downturns (M-01). M-05 is therefore a systemic risk detector whose consequences cascade across the entire composite.</p>
+  </div>
+</div>
+<div>
+  <p class="sh">3 — Weighting Recommendation</p>
+  <div class="wd"><span class="wbig">13%</span><span class="wrat">A 13% weight (from 15%) reflects this metric's role as a cycle-stability validator whose downstream consequences are now captured by dedicated metrics elsewhere. The margin CV is most valuable as a systemic risk signal — companies with high margin volatility will underperform on ROIC (M-01), FCF conversion (M-02), solvency (M-03), and dividend continuity (M-06) all simultaneously. In an inflationary environment, margin CV is also the closest quantitative proxy for structural pricing power available in a cross-sector filter — a critical characteristic for a mandate that must deliver inflation-protected real returns to beneficiaries.</span></div>
+</div>
+<div>
+  <p class="sh">4 — Real-Market Context &amp; Sector Nuance Example</p>
+  <div class="exblock">
+    <div class="excols">
+      <div class="excol">
+        <div class="exch"><div class="exicon pi">✓</div><div><p class="exct">Mature Consumer Staples Archetype</p><p class="excs">Structural pricing power, inelastic demand categories</p></div></div>
+        <div class="em"><span class="eml">7yr average EBITDA margin</span><span class="emv p">18–24%</span></div>
+        <div class="em"><span class="eml">Margin range (min to max, 7yr)</span><span class="emv p">16% to 26%</span></div>
+        <div class="em"><span class="eml">CV of EBITDA margin</span><span class="emv p">6–10%</span></div>
+        <div class="em"><span class="eml">OLS trend slope</span><span class="emv p">+0.1%/yr (expanding)</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Brand equity insulates margins from demand shocks and cost inflation. The expanding OLS slope confirms compounding competitive advantages. This stability is the structural engine that makes consistent dividend growth (M-06) possible and keeps ROIC (M-01) elevated across the cycle.</p>
+      </div>
+      <div class="excol">
+        <div class="exch"><div class="exicon fi">✗</div><div><p class="exct">Commodity-Linked Industrial Archetype</p><p class="excs">Steel / Basic Chemicals — price-taker model</p></div></div>
+        <div class="em"><span class="eml">7yr average EBITDA margin</span><span class="emv n">14% (passes average screen)</span></div>
+        <div class="em"><span class="eml">Margin range (min to max, 7yr)</span><span class="emv f">2% to 28%</span></div>
+        <div class="em"><span class="eml">CV of EBITDA margin</span><span class="emv f">42–55%</span></div>
+        <div class="em"><span class="eml">OLS trend slope</span><span class="emv f">−1.2%/yr (compressing)</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">A basic screen passes this company on its 14% average. The CV of 42–55% reveals violent boom-bust swings driven by commodity spreads management cannot control. In trough years, dividends are cut (M-06 failure), leverage spikes (M-03 failure), and ROIC collapses below WACC (M-01 failure) — all simultaneously.</p>
+      </div>
+    </div>
+    <div class="vbar vpass">STAPLES — PASSES. Low CV confirms pricing power. Expanding OLS trend confirms compounding moat. The engine behind M-06 reliability.</div>
+    <div class="vbar vfail">COMMODITY INDUSTRIAL — EXCLUDED. CV above 30% zero-score threshold. Compressing OLS slope below −0.5%/yr. High probability M-06 Layer 1 failure.</div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- M-06 NEW -->
+<div class="mb">
+<div class="mh"><span class="mnum">M-06</span><div>
+  <div class="badge bincome">Income Reliability — New Metric</div>
+  <h2 class="mtitle">Dividend Sustainability Index<br><span style="font-size:20px;color:#6b6b62;">(DSI — FCF Cover × Continuity × Payout Discipline)</span></h2>
+  <p class="msub">"Can the company maintain and grow its cash distributions reliably enough to fund the pension fund's own scheduled benefit payments — across a full economic cycle and into the next?"</p>
+</div></div>
+<div class="mbody">
+<div>
+  <p class="sh">Plain-Language Explanation</p>
+  <div class="plain-box it">
+    <p class="plain-label il">For the Project Team — Why This Metric Was Added &amp; What It Does</p>
+    <div class="plain-text">
+      <p>The first five metrics screen for financial quality — they ensure we only own businesses that are genuinely strong, well-run, and structurally sound. But a pension fund has one dimension that a general equity quality fund does not: <strong>it must physically pay cash to its beneficiaries on a scheduled basis</strong>. Retired teachers, nurses, and civil servants receive their pension income every month, on time. The fund cannot delay these payments because its portfolio companies had a bad quarter or decided to reinvest their cash instead of distributing it.</p>
+      <p>This means owning a company with excellent ROIC and FCF but no consistent dividend — for example, a high-growth tech company reinvesting everything into expansion — is still a poor fit for this mandate regardless of how good its other metrics are. We specifically need companies that consistently distribute cash to shareholders and have done so reliably through both good times and bad, including through the 2020 COVID shock when roughly 40% of STOXX Europe 600 companies suspended or cut their dividends.</p>
+      <p>The <strong>Dividend Sustainability Index (DSI)</strong> tests three things simultaneously: <strong>(1) Is the dividend funded by real free cash flow</strong>, not accounting profits or debt? <strong>(2) Has the company actually maintained its dividend</strong> through at least one full economic cycle — including 2020? <strong>(3) Is the payout ratio sensible</strong> — large enough to serve the income mandate, but not so large it leaves no buffer when earnings fall? All three must pass. A company that scores perfectly on two but fails one is still a structural income risk for this mandate.</p>
+    </div>
+  </div>
+</div>
+<div>
+  <p class="sh">1 — Metric Name &amp; Technical Definition</p>
+  <div class="sb">
+    <p>The <strong>DSI</strong> is a composite of three sub-signals tested through a sequential three-layer gate structure. No single strong sub-signal can compensate for structural weakness in another — all three dimensions must pass simultaneously. The metric operates through a binary pre-screen (applied before composite scoring), hard-floor checks (within scoring), and a percentile ranking (for survivor differentiation).</p>
+    <div class="fblock ia">
+      <p class="flabel">Sub-Signal A — FCF Dividend Cover (Primary Gate — 50% of DSI score)</p>
+<pre class="formula">FCF Dividend Cover  =  Free Cash Flow  /  Ordinary Dividends Paid
+
+FCF definition: identical to M-02 (Operating Cash Flow − Maintenance CapEx)
+Consistency is intentional: the same FCF engine powers both the M-02 conversion
+score and the dividend funding test — confirming both metrics with one data stream
+
+Ordinary dividends ONLY. Special and one-off dividends are excluded.
+Special dividends are logged as a positive qualitative flag but do NOT improve
+the sustainability score — this prevents companies from masking structural dividend
+weakness with one non-recurring payment, a common practice in European corporate finance.
+
+Cover ratio of 2.0x means: for every €1 distributed, €2 of FCF is generated
+Hard Floor:   5-year median FCF Dividend Cover   ≥  2.0x
+Soft Floor:   Minimum single-year cover           ≥  1.2x
+              Cover below 1.0x in any year = dividend funded by debt or reserves
+              Two or more years below 1.0x = hard exclusion regardless of median</pre>
+    </div>
+    <div class="fblock ia">
+      <p class="flabel">Sub-Signal B — Dividend Continuity Score (35% of DSI score)</p>
+<pre class="formula">Continuity Score  =  Years with Maintained or Grown DPS  /  Total Years in 10yr Window
+
+"Maintained or grown" = dividend per share (DPS) is greater than or equal to prior year DPS
+Any reduction in DPS — even a 5% cut — counts as a cut. No exceptions.
+A cut of more than 20% in any single year = "hard continuity break"
+Subsequent reinstatement does NOT erase the historical cut from the score.
+
+WHY 10 YEARS: the longest lookback in this framework, by design.
+The 2015–2025 window covers: European sovereign debt crisis tail (2015–16),
+2018–19 global growth deceleration, 2020 COVID pandemic shock (approx. 40% of
+STOXX 600 suspended or cut ordinary dividends), 2021–22 supply-chain inflation
+crisis, and 2023–24 higher-for-longer rate environment.
+A company maintaining or growing dividends through all of these is demonstrably
+different from one that only held dividends in the easy 2021–2024 period.
+A 5-year window starting in 2020 would miss the COVID shock for 2025 screening.
+
+LAYER 1 — BINARY PRE-SCREEN (applied BEFORE composite scoring begins):
+Hard Exclusion:  Dividend cuts in more than 2 of the last 10 years
+This gate eliminates serial cutters entirely from the investable universe.
+It is applied before M-01 through M-05 composite scores are computed.
+A company with perfect M-01–M-05 scores is still excluded here if it cut
+its dividend 3 or more times in the past decade.
+
+Target Continuity Score:    0.80 or above (8 of 10 years maintained or grown)
+Strong Continuity Score:    1.00 (Dividend Aristocrat — 10 of 10 years)
+Progressive Policy Modifier: +5 percentile points for board-approved progressive
+dividend policy with a stated minimum DPS growth floor (e.g., inflation + 0–2%/yr)</pre>
+    </div>
+    <div class="fblock ia">
+      <p class="flabel">Sub-Signal C — Payout Discipline Ratio (15% of DSI score)</p>
+<pre class="formula">Net Payout Ratio  =  (Ordinary Dividends Paid + Share Buybacks)
+                  /  Free Cash Flow   [both as 5-year averages]
+
+Buybacks included to prevent gaming: companies substituting buybacks for dividends
+to make payout look low while total capital return is actually high are captured.
+Both forms of return compete for the same FCF and both create future expectations.
+
+Target Range:    40% to 75%   Adequate distribution + retained FCF buffer
+Hard Ceiling:    above 90%    Nearly all FCF returned — dividend at structural risk
+                              Any earnings shortfall forces a cut or requires borrowing
+Floor Flag:      below 15%    Capital allocation misalignment — mandatory analyst review
+                              Company hoards cash and does not serve the income mandate
+                              Not excluded, but flagged before any portfolio inclusion
+
+DSI Composite Score  =  Percentile(FCF Cover)        x 50%
+                      + Percentile(Continuity Score)   x 35%
+                      + Percentile(Payout Discipline)  x 15%
+
+FCF Cover dominates at 50%: the only mathematically rigorous test of whether
+dividends are genuinely cash-funded vs. accounting-funded.
+Continuity Score at 35%: historical evidence of income reliability through cycles.
+Payout Discipline at 15%: structural headroom — confirms long-run viability of policy.</pre>
+    </div>
+    <div class="inote"><strong>Sector Substitutions:</strong> For banks and insurers, replace FCF Dividend Cover with: Dividends / (Net Income − Regulatory Capital Deductions). For REITs and infrastructure companies: use Dividends / AFFO (Adjusted Funds From Operations) — the sector-standard proxy for distributable cash. The 10-year continuity window and the binary Layer 1 pre-screen thresholds apply identically across all sectors with no carve-outs.</div>
+  </div>
+</div>
+<div>
+  <p class="sh">2 — Filtering Logic &amp; Application</p>
+  <div class="sb">
+    <p>M-06 uniquely combines three sequential layers applied in order. This architecture reflects a fundamental difference from the other five metrics: income disruption is not merely a financial loss for a pension fund — it is an operational crisis that forces the fund to liquidate assets at potentially adverse valuations to fund scheduled benefit payments.</p>
+    <div class="two-col">
+      <div class="icard"><p class="ictitle">Layer 1 — Binary Pre-Screen (Universal Gate)</p>
+        <div class="tr"><span class="tl">Max dividend cuts in 10yr window</span><span class="tv h">≤ 2 cuts</span></div>
+        <div class="tr"><span class="tl">Max single-year cut magnitude</span><span class="tv h">≤ 20%</span></div>
+        <div class="tr"><span class="tl">Min consecutive dividend history</span><span class="tv h">≥ 7 years</span></div>
+        <div class="tr"><span class="tl">Failure consequence</span><span class="tv h">Immediate exclusion</span></div>
+      </div>
+      <div class="icard"><p class="ictitle">Layer 2 — Hard-Floor Gates (Within DSI Scoring)</p>
+        <div class="tr"><span class="tl">5yr median FCF Dividend Cover</span><span class="tv ic">≥ 2.0×</span></div>
+        <div class="tr"><span class="tl">Minimum single-year Cover</span><span class="tv ic">≥ 1.2×</span></div>
+        <div class="tr"><span class="tl">Net Payout Ratio ceiling</span><span class="tv ic">≤ 90%</span></div>
+      </div>
+    </div>
+    <p style="margin-top:14px;">Layer 3 is the DSI Composite Score percentile ranking — applied only to companies that pass Layers 1 and 2. It differentiates between strong income profiles (10/10 continuity, 3.5× FCF cover, 55% payout ratio) and borderline ones (8/10 continuity, 2.1× cover, 72% payout ratio), producing the final M-06 sub-score entering the composite.</p>
+  </div>
+</div>
+<div>
+  <p class="sh">3 — Weighting Recommendation</p>
+  <div class="wd ibg"><span class="wbig">12%</span><span class="wrat">A 12% weight — the lowest individual weight in the composite — is deliberate and considered, not a signal that income reliability matters least. Three structural realities justify it. First, the binary Layer 1 pre-screen means dividend reliability already acts as an absolute exclusion gate before composite scoring begins, giving M-06 disproportionate influence relative to its numerical weight alone. Second, companies genuinely strong on M-01, M-02, and M-03 will almost always have the financial capacity to sustain dividends — sustainability is partly downstream of those three metrics, so a higher weight would create meaningful double-counting. Third, 12% is precisely calibrated to produce a composite-score gap large enough to influence final universe selection — differentiating a Dividend Aristocrat with 10/10 continuity and 3.5× FCF cover from a borderline payer, without overwhelming the fundamental economic quality signals that ultimately drive long-term compounding returns.</span></div>
+</div>
+<div>
+  <p class="sh">4 — Real-Market Context &amp; Sector Nuance Example</p>
+  <div class="exblock">
+    <div class="excols">
+      <div class="excol">
+        <div class="exch"><div class="exicon pi">✓</div><div><p class="exct">Consumer Staples / Pharma Archetype</p><p class="excs">European Dividend Aristocrat — progressive policy</p></div></div>
+        <div class="em"><span class="eml">5yr median FCF Dividend Cover</span><span class="emv p">3.2–4.5×</span></div>
+        <div class="em"><span class="eml">Dividend continuity (10yr)</span><span class="emv p">10 of 10 years</span></div>
+        <div class="em"><span class="eml">10yr avg DPS growth rate</span><span class="emv p">+5–8% per year</span></div>
+        <div class="em"><span class="eml">Net Payout Ratio (FCF-based)</span><span class="emv p">45–65%</span></div>
+        <div class="em"><span class="eml">Action in 2020 COVID shock</span><span class="emv p">Maintained / small increase</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Wide FCF cover means the dividend is funded multiple times over by real cash. The progressive policy provides institutional governance commitment to income growth. In 2020 — when roughly 40% of STOXX 600 companies suspended dividends — this archetype maintained distributions uninterrupted, funded by the same deeply embedded cash-generation engine validated by M-02. This is the ideal income profile for a pension mandate: dependable, growing, and proven under the worst stress conditions of the past decade.</p>
+      </div>
+      <div class="excol">
+        <div class="exch"><div class="exicon fi">✗</div><div><p class="exct">Cyclical Industrial / Commodity Producer</p><p class="excs">Variable-dividend European industrial — boom-bust pattern</p></div></div>
+        <div class="em"><span class="eml">5yr median FCF Dividend Cover</span><span class="emv f">1.1–1.6×</span></div>
+        <div class="em"><span class="eml">Dividend continuity (10yr)</span><span class="emv f">6 of 10 (4 cuts)</span></div>
+        <div class="em"><span class="eml">10yr avg DPS growth rate</span><span class="emv f">−2%/yr net of cuts</span></div>
+        <div class="em"><span class="eml">Net Payout Ratio (FCF-based)</span><span class="emv f">85–110%</span></div>
+        <div class="em"><span class="eml">Action in 2020 COVID shock</span><span class="emv f">Dividend suspended entirely</span></div>
+        <p style="font-size:12.5px;color:var(--ink-muted);margin-top:12px;line-height:1.65;">Dividends funded primarily by accounting earnings rather than real cash are instantly vulnerable to any earnings shortfall. The 2020 full suspension forced pension funds holding this stock to sell other assets to fund benefit payments precisely when markets were most disrupted. Four cuts in ten years also breaches the Layer 1 binary pre-screen outright — no composite scoring needed.</p>
+      </div>
+    </div>
+    <div class="vbar vpass">STAPLES / PHARMA — PASSES ALL THREE LAYERS. Wide FCF cover, perfect 10yr continuity, disciplined payout ratio. The ideal pension mandate income profile.</div>
+    <div class="vbar vfail">CYCLICAL INDUSTRIAL — HARD EXCLUDED at Layer 1. Four dividend cuts in ten years exceeds maximum of two permitted. Excluded before composite scoring even begins.</div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- FOOTER -->
+<div class="mfooter">
+  <div>
+    <p class="ftitle">Composite Score Summary — All 6 Metrics</p>
+    <table class="ctable">
+      <thead><tr><th>Metric</th><th>Weight</th><th>Hard Floor?</th><th>Application Method</th></tr></thead>
+      <tbody>
+        <tr><td>M-01 ROIC–WACC Spread</td><td class="mn">22%</td><td>Yes — dual gate</td><td>Absolute + Percentile</td></tr>
+        <tr><td>M-02 FCF Conversion Rate</td><td class="mn">22%</td><td>Yes — both signals</td><td>Absolute + Percentile</td></tr>
+        <tr><td>M-03 FCCR + Net Debt/EBITDA</td><td class="mn">18%</td><td>Yes — stress-tested</td><td>Absolute + Percentile</td></tr>
+        <tr><td>M-04 Sloan Accruals Ratio</td><td class="mn">13%</td><td>Extremes only</td><td>Primarily Percentile</td></tr>
+        <tr><td>M-05 EBITDA Margin CV</td><td class="mn">13%</td><td>Yes — floor + trend</td><td>Absolute + Percentile</td></tr>
+        <tr class="tr-m06"><td>M-06 Dividend Sustainability Index ★</td><td class="mni">12%</td><td>Yes — 3-layer gate</td><td>Binary Pre-Screen + Absolute + Percentile</td></tr>
+        <tr class="tr-total"><td>Composite Financial Score</td><td class="mn">100%</td><td>Any failure = excluded</td><td>Weighted percentile rank 0–100</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div>
+    <p class="ftitle">Implementation, Sequencing &amp; Rebalancing Notes</p>
+    <div class="fbody">
+      <p><strong>Execution sequence:</strong> M-06 Layer 1 binary pre-screen is run first — before any metric is computed — eliminating serial dividend cutters from the universe. Only survivors enter M-01–M-06 hard-floor checks. Only double-survivors enter composite percentile scoring.</p>
+      <p><strong>Data frequency:</strong> M-01–M-05 recalculated quarterly using TTM and 5/7yr rolling windows. M-06 continuity score updated annually (DPS histories are annual); FCF Dividend Cover updated quarterly using the M-02 FCF definition.</p>
+      <p><strong>Sector neutrality:</strong> Sector-adjusted floors (FCCR for Utilities, margin floors by GICS sector, AFFO substitute for REITs in M-06) prevent systematic over/under-representation of any sector. The M-06 binary pre-screen applies sector-neutrally — regulated utilities that cut dividends during rate cycles are penalised identically to cyclical industrials.</p>
+      <p><strong>Cross-signal correlation guard:</strong> M-02 and M-04 are structurally correlated — a 20% cap applies to their combined composite contribution to prevent double-penalisation of the same underlying weakness. M-06 FCF Cover and M-02 FCF/EBITDA share the same FCF denominator — a 10% cross-correlation cap applies at the composite level.</p>
+      <p><strong>Minimum universe size:</strong> Post-screening, the eligible universe should contain at least 80–100 companies. If hard floors reduce the universe below this threshold, loosen soft-floor percentile thresholds first. The M-06 binary pre-screen is the last gate to be relaxed — income reliability is the most structurally non-negotiable characteristic of this mandate.</p>
+    </div>
+  </div>
+</div>
+</div></body></html>

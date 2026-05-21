@@ -1,0 +1,64 @@
+{
+  "ticker": "MRL.MC",
+  "company_name": "MERLIN Properties SOCIMI, S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "EINF non-financial statement. Strong across all eight dimensions \u2014 documented Pathway to Net Zero, SBTi-validated targets, 2018 baseline, independent review report, disclosed green capex.",
+  "dimensions": {
+    "specificity": {
+      "quote": "MERLIN launched its 'Pathway to Net Zero' strategy, a roadmap",
+      "page": 5,
+      "value": "Pathway to Net Zero; net-zero 2030",
+      "rating": "LOW",
+      "reasoning": "Named, documented net-zero strategy with reported implementation progress."
+    },
+    "metric": {
+      "quote": "Reduction of operational carbon: 85% reduction in operational carbon from baseline (2018)",
+      "page": 5,
+      "value": "85% reduction",
+      "rating": "LOW",
+      "reasoning": "Quantified operational-carbon reduction target with reported progress."
+    },
+    "baseline": {
+      "quote": "85% from the base year (2018) to 2028, for Scopes 1 and 2",
+      "page": 31,
+      "value": "2018",
+      "rating": "LOW",
+      "reasoning": "Explicit 2018 base year."
+    },
+    "target": {
+      "quote": "net zero carbon company by 2030, in line with the science-based targets (SBTi)",
+      "page": 30,
+      "value": "SBTi-validated, 1.5C",
+      "rating": "LOW",
+      "reasoning": "SBTi-validated targets (validated Feb 2023 per the SBTi registry), 1.5C-aligned."
+    },
+    "time_horizon": {
+      "quote": "net zero carbon company by 2030",
+      "page": 30,
+      "value": "2028 / 2030",
+      "rating": "LOW",
+      "reasoning": "Near-term 2028/2030 targets \u2014 no long-deferral."
+    },
+    "scope": {
+      "quote": "Scope 3 greenhouse gas (GHG) emissions",
+      "page": 92,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scopes 1, 2 and 3 reported, with a Scope 3 tenant-engagement target."
+    },
+    "verification": {
+      "quote": "transparency, which is backed by independent third-party validation",
+      "page": 6,
+      "value": "independent review report",
+      "rating": "LOW",
+      "reasoning": "An independent review report is provided; externally audited information is referenced."
+    },
+    "consistency": {
+      "quote": "The CapEx associated with the Decarbonisation Plan for these measures in 2025 was EUR 10.3 [million]",
+      "page": 32,
+      "value": "green capex disclosed",
+      "rating": "LOW",
+      "reasoning": "Green capex tied explicitly to the Decarbonisation Plan; consistent with stated commitments."
+    }
+  }
+}

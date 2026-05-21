@@ -1,0 +1,280 @@
+ticker,idBbGlobalCompanyName,bics_sector,exchCode,taxonomy_eligible_pct,taxonomy_aligned_pct,euTaxnmyEstmatdDnshMitgtnLevl1,euTaxnmyEstmatdDnshMitgtnLevl2,euTaxnmyEstmatdDnshAdapttnLevl1,euTaxnmyEstmatdDnshAdapttnLevl2
+DP4B,AP Moller - Maersk A/S,Industrials,GR,0.0,,66.67,,57.14,60.0
+SEBA,Skandinaviska Enskilda Banken AB,Financials,GR,,,66.67,,71.43,
+ALV,Allianz SE,Financials,GR,,,77.78,,85.71,
+E7V,Rexel SA,Industrials,GR,,0.0,66.67,,28.57,
+IES,Intesa Sanpaolo SpA,Financials,GR,,,55.56,,42.86,
+RWE,RWE AG,Utilities,GR,13.09,,66.67,,57.14,40.0
+NDA,Aurubis AG,Materials,GR,,,11.11,,14.29,
+CBK,Commerzbank AG,Financials,GR,,,88.89,,71.43,
+DBK,Deutsche Bank AG,Financials,GR,,,66.67,,100.0,
+GBF,Bilfinger SE,Industrials,GR,0.0,,44.44,,14.29,
+HEI,HeidelbergCement AG,Materials,GR,0.0,,77.78,0.0,85.71,80.0
+HOT,HOCHTIEF AG,Industrials,GR,0.0,,66.67,0.0,42.86,40.0
+SDF,K+S AG,Materials,GR,0.0,0.0,88.89,,28.57,20.0
+SIE,Siemens AG,Industrials,GR,,,77.78,,57.14,40.0
+MUV2,Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen,Financials,GR,,,77.78,,71.43,
+MOH,LVMH Moet Hennessy Louis Vuitton SE,Consumer Discretionary,GR,,0.0,55.56,,42.86,
+CRIN,UniCredit SpA,Financials,GR,,,77.78,,100.0,
+OEWA,Verbund AG,Utilities,GR,19.24,,77.78,100.0,71.43,60.0
+LOR,L'Oreal SA,Consumer Staples,GR,,0.0,55.56,,71.43,
+OMV,OMV AG,Energy,GR,,,66.67,,100.0,
+SRT,Sartorius AG,Health Care,GR,0.0,0.0,66.67,,14.29,
+IBE1,Iberdrola SA,Utilities,GR,59.85,,66.67,50.0,42.86,40.0
+REP,Repsol SA,Energy,GR,0.0,,77.78,,57.14,
+SCT,SSE PLC,Utilities,GR,41.17,,77.78,100.0,100.0,100.0
+AIXA,AIXTRON SE,Technology,GR,0.0,57.0,66.67,,14.29,
+BAKA,Bankinter SA,Financials,GR,,,77.78,,57.14,
+INN1,ING Groep NV,Financials,GR,,,66.67,,85.71,
+AXA,AXA SA,Financials,GR,,,66.67,,100.0,
+RIO1,Rio Tinto PLC,Materials,GR,0.0,,55.56,0.0,57.14,40.0
+VOL3,Volvo AB,Industrials,GR,0.0,,44.44,,71.43,80.0
+VHM,Sacyr SA,Industrials,GR,0.0,,66.67,50.0,28.57,20.0
+KPN,Koninklijke KPN NV,Communications,GR,0.0,0.0,88.89,,57.14,60.0
+TCO0,Tesco PLC,Consumer Staples,GR,0.0,,77.78,,85.71,100.0
+LS4C,London Stock Exchange Group PLC,Financials,GR,,,55.56,,85.71,
+SGE,Societe Generale SA,Financials,GR,,,77.78,,71.43,
+BNP,BNP Paribas SA,Financials,GR,,,77.78,,85.71,
+AEND,Aegon NV,Financials,GR,,,77.78,,57.14,
+ASG,Assicurazioni Generali SpA,Financials,GR,,,55.56,,100.0,
+FTE,Orange SA,Communications,GR,0.0,,77.78,,42.86,40.0
+SND,Schneider Electric SE,Industrials,GR,59.85,,77.78,,71.43,60.0
+AIL,Air Liquide SA,Materials,GR,0.0,,66.67,,100.0,100.0
+AHOG,Koninklijke Ahold Delhaize NV,Consumer Staples,GR,,0.0,55.56,,85.71,
+RTO1,Rentokil Initial PLC,Industrials,GR,0.0,,55.56,,71.43,
+SVHG,Svenska Handelsbanken AB,Financials,GR,,,66.67,,85.71,
+BCPN,Banco Comercial Portugues SA,Financials,GR,,,66.67,,42.86,
+NOA3,Nokia Oyj,Technology,GR,0.0,,66.67,,57.14,60.0
+BSI,BE Semiconductor Industries NV,Technology,GR,0.0,0.0,77.78,,57.14,
+TQI,Telecom Italia SpA/Milano,Communications,GR,,,77.78,,14.29,20.0
+UUEC,United Utilities Group PLC,Utilities,GR,0.0,,77.78,100.0,85.71,100.0
+ASME,ASML Holding NV,Technology,GR,0.0,0.0,55.56,,71.43,
+SWJ,Swisscom AG,Communications,GR,1.44,,100.0,,57.14,60.0
+DTE,Deutsche Telekom AG,Communications,GR,1.09,,77.78,,85.71,100.0
+8RJ,Belimo Holding AG,Industrials,GR,0.0,,77.78,,14.29,20.0
+DSN,Danske Bank A/S,Financials,GR,,,66.67,,42.86,
+TOTB,TotalEnergies SE,Energy,GR,0.0,1.5,77.78,,85.71,80.0
+CENB,Centrica PLC,Utilities,GR,0.0,,77.78,,42.86,40.0
+NOH1,Norsk Hydro ASA,Materials,GR,53.34,28.0,88.89,100.0,71.43,60.0
+ENA,Endesa SA,Utilities,GR,10.17,27.2,66.67,50.0,42.86,40.0
+LTEC,Logitech International SA,Technology,GR,,,77.78,,28.57,
+INR,International Consolidated Airlines Group SA,Industrials,GR,,0.0,77.78,,42.86,
+SUL1,Sulzer AG,Industrials,GR,0.0,,88.89,,14.29,
+NXG,Next PLC,Consumer Discretionary,GR,0.0,,55.56,25.0,71.43,80.0
+IVS,Investor AB,Financials,GR,,,77.78,,42.86,
+SGM,STMicroelectronics NV,Technology,GR,0.0,,55.56,,57.14,60.0
+NCYD,Tele2 AB,Communications,GR,0.0,,77.78,,85.71,80.0
+MA6,Marks & Spencer Group PLC,Consumer Staples,GR,,,55.56,,57.14,
+RYSD,NatWest Group PLC,Financials,GR,,,66.67,,100.0,
+1SQ,Swissquote Group Holding SA,Financials,GR,,,55.56,,14.29,
+EBO,Erste Group Bank AG,Financials,GR,,,55.56,,28.57,
+DIO,Christian Dior SE,Consumer Discretionary,GR,,0.0,55.56,,42.86,
+STD,Standard Chartered PLC,Financials,GR,,,77.78,,71.43,
+KDB,KBC Group NV,Financials,GR,,,77.78,,85.71,
+UNC,UCB SA,Health Care,GR,,0.0,88.89,,42.86,
+SIKA,Sika AG,Materials,GR,0.0,,77.78,,57.14,
+AVS,ASM International NV,Technology,GR,0.0,0.0,55.56,,71.43,
+HIJ2,Arcadis NV,Industrials,GR,0.0,,66.67,,28.57,
+SEO,Serco Group PLC,Technology,GR,25.0,,77.78,,100.0,100.0
+SVKB,Sandvik AB,Industrials,GR,0.0,,55.56,50.0,28.57,40.0
+CMAB,Mapfre SA,Financials,GR,,,55.56,,28.57,
+BYG,Bouygues SA,Industrials,GR,0.0,,77.78,33.33,42.86,40.0
+JYS1,Jyske Bank A/S,Financials,GR,0.0,,66.67,25.0,28.57,20.0
+IMI1,IMI PLC,Industrials,GR,0.0,,66.67,,57.14,
+NEM,Nemetschek SE,Technology,GR,0.0,0.0,22.22,,14.29,20.0
+ABJ,ABB Ltd,Industrials,GR,0.0,,66.67,,42.86,40.0
+HBC1,HSBC Holdings PLC,Financials,GR,,,77.78,,85.71,
+DB1,Deutsche Boerse AG,Financials,GR,,0.0,77.78,,57.14,
+IYYA,Investec Ltd,Financials,GR,,,55.56,,71.43,
+SOC,Subsea 7 SA,Energy,GR,,,66.67,,42.86,
+EF3,Eiffage SA,Industrials,GR,0.0,,77.78,33.33,42.86,40.0
+MLT,Mycronic AB,Technology,GR,0.0,,44.44,,28.57,
+NDX1,Nordex SE,Energy,GR,100.0,,77.78,,42.86,40.0
+NGLB,Anglo American PLC,Materials,GR,,,66.67,,71.43,
+UCM,Buzzi Unicem SpA,Materials,GR,0.0,,44.44,0.0,14.29,0.0
+LO3,Lonza Group AG,Health Care,GR,,,88.89,,57.14,
+ENL,Enel SpA,Utilities,GR,26.03,39.9,55.56,50.0,85.71,80.0
+DS81,DSV A/S,Industrials,GR,0.0,0.0,66.67,,42.86,40.0
+BIH,Balfour Beatty PLC,Industrials,GR,0.0,,55.56,33.33,71.43,80.0
+ECN,RS GROUP PLC,Industrials,GR,0.0,,55.56,,85.71,
+AA9,Alfa Laval AB,Industrials,GR,0.0,,66.67,,42.86,40.0
+PU4,Publicis Groupe SA,Communications,GR,,,88.89,,42.86,
+UIPN,Unipol Gruppo SpA,Financials,GR,0.0,,77.78,25.0,57.14,60.0
+8IG,Interpump Group SpA,Industrials,GR,0.0,0.0,44.44,,14.29,
+AJ3,Acciona SA,Industrials,GR,26.75,39.4,55.56,0.0,57.14,40.0
+MZ4,Mitie Group PLC,Industrials,GR,6.95,,55.56,25.0,85.71,80.0
+IHCB,SBM Offshore NV,Energy,GR,,,77.78,,100.0,
+QS2A,Smiths Group PLC,Industrials,GR,0.0,,66.67,,100.0,100.0
+DNQ,Equinor ASA,Energy,GR,1.58,0.0,77.78,,85.71,80.0
+ACO4,Atlas Copco AB,Industrials,GR,0.0,,66.67,,42.86,20.0
+EFEA,Sagax AB,Real Estate,GR,6.17,,77.78,33.33,28.57,40.0
+IFX,Infineon Technologies AG,Technology,GR,0.0,,11.11,,0.0,
+IGQ5,3i Group PLC,Financials,GR,0.0,,55.56,25.0,57.14,60.0
+KRX,Kingspan Group PLC,Materials,GR,0.0,,66.67,,85.71,100.0
+KEK,Kesko Oyj,Consumer Staples,GR,0.0,,77.78,,42.86,40.0
+RITN,Cie Financiere Richemont SA,Consumer Discretionary,GR,,,55.56,,28.57,
+QS51,Straumann Holding AG,Health Care,GR,,,55.56,,14.29,
+GU81,Aviva PLC,Financials,GR,,,77.78,,85.71,
+TLLB,Trelleborg AB,Industrials,GR,0.0,0.0,55.56,,71.43,
+EAM,A2A SpA,Utilities,GR,11.57,,55.56,,42.86,40.0
+EOAN,E.ON SE,Utilities,GR,16.07,18.0,88.89,100.0,57.14,60.0
+VVD,Veolia Environnement SA,Utilities,GR,37.84,,66.67,100.0,85.71,80.0
+MTA,Wartsila OYJ Abp,Industrials,GR,0.0,,77.78,,14.29,20.0
+HNR1,Hannover Rueck SE,Financials,GR,,,66.67,,71.43,
+ZEG,AstraZeneca PLC,Health Care,GR,,,77.78,,57.14,
+BCY,Barclays PLC,Financials,GR,,,77.78,,57.14,
+HVXA,Helvetia Holding AG,Financials,GR,,,55.56,,28.57,
+LLD,Lloyds Banking Group PLC,Financials,GR,,,77.78,,85.71,
+SLW,Swiss Life Holding AG,Financials,GR,0.0,,66.67,25.0,42.86,40.0
+ZFIN,Zurich Insurance Group AG,Financials,GR,,,77.78,,57.14,
+HF6,Frontline PLC,Industrials,GR,,,77.78,,42.86,
+K34,Konecranes Oyj,Industrials,GR,0.0,,77.78,,57.14,
+FRYA,Swedbank AB,Financials,GR,,,77.78,,42.86,
+NKT,NKT A/S,Industrials,GR,0.0,40.0,88.89,,14.29,20.0
+UZAA,Flughafen Zurich AG,Industrials,GR,0.0,,55.56,,14.29,20.0
+HGUA,Huber + Suhner AG,Industrials,GR,0.0,,66.67,,28.57,40.0
+HMI,Hermes International,Consumer Discretionary,GR,,0.0,44.44,,42.86,
+TLX,Talanx AG,Financials,GR,,,66.67,,71.43,
+G1A,GEA Group AG,Industrials,GR,0.0,,77.78,,42.86,
+REJA,Reply SpA,Technology,GR,13.09,,77.78,,14.29,20.0
+HL9C,Holmen AB,Materials,GR,0.0,,66.67,66.67,28.57,40.0
+ENI,Eni SpA,Energy,GR,14.61,,77.78,,57.14,60.0
+FNTN,Freenet AG,Communications,GR,0.0,,66.67,,14.29,20.0
+UFG,Ferrovial SA,Industrials,GR,0.0,,66.67,,42.86,40.0
+BDSB,Banco de Sabadell SA,Financials,GR,,,88.89,,42.86,
+NXS,Nexans SA,Industrials,GR,0.0,,77.78,,71.43,
+AZ2,ANDRITZ AG,Industrials,GR,20.81,,55.56,,57.14,80.0
+HLBN,Holcim AG,Materials,GR,0.0,,55.56,0.0,71.43,60.0
+BPE5,BP PLC,Energy,GR,,,77.78,,85.71,
+NOT,Novartis AG,Health Care,GR,,,77.78,,71.43,
+VACD,Vallourec SA,Materials,GR,99.65,,66.67,100.0,71.43,80.0
+DJDA,D'ieteren Group,Consumer Discretionary,GR,0.0,,66.67,,71.43,80.0
+XCA,Credit Agricole SA,Financials,GR,,,77.78,,85.71,
+FO4N,Ageas SA/NV,Financials,GR,,,77.78,,28.57,
+NNGF,National Grid PLC,Utilities,GR,100.0,67.0,66.67,50.0,85.71,80.0
+B3K,Ackermans & van Haaren NV,Industrials,GR,0.0,15.0,55.56,25.0,28.57,40.0
+SKT,Storebrand ASA,Financials,GR,,,77.78,,100.0,
+IDVA,Industrivarden AB,Financials,GR,,,55.56,,14.29,
+SKWA,SSAB AB,Materials,GR,90.68,,55.56,50.0,57.14,60.0
+B7A,Banca Generali SpA,Financials,GR,,,77.78,,42.86,
+RTZ,Pan African Resources PLC,Materials,GR,,,11.11,,14.29,
+FG1,Antofagasta PLC,Materials,GR,0.0,,55.56,,57.14,60.0
+IC1H,InterContinental Hotels Group PLC,Consumer Discretionary,GR,,,77.78,,71.43,
+B4M1,SpareBank 1 SR-Bank ASA,Financials,GR,0.0,,77.78,25.0,42.86,40.0
+UEI,Terna - Rete Elettrica Nazionale,Utilities,GR,100.0,,66.67,50.0,57.14,60.0
+I7G,Ipsen SA,Health Care,GR,,0.0,77.78,,42.86,
+HDB,Azimut Holding SpA,Financials,GR,,,22.22,,28.57,
+I1M,Indutrade AB,Industrials,GR,0.0,,66.67,,28.57,40.0
+H3M,Hochschild Mining PLC,Materials,GR,,,88.89,,57.14,
+P7S,PSP Swiss Property AG,Real Estate,GR,8.2,,88.89,25.0,71.43,80.0
+NEF,Neste Oyj,Energy,GR,0.0,,88.89,,100.0,
+RAW,Raiffeisen Bank International AG,Financials,GR,,,66.67,,14.29,
+E4S,Elia Group SA/NV,Utilities,GR,94.68,,44.44,50.0,28.57,40.0
+M1H,Mobimo Holding AG,Real Estate,GR,0.0,,44.44,33.33,14.29,20.0
+ARRD,ArcelorMittal SA,Materials,GR,0.0,,77.78,0.0,42.86,40.0
+GZF,Engie SA,Utilities,GR,10.0,,77.78,,85.71,80.0
+BWJ1,Boliden AB,Materials,GR,,0.0,44.44,,28.57,
+B6E,Swedish Orphan Biovitrum AB,Health Care,GR,,0.0,55.56,,28.57,
+H2X3,Hiscox Ltd,Financials,GR,,,77.78,,57.14,
+OFK,Orion Oyj,Health Care,GR,,0.0,77.78,,14.29,
+P2H,Partners Group Holding AG,Financials,GR,,,55.56,25.0,42.86,40.0
+LRC,Legrand SA,Industrials,GR,0.0,,77.78,,42.86,40.0
+TW11,Tenaris SA,Materials,GR,0.0,,66.67,100.0,71.43,80.0
+TM2,Sydbank AS,Financials,GR,,,66.67,,14.29,
+IHJN,VZ Holding AG,Financials,GR,,,66.67,,14.29,
+I5G,IG Group Holdings PLC,Financials,GR,,,66.67,,42.86,
+I2X2,Intermediate Capital Group PLC,Financials,GR,,,66.67,,57.14,
+F6O1,FLSmidth & Co A/S,Industrials,GR,0.0,,55.56,,42.86,
+SU1N,Swiss Prime Site AG,Real Estate,GR,0.0,,77.78,33.33,57.14,60.0
+M6Q,Metso Outotec Oyj,Industrials,GR,,,77.78,,71.43,
+FTD,Financiere de Tubize SA,Health Care,GR,,,,,,
+48CA,CaixaBank SA,Financials,GR,,,55.56,,42.86,
+AZZ2,AddTech AB,Industrials,GR,,,55.56,,42.86,
+AEU,Prysmian SpA,Industrials,GR,0.0,,66.67,,85.71,
+JEP,Salmar ASA,Consumer Staples,GR,,,66.67,,42.86,
+56S1,Sartorius Stedim Biotech,Health Care,GR,0.0,0.0,55.56,,14.29,
+4AJ0,ALK-Abello A/S,Health Care,GR,,0.0,44.44,,28.57,
+FNL,Fresnillo PLC,Materials,GR,,,77.78,,85.71,
+FTK,flatexDEGIRO AG,Financials,GR,,0.0,22.22,,14.29,
+K900,Loomis AB,Industrials,GR,,,22.22,,28.57,
+VAT,Valiant Holding AG,Financials,GR,,,66.67,,14.29,
+B1V1,Banque Cantonale Vaudoise,Financials,GR,,,77.78,,28.57,
+KB9,KBC Ancora,Financials,GR,,,0.0,,14.29,
+JGE,Julius Baer Group Ltd,Financials,GR,,,55.56,,85.71,
+4BE,BPER Banca,Financials,GR,,,55.56,,85.71,
+H11,Halma PLC,Industrials,GR,0.0,,66.67,,100.0,
+ARC,Aker BP ASA,Energy,GR,,,77.78,,85.71,
+LG72,Lagercrantz Group AB,Technology,GR,0.0,,11.11,,14.29,20.0
+22Z,Zealand Pharma A/S,Health Care,GR,,,11.11,,14.29,
+N0S,Nordic Semiconductor ASA,Technology,GR,0.0,0.0,77.78,,14.29,
+SR9,Swiss Re AG,Financials,GR,,,77.78,,100.0,
+B9W,BKW AG,Utilities,GR,12.71,,33.33,,14.29,20.0
+8BU,Brunello Cucinelli SpA,Consumer Discretionary,GR,,0.0,44.44,,14.29,
+P9O,Powszechna Kasa Oszczednosci Bank Polski SA,Financials,GR,,,55.56,,28.57,
+SFB1,Asseco Poland SA,Technology,GR,11.04,,22.22,,28.57,40.0
+PKY1,Polski Koncern Naftowy ORLEN SA,Energy,GR,,,55.56,,42.86,
+7PZ,Powszechny Zaklad Ubezpieczen SA,Financials,GR,,,55.56,,42.86,
+1T5,Tauron Polska Energia SA,Utilities,GR,13.49,0.0,44.44,50.0,42.86,60.0
+BRU,mBank SA,Financials,GR,,,44.44,,42.86,
+BP1,Bank Polska Kasa Opieki SA,Financials,GR,,,44.44,,14.29,
+KGHA,KGHM Polska Miedz SA,Materials,GR,,,55.56,,85.71,
+G7W,Games Workshop Group PLC,Consumer Discretionary,GR,,,55.56,,42.86,
+7CD,CD Projekt SA,Communications,GR,,0.0,44.44,,28.57,
+C0Q,Coca-Cola HBC AG,Consumer Staples,GR,,0.0,55.56,,57.14,
+MOV,Moncler SpA,Consumer Discretionary,GR,,0.0,77.78,,85.71,
+2VO,Valmet Oyj,Industrials,GR,0.0,,66.67,,71.43,
+9TG,Gaztransport Et Technigaz SA,Energy,GR,0.0,,66.67,,14.29,
+SQG,Siegfried Holding AG,Health Care,GR,,,66.67,,14.29,
+QJQ,ISS A/S,Industrials,GR,0.0,0.0,66.67,,42.86,
+P55,Plus500 Ltd,Financials,GR,,,44.44,,14.29,
+ANI,Amundi SA,Financials,GR,,,77.78,,71.43,
+ENXB,Euronext NV,Financials,GR,,0.0,66.67,,42.86,
+INX,IMCD NV,Materials,GR,,0.0,77.78,,42.86,
+2NN,NN Group NV,Financials,GR,,,66.67,,71.43,
+ZS3,FinecoBank Banca Fineco SpA,Financials,GR,,,77.78,,28.57,
+1AE,Argenx SE,Health Care,GR,,0.0,11.11,,14.29,
+4SP,SPIE SA,Industrials,GR,0.0,41.7,66.67,,28.57,
+1L30,Lifco AB,Health Care,GR,11.87,0.0,66.67,,14.29,
+0UB,UBS Group AG,Financials,GR,,,77.78,,71.43,
+A44,Aena SME SA,Industrials,GR,0.0,,55.56,,42.86,40.0
+7EL,Elis SA,Industrials,GR,,0.0,66.67,,71.43,
+472,Cellnex Telecom SA,Industrials,GR,,,66.67,,28.57,
+1ZG,Zegona Communications plc,Financials,GR,,,,,,
+7PI,Poste Italiane SpA,Industrials,GR,1.94,,77.78,,57.14,40.0
+2FE,Ferrari NV,Consumer Discretionary,GR,0.0,,66.67,,42.86,40.0
+7CA,Camurus AB,Health Care,GR,,,,,,
+ME1,Banca Mediolanum SpA,Financials,GR,,,77.78,,71.43,
+19V,VAT Group AG,Industrials,GR,0.0,,44.44,,14.29,
+A16,ASR Nederland NV,Financials,GR,,,77.78,,71.43,
+I10,Italgas SpA,Utilities,GR,0.0,,77.78,,85.71,80.0
+BPM,Banco BPM SpA,Financials,GR,,,66.67,,42.86,
+G70,Galenica AG,Health Care,GR,,,66.67,,14.29,
+2X1,Abivax SA,Health Care,GR,,,,,,
+7UB,Unicaja Banco SA,Financials,GR,,,55.56,,42.86,
+BIRG,Bank of Ireland Group PLC,Financials,GR,,,77.78,,57.14,
+0B2,BAWAG Group AG,Financials,GR,,,77.78,,28.57,
+A5G,AIB Group PLC,Financials,GR,,,77.78,,85.71,
+1RY,LPP SA,Consumer Discretionary,GR,,0.0,66.67,,42.86,
+2D7,Beazley PLC,Financials,GR,,,66.67,,85.71,
+GEB,Bank of Georgia Group PLC,Financials,GR,,,55.56,,57.14,
+6GF,ING Bank Slaski SA,Financials,GR,,,55.56,,14.29,
+7W71,Sweco AB,Industrials,GR,0.0,,77.78,,42.86,
+1JJA,Avanza Bank Holding AB,Financials,GR,,,44.44,,57.14,
+04Q,Nordea Bank Abp,Financials,GR,,,77.78,,71.43,
+DP9,Diploma PLC,Industrials,GR,0.0,,55.56,,42.86,
+BRZ0,Beijer Ref AB,Industrials,GR,0.0,,55.56,,14.29,20.0
+7LB,Lotus Bakeries NV,Consumer Staples,GR,,0.0,33.33,,14.29,
+M3N,Man Group PLC/Jersey,Financials,GR,,,77.78,,57.14,
+9AA,Airtel Africa PLC,Communications,GR,0.0,,33.33,,42.86,40.0
+7MP,M&G PLC,Financials,GR,,,66.67,,85.71,
+ENR,Siemens Energy AG,Industrials,GR,33.84,,11.11,,28.57,20.0
+61L0,Sectra AB,Health Care,GR,0.0,0.0,33.33,,14.29,20.0
+9JL,Nordnet AB publ,Financials,GR,,,66.67,,14.29,
+68F,Technip Energies NV,Energy,GR,,0.0,88.89,,57.14,
+8D7,TP ICAP Group PLC,Financials,GR,,,44.44,,42.86,
+3ZV,Benefit Systems SA,Industrials,GR,,,77.78,,14.29,
+D1NC,DNB Bank ASA,Financials,GR,,,77.78,,71.43,
+CJ2,Ringkjoebing Landbobank A/S,Financials,GR,,,44.44,,14.29,
+R6C0,Shell PLC,Energy,GR,0.0,,88.89,,100.0,100.0
+K7I,Sparebanken Vest,Financials,GR,,,33.33,,57.14,
+TBCG,TBC Bank Group PLC,Financials,LN,,,66.67,,71.43,

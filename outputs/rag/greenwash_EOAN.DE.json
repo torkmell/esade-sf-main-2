@@ -1,0 +1,64 @@
+{
+  "ticker": "EOAN.DE",
+  "company_name": "E.ON SE",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"reduce our own carbon emissions and aim to achieve climate neutrality by 2040\" (GB25-gesamt-EN_final.pdf, p6). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Utility/grid annual report. Strong climate disclosure \u2014 SBTi-validated near-term 2030 targets, climate neutrality by 2040 on a 2019 baseline, full scope coverage, lobbying disclosed. One MED (assurance level). (E.ON's high carbon...",
+  "dimensions": {
+    "specificity": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

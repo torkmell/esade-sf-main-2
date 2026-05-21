@@ -1,0 +1,47 @@
+
+AI USE STATEMENT
+================
+
+Fund: ESADE Sustainable European Equity Fund
+Date: 2026-05-20
+
+1. TOOLS USED
+   - Claude (Anthropic) — mandate drafting, ESG analysis, greenwashing detection
+     (8-Test forensic analysis), document intelligence (RAG extraction from PDFs),
+     and natural language generation for report sections
+   - Python / Jupyter Notebooks — quantitative data processing, ESG scoring,
+     financial metrics calculation, portfolio optimisation, chart generation
+   - yfinance — market price data retrieval
+   - n8n.cloud — pipeline orchestration connecting agents
+
+2. WHAT AI DID
+   - Generated all Python code in notebooks (team verified outputs, not code)
+   - Extracted structured data from PDF sustainability reports with citations
+   - Applied the 8-dimension greenwashing test to each company's sustainability claims
+   - Drafted and revised report sections based on team-provided data
+   - Assisted in interpreting regulatory frameworks (EU Taxonomy, SFDR, CSRD/ESRS)
+
+3. WHAT HUMANS DID
+   - Defined all investment mandate parameters and scoring weights
+   - Verified 30% random sample of AI-extracted data against source PDFs
+   - Verified 100% of exclusion and watchlist decisions against source PDFs
+   - Exercised 3 documented override decisions (see override log above)
+   - Reviewed and approved all portfolio construction decisions
+   - Validated all financial calculations against source data
+
+4. HALLUCINATION CONTROLS
+   - All Claude Projects outputs marked MISSING where information was absent
+   - No data was invented, inferred, or synthesised without explicit disclosure
+   - Every AI-extracted data point cites verbatim source quote and page number
+   - AI-estimated values are classified as 'estimated' in the data dictionary
+   - ESG ratings treated as indicators, not objective truth
+
+5. LIMITATIONS
+   - Biodiversity scores use sector-level proxies (ENCORE / WRI Aqueduct)
+     due to absence of company-level TNFD disclosures
+   - EU Taxonomy alignment data is sparse; eligibility used as proxy
+   - Market data sourced from Yahoo Finance (adjusted prices, potential delays)
+   - AI extraction quality depends on PDF text layer quality
+
+This portfolio is an academic prototype produced for ESADE MSc Finance and does
+not constitute financial advice or a regulated investment product.

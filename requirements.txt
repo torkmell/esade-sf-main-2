@@ -1,0 +1,28 @@
+# Core data
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+nbconvert>=7.0.0
+
+# Finance data
+yfinance>=0.2.40
+
+# Visualisation
+matplotlib>=3.7.0
+plotly>=5.18.0
+kaleido>=0.2.1
+
+# Dashboard
+streamlit>=1.35.0
+
+# Excel / file formats
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.0.0

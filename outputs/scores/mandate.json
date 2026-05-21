@@ -1,0 +1,45 @@
+{
+  "fund_name": "ESADE Sustainable European Equity Fund",
+  "vintage": "2026-05-20",
+  "universe": "STOXX Europe 600 subset (50+ companies analysed)",
+  "benchmark": "STOXX Europe 600",
+  "investment_thesis": "We construct a concentrated long-only European equity portfolio of 15\u201325 holdings by integrating fundamental financial quality with best-in-class ESG credentials, verified against EU Taxonomy alignment and independently screened for greenwashing. We believe companies with credible sustainability commitments carry lower regulatory, reputational, and transition risk over a 5-year horizon. All exclusions and overrides are documented, creating an auditable process that can withstand scrutiny under SFDR Article 8 principles.",
+  "constraints": {
+    "min_holdings": 15,
+    "max_holdings": 25,
+    "target_holdings": 20,
+    "max_single_weight_pct": 10.0,
+    "min_sectors": 5,
+    "strategy": "long-only",
+    "currency": "EUR"
+  },
+  "composite_score_weights": {
+    "esg": 0.4,
+    "financial": 0.6
+  },
+  "esg_pillar_weights": {
+    "environmental": 0.4,
+    "social": 0.3,
+    "governance": 0.3
+  },
+  "hard_exclusions": [
+    "Thermal coal revenue > 5%",
+    "Tobacco production",
+    "Controversial weapons (cluster munitions, antipersonnel mines)",
+    "Greenwashing 8-Test score HIGH on >= 3 dimensions"
+  ],
+  "watchlist_triggers": [
+    "Greenwashing 8-Test score HIGH on 2 dimensions",
+    "SBTi target not yet approved",
+    "Scope 3 emissions not disclosed",
+    "Board gender diversity below 30%"
+  ],
+  "required_metrics": [
+    "WACI (Weighted Average Carbon Intensity)",
+    "ESG composite score (E, S, G, aggregate)",
+    "Biodiversity / nature-risk proxy",
+    "EU Taxonomy eligibility",
+    "Greenwashing 8-Test result per holding"
+  ],
+  "human_override_policy": "Team may override quantitative ranking for any holding. Every override must be logged in notebook 10_human_review.ipynb with a written rationale and the team member responsible."
+}

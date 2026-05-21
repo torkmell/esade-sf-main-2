@@ -1,0 +1,64 @@
+{
+  "ticker": "UCB.BR",
+  "company_name": "UCB S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"UCB is committed to net zero ... SBTi Net-Zero standard\" (iar_2025-web.pdf, p28). SBTi: Targets set, 1.5\u00b0C near-term target (2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Pharma integrated annual report. Strong climate disclosure \u2014 SBTi-Net-Zero-standard-aligned targets, 90% absolute reduction vs an explicit 2019 base year, transition plan fully embedded in capital allocation, externally assured. One MED...",
+  "dimensions": {
+    "specificity": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "UCB is committed to net zero ... SBTi Net-Zero standard",
+      "page": 28.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

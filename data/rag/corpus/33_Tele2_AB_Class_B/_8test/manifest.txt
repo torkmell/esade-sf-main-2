@@ -1,0 +1,4 @@
+PRIMARY (used for 8-Test): tele2-annual-and-sustainability-report-2025.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - Tele2_Climate_Transition_Plan_2025.pdf

@@ -1,0 +1,64 @@
+{
+  "ticker": "LLOY.L",
+  "company_name": "Lloyds Banking Group plc",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"a real-economy transition to net zero\" (2025-lbg-sustainability-report.pdf, p21.0). SBTi: no validated target in the SBTi database. 8-Test: 2 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Main claim: \"a real-economy transition to net zero\" (2025-lbg-sustainability-report.pdf, p21). SBTi: no validated target in the SBTi database. 8-Test: 2 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Detailed bank climate disclosure \u2014 absolute and...",
+  "dimensions": {
+    "specificity": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

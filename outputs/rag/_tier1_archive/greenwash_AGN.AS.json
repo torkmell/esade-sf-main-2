@@ -1,0 +1,64 @@
+{
+  "ticker": "AGN.AS",
+  "company_name": "Aegon Ltd.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Asset-owner climate disclosure (NZAOA member). Quantified 2030 targets on a 2019 baseline; two MED flags \u2014 the targets are NZAOA/Paris-aligned rather than shown as SBTi-validated, and the climate transition plan disclosure is still being developed.",
+  "dimensions": {
+    "specificity": {
+      "quote": "the carbon footprint by 30% by 2030 and achieving net-zero",
+      "page": 33,
+      "value": "net-zero by 2050",
+      "rating": "LOW",
+      "reasoning": "Specific carbon-footprint and net-zero ambitions as an NZAOA signatory."
+    },
+    "metric": {
+      "quote": "activities by 75% by 2030 compared to a 2019 baseline",
+      "page": 23,
+      "value": "50% / 75% by 2030",
+      "rating": "LOW",
+      "reasoning": "Quantified portfolio-decarbonisation targets."
+    },
+    "baseline": {
+      "quote": "assets by 50% against a 2019 baseline",
+      "page": 23,
+      "value": "2019",
+      "rating": "LOW",
+      "reasoning": "Explicit 2019 base year."
+    },
+    "target": {
+      "quote": "science-based targets aligned with the Paris Agreement",
+      "page": 310,
+      "value": "Paris/NZAOA-aligned; SBTi not confirmed",
+      "rating": "MED",
+      "reasoning": "Targets are science-based- and NZAOA-aligned, but the extract does not confirm formal SBTi validation."
+    },
+    "time_horizon": {
+      "quote": "ambitions for 2030 ... net-zero greenhouse gas emissions by 2050",
+      "page": 23,
+      "value": "2030 + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2030 targets present alongside the 2050 endpoint."
+    },
+    "scope": {
+      "quote": "of its carbon footprint relates to scope 3 greenhouse gas [emissions]",
+      "page": 32,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Operational Scope 1+2 and investment-footprint Scope 3 covered."
+    },
+    "verification": {
+      "quote": "The report of the independent auditor is issued with the ESEF reporting package",
+      "page": 3,
+      "value": "externally assured",
+      "rating": "MED",
+      "reasoning": "An assurance provider is referenced but the assurance level of the sustainability data is not crisply evidenced."
+    },
+    "consistency": {
+      "quote": "[Aegon does not yet have] a climate transition plan but is taking steps to disclose one",
+      "page": 309,
+      "value": "transition plan in development; no contradiction",
+      "rating": "LOW",
+      "reasoning": "Capital-allocation discussed and no contradiction surfaced; the report candidly notes its full climate transition plan disclosure is still being developed."
+    }
+  }
+}

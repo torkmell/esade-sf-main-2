@@ -1,0 +1,9 @@
+PRIMARY (used for 8-Test): 2025-lbg-sustainability-report.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - 2025-lbg-annual-report.pdf
+  - 2025-lbg-modern-slavery-statement.pdf
+  - 2025-lbg-sustainable-financing-framework-spo.pdf
+  - 2026-lbg-animal-welfare-and-unesco-whs-sector-statement.pdf
+  - 4sustainable-farming-nature-report-oct2025.pdf
+  - lbg-gender-ethnicity-pay-gap-report-2025.pdf

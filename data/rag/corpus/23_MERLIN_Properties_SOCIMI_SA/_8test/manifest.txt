@@ -1,0 +1,10 @@
+PRIMARY (used for 8-Test): EINF-Version-Ingles-2025.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - 1.-MERLIN-CORPORATE-SOCIAL-RESPONSIBILITY-AND-SUSTAINABILITY-POLICY_v2.pdf
+  - Biodiversity-policy_v2.pdf
+  - Graph-2.pdf
+  - Graph-3.pdf
+  - Graph.pdf
+  - IAGC-FY25-ENG.pdf
+  - Results-report-FY25-3.pdf

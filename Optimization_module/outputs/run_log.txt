@@ -1,0 +1,76 @@
+Run started (UTC): 2026-05-20T13:17:45
+Optimization & Backtesting pipeline
+
+------------------------------------------------------------
+Parameters (from config.py)
+------------------------------------------------------------
+  RANDOM_SEED              = 42
+  MAX_WEIGHT_PER_STOCK     = 10%
+  MAX_WEIGHT_PER_SECTOR    = 25%
+  PRICE_HISTORY_YEARS      = 8
+  ESTIMATION_WINDOW_YEARS  = 3 (756 trading days)
+  REBALANCE_FREQUENCY      = annual
+  RISK_FREE_RATE           = 2.00%
+  BENCHMARK                = STOXX Europe 600 (price index, Yahoo proxy) (^STOXX)
+  TRACKING_ERROR_BAND      = 2%-8%
+  COMPOSITE_WEIGHTS        = {'sharpe': 0.4, 'max_drawdown': 0.25, 'turnover': 0.15, 'tracking_error': 0.2}
+  BL_ESG_VIEW_SPREAD       = 4.00%
+
+------------------------------------------------------------
+Holdings CSV + ticker verification
+------------------------------------------------------------
+  CSV: C:\Program Files\SusFin-main\Optimization_module\sample_holdings_20.csv
+  Rows: 20  Columns: ['ticker', 'company_name', 'sector', 'esg_score', 'carbon_intensity']
+  Ticker verify: 20/20 OK
+  Benchmark ^STOXX: OK
+
+------------------------------------------------------------
+Price download
+------------------------------------------------------------
+  Fetched at (UTC ISO): 2026-05-20T12:32:23
+  Panel: 2067 rows x 20 tickers
+  Range: 2018-05-14 -> 2026-05-19
+  Benchmark series length: 2067
+
+------------------------------------------------------------
+Final-snapshot optimization (most recent estimation window)
+------------------------------------------------------------
+  Window: 2023-06-06 -> 2026-05-19 (756 rows)
+  equal_weight      : sum=1.0000 max_name=5.000% top3=VZN.SW=5.00%, UCB.BR=5.00%, ZURN.SW=5.00%
+  max_sharpe        : INFEASIBLE
+  min_volatility    : INFEASIBLE
+  hrp               : sum=1.0000 max_name=9.952% top3=ENX.PA=9.95%, ALFA.ST=8.13%, VZN.SW=7.36%
+  black_litterman   : INFEASIBLE
+  score_tilted      : sum=1.0000 max_name=5.627% top3=ALFA.ST=5.63%, NHY.OL=5.60%, A5G.IR=5.53%
+
+------------------------------------------------------------
+Walk-forward backtest (out-of-sample)
+------------------------------------------------------------
+  equal_weight      :  1304 OOS days, 6 rebalances, 0 failed
+  max_sharpe        :     0 OOS days, 0 rebalances, 6 failed
+  min_volatility    :     0 OOS days, 0 rebalances, 6 failed
+  hrp               :  1304 OOS days, 6 rebalances, 0 failed
+  black_litterman   :     0 OOS days, 0 rebalances, 6 failed
+  score_tilted      :  1304 OOS days, 6 rebalances, 0 failed
+
+------------------------------------------------------------
+Metrics + composite ranking
+------------------------------------------------------------
+  WACI: names without carbon_intensity skipped = 0
+
+RECOMMENDATION - FOR HUMAN INVESTMENT COMMITTEE REVIEW
+  Recommended: equal_weight. Composite score 0.71 (rank 1 of 6). Drivers: Sharpe 1.45, max drawdown -16.24%, annual turnover 0.00%, tracking error 8.22% (outside the 2%-8% band - flag). This is a quantitative composite across Sharpe, max drawdown, turnover and tracking-error band; final selection rests with the Investment Committee.
+
+------------------------------------------------------------
+Writing outputs
+------------------------------------------------------------
+  C:\Program Files\SusFin-main\Optimization_module\outputs\optimization_weights.csv
+  C:\Program Files\SusFin-main\Optimization_module\outputs\backtest_results.csv
+  C:\Program Files\SusFin-main\Optimization_module\outputs\equity_curves.png
+
+------------------------------------------------------------
+Look-ahead disclosure (verbatim, required by build spec)
+------------------------------------------------------------
+  This backtest compares weighting methods on a fixed, currently-selected universe. Because the holdings were chosen with present-day information, absolute historical performance is subject to look-ahead bias. The valid output is the RELATIVE comparison of weighting methods, not a claim of absolute historical alpha.
+
+Run finished (UTC): 2026-05-20T13:18:00 (elapsed 15.4s)

@@ -1,0 +1,678 @@
+variable,dtype,source,pct_missing,confidence,data_type
+rc,int64,yfinance / calculated,0.0,High,reported
+idBbGlobal,str,yfinance / calculated,0.0,High,reported
+idBbUnique,str,yfinance / calculated,0.0,High,reported
+idBbCompany,int64,yfinance / calculated,0.0,High,reported
+idBbGlobalCompany,str,yfinance / calculated,0.0,High,reported
+idBbGlobalCompanyName,str,equityBicsV2,0.0,High,reported
+idBbSecNumDes,str,yfinance / calculated,0.0,High,reported
+ticker,str,equityBicsV2,0.0,High,reported
+exchCode,str,yfinance / calculated,0.0,High,reported
+idIsin,str,equityBicsV2,0.0,High,reported
+idCusip,float64,yfinance / calculated,99.6,Low,reported
+idSedol1,str,yfinance / calculated,0.0,High,reported
+securityTyp,str,yfinance / calculated,0.0,High,reported
+securityTyp2,str,yfinance / calculated,0.0,High,reported
+classificationLevelCode1,int64,yfinance / calculated,0.0,High,reported
+classificationLevelName1,str,equityBicsV2,0.0,High,reported
+classificationLevelCode2,int64,yfinance / calculated,0.0,High,reported
+classificationLevelName2,str,equityBicsV2,0.0,High,reported
+classificationLevelCode3,int64,yfinance / calculated,0.0,High,reported
+classificationLevelName3,str,equityBicsV2,0.0,High,reported
+classificationLevelCode4,int64,yfinance / calculated,0.0,High,reported
+classificationLevelName4,str,equityBicsV2,0.0,High,reported
+classificationLevelCode5,float64,yfinance / calculated,49.5,Low,reported
+classificationLevelName5,str,equityBicsV2,49.5,Low,reported
+classificationLevelCode6,float64,yfinance / calculated,87.1,Low,reported
+classificationLevelName6,str,equityBicsV2,87.1,Low,reported
+classificationLevelCode7,float64,yfinance / calculated,98.2,Low,reported
+classificationLevelName7,str,equityBicsV2,98.2,Low,reported
+classificationScheme,str,yfinance / calculated,0.0,High,reported
+rank,int64,yfinance / calculated,0.0,High,reported
+company,str,yfinance / calculated,0.0,High,reported
+return_5y_pct,float64,yfinance / calculated,100.0,Low,reported
+return_10y_pct,float64,yfinance / calculated,100.0,Low,reported
+bb_ticker,str,equityBicsV2,0.0,High,reported
+yf_ticker,str,equityBicsV2,0.0,High,reported
+excluded,bool,yfinance / calculated,0.0,High,reported
+latestPeriodEndCsr,str,yfinance / calculated,1.4,Medium,reported
+esgDisclosureScore,float64,esgEnvironmentalSocial,5.0,Medium,reported
+socialDisclosureScore,float64,esgEnvironmentalSocial,5.0,Medium,reported
+environDisclosureScore,float64,yfinance / calculated,5.0,Medium,reported
+directCo2Emissions,float64,esgEnvironmentalSocial,80.6,Low,reported
+indirectCo2Emissions,float64,esgEnvironmentalSocial,92.1,Low,reported
+totalCo2Emissions,float64,esgEnvironmentalSocial,89.2,Low,reported
+totalGhgEmissions,float64,esgEnvironmentalSocial,19.0,Medium,reported
+scp3BusinessTravelEmissions,float64,esgEnvironmentalSocial,46.2,Low,reported
+gasFlaring,float64,yfinance / calculated,96.1,Low,reported
+emissionReduction,object,esgEnvironmentalSocial,3.9,Medium,reported
+climateChgProds,object,yfinance / calculated,4.3,Medium,reported
+climateChgPolicy,object,yfinance / calculated,3.9,Medium,reported
+percentOfDisclosure,float64,yfinance / calculated,86.7,Low,reported
+scopeOfDisclosure,float64,esgEnvironmentalSocial,64.9,Low,reported
+scope1_emissions_tco2e,float64,esgEnvironmentalSocial,15.8,Medium,reported
+ghgScope2,float64,esgEnvironmentalSocial,20.4,Low,reported
+ghgScope3,float64,esgEnvironmentalSocial,23.7,Low,reported
+climateChgOpportunities,object,yfinance / calculated,4.3,Medium,reported
+climateRisks,object,yfinance / calculated,3.9,Medium,reported
+methaneEmissions,float64,esgEnvironmentalSocial,87.1,Low,reported
+dirPfcEmissionsInCo2Equiv,float64,esgEnvironmentalSocial,98.2,Low,reported
+carbonPerUnitOfProd,float64,esgEnvironmentalSocial,89.2,Low,reported
+carbon_intensity_tco2e_per_eur_m_revenue,float64,esgEnvironmentalSocial,89.2,Low,reported
+totalGhgCo2Emissions,float64,esgEnvironmentalSocial,12.5,Medium,reported
+scopeGhgCo2Emissions1,float64,esgEnvironmentalSocial,10.0,Medium,reported
+scopeGhgCo2Emissions2,float64,esgEnvironmentalSocial,14.7,Medium,reported
+totGhgCo2EmIntensPerSales,float64,esgEnvironmentalSocial,12.5,Medium,reported
+scopeGhgCo2EmIntensPerSles1,float64,esgEnvironmentalSocial,10.0,Medium,reported
+scopeGhgCo2EmIntensPerSles2,float64,esgEnvironmentalSocial,14.7,Medium,reported
+totGhgCo2EmIntensPerEnrgy,float64,esgEnvironmentalSocial,18.3,Medium,reported
+totGhgCo2EmIntensPerEmp,float64,esgEnvironmentalSocial,12.5,Medium,reported
+totGhgCo2EmIntensPerAst,float64,esgEnvironmentalSocial,12.5,Medium,reported
+totGhgCo2EmIntPerGrFxdAst,float64,esgEnvironmentalSocial,44.1,Low,reported
+totGhgCo2EmIntPerNtFxdAst,float64,esgEnvironmentalSocial,13.6,Medium,reported
+embeddedCarbonTotalReserves,float64,esgEnvironmentalSocial,96.8,Low,reported
+ghgIntensityPerSales,float64,esgEnvironmentalSocial,19.0,Medium,reported
+ghgIntensityPerEmployee,float64,esgEnvironmentalSocial,19.0,Medium,reported
+co2IntensityPerEmployee,float64,yfinance / calculated,89.2,Low,reported
+ghgIntensityPerAssets,float64,esgEnvironmentalSocial,19.0,Medium,reported
+co2IntensityPerAssets,float64,yfinance / calculated,89.2,Low,reported
+ghgScopeIntensityPerSales1,float64,esgEnvironmentalSocial,15.8,Medium,reported
+ghgScopeIntensityPerSales2,float64,esgEnvironmentalSocial,20.4,Low,reported
+travelEmissionsPerSales,float64,esgEnvironmentalSocial,46.2,Low,reported
+ghgIntensityPerRpm,float64,esgEnvironmentalSocial,99.6,Low,reported
+odsEmissions,float64,esgEnvironmentalSocial,95.0,Low,reported
+directSf6Emissions,float64,esgEnvironmentalSocial,93.5,Low,reported
+dirMethaneEmInCo2Equiv,float64,yfinance / calculated,87.5,Low,reported
+dirHfcEmissionsInCo2Equiv,float64,esgEnvironmentalSocial,93.2,Low,reported
+dirSf6EmissionsInCo2Equiv,float64,esgEnvironmentalSocial,93.9,Low,reported
+noxEmissions,float64,esgEnvironmentalSocial,75.6,Low,reported
+so2Emissions,float64,esgEnvironmentalSocial,87.8,Low,reported
+vocEmissions,float64,esgEnvironmentalSocial,84.2,Low,reported
+carbonMonoxideEmissions,float64,esgEnvironmentalSocial,97.5,Low,reported
+particulateEmissions,float64,esgEnvironmentalSocial,84.6,Low,reported
+sulphurOxideEmissions,float64,esgEnvironmentalSocial,88.5,Low,reported
+directNitrousOxideEmissions,float64,esgEnvironmentalSocial,90.7,Low,reported
+dirN2oEmInCo2Equiv,float64,yfinance / calculated,90.7,Low,reported
+carbonOffsets,float64,esgEnvironmentalSocial,92.5,Low,reported
+noxEmissionsPerSales,float64,esgEnvironmentalSocial,75.6,Low,reported
+soxEmissionsPerSles,float64,esgEnvironmentalSocial,77.1,Low,reported
+energyConsumption,float64,esgEnvironmentalSocial,13.6,Medium,reported
+renewable_energy_pct,float64,esgEnvironmentalSocial,44.1,Low,reported
+energyEfficPolicy,object,esgEnvironmentalSocial,3.9,Medium,reported
+electricityUsed,float64,yfinance / calculated,25.1,Low,reported
+coalUsed,float64,yfinance / calculated,90.7,Low,reported
+natGasUsed,float64,yfinance / calculated,52.7,Low,reported
+oilDieselUsed,float64,yfinance / calculated,52.0,Low,reported
+purchasedElectricity,float64,yfinance / calculated,97.5,Low,reported
+purchasedElecTotRenewables,float64,yfinance / calculated,99.6,Low,reported
+nuclearPctEnergy,float64,esgEnvironmentalSocial,97.5,Low,reported
+solarPctEnergy,float64,esgEnvironmentalSocial,95.7,Low,reported
+totalPowerGenerated,float64,yfinance / calculated,92.8,Low,reported
+wasteEnergyProduction,float64,esgEnvironmentalSocial,98.9,Low,reported
+coalEnergyProduction,float64,esgEnvironmentalSocial,96.4,Low,reported
+hydroEnergyProduction,float64,esgEnvironmentalSocial,94.6,Low,reported
+windEnergyProduction,float64,esgEnvironmentalSocial,94.6,Low,reported
+solarEnergyProduction,float64,esgEnvironmentalSocial,95.0,Low,reported
+biomassEnergyProduction,float64,esgEnvironmentalSocial,97.1,Low,reported
+totalRenewablesEnergyProd,float64,esgEnvironmentalSocial,92.5,Low,reported
+fossilFuelsEnergyProduction,float64,esgEnvironmentalSocial,95.3,Low,reported
+fossilFuelsPctEnergyCapacity,float64,esgEnvironmentalSocial,95.0,Low,reported
+nuclearPctEnergyCapacity,float64,esgEnvironmentalSocial,97.5,Low,reported
+totRenewablesPctEnergyCapacity,float64,esgEnvironmentalSocial,94.6,Low,reported
+electricityGenCapacityTotMw,float64,yfinance / calculated,93.9,Low,reported
+renewableElectricityTargetPol,object,yfinance / calculated,3.9,Medium,reported
+energyPerUnitProduction,float64,esgEnvironmentalSocial,91.8,Low,reported
+energyIntensityPerSales,float64,esgEnvironmentalSocial,13.6,Medium,reported
+energyIntensityPerEbitda,float64,esgEnvironmentalSocial,38.0,Low,reported
+energyIntensityPerEmployee,float64,esgEnvironmentalSocial,13.6,Medium,reported
+energyIntensityPerAssets,float64,esgEnvironmentalSocial,13.6,Medium,reported
+fuelConsumptionPerRpm,float64,yfinance / calculated,100.0,Low,reported
+totalWaterUse,float64,esgEnvironmentalSocial,50.2,Low,reported
+pctWaterRecycled,float64,esgEnvironmentalSocial,93.9,Low,reported
+dischargeToWater,float64,esgEnvironmentalSocial,92.8,Low,reported
+totalWaterDischarged,float64,esgEnvironmentalSocial,77.8,Low,reported
+waterPerUnitOfProd,float64,esgEnvironmentalSocial,94.6,Low,reported
+municipalWaterUse,float64,esgEnvironmentalSocial,70.3,Low,reported
+totalWaterRecycled,float64,esgEnvironmentalSocial,91.8,Low,reported
+codOfDischarges,float64,yfinance / calculated,94.6,Low,reported
+bodOfDischarges,float64,yfinance / calculated,98.6,Low,reported
+waterPolicy,object,esgEnvironmentalSocial,4.3,Medium,reported
+water_withdrawal_m3,float64,esgEnvironmentalSocial,46.6,Low,reported
+processWaterUse,float64,esgEnvironmentalSocial,98.2,Low,reported
+surfaceWaterWithdrawals,float64,esgEnvironmentalSocial,79.9,Low,reported
+groundwaterWithdrawals,float64,esgEnvironmentalSocial,77.8,Low,reported
+saltWaterWithdrawals,float64,esgEnvironmentalSocial,90.7,Low,reported
+reclaimedWaterUse,float64,esgEnvironmentalSocial,94.6,Low,reported
+coolingWaterInflow,float64,esgEnvironmentalSocial,96.1,Low,reported
+coolingWaterOutflow,float64,esgEnvironmentalSocial,97.5,Low,reported
+waterDischargePct,float64,esgEnvironmentalSocial,93.5,Low,reported
+waterUseWithdrawal,float64,esgEnvironmentalSocial,46.6,Low,reported
+h2oUseWthdrlIntensSales,float64,yfinance / calculated,46.6,Low,reported
+h2oUseWthdrlIntensEmpl,float64,yfinance / calculated,46.6,Low,reported
+h2oUseWthdrlIntensAssets,float64,yfinance / calculated,46.6,Low,reported
+waterIntensityPerSales,float64,esgEnvironmentalSocial,50.2,Low,reported
+waterIntensityPerEmployee,float64,esgEnvironmentalSocial,50.2,Low,reported
+waterIntensityPerAssets,float64,esgEnvironmentalSocial,50.2,Low,reported
+waterUsageEfficiencyRt,float64,esgEnvironmentalSocial,79.9,Low,reported
+waterStressExposurePct,float64,esgEnvironmentalSocial,84.9,Low,reported
+hazardousWaste,float64,yfinance / calculated,55.6,Low,reported
+totalWaste,float64,yfinance / calculated,35.1,Low,reported
+wasteRecycled,float64,yfinance / calculated,52.0,Low,reported
+paperConsumption,float64,yfinance / calculated,76.0,Low,reported
+rawMatUsed,float64,yfinance / calculated,87.8,Low,reported
+pctRecycledMaterials,float64,yfinance / calculated,95.3,Low,reported
+wasteReduction,object,yfinance / calculated,3.9,Medium,reported
+sustainPackaging,object,yfinance / calculated,3.9,Medium,reported
+wasteSentToLandfills,float64,yfinance / calculated,70.6,Low,reported
+paperRecycled,float64,yfinance / calculated,91.4,Low,reported
+miningOverburden,float64,yfinance / calculated,98.2,Low,reported
+tailingsWaste,float64,yfinance / calculated,97.8,Low,reported
+pctRawMaterialSustainSrc,float64,yfinance / calculated,97.1,Low,reported
+wasteIntensityPerEmployee,float64,yfinance / calculated,35.1,Low,reported
+wasteGeneratedPerAssets,float64,yfinance / calculated,35.1,Low,reported
+wasteGeneratedPerSales,float64,yfinance / calculated,35.1,Low,reported
+paperConsumptionPerSales,float64,yfinance / calculated,76.0,Low,reported
+numberSpills,float64,yfinance / calculated,92.5,Low,reported
+numEnvironFines,float64,yfinance / calculated,77.4,Low,reported
+environFinesAmt,float64,yfinance / calculated,77.8,Low,reported
+isoSites14001,float64,yfinance / calculated,84.6,Low,reported
+greenBuilding,object,legalEntityEuTaxonomy,4.3,Medium,reported
+environQualMgt,object,yfinance / calculated,4.3,Medium,reported
+investmentsInSustainability,float64,yfinance / calculated,92.1,Low,reported
+amountOfSpills,float64,yfinance / calculated,93.2,Low,reported
+pctSitesCertified,float64,yfinance / calculated,79.6,Low,reported
+biodiversityPolicy,object,esgGovernance,3.9,Medium,reported
+hydrocarbonSpills,float64,esgEnvironmentalSocial,95.7,Low,reported
+environSupplyMgt,object,yfinance / calculated,3.9,Medium,reported
+numberEmployeesCsr,float64,yfinance / calculated,3.9,Medium,reported
+numberOfPartTimeEmployees,float64,yfinance / calculated,44.4,Low,reported
+numberOfTemporaryEmployees,float64,yfinance / calculated,42.7,Low,reported
+employee_turnover_pct,float64,yfinance / calculated,30.1,Low,reported
+pctEmployeesUnionized,float64,yfinance / calculated,48.4,Low,reported
+humanRightsPolicy,object,yfinance / calculated,3.9,Medium,reported
+trainingPolicy,object,yfinance / calculated,3.9,Medium,reported
+fairRemunerationPolicy,object,yfinance / calculated,4.3,Medium,reported
+employeeTrainingCost,float64,yfinance / calculated,74.6,Low,reported
+totHrsSpentByFirmEmpTrain,float64,yfinance / calculated,38.0,Low,reported
+policyAgainstChildLabor,object,yfinance / calculated,3.9,Medium,reported
+trainingSpendPerEmployee,float64,yfinance / calculated,74.6,Low,reported
+genderPayGapBreakout,object,yfinance / calculated,4.7,Medium,reported
+women_on_board_pct,float64,esgGovernance,40.5,Low,reported
+women_in_workforce_pct,float64,yfinance / calculated,10.0,Medium,reported
+pctMinorityMgt,float64,yfinance / calculated,98.6,Low,reported
+pctMinorityEmployees,float64,yfinance / calculated,95.0,Low,reported
+equalOpportunityPolicy,object,yfinance / calculated,3.9,Medium,reported
+employeeAverageAge,float64,yfinance / calculated,76.3,Low,reported
+pctDisabledInWorkforce,float64,yfinance / calculated,81.7,Low,reported
+womenManagementToEmplRatio,float64,yfinance / calculated,43.0,Low,reported
+customerComplaints,float64,yfinance / calculated,87.1,Low,reported
+intellectualPptyRghtsProtPol,object,yfinance / calculated,4.3,Medium,reported
+qualityAssuranceAndRecallPol,object,yfinance / calculated,3.9,Medium,reported
+consumerDataProtectionPolicy,object,yfinance / calculated,3.9,Medium,reported
+communitySpendPctPretaxProfit,float64,yfinance / calculated,61.6,Low,reported
+communitySpendPctEbitda,float64,yfinance / calculated,75.3,Low,reported
+communitySpendPctEquity,float64,yfinance / calculated,60.9,Low,reported
+suppliersAudited,float64,esgGovernance,90.0,Low,reported
+supplierAuditsConducted,float64,esgGovernance,86.0,Low,reported
+socialSupplyChainMgmt,object,esgEnvironmentalSocial,3.9,Medium,reported
+supplierFacilitiesAudited,float64,esgGovernance,97.1,Low,reported
+susSupGdlEncEsgAreaPubDis,object,esgEnvironmentalSocial,3.9,Medium,reported
+workAccidentsEmployees,float64,yfinance / calculated,62.0,Low,reported
+lostTimeAccidents,float64,yfinance / calculated,85.3,Low,reported
+lostTimePerEmployee,float64,yfinance / calculated,85.3,Low,reported
+fatalitiesContractors,float64,yfinance / calculated,69.5,Low,reported
+fatalitiesEmployees,float64,yfinance / calculated,47.7,Low,reported
+fatalitiesTotal,float64,yfinance / calculated,66.3,Low,reported
+healthSafetyPolicy,object,yfinance / calculated,3.9,Medium,reported
+lostTimeIncidentRate,float64,yfinance / calculated,63.4,Low,reported
+work_related_injury_rate,float64,yfinance / calculated,54.5,Low,reported
+fatalitiesThirdParty,float64,yfinance / calculated,96.8,Low,reported
+totalAccidentsContractors,float64,yfinance / calculated,91.0,Low,reported
+lostTimeIncidentRtCntrctr,float64,yfinance / calculated,86.7,Low,reported
+totRecordableIncidRtCntrctr,float64,yfinance / calculated,86.7,Low,reported
+fatalityRateWorkforce,float64,yfinance / calculated,94.6,Low,reported
+accidentsPerEmployees1000,float64,yfinance / calculated,62.0,Low,reported
+communitySpending,float64,yfinance / calculated,60.6,Low,reported
+politicalDonations,float64,yfinance / calculated,65.9,Low,reported
+ethicsPolicy,object,yfinance / calculated,3.9,Medium,reported
+griCompliance,object,yfinance / calculated,4.7,Medium,reported
+verificationType,object,yfinance / calculated,3.9,Medium,reported
+numberOfSites,float64,yfinance / calculated,64.5,Low,reported
+environmentalAcctgCost,float64,esgEnvironmentalSocial,91.8,Low,reported
+sustnbleEsgAum,float64,esgEnvironmentalSocial,89.2,Low,reported
+unGlobalCompactSignatory,object,yfinance / calculated,3.9,Medium,reported
+employeeCsrTraining,object,yfinance / calculated,4.3,Medium,reported
+unPriSignatory,object,yfinance / calculated,68.5,Low,reported
+empProtWhistleBlowerPolicy,object,yfinance / calculated,3.9,Medium,reported
+antiBriberyEthicsPolicy,object,yfinance / calculated,3.9,Medium,reported
+consistentReportingBasis,object,yfinance / calculated,67.7,Low,reported
+equatorPrinciplesSignatory,object,yfinance / calculated,79.2,Low,reported
+sriAssetsPctTotalAum,float64,yfinance / calculated,90.7,Low,reported
+polDonationsPctPretaxProfit,float64,yfinance / calculated,67.0,Low,reported
+noxIntensityPerPowerGen,float64,yfinance / calculated,94.6,Low,reported
+so2SoxIntensityPerPowerGen,float64,yfinance / calculated,94.6,Low,reported
+noxIntensityPerMboe,float64,yfinance / calculated,96.4,Low,reported
+sulphurDioxideSulphurOxideEm,float64,yfinance / calculated,77.1,Low,reported
+so2SoxIntensityPerMboe,float64,yfinance / calculated,96.4,Low,reported
+noxIntensPerRevPsngrMiKms,float64,yfinance / calculated,100.0,Low,reported
+so2SoxIntensRevPsgrMiKms,float64,yfinance / calculated,100.0,Low,reported
+travelCo2PerEmployee,float64,yfinance / calculated,46.2,Low,reported
+ghgIntensityPerEnergy,float64,esgEnvironmentalSocial,24.7,Low,reported
+totGhgCo2EmissIntensityMboe,float64,esgEnvironmentalSocial,96.4,Low,reported
+totGhgCo2EmIntensPerRpm,float64,esgEnvironmentalSocial,99.6,Low,reported
+ghgIntensityPerMboe,float64,esgEnvironmentalSocial,96.8,Low,reported
+co2IntensityPerMboe,float64,yfinance / calculated,99.3,Low,reported
+co2IntensityPerVehicle,float64,yfinance / calculated,99.6,Low,reported
+ghgCo2IntensityPerPowerGen,float64,esgEnvironmentalSocial,94.3,Low,reported
+ghgIntensityPerPowerGen,float64,esgEnvironmentalSocial,94.3,Low,reported
+ghgIntensityPerVehicle,float64,esgEnvironmentalSocial,99.6,Low,reported
+gasFlaringPerMboe,float64,yfinance / calculated,96.8,Low,reported
+ghgScopeIntensPerPwrGen1,float64,esgEnvironmentalSocial,93.9,Low,reported
+totGhgCo2EmIntensPerVehSld,float64,esgEnvironmentalSocial,99.6,Low,reported
+totGhgCo2EmIntensPerElecSld,float64,esgEnvironmentalSocial,97.8,Low,reported
+co2IntensityPerKwhSold,float64,yfinance / calculated,100.0,Low,reported
+totGhgCo2EmIntensPsfMeter,float64,esgEnvironmentalSocial,98.6,Low,reported
+co2IntensityPerPowerGen,float64,yfinance / calculated,99.3,Low,reported
+embeddedCarbonCoalReserves,float64,esgEnvironmentalSocial,99.6,Low,reported
+embeddedCarbonOilReserves,float64,esgEnvironmentalSocial,96.8,Low,reported
+embeddedCarbonGasReserves,float64,esgEnvironmentalSocial,96.8,Low,reported
+ghgIntensityPerElecSold,float64,esgEnvironmentalSocial,97.8,Low,reported
+co2IntensityPerSqFt,float64,yfinance / calculated,100.0,Low,reported
+co2IntensityPerRpm,float64,yfinance / calculated,100.0,Low,reported
+ghgIntensityPerSqFt,float64,esgEnvironmentalSocial,98.6,Low,reported
+co2EmMilMtUnderEuEts,float64,yfinance / calculated,94.3,Low,reported
+co2EmLesAllowMilMtUndEuEts,float64,yfinance / calculated,95.0,Low,reported
+co2AllowMilMtUnderEuEts,float64,yfinance / calculated,93.9,Low,reported
+co2IntensityPerGwhSold,float64,yfinance / calculated,100.0,Low,reported
+ghgIntensityPerGwhSold,float64,esgEnvironmentalSocial,99.6,Low,reported
+energyIntensityPerMboeProd,float64,esgEnvironmentalSocial,96.4,Low,reported
+energyIntensityPerSqFt,float64,esgEnvironmentalSocial,98.6,Low,reported
+nuclearEnergyProduction,float64,esgEnvironmentalSocial,97.1,Low,reported
+co2IntensityPerEnergyConsmd,float64,esgEnvironmentalSocial,91.8,Low,reported
+energyIntensityPerVehicle,float64,esgEnvironmentalSocial,99.3,Low,reported
+gasEnergyProduction,float64,esgEnvironmentalSocial,95.3,Low,reported
+coalPctEnergyCapacity,float64,esgEnvironmentalSocial,97.1,Low,reported
+electricityProdThermOilGwh,float64,yfinance / calculated,97.8,Low,reported
+fossilFuelsPctEnergyProduction,float64,esgEnvironmentalSocial,95.3,Low,reported
+hydroPctEnergyProduction,float64,esgEnvironmentalSocial,94.6,Low,reported
+totalRenewablesEnergyCapacity,float64,esgEnvironmentalSocial,94.3,Low,reported
+enrgyIntensRevPsngrMiKms,float64,yfinance / calculated,99.6,Low,reported
+biomassFuelUsePercentage,float64,yfinance / calculated,89.6,Low,reported
+renewableEnergyCertificates,float64,esgEnvironmentalSocial,96.8,Low,reported
+alternativeFuelUsePct,float64,yfinance / calculated,97.8,Low,reported
+coalPctEnergyProduction,float64,esgEnvironmentalSocial,97.1,Low,reported
+totRenewablesPctEnergyProd,float64,esgEnvironmentalSocial,93.5,Low,reported
+gasPctEnergyProduction,float64,esgEnvironmentalSocial,95.3,Low,reported
+windPctEnergyProduction,float64,esgEnvironmentalSocial,94.6,Low,reported
+wastePctEnergyProduction,float64,esgEnvironmentalSocial,98.9,Low,reported
+biomassPctEnergyProduction,float64,esgEnvironmentalSocial,97.1,Low,reported
+solarPctEnergyCapacity,float64,esgEnvironmentalSocial,95.7,Low,reported
+othRenewablesPctEnergyCapacity,float64,esgEnvironmentalSocial,98.2,Low,reported
+selfGenRenewableElectricity,float64,yfinance / calculated,79.9,Low,reported
+hydroPctEnergyCapacity,float64,esgEnvironmentalSocial,95.3,Low,reported
+powerPurchaseAgreement,float64,yfinance / calculated,100.0,Low,reported
+gasPctEnergyCapacity,float64,esgEnvironmentalSocial,95.3,Low,reported
+windPctEnergyCapacity,float64,esgEnvironmentalSocial,95.3,Low,reported
+hydroEnergyCapacity,float64,esgEnvironmentalSocial,95.0,Low,reported
+nuclearEnergyCapacity,float64,esgEnvironmentalSocial,97.1,Low,reported
+biomassPctEnergyCapacity,float64,esgEnvironmentalSocial,97.1,Low,reported
+wastePctEnergyCapacity,float64,esgEnvironmentalSocial,99.3,Low,reported
+windEnergyCapacity,float64,esgEnvironmentalSocial,94.6,Low,reported
+fossilFuelsEnergyCapacity,float64,esgEnvironmentalSocial,95.0,Low,reported
+solarEnergyCapacity,float64,esgEnvironmentalSocial,95.0,Low,reported
+wasteEnergyCapacity,float64,esgEnvironmentalSocial,98.9,Low,reported
+purchasedElectricityCoal,float64,yfinance / calculated,100.0,Low,reported
+purchasedElectricityGas,float64,yfinance / calculated,100.0,Low,reported
+purchasedElecFossilFuels,float64,yfinance / calculated,100.0,Low,reported
+purchasedElectricityNuclear,float64,yfinance / calculated,100.0,Low,reported
+purchasedElectricityHydro,float64,yfinance / calculated,100.0,Low,reported
+purchasedElectricityWind,float64,yfinance / calculated,100.0,Low,reported
+purchasedElectricitySolar,float64,yfinance / calculated,100.0,Low,reported
+purchasedElectricityBiomass,float64,yfinance / calculated,100.0,Low,reported
+purchasedElectricityWaste,float64,yfinance / calculated,100.0,Low,reported
+purchasedElecOthRenewables,float64,yfinance / calculated,100.0,Low,reported
+otherRenewablesEnergyCapacity,float64,esgEnvironmentalSocial,97.1,Low,reported
+biomassEnergyCapacity,float64,esgEnvironmentalSocial,96.8,Low,reported
+elecGenCapRenewGeothermalMw,float64,yfinance / calculated,98.9,Low,reported
+coalEnergyCapacity,float64,esgEnvironmentalSocial,96.4,Low,reported
+elecProdRenewGeothermalGwh,float64,yfinance / calculated,98.6,Low,reported
+otherRenewablesPctEnergyProd,float64,esgEnvironmentalSocial,97.8,Low,reported
+gasEnergyCapacity,float64,esgEnvironmentalSocial,95.3,Low,reported
+elecGenCapThermCoalOrLcMw,float64,yfinance / calculated,96.8,Low,reported
+electricityGenCapGeothermalPct,float64,yfinance / calculated,99.6,Low,reported
+electricityGenCapThermOilMw,float64,yfinance / calculated,97.8,Low,reported
+elecGenCapThermMultifuelMw,float64,yfinance / calculated,98.9,Low,reported
+otherRenewablesEnergyProd,float64,esgEnvironmentalSocial,97.8,Low,reported
+elecProdThermCoalOrLcGwh,float64,yfinance / calculated,97.1,Low,reported
+elecGenCapThOthNonRenewMw,float64,yfinance / calculated,97.5,Low,reported
+elecProdThermOthNonRenewGwh,float64,yfinance / calculated,97.8,Low,reported
+elecGenCapThermCoalOrLigMw,float64,yfinance / calculated,98.9,Low,reported
+elecProdThermMultifuelGwh,float64,yfinance / calculated,99.3,Low,reported
+electricityProdThermChpGwh,float64,yfinance / calculated,98.9,Low,reported
+electricityGenCapThermOilPct,float64,yfinance / calculated,98.2,Low,reported
+electricityGenCapThermChpMw,float64,yfinance / calculated,99.3,Low,reported
+elecProdThermCoalOrLigGwh,float64,yfinance / calculated,98.9,Low,reported
+elecGenCapOthNonRenewPct,float64,yfinance / calculated,98.2,Low,reported
+elecGenCapThermLignitePct,float64,yfinance / calculated,99.6,Low,reported
+electricityGenCapThermChpPct,float64,yfinance / calculated,99.3,Low,reported
+elecGenCapThermMultiPct,float64,yfinance / calculated,98.9,Low,reported
+electGenProdThermOilPct,float64,yfinance / calculated,97.8,Low,reported
+coalOrLigPctEnergyProduction,float64,esgEnvironmentalSocial,96.4,Low,reported
+electGenProdOthNonRenewPct,float64,yfinance / calculated,97.8,Low,reported
+electGenProdThermMultiPct,float64,yfinance / calculated,99.3,Low,reported
+electGenProdGeothermalPct,float64,yfinance / calculated,98.6,Low,reported
+electGenProdThermChpPct,float64,yfinance / calculated,98.9,Low,reported
+electGenProdThermLignitePct,float64,yfinance / calculated,98.9,Low,reported
+paperConsumptionPerEmployee,float64,yfinance / calculated,76.0,Low,reported
+wasteGeneratedPerVehicle,float64,yfinance / calculated,99.3,Low,reported
+drillingWaste,float64,yfinance / calculated,98.6,Low,reported
+waterIntensityPerEnergy,float64,esgEnvironmentalSocial,51.3,Low,reported
+waterIntensityPerMboe,float64,esgEnvironmentalSocial,96.8,Low,reported
+waterUsePerPowerGenerated,float64,esgEnvironmentalSocial,94.6,Low,reported
+waterIntensityPerVehicle,float64,esgEnvironmentalSocial,99.6,Low,reported
+h2oUseWthdrlIntensEnrgConsm,float64,yfinance / calculated,47.7,Low,reported
+waterIntensityPerSqFt,float64,esgEnvironmentalSocial,99.3,Low,reported
+h2oUseWthdrlIntensMboe,float64,yfinance / calculated,96.4,Low,reported
+h2oUseWthdrlIntensPowerGen,float64,yfinance / calculated,94.3,Low,reported
+freshwaterWithdrawals,float64,esgEnvironmentalSocial,90.7,Low,reported
+pctFreshwaterTotH2oWithdrawn,float64,esgEnvironmentalSocial,95.0,Low,reported
+waterConsmptn,float64,esgEnvironmentalSocial,72.0,Low,reported
+rainwtrHarvstd,float64,yfinance / calculated,93.9,Low,reported
+divrtdWaterForGenrtnOfHydrpwr,float64,esgEnvironmentalSocial,99.3,Low,reported
+divrtdWaterExHydrpwrGenrtn,float64,esgEnvironmentalSocial,99.6,Low,reported
+pctOfWaterRecycldPerTotlWaterUsed,float64,esgEnvironmentalSocial,91.8,Low,reported
+totlWaterConsmptn,float64,esgEnvironmentalSocial,79.6,Low,reported
+gender_pay_gap_pct,float64,yfinance / calculated,77.4,Low,reported
+pctGenderPayGapMidOthMgmt,float64,yfinance / calculated,87.8,Low,reported
+pctGenderPayGapEmplExMgmt,float64,yfinance / calculated,94.3,Low,reported
+pctGenderPayGapSenMgmt,float64,yfinance / calculated,92.8,Low,reported
+bbbeeRatingLevel,float64,yfinance / calculated,99.6,Low,reported
+bbbeeOverallScore,float64,yfinance / calculated,100.0,Low,reported
+bbbeeAndBlackHdsaOwnershipPct,float64,yfinance / calculated,100.0,Low,reported
+percentageSuppliersAudited,float64,esgGovernance,96.1,Low,reported
+pctOfSuppliersInNonCompl,float64,yfinance / calculated,97.8,Low,reported
+sustainDevGoalsTgtPol,object,yfinance / calculated,4.3,Medium,reported
+taxesPaidToGovernments,float64,yfinance / calculated,92.1,Low,reported
+spillsPerMboe,float64,yfinance / calculated,97.1,Low,reported
+numSignifEnvironmentalFines,float64,esgEnvironmentalSocial,77.1,Low,reported
+amountOfSignfcntEnvrnmntlFines,float64,yfinance / calculated,76.7,Low,reported
+numberSignificantSpills,float64,yfinance / calculated,90.0,Low,reported
+amountOfSignfcntSpills,float64,yfinance / calculated,91.0,Low,reported
+lostTmIncidentRtWorkforce,float64,yfinance / calculated,82.8,Low,reported
+totRecrdblIncidRtWorkforce,float64,yfinance / calculated,84.2,Low,reported
+fatalitiesPerEmpl1000,float64,yfinance / calculated,47.7,Low,reported
+fatalitiesPerContractors1000,float64,yfinance / calculated,95.7,Low,reported
+numberOfContractors,float64,yfinance / calculated,91.8,Low,reported
+voluntaryTurnoverPct,float64,yfinance / calculated,69.9,Low,reported
+involuntaryTurnoverPct,float64,yfinance / calculated,74.6,Low,reported
+training_hours_per_employee,float64,yfinance / calculated,38.0,Low,reported
+scope2MktBasedGhgEmissions,float64,esgEnvironmentalSocial,52.7,Low,reported
+totMktBasedGhgEmissions,float64,esgEnvironmentalSocial,52.0,Low,reported
+indrctMarktBasedCarbonDioxide,float64,esgEnvironmentalSocial,96.1,Low,reported
+totlMarktBasedCarbonDioxide,float64,esgEnvironmentalSocial,95.7,Low,reported
+class,str,yfinance / calculated,1.4,Medium,reported
+fiscalYearPeriod,str,yfinance / calculated,1.4,Medium,reported
+totFuelConsumed,float64,yfinance / calculated,58.1,Low,reported
+biomassFuelUsed,float64,yfinance / calculated,88.5,Low,reported
+altrntveFuelUsed,float64,yfinance / calculated,97.5,Low,reported
+selfGenrtdTotlEnrgy,float64,yfinance / calculated,78.5,Low,reported
+selfGenrtdEnrgyNonRenwble,float64,yfinance / calculated,93.9,Low,reported
+nmfrEmployees,float64,yfinance / calculated,95.0,Low,reported
+nmfrContractors,float64,yfinance / calculated,98.2,Low,reported
+nmfrWorkforce,float64,yfinance / calculated,96.4,Low,reported
+occupationalDiseaseRtEmpl,float64,yfinance / calculated,90.0,Low,reported
+occupationalDiseaseRtCntrctr,float64,yfinance / calculated,98.2,Low,reported
+occupDiseaseRtWorkforce,float64,yfinance / calculated,97.5,Low,reported
+vehicleIncidentRtEmployees,float64,yfinance / calculated,100.0,Low,reported
+vehIncidentRateCntrctr,float64,yfinance / calculated,100.0,Low,reported
+vehicleIncidentRtWorkforce,float64,yfinance / calculated,98.9,Low,reported
+climateScenarioAnalysis,object,yfinance / calculated,19.4,Medium,reported
+carbonPricing,object,esgEnvironmentalSocial,63.1,Low,reported
+wastewtrTreated,float64,yfinance / calculated,97.5,Low,reported
+wastewaterManagementPolicy,object,esgEnvironmentalSocial,71.7,Low,reported
+wasteDivertedLandfill,float64,yfinance / calculated,96.1,Low,reported
+waste_recycled_pct,float64,yfinance / calculated,52.3,Low,reported
+amtWasteComposted,float64,yfinance / calculated,95.0,Low,reported
+amtWasteIncinerated,float64,yfinance / calculated,79.6,Low,reported
+susAcctgStandardsBrdRptComp,object,yfinance / calculated,4.7,Medium,reported
+pctRenewableEnergyConsmd,float64,esgEnvironmentalSocial,43.7,Low,reported
+numberSitesEsa,float64,yfinance / calculated,96.1,Low,reported
+landDisturbed,float64,yfinance / calculated,98.2,Low,reported
+landRestored,float64,yfinance / calculated,98.2,Low,reported
+pctLandRestored,float64,yfinance / calculated,98.2,Low,reported
+emergResponsePreparedness,object,yfinance / calculated,28.0,Low,reported
+pctPortfolioEnergyRtg,float64,esgEnvironmentalSocial,100.0,Low,reported
+pctOfFloorAreaCovrdByEnrgyCertficatn,float64,yfinance / calculated,100.0,Low,reported
+numCorruptionLegalCases,float64,yfinance / calculated,99.3,Low,reported
+numberFinesBriberyAndCorrupt,float64,yfinance / calculated,69.2,Low,reported
+amountFinesBriberyAndCorrupt,float64,yfinance / calculated,70.6,Low,reported
+thirdPartyCertfidForestlnd,float64,yfinance / calculated,100.0,Low,reported
+modrnSlaveryStatemnt,object,yfinance / calculated,3.9,Medium,reported
+supplyChainModrnSlaveryAssessmnt,object,yfinance / calculated,3.9,Medium,reported
+mangnseEmissns,float64,yfinance / calculated,100.0,Low,reported
+leadEmissns,float64,yfinance / calculated,99.6,Low,reported
+polycyclcAromtcHydrcrbnEmissns,float64,yfinance / calculated,99.6,Low,reported
+mercryHgEmissns,float64,yfinance / calculated,97.5,Low,reported
+pm10Emissions,float64,esgEnvironmentalSocial,97.1,Low,reported
+dioxinsAndFurans,float64,yfinance / calculated,98.9,Low,reported
+cadmiumEmissions,float64,esgEnvironmentalSocial,100.0,Low,reported
+hazrdsAirPolltntsEmissns,float64,yfinance / calculated,99.6,Low,reported
+scope3OthrDwnstrmEmissns,float64,esgEnvironmentalSocial,99.3,Low,reported
+scope3OthrUpstrmEmissns,float64,esgEnvironmentalSocial,96.1,Low,reported
+scope3PurchsdGoodsAndServcsEmissns,float64,esgEnvironmentalSocial,62.0,Low,reported
+scope3CapitlGoodsEmissns,float64,esgEnvironmentalSocial,80.6,Low,reported
+scope3FuelAndEnrgyActvtsNotInScope1OrScope2Emissns,float64,esgEnvironmentalSocial,67.0,Low,reported
+scope3UpstrmTransprttnAndDistrbtnEmissns,float64,esgEnvironmentalSocial,80.6,Low,reported
+scope3WasteGenrtdInOprtnsEmissns,float64,esgEnvironmentalSocial,70.3,Low,reported
+scope3EmplyeeCommtngEmissns,float64,esgEnvironmentalSocial,71.7,Low,reported
+scope3UpstrmLeaseAsstsEmissns,float64,esgEnvironmentalSocial,92.1,Low,reported
+scope3DwnstrmTransprttnAndDistrbtnEmissns,float64,esgEnvironmentalSocial,83.2,Low,reported
+scope3ProcessngOfSoldProdctsEmissns,float64,esgEnvironmentalSocial,96.8,Low,reported
+scope3UseOfSoldProdctsEmissns,float64,esgEnvironmentalSocial,80.6,Low,reported
+scope3EolTreatmntOfSoldProdctsEmissns,float64,esgEnvironmentalSocial,89.2,Low,reported
+scope3DwnstrmLeasdAsstsEmissns,float64,esgEnvironmentalSocial,94.6,Low,reported
+scope3EmissnsFromFranchss,float64,esgEnvironmentalSocial,97.1,Low,reported
+scope3EmissnsFromInvstmnts,float64,esgEnvironmentalSocial,92.8,Low,reported
+scope3EmissnsOthr,float64,esgEnvironmentalSocial,76.7,Low,reported
+compnyClaimsScinceBasedEmissnsTargts,object,yfinance / calculated,3.9,Medium,reported
+compnyClaimsNetZeroEmissnsTgt,object,yfinance / calculated,3.9,Medium,reported
+baselineYrGhgEmissionsTgt,float64,esgEnvironmentalSocial,53.4,Low,reported
+tgtYrGhgEmissionsTgt,float64,esgEnvironmentalSocial,53.4,Low,reported
+ghgEmissIntensReductTgt,float64,esgEnvironmentalSocial,90.0,Low,reported
+ghgEmissionsReductTgtAbs,float64,esgEnvironmentalSocial,63.8,Low,reported
+ghgEmissionsAbsReductTgt,float64,esgEnvironmentalSocial,96.8,Low,reported
+pctGhgEmRedAchAgaTgt,float64,esgEnvironmentalSocial,79.6,Low,reported
+scope1GhgTgtBaselineYr,float64,esgEnvironmentalSocial,93.5,Low,reported
+scope1GhgTgtTgtYr,float64,esgEnvironmentalSocial,93.5,Low,reported
+scope1EmissReductTgtIntens,float64,esgEnvironmentalSocial,97.8,Low,reported
+scope1EmissReductTgtAbs,float64,esgEnvironmentalSocial,96.4,Low,reported
+scope1EmissAbsReductTgt,float64,esgEnvironmentalSocial,99.6,Low,reported
+pctRedAchSc1EmRedTgt,float64,yfinance / calculated,97.1,Low,reported
+pctWomeninMidandofOtherMgmt,float64,yfinance / calculated,40.9,Low,reported
+latestPeriodEndCsr_gov,str,yfinance / calculated,1.4,Medium,reported
+govnceDisclosureScore,float64,yfinance / calculated,5.0,Medium,reported
+ceo_pay_ratio,float64,yfinance / calculated,6.8,Medium,reported
+totSalariesPaidToCeoAndEquiv,float64,yfinance / calculated,6.8,Medium,reported
+totBonusesPaidToCeoAndEquiv,float64,yfinance / calculated,13.6,Medium,reported
+allOtherCompAwToCeoAndEquiv,float64,yfinance / calculated,6.8,Medium,reported
+totStkAwdGivenToCeoAndEquiv,float64,yfinance / calculated,24.4,Low,reported
+totOptAwdGivenToCeoAndEquiv,float64,yfinance / calculated,84.6,Low,reported
+totNonEqtIncentGvnToCeoAndEq,float64,yfinance / calculated,95.7,Low,reported
+tPenAndNqDefPenGvnCeoAndEq,float64,yfinance / calculated,36.6,Low,reported
+totOtherCompAwToCeoAndEquiv,float64,yfinance / calculated,17.2,Medium,reported
+totSalAndBnsAwToCeoAndEquiv,float64,yfinance / calculated,6.8,Medium,reported
+totCompAwToCfoAndEquiv,float64,yfinance / calculated,56.3,Low,reported
+totSalariesPaidToCfoAndEquiv,float64,yfinance / calculated,56.3,Low,reported
+totBonusesPaidToCfoAndEquiv,float64,yfinance / calculated,59.5,Low,reported
+allOtherCompAwToCfoAndEquiv,float64,yfinance / calculated,56.3,Low,reported
+totSalAndBnsAwToCfoAndEquiv,float64,yfinance / calculated,56.3,Low,reported
+totCompAwToCooAndEquiv,float64,yfinance / calculated,89.6,Low,reported
+totCompAwToCioAndEquiv,float64,yfinance / calculated,98.9,Low,reported
+totCompensationAwToExecs,float64,esgGovernance,2.2,Medium,reported
+totSalariesPaidToExecutives,float64,yfinance / calculated,2.5,Medium,reported
+totalBonusesPaidToExecutives,float64,yfinance / calculated,9.7,Medium,reported
+allOtherCompAwToExecs,float64,yfinance / calculated,2.2,Medium,reported
+totStkAwardsGivenToExecs,float64,yfinance / calculated,21.1,Low,reported
+totOptionAwardsGivenToExecs,float64,yfinance / calculated,83.9,Low,reported
+totNonEqtyIncentGivenToExecs,float64,yfinance / calculated,95.3,Low,reported
+tPenAndNqDefPenGvnToExecs,float64,yfinance / calculated,33.3,Low,reported
+totOtherCompAwToExecs,float64,yfinance / calculated,13.6,Medium,reported
+totSalariesAndBnsPdToExecs,float64,yfinance / calculated,2.2,Medium,reported
+numCeoAndEquivIncCompPdDurFy,float64,yfinance / calculated,6.8,Medium,reported
+numCfoAndEquivIncCompPdDurFy,float64,yfinance / calculated,56.3,Low,reported
+numExecutivesIncCompPdDurFy,float64,yfinance / calculated,10.4,Medium,reported
+totalBodCompensationAwarded,float64,esgGovernance,2.5,Medium,reported
+totalBodFeesPaidInCash,float64,yfinance / calculated,2.9,Medium,reported
+totalBodStockAwardsGiven,float64,yfinance / calculated,83.5,Low,reported
+numDirectorsIncCompPdDurFy,float64,yfinance / calculated,4.7,Medium,reported
+averageBodTotalCompensation,float64,esgGovernance,4.7,Medium,reported
+pctBodCompPdInStkAwd,float64,yfinance / calculated,83.5,Low,reported
+avgExecutiveTotCompensation,float64,esgGovernance,10.4,Medium,reported
+avgExecSalaryPlusBonusAmt,float64,yfinance / calculated,10.4,Medium,reported
+totExecPayAsPctTotPsnlExp,float64,yfinance / calculated,9.0,Medium,reported
+totExecPayAsPctSgandaNetRandd,float64,yfinance / calculated,41.6,Low,reported
+totalExecPayAsPctOpex,float64,yfinance / calculated,3.2,Medium,reported
+outsideCompAdvisorsAppt,object,yfinance / calculated,1.8,Medium,reported
+feesPdToCompConsultants,float64,yfinance / calculated,85.3,Low,reported
+pctOfIndDirectorsOnCompCmte,float64,yfinance / calculated,12.2,Medium,reported
+indCompCmteChairperson,object,yfinance / calculated,13.3,Medium,reported
+numOfCompensationCommitteeMtg,float64,esgGovernance,10.4,Medium,reported
+compensationCmteMtgAttendPct,float64,esgGovernance,19.7,Medium,reported
+clawbackProvisionForExecComp,object,yfinance / calculated,1.8,Medium,reported
+execComConsultantSvcProvided,float64,yfinance / calculated,75.3,Low,reported
+execCompAdvFeesPdToComAdv,float64,yfinance / calculated,86.4,Low,reported
+pctOfCompAdvFeesPdToComAdv,float64,yfinance / calculated,87.5,Low,reported
+chgOfCtrlBfitGoldChuteAgr,object,yfinance / calculated,1.8,Medium,reported
+frequencyOfSayOnPayVotes,float64,yfinance / calculated,37.3,Low,reported
+sayOnPayProvision,object,yfinance / calculated,39.8,Low,reported
+sayPayNumberOfVotesFor,float64,yfinance / calculated,42.7,Low,reported
+sayPayNumberOfVotesAgainst,float64,yfinance / calculated,42.7,Low,reported
+sayPaySupportLevel,float64,yfinance / calculated,42.3,Low,reported
+sayOnPayNumberVotesAbstain,float64,yfinance / calculated,49.8,Low,reported
+sayPayNumVotesBrkNonVote,float64,yfinance / calculated,95.3,Low,reported
+numOfCeoAndEquivChngDurFy,float64,yfinance / calculated,6.8,Medium,reported
+numOfCioAndEquivChngDurFy,float64,yfinance / calculated,98.9,Low,reported
+numOfCfoAndEquivChngDurFy,float64,yfinance / calculated,56.3,Low,reported
+numOfCooAndEquivChngDurFy,float64,yfinance / calculated,89.6,Low,reported
+numOfExecutiveChangesDuringFy,float64,yfinance / calculated,2.2,Medium,reported
+numberOfBodChangesDuringFy,float64,yfinance / calculated,2.5,Medium,reported
+dateOfLastBodChange,str,yfinance / calculated,6.1,Medium,reported
+ceoTenureAsOfFyEnd,float64,yfinance / calculated,7.5,Medium,reported
+cfoTenureAsOfFyEnd,float64,yfinance / calculated,58.8,Low,reported
+cooTenureAsOfFyEnd,float64,yfinance / calculated,92.1,Low,reported
+boardDuration,float64,esgGovernance,9.3,Medium,reported
+executiveDirectorBoardDur,float64,esgGovernance,41.9,Low,reported
+presidingDirector,object,yfinance / calculated,1.8,Medium,reported
+classifiedBoardSystem,object,esgGovernance,3.6,Medium,reported
+unitaryOrTwoTierBoardSystem,float64,esgGovernance,1.8,Medium,reported
+corpExecutiveOfficerSysInd,float64,yfinance / calculated,100.0,Low,reported
+pctOfCorpExecOffAlsoOnBod,float64,yfinance / calculated,99.6,Low,reported
+boardAgeLimit,float64,esgGovernance,76.7,Low,reported
+board_independence_pct,float64,esgGovernance,7.5,Medium,reported
+independentLeadDirector,object,yfinance / calculated,2.2,Medium,reported
+independentChairperson,object,yfinance / calculated,6.1,Medium,reported
+assuranceAuditor,str,esgGovernance,43.4,Low,reported
+auditCommitteeMeetings,float64,esgGovernance,6.1,Medium,reported
+auditorRatification,object,esgGovernance,51.6,Low,reported
+yearsAuditorEmployed,float64,esgGovernance,7.2,Medium,reported
+sizeOfBoardOfCorpAuditors,float64,esgGovernance,92.5,Low,reported
+numberOfOutsideCorpAuditors,float64,esgGovernance,100.0,Low,reported
+numberOfIndCorpAuditors,float64,esgGovernance,92.5,Low,reported
+audit_committee_independence_pct,float64,esgGovernance,8.2,Medium,reported
+indAuditCommitteeChairperson,object,esgGovernance,9.0,Medium,reported
+auditCommitteeMeetingAttendPct,float64,esgGovernance,17.6,Medium,reported
+pctOfIndDirectorsOnNomCmte,float64,yfinance / calculated,26.5,Low,reported
+executive_pay_esg_linked_pct,object,esgEnvironmentalSocial,1.8,Medium,reported
+sustainInvToCapex,float64,yfinance / calculated,92.1,Low,reported
+esgLinkedCompensationForBrd,object,esgEnvironmentalSocial,1.8,Medium,reported
+nonexecDirWithResponsForCsr,object,yfinance / calculated,1.8,Medium,reported
+execDirWithResponsForCsr,object,yfinance / calculated,1.8,Medium,reported
+pctOwnershipReqForSpecialMtg,float64,yfinance / calculated,97.5,Low,reported
+poisonPillPlan,object,yfinance / calculated,92.5,Low,reported
+shareholderApprovedPoisonPill,object,yfinance / calculated,92.8,Low,reported
+poisonPillTideProvision,object,yfinance / calculated,92.8,Low,reported
+poisonPillSunsetProvision,object,yfinance / calculated,92.8,Low,reported
+pctPoisonPillTrigThreshold,float64,yfinance / calculated,100.0,Low,reported
+blankCheckPreferredAuthorized,object,yfinance / calculated,99.6,Low,reported
+dualClassUnequalVtgRts,object,yfinance / calculated,1.8,Medium,reported
+uneqVtgRtsStksIssdIncPfd,object,yfinance / calculated,1.8,Medium,reported
+cumulativeVotingSystem,object,yfinance / calculated,1.8,Medium,reported
+poisonPillExpirationDate,float64,yfinance / calculated,100.0,Low,reported
+indNominationCmteChairperson,object,yfinance / calculated,26.9,Low,reported
+numOfNominationCommitteeMtg,float64,yfinance / calculated,19.0,Medium,reported
+nominationCmteMtgAttendPct,float64,yfinance / calculated,31.2,Low,reported
+boardMeetingsPerYr,float64,esgGovernance,5.4,Medium,reported
+boardMeetingAttendancePct,float64,esgGovernance,11.5,Medium,reported
+numOfDirAttendLtPctOfMtg75,float64,yfinance / calculated,12.5,Medium,reported
+indDirectorsBrdMtgAttendPct,float64,yfinance / calculated,16.5,Medium,reported
+bodNomineesLegalProceedings,float64,yfinance / calculated,100.0,Low,reported
+cioTenureAsOfFyEnd,float64,yfinance / calculated,98.9,Low,reported
+auditorRatificationNumVotes,float64,esgGovernance,59.9,Low,reported
+auditorRatifNumVotesAga,float64,esgGovernance,59.9,Low,reported
+auditorRatificationSupLevl,float64,esgGovernance,59.5,Low,reported
+auditRatifNumVotesAbstain,float64,esgGovernance,68.1,Low,reported
+audRatifNumVotesBrkNonVote,float64,yfinance / calculated,99.6,Low,reported
+auditFinancialExpert,object,esgGovernance,2.9,Medium,reported
+companyConductsBrdEvaluations,object,yfinance / calculated,1.8,Medium,reported
+companyHasProxyAccessPolicy,object,yfinance / calculated,98.9,Low,reported
+proxyAccessPctSeatAccess,float64,yfinance / calculated,100.0,Low,reported
+proxyAccessOwnershipReq,float64,yfinance / calculated,100.0,Low,reported
+proxyAccessReqHldgPer,float64,yfinance / calculated,100.0,Low,reported
+proxyAccessMaxShrhldrBlock,float64,yfinance / calculated,100.0,Low,reported
+directorElectionVotePolicy,float64,yfinance / calculated,48.4,Low,reported
+controlledCompany,object,yfinance / calculated,1.8,Medium,reported
+companyHasAntiPledgingPolicy,object,yfinance / calculated,99.3,Low,reported
+compnyExctveOrDirctrPledgdShares,object,yfinance / calculated,98.9,Low,reported
+compHasExecShOwnerGuidelns,object,yfinance / calculated,1.8,Medium,reported
+directorShOwnershipGuidelines,object,yfinance / calculated,1.8,Medium,reported
+csrSustainabilityCommittee,object,yfinance / calculated,1.8,Medium,reported
+class_gov,str,yfinance / calculated,1.4,Medium,reported
+fiscalYearPeriod_gov,str,yfinance / calculated,1.4,Medium,reported
+legalEntityIdentifier,str,yfinance / calculated,0.0,High,reported
+eqyFiscalYrEnd,str,yfinance / calculated,0.0,High,reported
+latestPeriodEndCsr_tax,str,yfinance / calculated,2.2,Medium,reported
+pctOfEuTaxnmyEligbleRevenue,float64,yfinance / calculated,0.4,Medium,reported
+amountOfEuTaxnmyEligbleRevenue,float64,yfinance / calculated,0.4,Medium,reported
+pctOfRevenuePotntiallyAligndWithEuTaxnmy,float64,yfinance / calculated,53.4,Low,reported
+amountOfRevenuePotntiallyAligndWithEuTaxnmy,float64,yfinance / calculated,53.4,Low,reported
+euTaxnmyPotntiallyAligndMitgtnPctRevenue,float64,yfinance / calculated,79.2,Low,reported
+euTaxnmyPotntiallyAligndMitgtnAmountRevenue,float64,yfinance / calculated,79.2,Low,reported
+euTaxnmyPotntiallyAligndAdapttnPctRevenue,float64,yfinance / calculated,57.3,Low,reported
+euTaxnmyPotntiallyAligndAdapttnAmountRevenue,float64,yfinance / calculated,57.3,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnWaterPctRevenue,float64,esgEnvironmentalSocial,100.0,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnWaterAmountRevenue,float64,esgEnvironmentalSocial,100.0,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnWastePctRevenue,float64,yfinance / calculated,100.0,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnWasteAmountRevenue,float64,yfinance / calculated,100.0,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnPolltnPctRevenue,float64,yfinance / calculated,100.0,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnPolltnAmountRevenue,float64,yfinance / calculated,100.0,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnBiodiverstyPctRevenue,float64,yfinance / calculated,100.0,Low,reported
+euTaxnmyEstmatdSubstantlContrbtnBiodiverstyAmountRev,float64,yfinance / calculated,100.0,Low,reported
+euTaxnmyEstmatdDnshMitgtnLevl1,float64,legalEntityEuTaxonomy,1.4,Medium,reported
+euTaxnmyEstmatdDnshMitgtnLevl2,float64,legalEntityEuTaxonomy,84.9,Low,reported
+euTaxnmyEstmatdDnshAdapttnLevl1,float64,legalEntityEuTaxonomy,1.4,Medium,reported
+euTaxnmyEstmatdDnshAdapttnLevl2,float64,legalEntityEuTaxonomy,64.5,Low,reported
+euTaxnmyEstmatdDnshWaterLevl1,float64,esgEnvironmentalSocial,1.4,Medium,reported
+euTaxnmyEstmatdDnshWaterLevl2,float64,esgEnvironmentalSocial,75.6,Low,reported
+euTaxnmyEstmatdDnshWasteLevl1,float64,legalEntityEuTaxonomy,1.4,Medium,reported
+euTaxnmyEstmatdDnshWasteLevl2,float64,legalEntityEuTaxonomy,71.3,Low,reported
+euTaxnmyEstmatdDnshPolltnLevl1,float64,legalEntityEuTaxonomy,1.4,Medium,reported
+euTaxnmyEstmatdDnshPolltnLevl2,float64,legalEntityEuTaxonomy,75.6,Low,reported
+euTaxnmyEstmatdDnshBiodiverstyLevl1,float64,legalEntityEuTaxonomy,1.4,Medium,reported
+euTaxnmyEstmatdDnshBiodiverstyLevl2,float64,legalEntityEuTaxonomy,74.9,Low,reported
+euTaxnmyMssEstmatd,float64,yfinance / calculated,2.2,Medium,reported
+euTaxnmyMssOptEstmatd,float64,yfinance / calculated,2.2,Medium,reported
+euTaxnmyEligbleRevenuePct,float64,yfinance / calculated,49.8,Low,reported
+euTaxnmyEligbleRevenueAmount,float64,yfinance / calculated,58.8,Low,reported
+euTaxnmyEligbleCapexPct,float64,yfinance / calculated,53.4,Low,reported
+euTaxnmyEligbleCapexAmount,float64,yfinance / calculated,63.8,Low,reported
+euTaxnmyEligbleOpexPct,float64,yfinance / calculated,55.2,Low,reported
+euTaxnmyEligbleOpexAmount,float64,yfinance / calculated,63.8,Low,reported
+pctOfRevenueAligndWithEuTaxnmy,float64,yfinance / calculated,80.6,Low,reported
+amountOfRevenueAligndWithEuTaxnmy,float64,yfinance / calculated,81.4,Low,reported
+pctOfCapexAligndWithEuTaxnmy,float64,yfinance / calculated,88.2,Low,reported
+amountOfCapexAligndWithEuTaxnmy,float64,yfinance / calculated,88.9,Low,reported
+euTaxnmyAligndOpexPct,float64,yfinance / calculated,84.2,Low,reported
+euTaxnmyAligndOpexAmount,float64,yfinance / calculated,84.2,Low,reported
+verificationType_tax,object,yfinance / calculated,3.9,Medium,reported
+indpndntAssessmntCondctd,bool,yfinance / calculated,0.0,High,reported
+data_vintage,str,yfinance / calculated,0.0,High,reported

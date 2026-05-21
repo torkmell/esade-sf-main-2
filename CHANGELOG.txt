@@ -1,0 +1,183 @@
+CHANGELOG — Changes made after original handoff
+================================================
+Date: 2026-05-18
+Author: Andreas (RAG Operator) + Claude Code
+
+This file summarises every meaningful change made to the project since the
+original code was received. Nothing from the original codebase was deleted;
+all changes are additive or corrective.
+
+
+1. NEW DATA FILES (data/provided/)
+-----------------------------------
+universe_289_filled.csv
+  — 289-company STOXX600-filtered universe (colleague's initial financial
+    screening). Replaces the old 170-company list. Columns: rank, company,
+    return_5y_pct, return_10y_pct, bb_ticker, yf_ticker, idBbCompany.
+    283 of 289 have a Yahoo Finance ticker.
+
+Portfolio_Screening_Output.xlsx
+  — ESG specialist's full screening workbook. Sheets:
+      • Stage 1 — Universe (289 companies + fossil/exclusion flags)
+      • Stage 1 — Excluded (47 companies removed at Stage 1)
+      • Hard exclusions detail (13 companies: ISS = Poor or SA = High/Severe)
+      • Stage 2 — Full ranking (224 companies, in-house ESG z-score + percentile)
+      • Stage 2 — Capped Top 40 (sector-capped final shortlist)
+      • Stage 2 — Uncapped Top 40
+      • Methodology Summary
+
+stage2_top40_capped_hybrid.csv
+  — The top 40 from the above workbook in flat CSV format. Columns: rank,
+    factset_name, SASB Sector, in_house_z, in_house_pct, E pillar, S pillar,
+    G pillar, Truvalue Rating, Sustainalytics Band, Sustainalytics Risk,
+    ISS Descriptor, Watchlist, Watchlist reason, Ticker, Exchange.
+
+"ESG Data_Factset Full ESG.xlsx"  (note: space in filename)
+  — Raw FactSet data for all 289 companies. Sheets: ESG Scores, Emissions,
+    Governance & Notes. Source for the ESG specialist's in-house scoring.
+
+
+2. NOTEBOOK CHANGES
+--------------------
+notebooks/02_data_ingestion.ipynb
+  — Cell cell_build_universe: universe source changed from universe_170.csv
+    to universe_289_filled.csv. Print statements made dynamic (no longer
+    hardcode "170"). Company count now reflects the actual CSV row count.
+  — Intro markdown cell updated to describe 289-company universe.
+
+notebooks/05_esg_climate.ipynb  — STEP 7 ADDED
+  Two new cells inserted after the existing ESG triangulation section:
+
+  Markdown cell (Step 7 header):
+    Explains that Steps 1–6 produce Bloomberg-based preliminary scores and
+    Step 7 overwrites them with the specialist's FactSet triangulation.
+
+  Code cell (Step 7 implementation):
+    Reads Portfolio_Screening_Output.xlsx (all sheets), loads the latest
+    master_dataset_*.csv for ticker mapping, normalises company names with
+    regex suffix-stripping, joins Stage 1 and Stage 2 data to master tickers,
+    min-max normalises E/S/G pillar z-scores to 0–100, sets ESG_score to
+    in_house_pct (0–100 percentile) for Stage 1 PASS companies and 0 for
+    excluded/hard-excluded companies, imputes missing carbon intensity from
+    sector median, and saves outputs/scores/esg_scores_YYYY-MM-DD.csv.
+
+    NB10 auto-picks the latest esg_scores_*.csv file (glob + sort), so
+    running Step 7 is sufficient — no path changes needed in NB10.
+
+  WHY the change: The original triangulation used (a) Bloomberg ESG
+  Disclosure score — same methodology family as in-house score, not
+  independent — and (b) yfinance Sustainalytics, which Yahoo Finance removed
+  (always returned 0). The FactSet approach uses three genuinely independent
+  sources: Truvalue SASB AI, Sustainalytics, and ISS.
+
+
+3. REFERENCE DATA FOR RAG (data/rag/)
+---------------------------------------
+SBTi.xlsx
+  — Science Based Targets initiative company target database. Used manually
+    during Claude Projects 8-test sessions to verify climate commitments.
+    NOT read by any notebook automatically.
+
+Latest_CP_Assessments.csv
+  — TPI (Transition Pathway Initiative) Carbon Performance assessments.
+    Same manual-lookup purpose as SBTi.xlsx.
+
+These files live in data/rag/ (not data/provided/) because they are
+reference lookups for the RAG Operator, not pipeline inputs.
+
+
+4. RAG COMPANY FOLDERS (data/rag/reports/)
+--------------------------------------------
+37 new company folders created for the top-40 universe:
+
+  RBI_Raiffeisen_Bank_International_AG
+  ALFA_Alfa_Laval_AB
+  ADDT_B_Addtech_AB_Class_B
+  AGN_Aegon_Ltd
+  A5G_AIB_Group_PLC           ← Watchlist flag in 8-test prompt
+  LLOY_Lloyds_Banking_Group_PLC
+  ZURN_Zurich_Insurance_Group_Ltd
+  NWG_NatWest_Group_PLC
+  SU_Schneider_Electric_SE
+  ABBN_ABB_Ltd
+  SPSN_Swiss_Prime_Site_AG
+  UCB_UCB_SA
+  LOGN_Logitech_International_SA
+  RTO_Rentokil_Initial_PLC
+  LI_Klepierre_SA
+  ARCAD_Arcadis_NV
+  OR_LOreal_SA
+  NEX_Nexans_SA
+  WRT1V_Wartsila_Oyj_Abp
+  AZN_AstraZeneca_PLC
+  MRL_MERLIN_Properties_SOCIMI_SA
+  EOAN_EON_SE
+  SWEC_B_Sweco_AB_Class_B
+  GALE_Galenica_AG
+  ITX_Inditex_SA              ← Watchlist flag in 8-test prompt
+  ORNBV_Orion_Oyj_Class_B
+  BFT_Benefit_Systems_SA
+  IPN_Ipsen_SA
+  NXT_Next_PLC
+  SOBI_Swedish_Orphan_Biovitrum_AB  ← Watchlist flag in 8-test prompt
+  TEL2_B_Tele2_AB_Class_B
+  MONC_Moncler_SpA
+  MTO_MITIE_Group_PLC
+  PUB_Publicis_Groupe_SA
+  AIXA_AIXTRON_SE             ← Watchlist flag in 8-test prompt
+  VK_Vallourec_SA
+  SUBC_Subsea_7_SA
+
+Each folder contains:
+  company_reports/            ← Drop sustainability report PDFs here
+  external_evidence/          ← SBTi/TPI evidence, NGO reports, etc.
+  financial_data/
+    financial_data_gap_log.md
+  rag_outputs/
+    evidence_gap_log.md
+  {TICKER}_8test_prompt.txt   ← Pre-written Claude Projects prompt
+
+3 pre-existing folders already matched the new top-40 and were kept as-is:
+  NOH1_Norsk_Hydro_ASA
+  IHCB_SBM_Offshore_NV
+  ASME_ASML_Holding_NV
+
+17 pre-existing folders from the old universe were retained (not deleted)
+because they contain collected PDFs. These companies are NOT in the current
+top-40 but the PDF evidence is preserved in case they re-enter scope.
+
+
+5. .gitignore ADDITIONS
+------------------------
+Added exclusions for:
+  *.pdf            (sustainability report PDFs — 342 MB total)
+  data/provided/equityBicsV2.csv   (51 MB, exceeds GitHub limit)
+  data/financial/raw_prices/
+  data/financial/raw_benchmark/
+  *.zip
+  ~$*.pdf          (Office lock files for PDFs)
+
+
+6. WHAT TO DO NEXT (for whoever picks this up)
+-----------------------------------------------
+Step A — Expand the master dataset:
+  Re-run notebooks in order: NB02 → NB03 → NB04
+  This builds a new master_dataset_YYYY-MM-DD.csv from the 289-company
+  universe instead of the old 167-company one.
+
+Step B — Re-run ESG scoring:
+  Open NB05 and run the new Step 7 cell (at the bottom).
+  Output: outputs/scores/esg_scores_YYYY-MM-DD.csv
+
+Step C — Collect PDFs for new RAG folders:
+  For each of the 37 new company folders, download the most recent
+  sustainability report / annual report / TCFD report and drop it into
+  company_reports/. Then run the 8-test prompt via Claude Projects.
+
+Step D — Fill RAG_Screening_Sheet_Workbook_v1.xlsx:
+  RAG Operator enters 8-test results from Claude Projects into the Excel
+  workbook. NB09 reads this file to apply greenwashing exclusions.
+
+Step E — Re-run NB10:
+  Portfolio construction will now draw from the 40-company specialist
+  shortlist via the new ESG scores file.

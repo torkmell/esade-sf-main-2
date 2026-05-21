@@ -1,0 +1,64 @@
+{
+  "ticker": "SUBC.OL",
+  "company_name": "Subsea 7 S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Offshore-energy contractor; assessed from the annual report (no standalone sustainability report). Four MED + one MISSING reflect a 2050-only net-zero horizon, targets that SBTi explicitly does not validate for the sector (candidly disclosed), a fossil-linked capex profile, and a baseline not surfaced in the report. No HIGH flags.",
+  "dimensions": {
+    "specificity": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90,
+      "value": "net-zero S1+2 by 2050",
+      "rating": "LOW",
+      "reasoning": "Specific net-zero commitment for the company's own fleet (Scope 1+2) via a decarbonisation plan."
+    },
+    "metric": {
+      "quote": "own targets to reduce Scope 1 and 2 emissions",
+      "page": 39,
+      "value": "reduction targets stated; % not surfaced",
+      "rating": "MED",
+      "reasoning": "Scope 1 intensity is reported and reduction targets are stated, but a quantified reduction percentage is not surfaced in the extract."
+    },
+    "baseline": {
+      "quote": null,
+      "page": null,
+      "value": "no emissions baseline year surfaced",
+      "rating": "MISSING",
+      "reasoning": "No emissions baseline year is evident in the extract from the annual report."
+    },
+    "target": {
+      "quote": "are not accepted as part of the Science Based Targets initiative (SBTi). Subsea7 continues to monitor this position",
+      "page": 94,
+      "value": "own targets; SBTi does not accept the sector",
+      "rating": "MED",
+      "reasoning": "Subsea 7 has set its own GHG targets but candidly discloses that the SBTi does not currently accept its sector \u2014 so the targets are not third-party-validated."
+    },
+    "time_horizon": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050",
+      "page": 90,
+      "value": "2050 endpoint; near-term milestone unclear",
+      "rating": "MED",
+      "reasoning": "The headline climate horizon is the 2050 net-zero endpoint; a near-term interim climate milestone is not crisply evidenced."
+    },
+    "scope": {
+      "quote": "operations (Scope 1 and 2) ... upstream value chain (Scope 3)",
+      "page": 92,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scope 1, 2 and upstream Scope 3 covered."
+    },
+    "verification": {
+      "quote": "Limited Assurance Report on [the sustainability information]",
+      "page": 3,
+      "value": "limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally assured, but a limited assurance level."
+    },
+    "consistency": {
+      "quote": "capital expenditure in Renewables was $69 million",
+      "page": 25,
+      "value": "renewables capex disclosed; profile still oil-linked",
+      "rating": "MED",
+      "reasoning": "Renewables capex is disclosed, but the bulk of the capex profile remains offshore-oil-linked \u2014 a genuine consistency watch-point, disclosed transparently."
+    }
+  }
+}

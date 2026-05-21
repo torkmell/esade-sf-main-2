@@ -1,0 +1,64 @@
+{
+  "ticker": "EXAMPLE",
+  "company_name": "Example Company SA",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Generally transparent reporting; verification gaps on Scope 3.",
+  "dimensions": {
+    "specificity": {
+      "quote": "We will become carbon neutral in all operations",
+      "page": 4,
+      "value": "carbon neutral",
+      "rating": "MED",
+      "reasoning": "Uses broad term 'carbon neutral' without defining Scope coverage or offsets."
+    },
+    "metric": {
+      "quote": "Absolute Scope 1+2 reduction of 46% by 2030 vs 2019 baseline",
+      "page": 12,
+      "value": "46%",
+      "rating": "LOW",
+      "reasoning": "Clear numeric target with year and baseline."
+    },
+    "baseline": {
+      "quote": "vs 2019 baseline of 2.4 MtCO2e",
+      "page": 12,
+      "value": "2019 = 2.4 Mt",
+      "rating": "LOW",
+      "reasoning": "Specific baseline year and value provided."
+    },
+    "target": {
+      "quote": "SBTi-validated target submitted March 2023",
+      "page": 8,
+      "value": "SBTi validated",
+      "rating": "LOW",
+      "reasoning": "Third-party validated \u00e2\u20ac\u201d binding commitment."
+    },
+    "time_horizon": {
+      "quote": "by 2030 and net zero by 2050",
+      "page": 5,
+      "value": "2030 / 2050",
+      "rating": "MED",
+      "reasoning": "Near-term 2030 target is credible; 2050 net zero is long-dated and less verifiable."
+    },
+    "scope": {
+      "quote": "covering Scope 1, 2, and material Scope 3 categories",
+      "page": 12,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scope 3 included though 'material categories' leaves some ambiguity."
+    },
+    "verification": {
+      "quote": "Assured by EY to limited assurance (ISAE 3000)",
+      "page": 95,
+      "value": "EY limited",
+      "rating": "MED",
+      "reasoning": "Limited assurance is weaker than reasonable assurance \u00e2\u20ac\u201d upgrade expected under CSRD."
+    },
+    "consistency": {
+      "quote": null,
+      "page": null,
+      "value": "No contradiction found",
+      "rating": "LOW",
+      "reasoning": "Capex allocation (42% green) consistent with stated transition commitments."
+    }
+  }
+}

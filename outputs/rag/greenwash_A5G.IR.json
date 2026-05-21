@@ -1,0 +1,64 @@
+{
+  "ticker": "A5G.IR",
+  "company_name": "AIB Group plc",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]\" (aib-climate-transition-plan-final.pdf, p6.0). SBTi: Targets set, 1.5\u00b0C near-term target (2026). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Main claim: \"Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]\" (aib-climate-transition-plan-final.pdf, p6). SBTi: Targets set, 1.5\u00b0C near-term target (2026). 8-Test: 0 PARTIAL, 0 FAIL, 0...",
+  "dimensions": {
+    "specificity": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

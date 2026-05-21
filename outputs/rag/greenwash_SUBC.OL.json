@@ -1,0 +1,64 @@
+{
+  "ticker": "SUBC.OL",
+  "company_name": "Subsea 7 S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan\" (annual-report.pdf, p90). SBTi: no validated target in the SBTi database. 8-Test: 5 PARTIAL, 0 FAIL, 1 MISSING -> PASS. Offshore-energy contractor; assessed from the annual report (no standalone sustainability report). Four MED + one MISSING reflect a 2050-only net-zero horizon, targets that SBTi explicitly does not validate for the sector (candidly...",
+  "dimensions": {
+    "specificity": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "MISSING",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "Net-Zero Scope 1 and 2 GHG emissions by 2050 ... through its decarbonisation plan",
+      "page": 90.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    }
+  }
+}

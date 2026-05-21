@@ -1,0 +1,64 @@
+{
+  "ticker": "LLOY.L",
+  "company_name": "Lloyds Banking Group plc",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Detailed bank climate disclosure \u2014 absolute and financed-emissions targets on explicit 2018/2019 baselines, SBTi-/IPCC-benchmarked to 1.5C, ISAE 3000 limited assurance. One MED (limited assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "a real-economy transition to net zero",
+      "page": 21,
+      "value": "net-zero transition",
+      "rating": "LOW",
+      "reasoning": "Net-zero ambition framed for the bank's own operations and its lending book."
+    },
+    "metric": {
+      "quote": "Absolute emissions from a 2018/2019 baseline include scope 1, 2 and 3",
+      "page": 63,
+      "value": "absolute + financed-emissions targets",
+      "rating": "LOW",
+      "reasoning": "Quantified absolute and financed-emissions targets across scopes."
+    },
+    "baseline": {
+      "quote": "Baseline year determined by ambition (2018 for Bank, 2019 for Scottish Widows)",
+      "page": 65,
+      "value": "2018 / 2019",
+      "rating": "LOW",
+      "reasoning": "Explicit baseline years, documented per business."
+    },
+    "target": {
+      "quote": "pathway as defined by SBTi and IPCC ... benchmarking against SBTi criteria",
+      "page": 68,
+      "value": "SBTi/IPCC 1.5C-benchmarked",
+      "rating": "LOW",
+      "reasoning": "Sectoral targets benchmarked to SBTi and IPCC 1.5C pathways \u2014 binding sectoral commitments."
+    },
+    "time_horizon": {
+      "quote": "By 2030 ... scopes by 2045",
+      "page": 21,
+      "value": "2030 + 2045",
+      "rating": "LOW",
+      "reasoning": "Near-term 2030 milestones present."
+    },
+    "scope": {
+      "quote": "key performance indicators (KPIs) relating to scopes 1-3",
+      "page": 22,
+      "value": "S1+2+3 financed",
+      "rating": "LOW",
+      "reasoning": "Scopes 1, 2 and Scope 3 financed emissions covered."
+    },
+    "verification": {
+      "quote": "independent limited assurance over certain ... Assurance Engagements 3000 (Revised)",
+      "page": 3,
+      "value": "ISAE 3000 limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally assured to ISAE 3000, but a limited assurance level."
+    },
+    "consistency": {
+      "quote": "transition plan sets out how we are positioning",
+      "page": 61,
+      "value": "transition plan present",
+      "rating": "LOW",
+      "reasoning": "Documented transition plan and a Client Transition Plan process; no contradiction surfaced."
+    }
+  }
+}

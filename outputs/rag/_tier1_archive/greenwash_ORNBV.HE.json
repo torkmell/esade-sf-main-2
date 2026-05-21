@@ -1,0 +1,64 @@
+{
+  "ticker": "ORNBV.HE",
+  "company_name": "Orion Oyj Class B",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Source is the CSRD sustainability statement within Orion's financial-statement documents. SBTi-approved 70%-by-2030 target, explicit 2023 baseline, full scope coverage, limited assurance. One MED (assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "Orion has committed to reach net-zero emissions by 2050",
+      "page": 63,
+      "value": "net-zero by 2050",
+      "rating": "LOW",
+      "reasoning": "Defined net-zero commitment; the report candidly acknowledges the challenges of achieving it."
+    },
+    "metric": {
+      "quote": "target to reduce its absolute Scope 1 and 2 emissions by 70% by 2030 from a 2023 baseline",
+      "page": 62,
+      "value": "70% by 2030",
+      "rating": "LOW",
+      "reasoning": "Quantified absolute reduction target."
+    },
+    "baseline": {
+      "quote": "by 70% by 2030 from a 2023 baseline",
+      "page": 62,
+      "value": "2023",
+      "rating": "LOW",
+      "reasoning": "Explicit 2023 base year."
+    },
+    "target": {
+      "quote": "target has been approved by the Science Based Targets initiative (SBTi)",
+      "page": 62,
+      "value": "SBTi-approved, 1.5C",
+      "rating": "LOW",
+      "reasoning": "SBTi-approved near-term targets, 1.5C-aligned."
+    },
+    "time_horizon": {
+      "quote": "absolute Scope 1 and 2 emissions by 70% by 2030",
+      "page": 62,
+      "value": "2030 near-term + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2030 target plus the 2050 endpoint."
+    },
+    "scope": {
+      "quote": "E1-6 Gross Scopes 1, 2, 3 and Total GHG emissions",
+      "page": 50,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scopes 1, 2 and 3 reported; a Scope 3 supplier-engagement goal is set."
+    },
+    "verification": {
+      "quote": "The sustainability statement is subject to limited assurance by a sustainability reporting assurance provider",
+      "page": 25,
+      "value": "limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally assured, but to a limited assurance level."
+    },
+    "consistency": {
+      "quote": "Orion does not disclose additional details of its climate transition plan, including division specific [plans], beyond what is reported under E1-1",
+      "page": 24,
+      "value": "transition plan reported; granularity limited (disclosed)",
+      "rating": "LOW",
+      "reasoning": "Transition plan reported under ESRS E1-1 and capex disclosed; the report candidly notes limited transition-plan granularity \u2014 a disclosed limitation rather than a contradiction."
+    }
+  }
+}

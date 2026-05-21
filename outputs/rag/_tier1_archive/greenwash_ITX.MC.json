@@ -1,0 +1,64 @@
+{
+  "ticker": "ITX.MC",
+  "company_name": "Industria de Diseno Textil, S.A.",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Strong, detailed climate disclosure \u2014 SBTi-approved targets to 2030 and a SBTi-approved 2040 net-zero target, explicit 2018 baseline, full scope coverage, EY external verification. One MED (limited assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "Achieve net-zero emissions, reducing at least 90% of our carbon [emissions]",
+      "page": 26,
+      "value": "net zero by 2040, 90% reduction",
+      "rating": "LOW",
+      "reasoning": "Specific net-zero target with a defined reduction percentage."
+    },
+    "metric": {
+      "quote": "Reduce scope 1 and 2 GHG emissions by 95% by 2040",
+      "page": 41,
+      "value": "95% S1+2; 90% S3 by 2040",
+      "rating": "LOW",
+      "reasoning": "Detailed quantified targets across scopes and interim years."
+    },
+    "baseline": {
+      "quote": "emissions by 20% by 2027, as compared to 2018",
+      "page": 41,
+      "value": "2018",
+      "rating": "LOW",
+      "reasoning": "Explicit 2018 baseline."
+    },
+    "target": {
+      "quote": "Our 2030 emissions reduction targets are approved by the Science Based Targets initiative (SBTi)",
+      "page": 41,
+      "value": "SBTi-approved incl. net-zero",
+      "rating": "LOW",
+      "reasoning": "SBTi-approved 2030 targets and a SBTi-approved 2040 net-zero target."
+    },
+    "time_horizon": {
+      "quote": "GHG emission reduction targets through 2027, 2030 and 2040",
+      "page": 40,
+      "value": "2027 / 2030 / 2040",
+      "rating": "LOW",
+      "reasoning": "Multiple near-term milestones (2027, 2030) \u2014 not 2050-only."
+    },
+    "scope": {
+      "quote": "E1.I1 Scope 1, 2 and 3 greenhouse gas (GHG) emissions",
+      "page": 31,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scopes 1, 2 and 3 covered with scope-specific targets."
+    },
+    "verification": {
+      "quote": "verified by an independent third-party, Ernst & Young",
+      "page": 16,
+      "value": "EY limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally verified by EY, but to a limited assurance level."
+    },
+    "consistency": {
+      "quote": "We have a Climate Transition Plan, which evidences Inditex's [commitment]",
+      "page": 38,
+      "value": "transition plan; no documented contradiction",
+      "rating": "LOW",
+      "reasoning": "Documented Climate Transition Plan; no capex or lobbying contradiction evidenced in the report (fast-fashion volume-growth tension is a sector watch-point, not a documented contradiction)."
+    }
+  }
+}

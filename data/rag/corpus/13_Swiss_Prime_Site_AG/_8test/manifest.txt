@@ -1,0 +1,10 @@
+PRIMARY (used for 8-Test): SPS_ESG-Booklet_EN.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - Environmental_Policy_Concept-24.pdf
+  - Green_Finance_Report_2025_en.pdf
+  - Report_2025_en.pdf
+  - Sustainability_E_2025-en.pdf
+  - Sustainability_G_2025-en.pdf
+  - Sustainability_Key_Indicators_2025_en.pdf
+  - Sustainability_S_2025-en.pdf

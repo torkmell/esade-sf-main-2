@@ -1,0 +1,9 @@
+date,decided_by,ticker,company_name,override_type,model_decision,human_decision,rationale,evidence,approved_by
+2026-05-21,,LI.PA,Klepierre SA,IC_REVIEW_WATCHLIST,"Included - composite rank 5, weight 5.4%",,,"Transition: Weak transition evidence (Tier 1 = 0, no measurable target)",
+2026-05-21,,MRL.MC,"MERLIN Properties SOCIMI, S.A.",IC_REVIEW_WATCHLIST,"Included - composite rank 6, weight 5.2%",,,"Transition: Weak transition evidence (Tier 1 = 0, no measurable target)",
+2026-05-21,,GALE.SW,Galenica AG,IC_REVIEW_WATCHLIST,"Included - composite rank 7, weight 5.2%",,,"Transition: Weak transition evidence (Tier 1 = 0, no measurable target)",
+2026-05-21,,A5G.IR,AIB Group plc,IC_REVIEW_WATCHLIST,"Included - composite rank 9, weight 5.1%",,,Truvalue: Truvalue=Below Average,
+2026-05-21,,NHY.OL,Norsk Hydro ASA,IC_REVIEW_WATCHLIST,"Included - composite rank 15, weight 4.5%",,,Truvalue: Truvalue=Below Average,
+2026-05-21,,ITX.MC,"Industria de Diseno Textil, S.A.",IC_REVIEW_WATCHLIST,"Included - composite rank 17, weight 4.5%",,,Truvalue: Truvalue=Below Average,
+2026-05-21,,ORNBV.HE,Orion Oyj Class B,IC_REVIEW_WATCHLIST,"Included - composite rank 18, weight 4.4%",,,"Transition: Weak transition evidence (Tier 1 = 0, no measurable target)",
+2026-05-21,,SOBI.ST,Swedish Orphan Biovitrum AB,IC_REVIEW_WATCHLIST,"Included - composite rank 19, weight 4.4%",,,Truvalue: Truvalue=Laggard,

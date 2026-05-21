@@ -1,0 +1,95 @@
+{
+  "_schema_version": "1.0",
+  "_created": "2026-05-16",
+  "_description": "Schema for financial agent output per portfolio company. All null values mean data not yet collected or not available. This schema is used by financial_agent_outputs.csv and the extract_financials_from_reports_prompt.md workflow.",
+  "_non_hallucination_rule": "Do not fill any field with an estimated or fabricated value. Use null if unknown. Use 'TO BE COLLECTED' in string fields if data is missing but expected.",
+
+  "company_name": "",
+  "ticker": "",
+  "isin": "",
+  "sector": "",
+  "country": "",
+  "yf_ticker": "",
+  "analysis_date": "",
+  "data_vintage": "",
+  "financial_data_confidence": "LOW / MEDIUM / HIGH",
+
+  "metrics": {
+    "market_performance": {
+      "return_1y_pct": null,
+      "return_3y_ann_pct": null,
+      "return_5y_ann_pct": null,
+      "annualized_volatility_pct": null,
+      "max_drawdown_pct": null,
+      "sharpe_ratio": null,
+      "beta_vs_benchmark": null,
+      "_benchmark": "EXW1.DE (iShares STOXX Europe 600 ETF — proxy for STOXX 600)",
+      "_risk_free_rate_assumption": 0.0,
+      "_trading_days_assumption": 252
+    },
+    "profitability": {
+      "revenue_latest_eur_m": null,
+      "revenue_growth_3y_cagr_pct": null,
+      "ebit_margin_latest_pct": null,
+      "ebitda_margin_latest_pct": null,
+      "net_margin_latest_pct": null,
+      "roe_pct": null,
+      "_note": "For banks and insurers, replace EBIT/EBITDA with NIM, combined ratio, SCR coverage"
+    },
+    "balance_sheet": {
+      "net_debt_eur_m": null,
+      "net_debt_to_ebitda": null,
+      "interest_coverage": null,
+      "free_cash_flow_margin_pct": null,
+      "debt_to_equity": null,
+      "_note": "Net debt = total financial debt minus cash. Negative = net cash position."
+    },
+    "valuation": {
+      "pe_ratio": null,
+      "ev_ebitda": null,
+      "ev_sales": null,
+      "dividend_yield_pct": null,
+      "_note": "Valuation multiples to be collected from financial terminal or annual report"
+    },
+    "sector_specific": {
+      "_applicable_sectors": ["Financials", "Insurance", "Private Equity"],
+      "net_interest_margin_pct": null,
+      "cet1_ratio_pct": null,
+      "loan_loss_provision_pct": null,
+      "combined_ratio_pct": null,
+      "scr_coverage_ratio_pct": null,
+      "investment_yield_pct": null,
+      "nav_per_share": null,
+      "_note": "Complete sector-specific fields for CJ2, SOAN, 2NN, IGQ5. Leave null for other sectors."
+    }
+  },
+
+  "scoring": {
+    "financial_quality_score": null,
+    "_score_range": "0-100, higher is better, relative within this universe only",
+    "_score_weights": {
+      "return_profile": 0.25,
+      "risk_profile": 0.25,
+      "profitability": 0.25,
+      "balance_sheet": 0.15,
+      "valuation": 0.10
+    },
+    "financial_risk_flag": "LOW / MEDIUM / HIGH / UNKNOWN",
+    "valuation_flag": "CHEAP / FAIR / EXPENSIVE / UNKNOWN"
+  },
+
+  "portfolio_decision": {
+    "portfolio_implication": "INCLUDE / EXCLUDE / WATCHLIST / HUMAN_REVIEW_REQUIRED",
+    "human_review_required": true,
+    "_note": "Human review is always required. This schema output is a tool for ranking, not a final decision."
+  },
+
+  "audit": {
+    "source_files": [],
+    "calculation_notes": [],
+    "risk_flags": [],
+    "data_gaps": [],
+    "audit_notes": [],
+    "_non_hallucination_confirmation": "All values in this output are sourced from files listed in source_files or marked null. No values have been estimated or fabricated."
+  }
+}

@@ -1,0 +1,7 @@
+PRIMARY (used for 8-Test): aib-climate-transition-plan-final.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - aib-group-plc-afr-report-2025.pdf
+  - impact-report-2024-2025.pdf
+  - our-strategic-progress.pdf
+  - sustainability-disclosures-tables-2025.pdf

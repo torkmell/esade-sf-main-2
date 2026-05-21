@@ -1,0 +1,64 @@
+{
+  "ticker": "NHY.OL",
+  "company_name": "Norsk Hydro ASA",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "High disclosure quality \u2014 quantified near-term targets, explicit 2018 baseline, full scope coverage. Two MED flags: the trajectory is not shown as SBTi-validated, and external assurance of the emissions data is not evidenced in this report.",
+  "dimensions": {
+    "specificity": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22,
+      "value": "net-zero by 2050",
+      "rating": "LOW",
+      "reasoning": "Defined net-zero company commitment with a stated year, backed by near-term 2025/2030 targets."
+    },
+    "metric": {
+      "quote": "10 percent reduction by 2025 and 30 percent by 2030 against 2018 baseline",
+      "page": 21,
+      "value": "30% by 2030",
+      "rating": "LOW",
+      "reasoning": "Quantified absolute reduction targets with explicit percentages."
+    },
+    "baseline": {
+      "quote": "Reduction in greenhouse gas emissions against 2018 baseline",
+      "page": 3,
+      "value": "2018",
+      "rating": "LOW",
+      "reasoning": "Explicit baseline year, used consistently across targets."
+    },
+    "target": {
+      "quote": "Hydro's target is to be a net-zero company by 2050 or [earlier]",
+      "page": 22,
+      "value": "company-stated, not SBTi-validated",
+      "rating": "MED",
+      "reasoning": "Targets are quantified and tracked, but the report shows no SBTi validation of the decarbonisation trajectory."
+    },
+    "time_horizon": {
+      "quote": "30 percent by 2030 against 2018 baseline",
+      "page": 21,
+      "value": "2030 near-term + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2025/2030 milestones present alongside the 2050 endpoint."
+    },
+    "scope": {
+      "quote": "Comprises material upstream Scope 3 categories",
+      "page": 21,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scope 1, 2 and material upstream Scope 3 covered, with Scope 3 targets."
+    },
+    "verification": {
+      "quote": "Independent auditors report",
+      "page": 8,
+      "value": "financial audit; sustainability assurance not evidenced",
+      "rating": "MED",
+      "reasoning": "An independent auditor's report covers the financial statements; the extract does not clearly evidence external assurance of the emissions data."
+    },
+    "consistency": {
+      "quote": "Hydro's capital allocation is based on strategic priorities",
+      "page": 24,
+      "value": "no contradiction found",
+      "rating": "LOW",
+      "reasoning": "Capital-allocation framework disclosed; no capex or lobbying contradiction with stated climate commitments surfaced."
+    }
+  }
+}

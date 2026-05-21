@@ -1,0 +1,64 @@
+{
+  "ticker": "ZURN.SW",
+  "company_name": "Zurich Insurance Group Ltd",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"our climate transition plan towards our ambition to become a net-zero business by [2050]\" (sustainability-report-2025.pdf, p6). SBTi: Commitment removed. 8-Test: 2 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Insurer climate disclosure \u2014 net-zero-business ambition with a launched transition plan, quantified targets on explicit 2019/2022 baselines, PCAF-based insurance-associated emissions, independent assurance report. One MED (assurance level).",
+  "dimensions": {
+    "specificity": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "our climate transition plan towards our ambition to become a net-zero business by [2050]",
+      "page": 6.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

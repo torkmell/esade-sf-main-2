@@ -1,0 +1,29 @@
+You are an ESG forensic analyst. For UCB S.A. (UCB.BR), analyse the
+most recent sustainability report — its full page-marked text is in source_text.txt
+in this folder — and assess each of the 8 greenwashing dimensions.
+
+For each dimension provide: (a) direct quote with page number, (b) numeric value or
+factual statement, (c) red-flag rating LOW / MED / HIGH / MISSING, (d) 1-2 sentences
+of reasoning. If a dimension has no information, mark it MISSING — never invent.
+
+Output ONLY valid JSON, saved as outputs/rag/greenwash_UCB.BR.json:
+{
+  "ticker": "UCB.BR", "company_name": "UCB S.A.",
+  "extraction_date": "YYYY-MM-DD", "analyst_note": "...",
+  "dimensions": {
+    "specificity":  {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null},
+    "metric":       {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null},
+    "baseline":     {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null},
+    "target":       {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null},
+    "time_horizon": {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null},
+    "scope":        {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null},
+    "verification": {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null},
+    "consistency":  {"quote": null, "page": null, "value": null, "rating": null, "reasoning": null}
+  }
+}
+Red-flag guidance: specificity LOW=exact wording / HIGH=vague; metric LOW=numeric /
+HIGH=no numbers; baseline LOW=reference present / HIGH=absent or cherry-picked;
+target LOW=binding / HIGH=non-binding or missing; time_horizon LOW=near-term /
+HIGH=2050+ only; scope LOW=clear coverage / HIGH=ambiguous; verification
+LOW=externally assured / HIGH=self-reported; consistency LOW=capex matches claims /
+HIGH=contradiction.

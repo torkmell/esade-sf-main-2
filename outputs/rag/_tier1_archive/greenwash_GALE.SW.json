@@ -1,0 +1,64 @@
+{
+  "ticker": "GALE.SW",
+  "company_name": "Galenica AG",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Galenica is mid-transition: a net-zero-2050 commitment and a documented transition plan, but SBTi targets are committed-not-yet-validated. Four MED flags (metric, target, time horizon, verification); no HIGH flags \u2014 consistent with the IC 'MONITOR' disposition.",
+  "dimensions": {
+    "specificity": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65,
+      "value": "net zero by 2050",
+      "rating": "LOW",
+      "reasoning": "Clear net-zero commitment supported by a documented transition plan."
+    },
+    "metric": {
+      "quote": "Galenica commits to reducing absolute Scope 1+2 greenhouse gas [emissions]",
+      "page": 87,
+      "value": "commitment stated; validated % pending",
+      "rating": "MED",
+      "reasoning": "An absolute Scope 1+2 reduction commitment is stated, but no validated headline percentage is surfaced \u2014 consistent with SBTi commitment-not-yet-validated status."
+    },
+    "baseline": {
+      "quote": "65% by 2035 compared to 2023 base year",
+      "page": 75,
+      "value": "2023",
+      "rating": "LOW",
+      "reasoning": "Explicit 2023 base year referenced for reduction targets."
+    },
+    "target": {
+      "quote": "pathways in line with the Science Based Targets (SBTi)",
+      "page": 65,
+      "value": "SBTi committed, not yet validated",
+      "rating": "MED",
+      "reasoning": "An SBTi commitment is registered but validated targets are pending (SBTi 'Committed' status) \u2014 weaker than a validated target."
+    },
+    "time_horizon": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65,
+      "value": "2050 endpoint; near-term unclear",
+      "rating": "MED",
+      "reasoning": "The headline horizon is the long-dated 2050 net-zero; a near-term (<=2030) climate milestone is not clearly evidenced in the report."
+    },
+    "scope": {
+      "quote": "Other GHG emissions (Scope 3) tCO2e 396,400",
+      "page": 12,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scope 1+2 reported and a full Scope 3 screen completed and reported."
+    },
+    "verification": {
+      "quote": "2025 Data externally assured (limited assurance)",
+      "page": 95,
+      "value": "limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally assured, but only to a limited assurance level."
+    },
+    "consistency": {
+      "quote": "The transition plan - and thus the consistent management of our energy",
+      "page": 91,
+      "value": "transition plan present",
+      "rating": "LOW",
+      "reasoning": "Documented transition plan; no capex or lobbying contradiction surfaced."
+    }
+  }
+}

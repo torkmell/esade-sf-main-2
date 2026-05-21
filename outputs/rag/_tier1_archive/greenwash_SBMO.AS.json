@@ -1,0 +1,64 @@
+{
+  "ticker": "SBMO.AS",
+  "company_name": "SBM Offshore NV",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Offshore-energy contractor. Disclosure is structured (2016 base year, intermediary 2030 targets, ISAE limited assurance) but four MED flags reflect an offset-reliant near-term 'climate neutral' claim, SBTi-guideline-based (not validated) targets, and a fossil-linked capex profile that the company discloses transparently.",
+  "dimensions": {
+    "specificity": {
+      "quote": "Including the use of certified climate projects to compensate any residual scope 1 and 2 emissions",
+      "page": 12,
+      "value": "climate neutral 2025 via offsets",
+      "rating": "MED",
+      "reasoning": "The near-term 'Climate Neutral by 2025' claim relies on offset/compensation credits \u2014 disclosed transparently, but a weaker claim form than gross reduction."
+    },
+    "metric": {
+      "quote": "Source 100% renewable energy by 2030",
+      "page": 11,
+      "value": "100% renewables 2030; net zero 2050",
+      "rating": "LOW",
+      "reasoning": "Quantified renewable-energy and climate-neutrality targets."
+    },
+    "baseline": {
+      "quote": "The 2016 base year considers the emissions performance of 202 kg CO2e/tonnes of HC",
+      "page": 12,
+      "value": "2016",
+      "rating": "LOW",
+      "reasoning": "Explicit 2016 base year."
+    },
+    "target": {
+      "quote": "targets based on guidelines of the Science Based Targets [initiative]",
+      "page": 101,
+      "value": "SBTi-guideline-based, not validated",
+      "rating": "MED",
+      "reasoning": "Targets are built on SBTi guidelines but the extract does not confirm formal SBTi validation."
+    },
+    "time_horizon": {
+      "quote": "net zero by 2050, with intermediary targets for 2030",
+      "page": 21,
+      "value": "2025 / 2030 / 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2025/2030 milestones present alongside the 2050 endpoint."
+    },
+    "scope": {
+      "quote": "Climate Neutral by 2025 for Scope 1 and [2] ... intensity for Scope 3 - Downstream",
+      "page": 11,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Scope 1, 2 and a Scope 3 downstream intensity measure covered."
+    },
+    "verification": {
+      "quote": "Limited Assurance Report of the Independent [auditor]",
+      "page": 3,
+      "value": "limited assurance",
+      "rating": "MED",
+      "reasoning": "Externally assured, but a limited assurance level."
+    },
+    "consistency": {
+      "quote": "The CAPEX related to oil-related activities in 2025 is [disclosed]",
+      "page": 104,
+      "value": "fossil-linked capex disclosed",
+      "rating": "MED",
+      "reasoning": "Oil-related capex is disclosed alongside new-energy capital allocation; the capex profile remains fossil-linked \u2014 a genuine consistency watch-point, disclosed transparently."
+    }
+  }
+}

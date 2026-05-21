@@ -1,0 +1,5 @@
+PRIMARY (used for 8-Test): sustainability-report-2025.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - annual-report-2025-en.pdf
+  - climate-transition-plan-2024.pdf

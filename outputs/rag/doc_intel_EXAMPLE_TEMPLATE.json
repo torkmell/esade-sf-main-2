@@ -1,0 +1,109 @@
+{
+  "ticker": "EXAMPLE",
+  "company_name": "Example Company SA",
+  "extraction_date": "2026-05-21",
+  "fields": {
+    "scope1_emissions": {
+      "value": 1250000,
+      "unit": "tCO2e",
+      "year": 2023,
+      "quote": "Direct GHG emissions totalled 1,250,000 tCO2e in FY2023.",
+      "page": 42,
+      "doc": "Sustainability Report 2023",
+      "confidence": "HIGH"
+    },
+    "scope2_emissions": {
+      "value": 340000,
+      "unit": "tCO2e",
+      "year": 2023,
+      "quote": "Market-based Scope 2 emissions were 340,000 tCO2e.",
+      "page": 42,
+      "doc": "Sustainability Report 2023",
+      "confidence": "HIGH"
+    },
+    "scope3_emissions": {
+      "value": null,
+      "unit": null,
+      "year": null,
+      "quote": null,
+      "page": null,
+      "doc": null,
+      "confidence": "MISSING"
+    },
+    "net_zero_target_year": {
+      "value": 2040,
+      "quote": "We commit to net zero by 2040 across all scopes.",
+      "page": 8,
+      "doc": "Sustainability Report 2023",
+      "confidence": "HIGH"
+    },
+    "sbti_status": {
+      "value": "Committed",
+      "quote": "Example Company signed the SBTi Business Ambition in 2022.",
+      "page": 9,
+      "doc": "Sustainability Report 2023",
+      "confidence": "MEDIUM"
+    },
+    "revenue_green_pct": {
+      "value": 38.0,
+      "unit": "%",
+      "quote": "38% of revenues are derived from low-carbon products.",
+      "page": 15,
+      "doc": "Annual Report 2023",
+      "confidence": "MEDIUM"
+    },
+    "eu_taxonomy_eligible": {
+      "value": 52.0,
+      "unit": "%",
+      "quote": "52.3% of turnover is taxonomy-eligible.",
+      "page": 88,
+      "doc": "Annual Report 2023",
+      "confidence": "HIGH"
+    },
+    "eu_taxonomy_aligned": {
+      "value": null,
+      "unit": "%",
+      "quote": null,
+      "page": null,
+      "doc": null,
+      "confidence": "MISSING"
+    },
+    "board_gender_diversity": {
+      "value": 42.0,
+      "unit": "% women",
+      "quote": "42% of board seats are held by women.",
+      "page": 60,
+      "doc": "Annual Report 2023",
+      "confidence": "HIGH"
+    },
+    "biodiversity_risk_flag": {
+      "value": "Low",
+      "quote": "No material operations adjacent to protected areas.",
+      "page": 50,
+      "doc": "Sustainability Report 2023",
+      "confidence": "LOW"
+    },
+    "water_withdrawal": {
+      "value": 2100000,
+      "unit": "m3",
+      "quote": "Total water withdrawal: 2.1 million m3.",
+      "page": 48,
+      "doc": "Sustainability Report 2023",
+      "confidence": "HIGH"
+    },
+    "controversy_flag": {
+      "value": "None identified",
+      "quote": null,
+      "page": null,
+      "doc": null,
+      "confidence": "LOW"
+    },
+    "assurance_provider": {
+      "value": "Deloitte",
+      "quote": "Assured by Deloitte to limited assurance standard.",
+      "page": 95,
+      "doc": "Sustainability Report 2023",
+      "confidence": "HIGH"
+    }
+  }
+}

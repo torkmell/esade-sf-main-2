@@ -1,0 +1,15 @@
+pai_id,pai_name,source_column,data_coverage_pct,status
+pai_1_scope1_2_ghg,"GHG intensity (Scope 1+2, tCO2e/EUR M revenue)",ghgScope1,0.0,Not in dataset
+pai_2_carbon_footprint,Carbon footprint (tCO2e per EUR M invested),,0.0,Not in dataset
+pai_3_ghg_intensity,GHG intensity of investee companies,,0.0,Not in dataset
+pai_4_fossil_fuel_exposure,Exposure to fossil fuel companies (%),fossilFuelsPctEnergyProduction,5.4,Available
+pai_5_nonrenewable_energy,Share of non-renewable energy consumption (%),,0.0,Not in dataset
+pai_6_energy_intensity,Energy consumption intensity per high-impact sector,,0.0,Not in dataset
+pai_7_biodiversity,Activities negatively affecting biodiversity-sensitive areas,,0.0,Not in dataset
+pai_8_water_emissions,Emissions to water,,0.0,Not in dataset
+pai_9_hazardous_waste,Hazardous waste ratio,,0.0,Not in dataset
+pai_10_ungc_oecd,Violations of UNGC principles or OECD MNE guidelines,,0.0,Not in dataset
+pai_11_usgov_supplier,Lack of processes to monitor UNGC/OECD violations,,0.0,Not in dataset
+pai_12_gender_pay,Unadjusted gender pay gap (%),pctGenderPayGapMidOthMgmt,14.4,Available
+pai_13_board_gender,Board gender diversity (% women),pctWomenMgt,0.0,Not in dataset
+pai_14_controversial_weapons,Exposure to controversial weapons,,0.0,Not in dataset

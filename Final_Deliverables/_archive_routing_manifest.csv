@@ -1,0 +1,124 @@
+archive_folder,project_folder,match_status,filename,classification,target_path,size_mb
+01_Raiffeisen_Bank_International_AG,RBI_Raiffeisen_Bank_International_AG,EXACT,2026-03-02 RBI Annual Report 2025.pdf,company_reports,data/rag/reports/RBI_Raiffeisen_Bank_International_AG/company_reports/2026-03-02 RBI Annual Report 2025.pdf,25.92
+01_Raiffeisen_Bank_International_AG,RBI_Raiffeisen_Bank_International_AG,EXACT,RBI_Pillar 3 Report_quantitative_31122024_v20250625.xlsx,company_reports,data/rag/reports/RBI_Raiffeisen_Bank_International_AG/company_reports/RBI_Pillar 3 Report_quantitative_31122024_v20250625.xlsx,1.06
+01_Raiffeisen_Bank_International_AG,RBI_Raiffeisen_Bank_International_AG,EXACT,UK Modern Slavery Act.pdf,company_reports,data/rag/reports/RBI_Raiffeisen_Bank_International_AG/company_reports/UK Modern Slavery Act.pdf,2.64
+01_Raiffeisen_Bank_International_AG,RBI_Raiffeisen_Bank_International_AG,EXACT,dei-statement-2025.pdf,company_reports,data/rag/reports/RBI_Raiffeisen_Bank_International_AG/company_reports/dei-statement-2025.pdf,0.12
+02_Alfa_Laval_AB,ALFA_Alfa_Laval_AB,EXACT,annual-and-sustainability-report-2025.pdf,company_reports,data/rag/reports/ALFA_Alfa_Laval_AB/company_reports/annual-and-sustainability-report-2025.pdf,5.31
+03_Norsk_Hydro_ASA,NOH1_Norsk_Hydro_ASA,EXACT,integrated-annual-report-2025.pdf,company_reports,data/rag/reports/NOH1_Norsk_Hydro_ASA/company_reports/integrated-annual-report-2025.pdf,7.55
+03_Norsk_Hydro_ASA,NOH1_Norsk_Hydro_ASA,EXACT,sustainability-statements-2025.xlsx,company_reports,data/rag/reports/NOH1_Norsk_Hydro_ASA/company_reports/sustainability-statements-2025.xlsx,0.36
+04_Addtech_AB_Class_B,ADDT_B_Addtech_AB_Class_B,EXACT,Addtech-Annual-Report-24-25.pdf,company_reports,data/rag/reports/ADDT_B_Addtech_AB_Class_B/company_reports/Addtech-Annual-Report-24-25.pdf,7.55
+05_Aegon_Ltd,AGN_Aegon_Ltd,EXACT,aegon-Integrated-annual-report-2025.pdf,company_reports,data/rag/reports/AGN_Aegon_Ltd/company_reports/aegon-Integrated-annual-report-2025.pdf,6.71
+06_AIB_Group_plc,A5G_AIB_Group_PLC,EXACT,aib-climate-transition-plan-final.pdf,company_reports,data/rag/reports/A5G_AIB_Group_PLC/company_reports/aib-climate-transition-plan-final.pdf,6.0
+06_AIB_Group_plc,A5G_AIB_Group_PLC,EXACT,aib-group-plc-afr-report-2025.pdf,company_reports,data/rag/reports/A5G_AIB_Group_PLC/company_reports/aib-group-plc-afr-report-2025.pdf,10.43
+06_AIB_Group_plc,A5G_AIB_Group_PLC,EXACT,impact-report-2024-2025.pdf,company_reports,data/rag/reports/A5G_AIB_Group_PLC/company_reports/impact-report-2024-2025.pdf,2.17
+06_AIB_Group_plc,A5G_AIB_Group_PLC,EXACT,our-strategic-progress.pdf,company_reports,data/rag/reports/A5G_AIB_Group_PLC/company_reports/our-strategic-progress.pdf,0.23
+06_AIB_Group_plc,A5G_AIB_Group_PLC,EXACT,sustainability-disclosures-tables-2025.pdf,company_reports,data/rag/reports/A5G_AIB_Group_PLC/company_reports/sustainability-disclosures-tables-2025.pdf,0.64
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,2025-lbg-annual-report.pdf,company_reports,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/company_reports/2025-lbg-annual-report.pdf,11.08
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,2025-lbg-modern-slavery-statement.pdf,company_reports,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/company_reports/2025-lbg-modern-slavery-statement.pdf,2.21
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,2025-lbg-sustainability-data-sheet.xlsx,company_reports,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/company_reports/2025-lbg-sustainability-data-sheet.xlsx,0.15
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,2025-lbg-sustainability-report.pdf,company_reports,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/company_reports/2025-lbg-sustainability-report.pdf,11.75
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,2025-lbg-sustainable-financing-framework-spo.pdf,external_evidence,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/external_evidence/2025-lbg-sustainable-financing-framework-spo.pdf,1.56
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,2026-lbg-animal-welfare-and-unesco-whs-sector-statement.pdf,company_reports,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/company_reports/2026-lbg-animal-welfare-and-unesco-whs-sector-statement.pdf,0.25
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,4sustainable-farming-nature-report-oct2025.pdf,company_reports,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/company_reports/4sustainable-farming-nature-report-oct2025.pdf,11.48
+07_Lloyds_Banking_Group_plc,LLOY_Lloyds_Banking_Group_PLC,ALIAS,lbg-gender-ethnicity-pay-gap-report-2025.pdf,company_reports,data/rag/reports/LLOY_Lloyds_Banking_Group_PLC/company_reports/lbg-gender-ethnicity-pay-gap-report-2025.pdf,0.96
+08_SBM_Offshore_NV,IHCB_SBM_Offshore_NV,EXACT,SBM-Offshore-Annual-Report-2025.pdf,company_reports,data/rag/reports/IHCB_SBM_Offshore_NV/company_reports/SBM-Offshore-Annual-Report-2025.pdf,8.59
+09_Zurich_Insurance_Group_Ltd,ZURN_Zurich_Insurance_Group_Ltd,EXACT,annual-report-2025-en.pdf,company_reports,data/rag/reports/ZURN_Zurich_Insurance_Group_Ltd/company_reports/annual-report-2025-en.pdf,20.99
+09_Zurich_Insurance_Group_Ltd,ZURN_Zurich_Insurance_Group_Ltd,EXACT,climate-transition-plan-2024.pdf,company_reports,data/rag/reports/ZURN_Zurich_Insurance_Group_Ltd/company_reports/climate-transition-plan-2024.pdf,3.23
+09_Zurich_Insurance_Group_Ltd,ZURN_Zurich_Insurance_Group_Ltd,EXACT,sustainability-report-2025.pdf,company_reports,data/rag/reports/ZURN_Zurich_Insurance_Group_Ltd/company_reports/sustainability-report-2025.pdf,7.29
+10_NatWest_Group_Plc,NWG_NatWest_Group_PLC,ALIAS,2025-annual-report-and-accounts.pdf,company_reports,data/rag/reports/NWG_NatWest_Group_PLC/company_reports/2025-annual-report-and-accounts.pdf,30.32
+10_NatWest_Group_Plc,NWG_NatWest_Group_PLC,ALIAS,2025-climate-transition-plan-report.pdf,company_reports,data/rag/reports/NWG_NatWest_Group_PLC/company_reports/2025-climate-transition-plan-report.pdf,8.24
+10_NatWest_Group_Plc,NWG_NatWest_Group_PLC,ALIAS,nwg-sustainability-basis-of-reporting-2025.pdf,company_reports,data/rag/reports/NWG_NatWest_Group_PLC/company_reports/nwg-sustainability-basis-of-reporting-2025.pdf,1.26
+10_NatWest_Group_Plc,NWG_NatWest_Group_PLC,ALIAS,sustainability-review-2025.pdf,company_reports,data/rag/reports/NWG_NatWest_Group_PLC/company_reports/sustainability-review-2025.pdf,3.35
+11_Schneider_Electric_SE,SU_Schneider_Electric_SE,ALIAS,2023-universal-registration-document.pdf,company_reports,data/rag/reports/SU_Schneider_Electric_SE/company_reports/2023-universal-registration-document.pdf,14.88
+11_Schneider_Electric_SE,SU_Schneider_Electric_SE,ALIAS,2024 Schneider Electric-Net-Zero Commitment.pdf,company_reports,data/rag/reports/SU_Schneider_Electric_SE/company_reports/2024 Schneider Electric-Net-Zero Commitment.pdf,0.68
+11_Schneider_Electric_SE,SU_Schneider_Electric_SE,ALIAS,2025 Sustainability Report.pdf,company_reports,data/rag/reports/SU_Schneider_Electric_SE/company_reports/2025 Sustainability Report.pdf,15.45
+11_Schneider_Electric_SE,SU_Schneider_Electric_SE,ALIAS,2025-universal-registration-document.pdf,company_reports,data/rag/reports/SU_Schneider_Electric_SE/company_reports/2025-universal-registration-document.pdf,46.37
+11_Schneider_Electric_SE,SU_Schneider_Electric_SE,ALIAS,Schneider Electric - Sustainability Report - Q1 2026 Results.pdf,company_reports,data/rag/reports/SU_Schneider_Electric_SE/company_reports/Schneider Electric - Sustainability Report - Q1 2026 Results.pdf,6.38
+11_Schneider_Electric_SE,SU_Schneider_Electric_SE,ALIAS,Schneider Sustainability Impact 2021-25.pdf,company_reports,data/rag/reports/SU_Schneider_Electric_SE/company_reports/Schneider Sustainability Impact 2021-25.pdf,1.73
+12_ABB_Ltd,ABBN_ABB_Ltd,EXACT,9AKK108469A1421_en_C_ABB Ltd Modern Slavery Statement 2025 (English).pdf,company_reports,data/rag/reports/ABBN_ABB_Ltd/company_reports/9AKK108469A1421_en_C_ABB Ltd Modern Slavery Statement 2025 (English).pdf,0.48
+12_ABB_Ltd,ABBN_ABB_Ltd,EXACT,ABB Corporate Governance Report 2025.pdf,company_reports,data/rag/reports/ABBN_ABB_Ltd/company_reports/ABB Corporate Governance Report 2025.pdf,0.98
+12_ABB_Ltd,ABBN_ABB_Ltd,EXACT,ABB Financial Report 2025.pdf,company_reports,data/rag/reports/ABBN_ABB_Ltd/company_reports/ABB Financial Report 2025.pdf,2.73
+12_ABB_Ltd,ABBN_ABB_Ltd,EXACT,ABB Integrated Report 2025.pdf,company_reports,data/rag/reports/ABBN_ABB_Ltd/company_reports/ABB Integrated Report 2025.pdf,14.6
+12_ABB_Ltd,ABBN_ABB_Ltd,EXACT,ABB Sustainability Statement 2025.pdf,company_reports,data/rag/reports/ABBN_ABB_Ltd/company_reports/ABB Sustainability Statement 2025.pdf,5.73
+12_ABB_Ltd,ABBN_ABB_Ltd,EXACT,ABB's Climate policy view_June 2024.pdf,company_reports,data/rag/reports/ABBN_ABB_Ltd/company_reports/ABB's Climate policy view_June 2024.pdf,0.04
+12_ABB_Ltd,ABBN_ABB_Ltd,EXACT,ABB's Energy efficiency policy view_June 2024.pdf,company_reports,data/rag/reports/ABBN_ABB_Ltd/company_reports/ABB's Energy efficiency policy view_June 2024.pdf,0.08
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,Environmental_Policy_Concept-24.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/Environmental_Policy_Concept-24.pdf,0.45
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,Green_Finance_Report_2025_en.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/Green_Finance_Report_2025_en.pdf,2.36
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,Report_2025_en.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/Report_2025_en.pdf,15.34
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,SPS_ESG-Booklet_EN.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/SPS_ESG-Booklet_EN.pdf,3.87
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,Sustainability_E_2025-en.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/Sustainability_E_2025-en.pdf,0.76
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,Sustainability_G_2025-en.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/Sustainability_G_2025-en.pdf,0.18
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,Sustainability_Key_Indicators_2025_en.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/Sustainability_Key_Indicators_2025_en.pdf,0.19
+13_Swiss_Prime_Site_AG,SPSN_Swiss_Prime_Site_AG,EXACT,Sustainability_S_2025-en.pdf,company_reports,data/rag/reports/SPSN_Swiss_Prime_Site_AG/company_reports/Sustainability_S_2025-en.pdf,0.44
+14_UCB_SA,UCB_UCB_SA,EXACT,2022-May_UCB-Corp-Gov-Charter.pdf,company_reports,data/rag/reports/UCB_UCB_SA/company_reports/2022-May_UCB-Corp-Gov-Charter.pdf,1.04
+14_UCB_SA,UCB_UCB_SA,EXACT,iar_2025-web.pdf,company_reports,data/rag/reports/UCB_UCB_SA/company_reports/iar_2025-web.pdf,28.34
+15_Logitech,LOGN_Logitech_International_SA,EXACT,2025-Annual-General-Meeting-Invitation-Proxy-Statement-and-Annual-Report.pdf,company_reports,data/rag/reports/LOGN_Logitech_International_SA/company_reports/2025-Annual-General-Meeting-Invitation-Proxy-Statement-and-Annual-Report.pdf,8.06
+15_Logitech,LOGN_Logitech_International_SA,EXACT,2025-Non-Financial-Matters-Report.pdf,company_reports,data/rag/reports/LOGN_Logitech_International_SA/company_reports/2025-Non-Financial-Matters-Report.pdf,4.46
+15_Logitech,LOGN_Logitech_International_SA,EXACT,Appendix-1g-Corporate-Governance-Principles-approved-September-13-2023-2.pdf,company_reports,data/rag/reports/LOGN_Logitech_International_SA/company_reports/Appendix-1g-Corporate-Governance-Principles-approved-September-13-2023-2.pdf,0.11
+15_Logitech,LOGN_Logitech_International_SA,EXACT,fy25-sasb-report.pdf,company_reports,data/rag/reports/LOGN_Logitech_International_SA/company_reports/fy25-sasb-report.pdf,0.38
+15_Logitech,LOGN_Logitech_International_SA,EXACT,fy26-statement-on-human-rights-labor-and-supply-chain-due-diligence-may-2026.pdf,company_reports,data/rag/reports/LOGN_Logitech_International_SA/company_reports/fy26-statement-on-human-rights-labor-and-supply-chain-due-diligence-may-2026.pdf,0.83
+15_Logitech,LOGN_Logitech_International_SA,EXACT,logitech-fy25-impact-highlights.pdf,company_reports,data/rag/reports/LOGN_Logitech_International_SA/company_reports/logitech-fy25-impact-highlights.pdf,5.13
+16_Rentokil_Initial_plc,RTO_Rentokil_Initial_PLC,EXACT,Gender Pay Gap report 2025 Final.pdf,company_reports,data/rag/reports/RTO_Rentokil_Initial_PLC/company_reports/Gender Pay Gap report 2025 Final.pdf,4.69
+16_Rentokil_Initial_plc,RTO_Rentokil_Initial_PLC,EXACT,Modern Slavery Statement 2025.pdf,company_reports,data/rag/reports/RTO_Rentokil_Initial_PLC/company_reports/Modern Slavery Statement 2025.pdf,0.67
+16_Rentokil_Initial_plc,RTO_Rentokil_Initial_PLC,EXACT,Rentokil_Initial_Responsible Business Report_2025_Final.pdf,company_reports,data/rag/reports/RTO_Rentokil_Initial_PLC/company_reports/Rentokil_Initial_Responsible Business Report_2025_Final.pdf,11.12
+16_Rentokil_Initial_plc,RTO_Rentokil_Initial_PLC,EXACT,rentokil-ar25.pdf,company_reports,data/rag/reports/RTO_Rentokil_Initial_PLC/company_reports/rentokil-ar25.pdf,12.23
+17_Klepierre_SA,LI_Klepierre_SA,ALIAS,document-d-enregistrement-universel-2025-69cbd8e41b4ad.pdf,company_reports,data/rag/reports/LI_Klepierre_SA/company_reports/document-d-enregistrement-universel-2025-69cbd8e41b4ad.pdf,9.2
+17_Klepierre_SA,LI_Klepierre_SA,ALIAS,klepierre_2025_fy_pack.pdf,company_reports,data/rag/reports/LI_Klepierre_SA/company_reports/klepierre_2025_fy_pack.pdf,15.17
+18_Arcadis_NV,ARCAD_Arcadis_NV,EXACT,arcadis-annual-integrated-report-2025.pdf,company_reports,data/rag/reports/ARCAD_Arcadis_NV/company_reports/arcadis-annual-integrated-report-2025.pdf,47.72
+19_LOreal_SA,OR_LOreal_SA,ALIAS,ESG Performance.pdf,company_reports,data/rag/reports/OR_LOreal_SA/company_reports/ESG Performance.pdf,12.37
+19_LOreal_SA,OR_LOreal_SA,ALIAS,Forest Policy.pdf,company_reports,data/rag/reports/OR_LOreal_SA/company_reports/Forest Policy.pdf,0.18
+19_LOreal_SA,OR_LOreal_SA,ALIAS,Global Bioethics Standard.pdf,company_reports,data/rag/reports/OR_LOreal_SA/company_reports/Global Bioethics Standard.pdf,0.19
+19_LOreal_SA,OR_LOreal_SA,ALIAS,L'Ore╠üal Human Rights Policy.pdf,company_reports,data/rag/reports/OR_LOreal_SA/company_reports/L'Ore╠üal Human Rights Policy.pdf,0.22
+19_LOreal_SA,OR_LOreal_SA,ALIAS,L'Ore╠üal SA (OR-FR) - Annual Report for period end 31-Dec-2025 (English) - PDF.pdf,company_reports,data/rag/reports/OR_LOreal_SA/company_reports/L'Ore╠üal SA (OR-FR) - Annual Report for period end 31-Dec-2025 (English) - PDF.pdf,18.06
+19_LOreal_SA,OR_LOreal_SA,ALIAS,LOREAL_DEU_2025_EN.pdf,company_reports,data/rag/reports/OR_LOreal_SA/company_reports/LOREAL_DEU_2025_EN.pdf,18.11
+20_Nexans_SA,NEX_Nexans_SA,EXACT,2025_nexans-annual-consolidated-financial-statements.pdf,company_reports,data/rag/reports/NEX_Nexans_SA/company_reports/2025_nexans-annual-consolidated-financial-statements.pdf,1.57
+20_Nexans_SA,NEX_Nexans_SA,EXACT,nexans-sustainability-highlights-2025.pdf,company_reports,data/rag/reports/NEX_Nexans_SA/company_reports/nexans-sustainability-highlights-2025.pdf,62.21
+21_Wartsila_Oyj_Abp,WRT1V_Wartsila_Oyj_Abp,EXACT,corporate-governance-statement-2025.pdf,company_reports,data/rag/reports/WRT1V_Wartsila_Oyj_Abp/company_reports/corporate-governance-statement-2025.pdf,2.71
+21_Wartsila_Oyj_Abp,WRT1V_Wartsila_Oyj_Abp,EXACT,wa╠êrtsila╠ê-annual-report-2025.pdf,company_reports,data/rag/reports/WRT1V_Wartsila_Oyj_Abp/company_reports/wa╠êrtsila╠ê-annual-report-2025.pdf,55.93
+22_AstraZeneca_PLC,AZN_AstraZeneca_PLC,EXACT,AstraZeneca_AR_2025.pdf,company_reports,data/rag/reports/AZN_AstraZeneca_PLC/company_reports/AstraZeneca_AR_2025.pdf,11.16
+22_AstraZeneca_PLC,AZN_AstraZeneca_PLC,EXACT,Sustainability Data Reporting Criteria 2025.pdf,company_reports,data/rag/reports/AZN_AstraZeneca_PLC/company_reports/Sustainability Data Reporting Criteria 2025.pdf,1.18
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,1.-MERLIN-CORPORATE-SOCIAL-RESPONSIBILITY-AND-SUSTAINABILITY-POLICY_v2.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/1.-MERLIN-CORPORATE-SOCIAL-RESPONSIBILITY-AND-SUSTAINABILITY-POLICY_v2.pdf,0.12
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,Biodiversity-policy_v2.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/Biodiversity-policy_v2.pdf,0.02
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,EINF-Version-Ingles-2025.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/EINF-Version-Ingles-2025.pdf,13.6
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,Graph-2.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/Graph-2.pdf,0.04
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,Graph-3.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/Graph-3.pdf,0.04
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,Graph.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/Graph.pdf,0.09
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,IAGC-FY25-ENG.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/IAGC-FY25-ENG.pdf,1.91
+23_MERLIN_Properties_SOCIMI_SA,MRL_MERLIN_Properties_SOCIMI_SA,ALIAS,Results-report-FY25-3.pdf,company_reports,data/rag/reports/MRL_MERLIN_Properties_SOCIMI_SA/company_reports/Results-report-FY25-3.pdf,4.92
+24_EON_SE,EOAN_EON_SE,EXACT,GB25-gesamt-EN_final.pdf,company_reports,data/rag/reports/EOAN_EON_SE/company_reports/GB25-gesamt-EN_final.pdf,7.32
+24_EON_SE,EOAN_EON_SE,EXACT,eon-sustainability-factbook-2025.pdf,company_reports,data/rag/reports/EOAN_EON_SE/company_reports/eon-sustainability-factbook-2025.pdf,3.27
+25_Sweco_AB_Class_B,SWEC_B_Sweco_AB_Class_B,EXACT,Sweco-Annual-Report-2025-2.pdf,company_reports,data/rag/reports/SWEC_B_Sweco_AB_Class_B/company_reports/Sweco-Annual-Report-2025-2.pdf,11.3
+26_Galenica_AG,GALE_Galenica_AG,EXACT,3695.ar.en.2025.pdf,company_reports,data/rag/reports/GALE_Galenica_AG/company_reports/3695.ar.en.2025.pdf,23.05
+27_Industria_de_Diseno_Textil_SA,ITX_Inditex_SA,ALIAS,ENGL-CCAAeIGGrupo2025.pdf,company_reports,data/rag/reports/ITX_Inditex_SA/company_reports/ENGL-CCAAeIGGrupo2025.pdf,27.38
+27_Industria_de_Diseno_Textil_SA,ITX_Inditex_SA,ALIAS,SustainabilityReport.pdf,company_reports,data/rag/reports/ITX_Inditex_SA/company_reports/SustainabilityReport.pdf,16.14
+28_Orion_Oyj_Class_B,ORNBV_Orion_Oyj_Class_B,EXACT,orion-financial-statement-documents-2025-2.pdf,company_reports,data/rag/reports/ORNBV_Orion_Oyj_Class_B/company_reports/orion-financial-statement-documents-2025-2.pdf,9.26
+28_Orion_Oyj_Class_B,ORNBV_Orion_Oyj_Class_B,EXACT,orion-financial-statement-documents-2025.pdf,company_reports,data/rag/reports/ORNBV_Orion_Oyj_Class_B/company_reports/orion-financial-statement-documents-2025.pdf,9.26
+29_Benefit_Systems,BFT_Benefit_Systems_SA,EXACT,101517.sar.en.2025.pdf,company_reports,data/rag/reports/BFT_Benefit_Systems_SA/company_reports/101517.sar.en.2025.pdf,7.16
+29_Benefit_Systems,BFT_Benefit_Systems_SA,EXACT,BSSA_BD3Y0K_ENG_Indep_Auditor_Limit_Assur_Report_Sustainability_Statem.pdf,external_evidence,data/rag/reports/BFT_Benefit_Systems_SA/external_evidence/BSSA_BD3Y0K_ENG_Indep_Auditor_Limit_Assur_Report_Sustainability_Statem.pdf,0.21
+29_Benefit_Systems,BFT_Benefit_Systems_SA,EXACT,Consolidated_Financial_Statements_of_the_Benefit_Systems_Group_for_2025.pdf,company_reports,data/rag/reports/BFT_Benefit_Systems_SA/company_reports/Consolidated_Financial_Statements_of_the_Benefit_Systems_Group_for_2025.pdf,2.21
+30_Ipsen_SA,IPN_Ipsen_SA,EXACT,Ipsen-2025-Integrated-Annual-Report.pdf,company_reports,data/rag/reports/IPN_Ipsen_SA/company_reports/Ipsen-2025-Integrated-Annual-Report.pdf,6.76
+30_Ipsen_SA,IPN_Ipsen_SA,EXACT,ipsen-universal-registration-document-2025-english.pdf,company_reports,data/rag/reports/IPN_Ipsen_SA/company_reports/ipsen-universal-registration-document-2025-english.pdf,10.63
+31_Next_plc,NXT_Next_PLC,EXACT,annual-report-and-accounts-jan-2026.pdf,company_reports,data/rag/reports/NXT_Next_PLC/company_reports/annual-report-and-accounts-jan-2026.pdf,8.05
+31_Next_plc,NXT_Next_PLC,EXACT,next-cr-report.pdf,company_reports,data/rag/reports/NXT_Next_PLC/company_reports/next-cr-report.pdf,13.06
+32_Swedish_Orphan_Biovitrum_AB,SOBI_Swedish_Orphan_Biovitrum_AB,EXACT,202603260876-1.pdf,company_reports,data/rag/reports/SOBI_Swedish_Orphan_Biovitrum_AB/company_reports/202603260876-1.pdf,11.19
+33_Tele2_AB_Class_B,TEL2_B_Tele2_AB_Class_B,EXACT,Tele2_Climate_Transition_Plan_2025.pdf,company_reports,data/rag/reports/TEL2_B_Tele2_AB_Class_B/company_reports/Tele2_Climate_Transition_Plan_2025.pdf,2.31
+33_Tele2_AB_Class_B,TEL2_B_Tele2_AB_Class_B,EXACT,tele2-annual-and-sustainability-report-2025.pdf,company_reports,data/rag/reports/TEL2_B_Tele2_AB_Class_B/company_reports/tele2-annual-and-sustainability-report-2025.pdf,3.77
+34_Moncler_SpA,MONC_Moncler_SpA,EXACT,Environmental-Policy-8.pdf,company_reports,data/rag/reports/MONC_Moncler_SpA/company_reports/Environmental-Policy-8.pdf,1.68
+34_Moncler_SpA,MONC_Moncler_SpA,EXACT,Moncler-Group-Annual-Report-2025.pdf,company_reports,data/rag/reports/MONC_Moncler_SpA/company_reports/Moncler-Group-Annual-Report-2025.pdf,11.17
+34_Moncler_SpA,MONC_Moncler_SpA,EXACT,Moncler-Group-Annual-Report-2025_Sustainability.pdf,company_reports,data/rag/reports/MONC_Moncler_SpA/company_reports/Moncler-Group-Annual-Report-2025_Sustainability.pdf,45.4
+35_ASML_Holding_NV,ASME_ASML_Holding_NV,EXACT,ASML Holding NV (ASML-NL) - Annual Report for period end 31-Dec-2025 (English) - PDF.pdf,company_reports,data/rag/reports/ASME_ASML_Holding_NV/company_reports/ASML Holding NV (ASML-NL) - Annual Report for period end 31-Dec-2025 (English) - PDF.pdf,22.82
+35_ASML_Holding_NV,ASME_ASML_Holding_NV,EXACT,asml-2025-annual-report-based-on-us-gaap.pdf,company_reports,data/rag/reports/ASME_ASML_Holding_NV/company_reports/asml-2025-annual-report-based-on-us-gaap.pdf,22.82
+36_MITIE_Group_PLC,MTO_MITIE_Group_PLC,EXACT,ESG-Strategy-2025.pdf,company_reports,data/rag/reports/MTO_MITIE_Group_PLC/company_reports/ESG-Strategy-2025.pdf,4.22
+36_MITIE_Group_PLC,MTO_MITIE_Group_PLC,EXACT,Mitie-Annual-Report-2025.pdf,company_reports,data/rag/reports/MTO_MITIE_Group_PLC/company_reports/Mitie-Annual-Report-2025.pdf,15.19
+36_MITIE_Group_PLC,MTO_MITIE_Group_PLC,EXACT,Sustainability-statement-Annual-Report-2025.pdf,company_reports,data/rag/reports/MTO_MITIE_Group_PLC/company_reports/Sustainability-statement-Annual-Report-2025.pdf,1.45
+37_Publicis_Groupe_SA,PUB_Publicis_Groupe_SA,EXACT,Environment_Consume_Less_&_Better.pdf,company_reports,data/rag/reports/PUB_Publicis_Groupe_SA/company_reports/Environment_Consume_Less_&_Better.pdf,0.36
+37_Publicis_Groupe_SA,PUB_Publicis_Groupe_SA,EXACT,comptes-consolides-2025-12-ENvdef.pdf,company_reports,data/rag/reports/PUB_Publicis_Groupe_SA/company_reports/comptes-consolides-2025-12-ENvdef.pdf,5.31
+38_AIXTRON_SE,AIXA_AIXTRON_SE,EXACT,Annual Report 2025.pdf,company_reports,data/rag/reports/AIXA_AIXTRON_SE/company_reports/Annual Report 2025.pdf,7.84
+38_AIXTRON_SE,AIXA_AIXTRON_SE,EXACT,ESG-Policy.pdf,company_reports,data/rag/reports/AIXA_AIXTRON_SE/company_reports/ESG-Policy.pdf,0.25
+38_AIXTRON_SE,AIXA_AIXTRON_SE,EXACT,Project-Portrait Ghani Solar Power Project_EN.pdf,external_evidence,data/rag/reports/AIXA_AIXTRON_SE/external_evidence/Project-Portrait Ghani Solar Power Project_EN.pdf,0.64
+39_Vallourec_SA,VK_Vallourec_SA,EXACT,VALLOUREC-DEU-2025-ENG-MEL.pdf,company_reports,data/rag/reports/VK_Vallourec_SA/company_reports/VALLOUREC-DEU-2025-ENG-MEL.pdf,7.7
+39_Vallourec_SA,VK_Vallourec_SA,EXACT,Vallourec_Sustainable_Development_Charter.pdf,company_reports,data/rag/reports/VK_Vallourec_SA/company_reports/Vallourec_Sustainable_Development_Charter.pdf,0.11
+39_Vallourec_SA,VK_Vallourec_SA,EXACT,our_sustainable_development_goals.pdf,company_reports,data/rag/reports/VK_Vallourec_SA/company_reports/our_sustainable_development_goals.pdf,0.15
+39_Vallourec_SA,VK_Vallourec_SA,EXACT,vallourec-q4-2025-results-presentation.pdf,company_reports,data/rag/reports/VK_Vallourec_SA/company_reports/vallourec-q4-2025-results-presentation.pdf,1.57
+40_Subsea_7_SA,SUBC_Subsea_7_SA,EXACT,2022 TCFD Report.pdf,company_reports,data/rag/reports/SUBC_Subsea_7_SA/company_reports/2022 TCFD Report.pdf,0.24
+40_Subsea_7_SA,SUBC_Subsea_7_SA,EXACT,annual-report.pdf,company_reports,data/rag/reports/SUBC_Subsea_7_SA/company_reports/annual-report.pdf,15.52

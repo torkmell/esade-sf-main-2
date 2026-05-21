@@ -1,0 +1,62 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Full Pipeline (All 13 Agents)",
+      "type": "shell",
+      "command": "venv/Scripts/python.exe run_pipeline.py",
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "echo": true, "reveal": "always", "focus": true, "panel": "new", "clear": true, "showReuseMessage": false },
+      "problemMatcher": []
+    },
+    {
+      "label": "Agent 01 — Mandate",
+      "type": "shell",
+      "command": "venv/Scripts/python.exe -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=sustainable-finance notebooks/agent01_mandate.ipynb",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Agent 02 — Data Ingestion",
+      "type": "shell",
+      "command": "venv/Scripts/python.exe -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=sustainable-finance notebooks/agent02_data_ingestion.ipynb",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Agent 09 — Greenwashing",
+      "type": "shell",
+      "command": "venv/Scripts/python.exe -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=sustainable-finance notebooks/agent09_greenwashing.ipynb",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Agent 10 — Financial Analysis",
+      "type": "shell",
+      "command": "venv/Scripts/python.exe -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=sustainable-finance notebooks/agent10_financial_analysis.ipynb",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Agent 11 — Portfolio Construction",
+      "type": "shell",
+      "command": "venv/Scripts/python.exe -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=sustainable-finance notebooks/agent11_portfolio_construction.ipynb",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Agent 13 — Reporting",
+      "type": "shell",
+      "command": "venv/Scripts/python.exe -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=sustainable-finance notebooks/agent13_reporting.ipynb",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "🌱 Launch Dashboard",
+      "type": "shell",
+      "command": "venv/Scripts/streamlit.exe run app.py",
+      "presentation": { "echo": true, "reveal": "always", "focus": true, "panel": "new", "clear": true, "showReuseMessage": false },
+      "problemMatcher": []
+    }
+  ]
+}

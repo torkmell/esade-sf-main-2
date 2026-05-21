@@ -1,0 +1,4 @@
+PRIMARY (used for 8-Test): AstraZeneca_AR_2025.pdf
+
+Other PDFs in this folder (use if the primary pick is wrong):
+  - Sustainability Data Reporting Criteria 2025.pdf

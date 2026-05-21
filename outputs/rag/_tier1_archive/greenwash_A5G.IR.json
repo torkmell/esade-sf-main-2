@@ -1,0 +1,64 @@
+{
+  "ticker": "A5G.IR",
+  "company_name": "AIB Group plc",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Source is AIB's 38-page Climate Transition Plan \u2014 strong on specificity, metrics, baselines and SBTi validation. Verification rated MED only because this standalone document is not the externally assured report.",
+  "dimensions": {
+    "specificity": {
+      "quote": "Commitment to decarbonise our own operations by 2030 and our customer [lending portfolio by 2050]",
+      "page": 6,
+      "value": "operations 2030 / portfolio 2050",
+      "rating": "LOW",
+      "reasoning": "Specific dual commitment for operations and the lending book."
+    },
+    "metric": {
+      "quote": "Set SBTi-approved financed emissions targets for 75% of our loan book",
+      "page": 6,
+      "value": "75% of loan book; 51% by 2030",
+      "rating": "LOW",
+      "reasoning": "Quantified financed-emissions and green-lending targets."
+    },
+    "baseline": {
+      "quote": "by 2030 from a 2019 baseline",
+      "page": 7,
+      "value": "2019 ops / 2021 sectors",
+      "rating": "LOW",
+      "reasoning": "Explicit baseline years \u2014 2019 for operations, 2021 for material sector portfolios."
+    },
+    "target": {
+      "quote": "we have a number of validated targets in place for our key sectors through the SBTi",
+      "page": 10,
+      "value": "SBTi-validated",
+      "rating": "LOW",
+      "reasoning": "SBTi-validated sector targets, referenced to a 1.5C pathway."
+    },
+    "time_horizon": {
+      "quote": "decarbonise our own operations by 2030",
+      "page": 6,
+      "value": "2030 near-term + 2050",
+      "rating": "LOW",
+      "reasoning": "Near-term 2030 targets present alongside the 2050 portfolio goal."
+    },
+    "scope": {
+      "quote": "(GHG Scope 3 financed emissions)",
+      "page": 20,
+      "value": "S1+2+3 financed",
+      "rating": "LOW",
+      "reasoning": "Scope 1, 2 and Scope 3 financed emissions covered \u2014 the material scope for a bank."
+    },
+    "verification": {
+      "quote": null,
+      "page": null,
+      "value": "no assurance statement in this document",
+      "rating": "MED",
+      "reasoning": "This is a standalone Climate Transition Plan and carries no external assurance statement; assurance, if any, sits in AIB's separate annual financial report."
+    },
+    "consistency": {
+      "quote": "This Climate Transition Plan looks to bring [transition planning together]",
+      "page": 2,
+      "value": "transition plan; green-lending progress reported",
+      "rating": "LOW",
+      "reasoning": "Dedicated transition plan with reported progress (35% of new lending green/transition); no contradiction surfaced."
+    }
+  }
+}

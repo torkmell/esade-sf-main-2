@@ -1,0 +1,64 @@
+{
+  "ticker": "GALE.SW",
+  "company_name": "Galenica AG",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"aim to achieve net zero emissions by 2050\" (3695.ar.en.2025.pdf, p65.0). SBTi: Committed. 8-Test: 4 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Main claim: \"aim to achieve net zero emissions by 2050\" (3695.ar.en.2025.pdf, p65). SBTi: Committed. 8-Test: 4 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Galenica is mid-transition: a net-zero-2050 commitment and a documented transition plan,...",
+  "dimensions": {
+    "specificity": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "MED",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "aim to achieve net zero emissions by 2050",
+      "page": 65.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

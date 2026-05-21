@@ -1,0 +1,64 @@
+{
+  "ticker": "AZN.L",
+  "company_name": "AstraZeneca PLC",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Main claim: \"the aim of achieving science-based net zero ... to achieve net zero by 2045\" (AstraZeneca_AR_2025.pdf, p9). SBTi: Targets set, 1.5\u00b0C near-term target (FY2030). 8-Test: 0 PARTIAL, 0 FAIL, 0 MISSING -> PASS. Pharma annual report. Strong climate disclosure \u2014 SBTi-verified Net-Zero-Standard targets, 98% near-term absolute target on a 2015 baseline, independent sustainability assurance. One MED (assurance level). NOTE: a 2025 China legal...",
+  "dimensions": {
+    "specificity": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "metric": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "baseline": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "target": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "time_horizon": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "scope": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "verification": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    },
+    "consistency": {
+      "quote": "the aim of achieving science-based net zero ... to achieve net zero by 2045",
+      "page": 9.0,
+      "value": "",
+      "rating": "LOW",
+      "reasoning": ""
+    }
+  }
+}

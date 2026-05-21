@@ -1,0 +1,64 @@
+{
+  "ticker": "EOAN.DE",
+  "company_name": "E.ON SE",
+  "extraction_date": "2026-05-21",
+  "analyst_note": "Utility/grid annual report. Strong climate disclosure \u2014 SBTi-validated near-term 2030 targets, climate neutrality by 2040 on a 2019 baseline, full scope coverage, lobbying disclosed. One MED (assurance level). (E.ON's high carbon intensity reflects its sector; the 8-Test assesses claim quality, which is robust.)",
+  "dimensions": {
+    "specificity": {
+      "quote": "reduce our own carbon emissions and aim to achieve climate neutrality by 2040",
+      "page": 6,
+      "value": "climate neutrality by 2040",
+      "rating": "LOW",
+      "reasoning": "Specific climate-neutrality commitment with a defined year and a 'Path to Climate Neutrality'."
+    },
+    "metric": {
+      "quote": "Scope 1 + 2 total (location-based) 5.21 5.64 -8%",
+      "page": 142,
+      "value": "quantified emissions + 2030 targets",
+      "rating": "LOW",
+      "reasoning": "Emissions quantified and reported year-on-year against 2030 targets."
+    },
+    "baseline": {
+      "quote": "Scope 1, 2, and 3 emissions relative to a 2019 baseline",
+      "page": 92,
+      "value": "2019",
+      "rating": "LOW",
+      "reasoning": "Explicit 2019 base year covering all scopes."
+    },
+    "target": {
+      "quote": "In 2022 the Science Based Target initiative ('SBTi') validated that E.ON's current near-term 2030 climate targets are consistent with the Paris Agreement's 1.5C target",
+      "page": 97,
+      "value": "SBTi-validated 2030 targets",
+      "rating": "LOW",
+      "reasoning": "Near-term 2030 targets validated by the SBTi as 1.5C-consistent."
+    },
+    "time_horizon": {
+      "quote": "aim to achieve climate neutrality by 2040",
+      "page": 6,
+      "value": "2030 + 2040",
+      "rating": "LOW",
+      "reasoning": "SBTi-validated near-term 2030 targets present alongside the 2040 endpoint."
+    },
+    "scope": {
+      "quote": "covers Scope 1, 2, and 3",
+      "page": 92,
+      "value": "S1+2+3",
+      "rating": "LOW",
+      "reasoning": "Group-wide climate targets cover Scopes 1, 2 and 3 by business unit."
+    },
+    "verification": {
+      "quote": "Assurance Report in Relation to the [sustainability disclosures]",
+      "page": 2,
+      "value": "external assurance",
+      "rating": "MED",
+      "reasoning": "An assurance report on the sustainability disclosures is provided; the assurance level is not crisply stated in the extract."
+    },
+    "consistency": {
+      "quote": "public lobbying. The information is shared in-house",
+      "page": 90,
+      "value": "transition plan; lobbying disclosed",
+      "rating": "LOW",
+      "reasoning": "Documented transition plan; trade-association and lobbying activity disclosed; network-focused capex aligns with the transition."
+    }
+  }
+}
