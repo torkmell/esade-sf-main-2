@@ -29,7 +29,7 @@ This is an academic prototype — not a regulated investment product or financia
 | 03 | Data Quality | `notebooks/03_data_quality.ipynb` | Missing-value audit, outlier detection, data dictionary, taxonomy note |
 | 06 | Document Intelligence | `notebooks/06_document_intelligence.ipynb` | Imports Claude Projects RAG extractions from sustainability report PDFs (in `data/rag/reports/{COMPANY}/company_reports/` and `external_evidence/`) |
 | 10 | Financial Analysis | `notebooks/agent10_financial_analysis.ipynb` | Computes M-01 to M-04 fundamental quality metrics + price-based returns/volatility/Sharpe/drawdown. Produces `composite_financial_score` used in portfolio ranking. |
-| 05 | ESG & Climate | `notebooks/05_esg_climate.ipynb` | SASB materiality weights, E/S/G scores (0–100), ESG triangulation, WACI. Step 7 reads FactSet specialist workbook. |
+| 05 | ESG & Climate | `notebooks/05_esg_climate.ipynb` | In-house ESG score (E/S/G + composite) and WACI. **Step 7 is authoritative** — imports the ESG specialist workbook (10 indicators, sector-relative ±3σ z-scores, SASB-weighted pillars, 50/20/30 composite, percentile rank → `ESG_score`). Steps 0–6 are an earlier, superseded min-max method. See `outputs/reports/esg_methodology_note_*.docx`. |
 | 07 | Biodiversity | `notebooks/07_biodiversity.ipynb` | Nature-risk proxy scores (ENCORE + WRI Aqueduct) per company |
 | 08 | EU Regulation | `notebooks/08_eu_regulation.ipynb` | EU Taxonomy eligibility, SFDR Article 8 compliance, PAI indicators |
 | | RAG Operator (manual) | `data/rag/RAG_Screening_Sheet_Workbook_v1.xlsx` | Fill in greenwashing 8-Test for the portfolio holdings; Agent 09 reads this file |

@@ -21,7 +21,10 @@ TODAY = str(date.today())
 # ── Load data ──────────────────────────────────────────────────────────────────
 fp = pd.read_csv(sorted(glob.glob("outputs/portfolio/final_portfolio_*.csv"))[-1])
 gw = pd.read_csv(sorted(glob.glob("outputs/scores/greenwashing_scores_*.csv"))[-1])
-uni_files = sorted(glob.glob("outputs/portfolio/universe_scores_*.csv"), key=os.path.getsize)
+# Pick the universe file by date (latest), NOT by size — the largest file on
+# disk is a stale intermediate with unscored 0-filled rows that drag the mean
+# down. The latest file is the capped-40 universe, consistent with the report.
+uni_files = sorted(glob.glob("outputs/portfolio/universe_scores_*.csv"))
 uni = pd.read_csv(uni_files[-1]) if uni_files else None
 bt_path = "Optimization_module/outputs/backtest_results.csv"
 bt = pd.read_csv(bt_path) if os.path.exists(bt_path) else None
@@ -184,6 +187,41 @@ def esg_compare():
     return ('<div class="esg-chart">' + "".join(parts) + '</div>'
             '<div class="legend"><span class="lg u"></span>Capped-40 universe'
             '&nbsp;&nbsp;<span class="lg p"></span>Final portfolio (weighted)</div>')
+
+def esg_method():
+    steps = [
+        ("1", "Ten indicators", "4 E &middot; 3 S &middot; 3 G, Bloomberg "
+         "primary &mdash; carbon intensity, Scope-3 disclosure, water, "
+         "renewables; workforce gender, injury rate, human-rights policy; "
+         "board independence, board gender, ESG-linked pay."),
+        ("2", "Sector-relative z-score", "Each indicator winsorised at "
+         "&plusmn;3&sigma;, then z-scored within the company's own sector "
+         "(&ge;10 names) or across the universe for smaller sectors."),
+        ("3", "SASB-weighted pillar z", "Indicators aggregated into E, S and G "
+         "pillar z-scores &mdash; each sector carries its own indicator "
+         "weights from the SASB Materiality Map."),
+        ("4", "Cross-pillar composite", "in-house ESG z = 0.50&middot;E + "
+         "0.20&middot;S + 0.30&middot;G (methodology v1.1)."),
+        ("5", "Percentile rank", "The composite z is ranked across the 224 "
+         "scored companies &mdash; that 0&ndash;100 percentile is the ESG "
+         "score used in selection."),
+    ]
+    rows = "".join(
+        '<div style="display:flex;gap:12px;margin:9px 0">'
+        '<div style="flex:0 0 28px;height:28px;border-radius:50%;'
+        'background:#1F4E78;color:#fff;font-weight:700;font-size:14px;'
+        'display:flex;align-items:center;justify-content:center">' + n + '</div>'
+        '<div><div style="font-weight:700">' + t + '</div>'
+        '<div style="color:#555;font-size:12.5px;line-height:1.45">' + d +
+        '</div></div></div>' for n, t, d in steps)
+    ex = ('<div style="background:#EAF0F6;border-radius:8px;padding:11px 14px;'
+          'margin-top:10px;font-size:13px"><b>Worked example &mdash; Alfa '
+          'Laval AB</b><br>E pillar z +1.41 &nbsp;&middot;&nbsp; S pillar z '
+          '&minus;0.37 &nbsp;&middot;&nbsp; G pillar z +0.05<br>'
+          '0.50&times;1.41 + 0.20&times;(&minus;0.37) + 0.30&times;0.05 = '
+          '<b>+0.65 in-house z</b> &nbsp;&rarr;&nbsp; <b>99.6th percentile'
+          '</b></div>')
+    return rows + ex
 
 DIMS = [("specificity","Specificity"),("metric","Metric"),("baseline","Baseline"),
         ("target","Target"),("time_horizon","Time horizon"),("scope","Scope"),
@@ -523,6 +561,11 @@ esg_sec = f"""<div class="wrap">
 composite would let one mask failure in another.</p>
 <div class="panel"><h3>Portfolio vs universe &mdash; E / S / G / aggregate</h3>
 {esg_compare()}</div>
+<div class="panel"><h3>How the in-house ESG score is built</h3>
+{esg_method()}
+<p class="note">Computed by the ESG specialist's FactSet / Bloomberg screening
+workbook (Portfolio_Screening_Output.xlsx). Steps 3&ndash;5 reproduce exactly
+in the pipeline; steps 1&ndash;2 draw on the specialist's indicator data.</p></div>
 <div class="two">
 <div class="panel"><h3>Carbon &mdash; WACI</h3>
 {metric_cards([(f"{waci:.0f}","tCO2e/$M revenue","weighted carbon intensity"),
