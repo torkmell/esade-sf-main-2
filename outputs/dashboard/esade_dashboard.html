@@ -106,7 +106,7 @@ footer{background:#0f2942;color:#9fb2c2;font-size:11.5px;padding:16px 0;text-ali
 <div class="sub">AI-agent research pipeline for sustainable portfolio
 construction &middot; ESADE MSc Finance &middot; IC presentation companion</div>
 <div class="disc">Academic prototype &mdash; not a regulated product or investment
-advice. Data vintage 2026-05-22.</div>
+advice. Data vintage 2026-05-27.</div>
 </div></header>
 <nav><div class="wrap"><button class="tab active" onclick="show('problem',this)">The Problem</button><button class="tab" onclick="show('solution',this)">The Solution</button><button class="tab" onclick="show('pipeline',this)">The Pipeline</button><button class="tab" onclick="show('portfolio',this)">Portfolio</button><button class="tab" onclick="show('financials',this)">Financials</button><button class="tab" onclick="show('esg',this)">ESG &amp; Climate</button><button class="tab" onclick="show('gw',this)">Greenwashing 8-Test</button><button class="tab" onclick="show('rec',this)">Oversight &amp; Recommendation</button></div></nav>
 <section id="problem" class="active"><div class="wrap">
@@ -122,7 +122,7 @@ consistency. That is the problem this project solves.</p>
 </div></section><section id="solution" class=""><div class="wrap">
 <h2>ESADE Sustainable European Equity Fund</h2>
 <p class="lead">We construct a concentrated long-only European equity portfolio of 15–25 holdings by integrating fundamental financial quality with best-in-class ESG credentials, verified against EU Taxonomy alignment and independently screened for greenwashing. We believe companies with credible sustainability commitments carry lower regulatory, reputational, and transition risk over a 5-year horizon. All exclusions and overrides are documented, creating an auditable process that can withstand scrutiny under SFDR Article 8 principles.</p>
-<div class="cards"><div class="card"><div class="card-big">20</div><div class="card-label">Holdings</div><div class="card-sub">long-only European equities</div></div><div class="card"><div class="card-big">7</div><div class="card-label">Sectors</div><div class="card-sub">largest 23.7% (cap 25%)</div></div><div class="card"><div class="card-big">83.1</div><div class="card-label">Weighted ESG</div><div class="card-sub">vs 79.3 universe (+3.8)</div></div><div class="card"><div class="card-big">0.63</div><div class="card-label">Weighted Sharpe</div><div class="card-sub">5y, holdings-weighted</div></div><div class="card"><div class="card-big">156</div><div class="card-label">WACI tCO2e/$M</div><div class="card-sub">weighted carbon intensity</div></div><div class="card"><div class="card-big">20/20</div><div class="card-label">Greenwashing PASS</div><div class="card-sub">8-Test, 0 excluded</div></div></div>
+<div class="cards"><div class="card"><div class="card-big">20</div><div class="card-label">Holdings</div><div class="card-sub">long-only European equities</div></div><div class="card"><div class="card-big">7</div><div class="card-label">Sectors</div><div class="card-sub">largest 23.7% (cap 25%)</div></div><div class="card"><div class="card-big">83.1</div><div class="card-label">Weighted ESG</div><div class="card-sub">vs 79.3 universe (+3.8)</div></div><div class="card"><div class="card-big">0.63</div><div class="card-label">Weighted Sharpe</div><div class="card-sub">5y, holdings-weighted</div></div><div class="card"><div class="card-big">80</div><div class="card-label">WACI tCO2e/$M</div><div class="card-sub">weighted carbon intensity</div></div><div class="card"><div class="card-big">20/20</div><div class="card-label">Greenwashing PASS</div><div class="card-sub">8-Test, 0 excluded</div></div></div>
 <h3>ESG embedded at three independent stages</h3>
 <div class="three"><div class="panel"><div class="stage-tag">1 · Pre-filter</div><h3 style="margin-top:6px">Universe definition</h3><p class="lead">STOXX Europe 600 screened to a 289-company European universe; controversial-activity exclusions applied.</p></div><div class="panel"><div class="stage-tag">2 · Gate</div><h3 style="margin-top:6px">Triangulated ESG screen</h3><p class="lead">ISS, Sustainalytics and Truvalue triangulated against the fund's own standards — 2 of 3 vendors bottom-tier = fail. No single rating decides. &rarr; 224 eligible &rarr; sector-capped Top 40.</p></div><div class="panel"><div class="stage-tag">3 · Score</div><h3 style="margin-top:6px">Weighted selection</h3><p class="lead">Composite = 60% financial quality + 40% ESG. Hard financial screen, max-5-per-sector cap and a 0.90 correlation guard &rarr; final 20.</p></div></div>
 <h3>From universe to portfolio</h3>
@@ -181,7 +181,7 @@ workbook (Portfolio_Screening_Output.xlsx). Steps 3&ndash;5 reproduce exactly
 in the pipeline; steps 1&ndash;2 draw on the specialist's indicator data.</p></div>
 <div class="two">
 <div class="panel"><h3>Carbon &mdash; WACI</h3>
-<div class="cards"><div class="card"><div class="card-big">156</div><div class="card-label">tCO2e/$M revenue</div><div class="card-sub">weighted carbon intensity</div></div><div class="card"><div class="card-big">~62%</div><div class="card-label">driven by one name</div><div class="card-sub">Norsk Hydro; ex-Norsk Hydro WACI &amp;asymp; 62</div></div></div>
+<div class="cards"><div class="card"><div class="card-big">80</div><div class="card-label">tCO2e/$M revenue</div><div class="card-sub">weighted carbon intensity</div></div><div class="card"><div class="card-big">~26%</div><div class="card-label">Norsk Hydro share</div><div class="card-sub">reported Sc1+2 (2024 ESRS) substituted for the imputed sector median</div></div></div>
 <p class="note">18 of 20 holdings use sector-median imputed carbon intensity; the
 Financials-sector WACI excludes PCAF Scope&nbsp;3 financed emissions &mdash; a
 disclosed limitation.</p></div>
@@ -234,7 +234,7 @@ SFDR compliance, alpha, or perfect ESG measurement.</div>
 in standard. Academic prototype &mdash; not investment advice.</p>
 </div></section>
 <footer>ESADE Sustainable Finance &mdash; final group assignment &middot;
-self-contained dashboard, generated 2026-05-22 from outputs/</footer>
+self-contained dashboard, generated 2026-05-27 from outputs/</footer>
 <script>
 function show(id,btn){
  document.querySelectorAll('section').forEach(s=>s.classList.remove('active'));

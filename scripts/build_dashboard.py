@@ -569,7 +569,7 @@ in the pipeline; steps 1&ndash;2 draw on the specialist's indicator data.</p></d
 <div class="two">
 <div class="panel"><h3>Carbon &mdash; WACI</h3>
 {metric_cards([(f"{waci:.0f}","tCO2e/$M revenue","weighted carbon intensity"),
- ("~62%","driven by one name","Norsk Hydro; ex-Norsk Hydro WACI &asymp; 62")])}
+ ("~26%","Norsk Hydro share","reported Sc1+2 (2024 ESRS) substituted for the imputed sector median")])}
 <p class="note">18 of 20 holdings use sector-median imputed carbon intensity; the
 Financials-sector WACI excludes PCAF Scope&nbsp;3 financed emissions &mdash; a
 disclosed limitation.</p></div>
