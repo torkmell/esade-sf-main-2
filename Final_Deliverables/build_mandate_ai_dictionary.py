@@ -221,18 +221,22 @@ make_table(
 add_heading(doc, "Composite Score Construction", level=2)
 add_body(doc,
     "Each candidate stock receives a composite score on a 0–100 scale. "
-    "The score merges two components: ESG quality and financial efficiency. "
-    "Weights reflect the fund's sustainability-first mandate.",
+    "The score merges two components: financial efficiency and ESG quality. "
+    "The fund's sustainability-first mandate is enforced primarily through binding "
+    "constraints — hard exclusions, the ESG quality floor, and the greenwashing screen — "
+    "which a stock must clear before the composite score is even applied. Within the "
+    "scored universe, the composite then balances risk-adjusted financial efficiency (60%) "
+    "with ESG quality (40%).",
     space_after=6)
 
 make_table(
     doc,
     headers=["Component", "Weight", "Sub-components"],
     rows=[
-        ("ESG Score",       "60%", "Environmental 40% · Social 30% · Governance 30%"),
-        ("Financial Score", "40%", "Sharpe ratio score · Biodiversity score inverse · EU Taxonomy eligibility"),
+        ("Financial Score (fin_score)", "60%", "Equal-weighted average of Sharpe score, volatility score, max-drawdown score, and beta score"),
+        ("ESG Score",                   "40%", "Sector-weighted Environmental · Social · Governance pillars (SASB materiality — see table below)"),
     ],
-    col_widths_cm=[4, 2.5, 10.5],
+    col_widths_cm=[4.5, 2.5, 10],
 )
 
 add_heading(doc, "ESG Pillar Weights by SASB Sector", level=2)
@@ -420,7 +424,7 @@ for item in [
     "EU Taxonomy reported alignment data is sparse (8 of 167 companies); EU Taxonomy eligibility is used as a proxy and must not be conflated with confirmed alignment",
     "Market data is sourced from Yahoo Finance adjusted closing prices, which may differ from Bloomberg terminal data used in professional settings",
     "AI extraction quality depends on the text layer quality of source PDFs; scanned documents without OCR may produce lower-quality extractions",
-    "Beta estimates are currently unavailable due to a STOXX 600 benchmark ticker download failure; portfolio market sensitivity cannot be reported",
+    "Beta is estimated against the STOXX Europe 600 over the 2020–2025 window; like all single-factor betas it is sensitive to the chosen window and benchmark proxy",
     "The investable universe is the top 170 STOXX Europe 600 constituents by 10-year total return, which introduces survivorship bias and look-ahead bias — disclosed as a known limitation in the methodology",
 ]:
     add_bullet(doc, item)
@@ -505,9 +509,10 @@ make_table(
     col_widths_cm=[3.5, 5.8, 2.5, 3, 2.3, 1.9],
 )
 add_body(doc,
-    "Note: 18 of 20 portfolio holdings use sector-median imputation for carbon_intensity "
-    "due to absent Bloomberg direct data. WACI should be treated as an order-of-magnitude "
-    "estimate. Confidence improves once primary-source Scope 1+2 data are obtained.",
+    "Note: 17 of 20 portfolio holdings use sector-median imputation for carbon_intensity "
+    "due to absent Bloomberg direct data; 2 use a direct Bloomberg calculation and 1 a "
+    "reported-source override. WACI should be treated as an order-of-magnitude estimate. "
+    "Confidence improves once primary-source Scope 1+2 data are obtained.",
     italic=True, space_after=10)
 
 # ── 3.4 financial ──────────────────────────────────────────────────────────────
@@ -523,8 +528,9 @@ make_table(
         ("roe_pct",            "Return on Equity as reported in Bloomberg financial data",                                     "%",          "Bloomberg",             "Reported",   "Medium"),
         ("debt_to_equity",     "Total debt divided by total equity (balance sheet ratio)",                                     "Ratio",      "Bloomberg",             "Reported",   "Medium"),
         ("revenue_growth_pct", "Most recent annual revenue growth rate",                                                       "%",          "Bloomberg",             "Reported",   "Medium"),
-        ("beta",               "Market beta vs STOXX Europe 600. Currently all NaN — benchmark download failure.",            "Dimensionless","yfinance (failed)",    "Observed",   "N/A"),
+        ("beta",               "Market beta vs STOXX Europe 600, estimated by regression of daily returns over the observation window.", "Dimensionless","yfinance + STOXX 600", "Observed",   "Medium"),
         ("sharpe_score",       "Sharpe ratio normalised to 0–100 scale by percentile rank within the scored universe",        "0–100",      "Pipeline calculation",  "Estimated",  "High"),
+        ("fin_score",          "Composite financial score: equal-weighted average of the Sharpe, volatility, max-drawdown, and beta sub-scores. Carries 60% weight in the composite.", "0–100", "Pipeline calculation", "Estimated", "High"),
     ],
     col_widths_cm=[3.8, 5.5, 2.5, 2.7, 2.5, 2],
 )
@@ -546,8 +552,9 @@ make_table(
 add_body(doc,
     "Note: All biodiversity scores are sector-level proxies. Company-level TNFD disclosures "
     "are not yet available for this universe. Scores should be interpreted as directional "
-    "indicators only. All 20 portfolio holdings are in the Low nature-risk tier except "
-    "Diploma PLC and VAT Group (both Medium).",
+    "indicators only. Of the 20 portfolio holdings, 14 sit in the Low nature-risk tier, "
+    "5 are Medium (Swiss Prime Site, ABB, Klépierre, MERLIN Properties, Alfa Laval), and "
+    "1 is High (E.ON).",
     italic=True, space_after=10)
 
 # ── 3.6 eu taxonomy ────────────────────────────────────────────────────────────
@@ -580,16 +587,18 @@ make_table(
     doc,
     headers=["Variable", "Definition", "Unit / Range", "Source", "Classification", "Confidence"],
     rows=[
-        ("gw_exclude",    "Hard exclusion flag from greenwashing 8-Test: True if company scores HIGH on three or more of the eight dimensions", "True / False", "Claude Projects RAG + human verification", "AI-extracted + Judgement-based", "Pending"),
-        ("gw_watchlist",  "Watchlist flag from greenwashing 8-Test: True if company scores HIGH on exactly two dimensions",                    "True / False", "Claude Projects RAG + human verification", "AI-extracted + Judgement-based", "Pending"),
+        ("gw_high_count", "Number of the eight dimensions scored HIGH for the company",                                              "Integer 0–8",  "Claude Projects RAG + human verification", "AI-extracted + Judgement-based", "High"),
+        ("gw_exclude",    "Hard exclusion flag from greenwashing 8-Test: True if company scores HIGH on three or more of the eight dimensions", "True / False", "Claude Projects RAG + human verification", "AI-extracted + Judgement-based", "High"),
+        ("gw_watchlist",  "Watchlist flag from greenwashing 8-Test: True if company scores HIGH on exactly two dimensions",                    "True / False", "Claude Projects RAG + human verification", "AI-extracted + Judgement-based", "High"),
     ],
     col_widths_cm=[3.5, 6, 2, 3, 3, 1.5],
 )
 add_body(doc,
-    "Note: All greenwashing flags are currently set to False (not yet screened). The RAG "
-    "Operator must complete the 8-Test for all 20 portfolio holdings before the greenwashing "
-    "agent (notebook 09) can run. Portfolio weights may shift by 1–3 holdings once "
-    "screening is complete.",
+    "Note: The greenwashing 8-Test has been completed for all 20 portfolio holdings "
+    "(extraction vintage 2026-05-21). Every holding scored PASS — no holding registered "
+    "HIGH on three or more dimensions — so gw_exclude and gw_watchlist are False across the "
+    "portfolio. Per-dimension ratings, verbatim quotes, and page numbers are retained in the "
+    "RAG output files (greenwash_*.json) and the 8-Test report.",
     italic=True, space_after=10)
 
 # ── 3.8 portfolio construction ────────────────────────────────────────────────
@@ -598,10 +607,10 @@ make_table(
     doc,
     headers=["Variable", "Definition", "Unit / Range", "Source", "Classification", "Confidence"],
     rows=[
-        ("composite_score",  "Final ranking score: (ESG_score × 0.40) + (composite_financial_score × 0.60). Scale normalised to 0–100.", "0–100", "Pipeline calculation", "Estimated", "Medium"),
+        ("composite_score",  "Final ranking score: (fin_score × 0.60) + (ESG_score × 0.40). Scale normalised to 0–100.", "0–100", "Pipeline calculation", "Estimated", "Medium"),
         ("rank",             "Rank within the post-exclusion universe by composite_score (1 = highest score)",                                                            "Integer 1–N", "Pipeline calculation", "Estimated", "High"),
-        ("weight_raw",       "Raw portfolio weight before rounding: 1/N where N = number of eligible holdings above composite floor",                                     "Decimal 0–1", "Pipeline calculation", "Estimated", "High"),
-        ("weight",           "Final portfolio weight, rounded to 4 decimal places. Weights sum to 1.0. No single weight exceeds 0.10.",                                  "Decimal 0–1", "Pipeline calculation", "Estimated", "High"),
+        ("weight_raw",       "Raw portfolio weight before capping: composite_score / sum(composite_score) across selected holdings (composite-proportional)",          "Decimal 0–1", "Pipeline calculation", "Estimated", "High"),
+        ("weight",           "Final portfolio weight after the 10% single-name cap, rounded to 4 decimal places. Weights sum to 1.0; in the current run they range 0.042–0.062.", "Decimal 0–1", "Pipeline calculation", "Estimated", "High"),
     ],
     col_widths_cm=[3.5, 6.5, 2.3, 2.7, 2.3, 1.7],
 )
